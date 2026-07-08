@@ -23,26 +23,6 @@ export default function Footer() {
                 {t('brandSubtitle')}
               </p>
             </div>
-            <h3 className="font-display text-lg font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
-              {t('officialResourcesTitle')}
-            </h3>
-            <div className="flex flex-col gap-2">
-              <a href="https://akt.gov.al/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {officialLinks.akt || 'National Tourism Agency of Albania (AKT)'}
-              </a>
-              <a href="https://iktk.gov.al/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {officialLinks.iktk || 'National Institute of Cultural Heritage (IKTK)'}
-              </a>
-              <a href="https://arkiva.gov.al/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {officialLinks.arkiva || 'General Directorate of Archives'}
-              </a>
-              <a href="https://asig.gov.al/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {officialLinks.asig || 'State Authority for Geospatial Information (ASIG)'}
-              </a>
-              <a href="https://punetejashtme.gov.al/en/regjimi-i-vizave-per-te-huajt/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {officialLinks.visa || 'Ministry for Europe and Foreign Affairs - Visa Regime'}
-              </a>
-            </div>
           </div>
           <div className="flex flex-wrap gap-4 text-sm mt-4 sm:mt-0">
             <a href={`${prefix}/privacy-policy`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">

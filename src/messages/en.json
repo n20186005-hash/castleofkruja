@@ -21,7 +21,7 @@
   },
   "intro": {
     "title": "Discover the Castle of Kruja",
-    "description": "The Castle of Kruja (Kalaja e Krujës) is a historic castle in the city of Krujë, Albania. It was the center of Skanderbeg's rebellion against the Ottoman Empire. The castle houses the Skanderbeg Museum, the National Ethnographic Museum, and the remains of the Fatih Sultan Mehmed mosque, offering visitors a deep dive into Albanian history.",
+    "description": "Between the breezes of the Adriatic Sea and the rugged mountains of the Balkans, the Castle of Kruja (Kalaja e Krujës) is not just a medieval fortress, but the 'Shield of Europe' that held back the Ottoman Empire's cavalry for a quarter of a century. The castle houses the Skanderbeg Museum, the National Ethnographic Museum, and the remains of the Fatih Sultan Mehmed mosque, offering visitors a deep dive into Albanian history.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
@@ -160,9 +160,11 @@
     "telephone": "Contact Phone",
     "telephoneValue": "N/A",
     "accessibility": "Accessibility",
-    "accessibilityValue": "Limited due to cobblestones",
+    "accessibilityValue": "Gentle reminder: The ancient cobblestone pathways leading to the castle retain their medieval character, featuring uneven surfaces and steep inclines. Wheelchair users or visitors with limited mobility may require assistance, and advance route planning is recommended.",
     "plusCode": "Plus Code",
-    "plusCodeValue": "GQ4V+WQ Krujë, Albania"
+    "plusCodeValue": "GQ4V+WQ Krujë, Albania",
+    "sunsetTip": "Sunset Tip",
+    "sunsetTipValue": "It is recommended to arrive around 18:30. The light for photographing the Adriatic sunset from the castle walls is best at this time."
   },
   "hours": {
     "title": "Visiting Hours",
@@ -183,10 +185,26 @@
   "tickets": {
     "title": "Admission & Tickets",
     "intro": "The castle grounds are free to enter. The museums inside charge an official admission fee set by Albania's Ministry of Culture, payable at the on-site ticket office.",
-    "grounds": { "name": "Castle Grounds", "price": "Free", "desc": "Open to the public at no charge; wander the courtyards, walls and the Old Bazaar." },
-    "skanderbeg": { "name": "Skanderbeg Museum", "price": "500 ALL", "desc": "≈ €5 per adult · 200 ALL (≈ €2) for students and children" },
-    "ethnographic": { "name": "National Ethnographic Museum", "price": "300 ALL", "desc": "≈ €3 per person" },
-    "parking": { "name": "Parking", "price": "Paid", "desc": "Several paid lots near the castle entrance and in the town centre." },
+    "grounds": {
+      "name": "Castle Grounds",
+      "price": "Free",
+      "desc": "Open to the public at no charge; wander the courtyards, walls and the Old Bazaar."
+    },
+    "skanderbeg": {
+      "name": "Skanderbeg Museum",
+      "price": "500 ALL",
+      "desc": "≈ €5 per adult · 200 ALL (≈ €2) for students and children"
+    },
+    "ethnographic": {
+      "name": "National Ethnographic Museum",
+      "price": "300 ALL",
+      "desc": "≈ €3 per person"
+    },
+    "parking": {
+      "name": "Parking",
+      "price": "Paid",
+      "desc": "Several paid lots near the castle entrance and in the town centre."
+    },
     "note": "Official prices are indicative and may be adjusted periodically by the managing authority — please confirm at the ticket office on the day of your visit."
   },
   "transport": {
@@ -374,5 +392,62 @@
       "description": "Used for cross-site tracking and delivering personalized ads."
     },
     "save": "Save Settings"
+  },
+  "toc": {
+    "title": "Table of Contents",
+    "tickets": "Tickets & Hours",
+    "history": "Legends & History",
+    "architecture": "Architecture",
+    "transport": "How to Get Here",
+    "reviews": "Visitor Reviews"
+  },
+  "legends": {
+    "title": "Legends & Myths",
+    "subtitle": "The fascinating stories hidden behind the ancient walls",
+    "items": [
+      {
+        "title": "Skanderbeg's Horned Helmet",
+        "content": "Gjergj Kastrioti Skanderbeg's iconic goat-horned helmet was not merely decorative. Legend has it that while trapped in the mountains, a goat guided him to safety. This imagery has become a totem of the Albanian national spirit."
+      },
+      {
+        "title": "The Hidden Water Tunnel",
+        "content": "During multiple prolonged sieges by the Ottoman Empire, the castle survived thanks to a secret underground water channel. In the famous siege of 1450, the Ottoman army desperately searched for this water source to no avail."
+      },
+      {
+        "title": "Sari Salltik & Mysticism",
+        "content": "On the Kruja mountain above the castle, legends of the Sufi saint Sari Salltik abound. These mystical elements associated with the Bektashi Order add a profound religious and cultural mystique to the site."
+      }
+    ]
+  },
+  "architecture": {
+    "title": "Architecture & Archaeology",
+    "subtitle": "The defensive brilliance of a medieval stronghold",
+    "items": [
+      {
+        "title": "Defensive Wall Mechanisms",
+        "content": "Built into the mountainous terrain, the castle features semi-circular bastions and carefully positioned loopholes, explaining why Ottoman armies were consistently thwarted by these walls."
+      },
+      {
+        "title": "Fatih Sultan Mehmed Mosque Ruins",
+        "content": "The mosque ruins within the castle bear witness to the transition of religion and power from the Byzantine to the Ottoman era, serving as a microcosm of the Balkans' complex history."
+      },
+      {
+        "title": "Historical Documentation",
+        "content": "16th-century historian Marin Barleti vividly recorded the brutality and resilience of the sieges of Kruja. His classical texts remain authoritative sources for studying the castle's history."
+      }
+    ]
+  },
+  "surroundings": {
+    "title": "Explore the Old Bazaar & Surroundings",
+    "subtitle": "Experience authentic local life",
+    "content": "While visiting the castle, take time to explore the historic Old Bazaar of Kruja, with its traditional wooden architecture and cobblestone streets. You will find numerous restaurants offering traditional Albanian cuisine around the bazaar and town center. As a non-profit educational platform, we do not recommend specific commercial establishments, but we highly encourage you to try local specialties like Tavë Dheu to experience authentic Balkan flavors."
+  },
+  "references": {
+    "title": "References",
+    "items": [
+      "Barleti, Marin. (1508). Historia de vita et gestis Scanderbegi Epirotarum principis.",
+      "Albanian Institute of Archaeology. Historical records on the fortification of Krujë.",
+      "Ministry of Culture of Albania. National Cultural Heritage Register."
+    ]
   }
 }

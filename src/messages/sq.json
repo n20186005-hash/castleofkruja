@@ -21,7 +21,7 @@
   },
   "intro": {
     "title": "Zbuloni Kalanë e Krujës",
-    "description": "Kalaja e Krujës është një kala historike në qytetin e Krujës, Shqipëri. Ajo ishte qendra e rebelimit të Skënderbeut kundër Perandorisë Osmane. Kalaja strehon Muzeun e Skënderbeut, Muzeun Kombëtar Etnografik dhe mbetjet e xhamisë së Sulltan Mehmetit Fatih, duke u ofruar vizitorëve një zhytje të thellë në historinë shqiptare.",
+    "description": "Midis flladeve të detit Adriatik dhe maleve të thepisura të Ballkanit, Kalaja e Krujës nuk është thjesht një fortesë mesjetare, por 'Mburoja e Evropës' që ndali ushtrinë e Perandorisë Osmane për një çerek shekulli. Kalaja strehon Muzeun e Skënderbeut, Muzeun Kombëtar Etnografik dhe mbetjet e xhamisë së Sulltan Mehmetit Fatih, duke u ofruar vizitorëve një zhytje të thellë në historinë shqiptare.",
     "visitGuide": {
       "title": "Këshilla për Vizitën",
       "items": [
@@ -160,9 +160,11 @@
     "telephone": "Telefoni i Kontaktit",
     "telephoneValue": "N/A",
     "accessibility": "Aksesueshmëria",
-    "accessibilityValue": "E kufizuar për shkak të kalldrëmeve",
+    "accessibilityValue": "Këshillë: Rrugët e lashta me kalldrëm që të çojnë në kështjellë ruajnë karakterin e tyre mesjetar, me sipërfaqe të pabarabarta dhe pjerrësi. Përdoruesit e karrigeve me rrota ose vizitorët me lëvizshmëri të kufizuar mund të kenë nevojë për ndihmë; rekomandohet planifikimi paraprak.",
     "plusCode": "Kodi Plus",
-    "plusCodeValue": "GQ4V+WQ Krujë, Shqipëria"
+    "plusCodeValue": "GQ4V+WQ Krujë, Shqipëria",
+    "sunsetTip": "Këshillë për Perëndimin e Diellit",
+    "sunsetTipValue": "Rekomandohet të mbërrini rreth orës 18:30. Drita për të fotografuar perëndimin e diellit mbi detin Adriatik nga muret e kështjellës është më e mira në këtë kohë."
   },
   "hours": {
     "title": "Oraret e Vizitave",
@@ -183,10 +185,26 @@
   "tickets": {
     "title": "Hyrja & Biletat",
     "intro": "Ambjentet e kalasë janë falas për t'u hyrë. Muzetë brenda kanë një tarifë hyrjeje zyrtare të caktuar nga Ministria e Kulturës e Shqipërisë, e paguar në zyrën e biletave në vend.",
-    "grounds": { "name": "Ambjentet e Kalasë", "price": "Falas", "desc": "Të hapura për publikun pa pagesë; shëtiteni oborret, muret dhe Pazarin e Vjetër." },
-    "skanderbeg": { "name": "Muzeu i Skënderbeut", "price": "500 ALL", "desc": "≈ €5 për të rritur · 200 ALL (≈ €2) për studentë dhe fëmijë" },
-    "ethnographic": { "name": "Muzeu Kombëtar Etnografik", "price": "300 ALL", "desc": "≈ €3 për person" },
-    "parking": { "name": "Parkimi", "price": "Me pagesë", "desc": "Disa parkingje me pagesë pranë hyrjes së kalasë dhe në qendër të qytetit." },
+    "grounds": {
+      "name": "Ambjentet e Kalasë",
+      "price": "Falas",
+      "desc": "Të hapura për publikun pa pagesë; shëtiteni oborret, muret dhe Pazarin e Vjetër."
+    },
+    "skanderbeg": {
+      "name": "Muzeu i Skënderbeut",
+      "price": "500 ALL",
+      "desc": "≈ €5 për të rritur · 200 ALL (≈ €2) për studentë dhe fëmijë"
+    },
+    "ethnographic": {
+      "name": "Muzeu Kombëtar Etnografik",
+      "price": "300 ALL",
+      "desc": "≈ €3 për person"
+    },
+    "parking": {
+      "name": "Parkimi",
+      "price": "Me pagesë",
+      "desc": "Disa parkingje me pagesë pranë hyrjes së kalasë dhe në qendër të qytetit."
+    },
     "note": "Çmimet zyrtare janë orientuese dhe mund të rregullohen periodikisht nga autoriteti menaxhues — ju lutemi konfirmoni në zyrën e biletave ditën e vizitës."
   },
   "transport": {
@@ -374,5 +392,62 @@
       "description": "Përdoret për gjurmimin ndër-faqe dhe shpërndarjen e reklamave të personalizuara."
     },
     "save": "Ruaj Cilësimet"
+  },
+  "toc": {
+    "title": "Përmbajtja",
+    "tickets": "Biletat dhe Orari",
+    "history": "Legjendat dhe Historia",
+    "architecture": "Arkitektura",
+    "transport": "Si të arrini",
+    "reviews": "Vlerësimet"
+  },
+  "legends": {
+    "title": "Legjendat dhe Mitet",
+    "subtitle": "Tregime magjepsëse të fshehura pas mureve të lashta",
+    "items": [
+      {
+        "title": "Përkrenarja me brirë e Skënderbeut",
+        "content": "Përkrenarja ikonike e Gjergj Kastriot Skënderbeut nuk ishte thjesht dekorative. Legjenda thotë se ndërsa ishte i bllokuar në male, një dhi e udhëhoqi atë drejt shpëtimit. Ky imazh është bërë një totem i frymës kombëtare shqiptare."
+      },
+      {
+        "title": "Tuneli i fshehtë i ujit",
+        "content": "Gjatë rrethimeve të shumta nga Perandoria Osmane, kalaja mbijetoi falë një kanali të fshehtë uji nëntokësor. Në rrethimin e famshëm të vitit 1450, ushtria osmane kërkoi dëshpërimisht këtë burim uji, por pa sukses."
+      },
+      {
+        "title": "Sari Salltik dhe Misticizmi",
+        "content": "Në malin e Krujës mbi kala, gjenden legjenda të shumta për shenjtorin sufi Sari Salltik. Këto elemente mistike të lidhura me urdhrin Bektashi i shtojnë një mister të thellë fetar dhe kulturor këtij vendi."
+      }
+    ]
+  },
+  "architecture": {
+    "title": "Arkitektura dhe Arkeologjia",
+    "subtitle": "Gjenialiteti mbrojtës i një fortese mesjetare",
+    "items": [
+      {
+        "title": "Mekanizmat e Murit Mbrojtës",
+        "content": "E ndërtuar në terrenin malor, kështjella përmban bastione gjysmërrethore dhe frëngji të pozicionuara me kujdes, çka shpjegon pse ushtritë osmane pengoheshin vazhdimisht nga këto mure."
+      },
+      {
+        "title": "Rrënojat e Xhamisë së Sulltan Mehmetit Fatih",
+        "content": "Rrënojat e xhamisë brenda kalasë dëshmojnë tranzicionin e fesë dhe pushtetit nga epoka bizantine në atë osmane, duke shërbyer si një mikrokozmos i historisë komplekse të Ballkanit."
+      },
+      {
+        "title": "Dokumentimi Historik",
+        "content": "Historiani i shekullit të 16-të, Marin Barleti, regjistroi gjallërisht brutalitetin dhe qëndresën e rrethimeve të Krujës. Tekstet e tij klasike mbeten burime autoritare për studimin e historisë së kështjellës."
+      }
+    ]
+  },
+  "surroundings": {
+    "title": "Eksploroni Pazarin e Vjetër dhe Rrethinat",
+    "subtitle": "Përjetoni jetën autentike lokale",
+    "content": "Ndërsa vizitoni kështjellën, gjeni kohë për të eksploruar Pazarin e Vjetër historik të Krujës, me arkitekturën e tij tradicionale prej druri dhe rrugët me kalldrëm. Përreth pazarit dhe qendrës së qytetit do të gjeni restorante të shumta që ofrojnë kuzhinë tradicionale shqiptare. Si një platformë edukative jofitimprurëse, ne nuk rekomandojmë biznese specifike, por ju inkurajojmë fuqimisht të provoni specialitete lokale si Tavë Dheu për të përjetuar shijet autentike të Ballkanit."
+  },
+  "references": {
+    "title": "Referencat",
+    "items": [
+      "Barleti, Marin. (1508). Historia de vita et gestis Scanderbegi Epirotarum principis.",
+      "Instituti Shqiptar i Arkeologjisë. Të dhëna historike mbi fortifikimin e Krujës.",
+      "Ministria e Kulturës e Shqipërisë. Regjistri Kombëtar i Trashëgimisë Kulturore."
+    ]
   }
 }

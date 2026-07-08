@@ -14,6 +14,12 @@ import Reviews from '@/components/Reviews';
 import MapEmbed from '@/components/MapEmbed';
 import FAQSection from '@/components/FAQSection';
 import Footer from '@/components/Footer';
+import TableOfContents from '@/components/TableOfContents';
+import LegendsSection from '@/components/LegendsSection';
+import ArchitectureSection from '@/components/ArchitectureSection';
+import SurroundingsSection from '@/components/SurroundingsSection';
+import ReferencesSection from '@/components/ReferencesSection';
+import SchemaMarkup from '@/components/SchemaMarkup';
 
 export async function generateMetadata({
   params,
@@ -45,20 +51,26 @@ export default async function HomePage({
 
   return (
     <>
+      <SchemaMarkup />
       <Header />
+      <TableOfContents />
       <main>
         <Hero />
         <Intro />
         <BasicInfo />
-        <HoursSection />
         <TicketsSection />
-        <TransportSection />
-        <InfoSection />
+        <HoursSection />
+        <ArchitectureSection />
         <TimelineSection />
+        <LegendsSection />
+        <TransportSection />
+        <SurroundingsSection />
+        <InfoSection />
         <Gallery />
         <Reviews />
         <FAQSection />
         <MapEmbed />
+        <ReferencesSection />
       </main>
       <Footer />
     </>

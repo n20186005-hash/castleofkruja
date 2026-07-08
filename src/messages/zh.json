@@ -21,7 +21,7 @@
   },
   "intro": {
     "title": "探索克鲁亚城堡",
-    "description": "克鲁亚城堡 (Kalaja e Krujës) 位于阿尔巴尼亚克鲁亚市，是一座历史悠久的城堡。它曾是斯坎德培反抗奥斯曼帝国统治的中心。城堡内设有斯坎德培博物馆、国家民族学博物馆以及法提赫苏丹穆罕默德清真寺的遗迹，为游客提供深入了解阿尔巴尼亚历史的机会。",
+    "description": "在亚得里亚海的微风与巴尔干半岛的崇山峻岭之间，克鲁亚城堡（Kalaja e Krujës）不仅是一座中世纪要塞，更是阻挡奥斯曼帝国铁蹄长达四分之一世纪的“欧洲之盾”。城堡内设有斯坎德培博物馆、国家民族学博物馆以及法提赫苏丹穆罕默德清真寺的遗迹，为游客提供深入了解阿尔巴尼亚历史的机会。",
     "visitGuide": {
       "title": "游览建议",
       "items": [
@@ -160,9 +160,11 @@
     "telephone": "联系电话",
     "telephoneValue": "无",
     "accessibility": "无障碍设施",
-    "accessibilityValue": "由于鹅卵石路面，通行受限",
+    "accessibilityValue": "温馨提示：通往城堡的古老鹅卵石路面保留了中世纪的原貌，路面不平且坡度较大。轮椅使用者或行动不便的访客可能需要协助，建议提前规划路线。",
     "plusCode": "Plus Code",
-    "plusCodeValue": "GQ4V+WQ 克鲁亚 阿尔巴尼亚"
+    "plusCodeValue": "GQ4V+WQ 克鲁亚 阿尔巴尼亚",
+    "sunsetTip": "日落提示",
+    "sunsetTipValue": "建议在下午18:30左右抵达，此时在城堡墙头拍摄亚得里亚海日落光线最佳。"
   },
   "hours": {
     "title": "开放时间",
@@ -183,10 +185,26 @@
   "tickets": {
     "title": "门票与票价",
     "intro": "城堡庭院可免费进入。城堡内的博物馆由阿尔巴尼亚文化部统一定价收费，可在现场售票处购买。",
-    "grounds": { "name": "城堡庭院", "price": "免费", "desc": "对公众免费开放；可漫步于庭院、城墙与旧巴扎之间。" },
-    "skanderbeg": { "name": "斯坎德培博物馆", "price": "500列克", "desc": "成人约 €5 · 学生及儿童 200列克（约 €2）" },
-    "ethnographic": { "name": "国家民族学博物馆", "price": "300列克", "desc": "每人约 €3" },
-    "parking": { "name": "停车", "price": "收费", "desc": "城堡入口附近及镇中心设有多处收费停车场。" },
+    "grounds": {
+      "name": "城堡庭院",
+      "price": "免费",
+      "desc": "对公众免费开放；可漫步于庭院、城墙与旧巴扎之间。"
+    },
+    "skanderbeg": {
+      "name": "斯坎德培博物馆",
+      "price": "500列克",
+      "desc": "成人约 €5 · 学生及儿童 200列克（约 €2）"
+    },
+    "ethnographic": {
+      "name": "国家民族学博物馆",
+      "price": "300列克",
+      "desc": "每人约 €3"
+    },
+    "parking": {
+      "name": "停车",
+      "price": "收费",
+      "desc": "城堡入口附近及镇中心设有多处收费停车场。"
+    },
     "note": "以上为官方参考票价，管理方可能不定期调整——请以游览当日售票处的实际价格为准。"
   },
   "transport": {
@@ -374,5 +392,62 @@
       "description": "用于跨站跟踪和提供个性化广告。"
     },
     "save": "保存设置"
+  },
+  "toc": {
+    "title": "本页目录",
+    "tickets": "门票信息",
+    "history": "历史传说",
+    "architecture": "建筑与考古",
+    "transport": "交通指南",
+    "reviews": "游客评价"
+  },
+  "legends": {
+    "title": "传奇与神秘故事",
+    "subtitle": "深藏在古老城墙背后的奇闻异事",
+    "items": [
+      {
+        "title": "斯坎德培的羊角头盔",
+        "content": "乔治·卡斯特里奥蒂·斯坎德培标志性的羊角头盔并非仅仅是装饰。传说这源于他曾在群山中被困时，靠一只山羊的指引找到出路，这一意象不仅是历史，更是阿尔巴尼亚民族精神的图腾。"
+      },
+      {
+        "title": "隐藏的供水密道",
+        "content": "在多次被奥斯曼帝国长期围困时，城堡依靠一条秘密的地下水渠维持生机。在1450年的著名围城战中，奥斯曼军队曾拼命寻找这条水源却无功而返，这种军事建筑的巧思令人叹为观止。"
+      },
+      {
+        "title": "萨里·萨尔提克与神秘主义",
+        "content": "在城堡上方的克鲁亚山，流传着苏菲派圣人萨里·萨尔提克 (Sari Salltik) 的传说。这些与贝克塔什教派相关的神秘元素，为克鲁亚增添了浓厚的宗教与文化神秘感。"
+      }
+    ]
+  },
+  "architecture": {
+    "title": "建筑与考古细节",
+    "subtitle": "中世纪要塞的防御智慧",
+    "items": [
+      {
+        "title": "城墙的防御机制",
+        "content": "城堡依山势而建，拥有半圆形堡垒和精心设计的瞭望孔。这些巧妙的防御工事解释了为何冷兵器时代的奥斯曼大军会对这几段城墙束手无策。"
+      },
+      {
+        "title": "法提赫苏丹穆罕默德清真寺遗址",
+        "content": "城堡内的清真寺废墟见证了从拜占庭时期到奥斯曼帝国时期的宗教与权力交替，是欧洲巴尔干半岛复杂历史的缩影。"
+      },
+      {
+        "title": "历史文献的印证",
+        "content": "16世纪历史学家马林·巴尔莱蒂（Marin Barleti）在文献中生动记录了克鲁亚围城战的惨烈与坚韧，这些古典文字至今仍是研究城堡历史的权威资料。"
+      }
+    ]
+  },
+  "surroundings": {
+    "title": "周边与旧巴扎探索",
+    "subtitle": "感受原汁原味的当地生活",
+    "content": "既然来到了城堡，不妨顺道探索历史悠久的克鲁亚旧巴扎（Old Bazaar）。这里保留了传统的木质结构和石板路。您可以在巴扎周围和镇中心找到许多提供传统阿尔巴尼亚美食的餐馆。为了保持我们作为非营利科普平台的客观性，我们不推荐特定的商业店铺，但建议您尝试当地的烤肉（Tavë Dheu）和特色甜点，感受最纯正的巴尔干风味。"
+  },
+  "references": {
+    "title": "参考文献",
+    "items": [
+      "Barleti, Marin. (1508). Historia de vita et gestis Scanderbegi Epirotarum principis.",
+      "Albanian Institute of Archaeology. Historical records on the fortification of Krujë.",
+      "Ministry of Culture of Albania. National Cultural Heritage Register."
+    ]
   }
 }
