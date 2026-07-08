@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Castle of Kruja – Krujë, Albania",
-    "description": "Complete travel guide to the Castle of Kruja. Learn about this historic Albanian castle, including location, views, access, and visitor information."
+    "title": "Castle of Kruja (Kalaja e Krujës) | History, Architecture & Visitor Guide",
+    "description": "The authoritative guide to the Castle of Kruja (Kalaja e Krujës) in Albania — history, architecture, Skanderbeg's three sieges, opening hours, official ticket prices, and how to get there from Tirana Airport."
   },
   "header": {
     "home": "Home",
@@ -64,14 +64,70 @@
         "title": "Cultural Significance",
         "content": "Today, the Castle of Kruja is one of Albania's most important cultural and historical landmarks. It attracts thousands of visitors annually who come to learn about the country's national hero and its rich heritage."
       }
-    ]
+    ],
+    "timeline": {
+      "title": "Historical Timeline",
+      "subtitle": "Key milestones in the story of the Castle of Kruja",
+      "items": [
+        {
+          "year": "5th–6th c.",
+          "title": "Byzantine Origins",
+          "description": "The first fortifications on the rocky hill above Krujë are built during the late antiquity / early Byzantine period, taking advantage of the naturally defensible position."
+        },
+        {
+          "year": "1190",
+          "title": "Principality of Arbanon",
+          "description": "Progon of Kruja makes the castle the seat of the Principality of Arbanon, one of the earliest Albanian medieval polities."
+        },
+        {
+          "year": "1415",
+          "title": "Ottoman Capture",
+          "description": "The expanding Ottoman Empire takes control of Krujë, holding it for nearly three decades before it becomes the flashpoint of resistance."
+        },
+        {
+          "year": "1443",
+          "title": "Skanderbeg's Capital",
+          "description": "Gjergj Kastrioti Skanderbeg captures Krujë and makes it the capital of his rebellious principality, founding the League of Lezhë the same year."
+        },
+        {
+          "year": "1450",
+          "title": "First Siege of Kruja",
+          "description": "Sultan Murad II leads a massive Ottoman army against the castle; Skanderbeg's outnumbered defenders hold the walls and the siege fails."
+        },
+        {
+          "year": "1466",
+          "title": "Second Siege of Kruja",
+          "description": "Mehmed II builds the siege-castle of Elbasan to strangle Krujë, but the second major assault is again repelled by the garrison."
+        },
+        {
+          "year": "1467",
+          "title": "Third Siege of Kruja",
+          "description": "A third Ottoman offensive under Mehmed II fails to take the fortress, cementing its legend as an almost impregnable stronghold."
+        },
+        {
+          "year": "1478",
+          "title": "Fall to the Ottomans",
+          "description": "Ten years after Skanderbeg's death (1468), the castle finally falls to the Ottomans following a prolonged siege."
+        },
+        {
+          "year": "1912",
+          "title": "Albanian Independence",
+          "description": "Krujë becomes part of the newly independent Albanian state, and the castle is embraced as a national symbol of resistance."
+        },
+        {
+          "year": "1982",
+          "title": "Skanderbeg Museum Opens",
+          "description": "A modern museum dedicated to Skanderbeg, designed in traditional Albanian style, opens inside the restored castle walls."
+        }
+      ]
+    }
   },
   "faq": {
     "title": "Frequently Asked Questions",
     "items": [
       {
         "question": "What are the opening hours of the Castle of Kruja?",
-        "answer": "The castle grounds are generally open from morning until evening. The museums inside have specific visiting hours, typically from 9:00 AM to 6:00 PM."
+        "answer": "The castle grounds are free and open during daylight hours. The museums inside follow seasonal hours: 09:00–19:00 in summer (May–October) and 09:00–17:00 in winter (November–April)."
       },
       {
         "question": "Is there an entrance fee?",
@@ -110,8 +166,13 @@
   },
   "hours": {
     "title": "Visiting Hours",
-    "park": "Castle Access",
-    "parkTime": "Open daily",
+    "park": "Castle Grounds",
+    "parkTime": "Free entry · Open daily",
+    "summerTitle": "Summer Season (May – October)",
+    "summerTime": "Museums: 09:00 – 19:00",
+    "winterTitle": "Winter Season (November – April)",
+    "winterTime": "Museums: 09:00 – 17:00",
+    "seasonNote": "The castle grounds are freely accessible during daylight hours. The times above apply to the Skanderbeg Museum and the National Ethnographic Museum inside the walls. Last admission is usually 30 minutes before closing.",
     "bestTime": "Best Time to Visit",
     "bestTimeSpring": "Spring: Pleasant weather for exploring",
     "bestTimeSummer": "Summer: Busy but great for photography",
@@ -120,13 +181,13 @@
     "tip": "Visit early in the morning to avoid the crowds and enjoy the best lighting."
   },
   "tickets": {
-    "title": "Admission Information",
-    "park": "Castle Grounds",
-    "parkPrice": "Free public access",
-    "parking": "Parking",
-    "parkingPrice": "Paid parking available nearby",
-    "guided": "Museums",
-    "guidedPrice": "Entrance fee required"
+    "title": "Admission & Tickets",
+    "intro": "The castle grounds are free to enter. The museums inside charge an official admission fee set by Albania's Ministry of Culture, payable at the on-site ticket office.",
+    "grounds": { "name": "Castle Grounds", "price": "Free", "desc": "Open to the public at no charge; wander the courtyards, walls and the Old Bazaar." },
+    "skanderbeg": { "name": "Skanderbeg Museum", "price": "500 ALL", "desc": "≈ €5 per adult · 200 ALL (≈ €2) for students and children" },
+    "ethnographic": { "name": "National Ethnographic Museum", "price": "300 ALL", "desc": "≈ €3 per person" },
+    "parking": { "name": "Parking", "price": "Paid", "desc": "Several paid lots near the castle entrance and in the town centre." },
+    "note": "Official prices are indicative and may be adjusted periodically by the managing authority — please confirm at the ticket office on the day of your visit."
   },
   "transport": {
     "title": "How to Get Here",
@@ -141,7 +202,33 @@
     "walking": "Walking",
     "walkingDesc": "Once in Krujë town center, follow the signs for 'Kalaja' and walk through the bazaar. It is a very short distance.",
     "driving": "Driving",
-    "drivingDesc": "Follow signs to Krujë; there are several paid parking lots available near the castle entrance and in the town center."
+    "drivingDesc": "Follow signs to Krujë; there are several paid parking lots available near the castle entrance and in the town center.",
+    "airport": {
+      "title": "From Tirana International Airport (TIA) to the Castle",
+      "intro": "Tirana International Airport Nënë Tereza (TIA) lies about 18 km south of Krujë. There is no direct public bus, so most visitors choose a connecting minibus route or a taxi / rental car.",
+      "transit": {
+        "title": "By Public Transport (budget, ~2–2.5 hrs)",
+        "duration": "Total travel time: about 2–2.5 hours",
+        "cost": "Estimated cost: ~600–900 ALL (≈ €6–9) per person",
+        "steps": [
+          "Step 1 — Airport shuttle: Take the Rinas Express shuttle bus from the arrivals terminal to central Tirana (Skanderbeg Square / Non-Stop terminal). Departures run roughly every 30–60 min; the ride takes about 40 minutes and costs ~300–400 ALL.",
+          "Step 2 — Reach the North Bus Terminal: From the city centre, take a short taxi or city bus to the Tirana North Bus Terminal (Terminali i Autobusëve të Veriut). Allow about 10–15 minutes.",
+          "Step 3 — Furgon to Krujë: At the North Terminal, board a furgon (shared minibus) to Krujë. The trip takes about 1 hour and costs ~200–250 ALL.",
+          "Step 4 — Walk up to the castle: In Krujë town centre, follow the signs for 'Kalaja' and walk through the Old Bazaar for about 10–15 minutes to the castle entrance."
+        ]
+      },
+      "drive": {
+        "title": "By Taxi or Rental Car (~35–45 min)",
+        "duration": "Total travel time: about 35–45 minutes",
+        "cost": "Taxi fare: about €25–30 (≈ 2,500–3,000 ALL); rental car at your own cost",
+        "steps": [
+          "Leave the airport and take the SH52 road toward the SH1 (Tirana–Durrës) highway.",
+          "Follow SH1 northbound past Vorë, then take the SH38 turnoff signposted to Krujë.",
+          "Continue on SH38 up the mountain into Krujë; follow signs for 'Kalaja' to the castle parking areas."
+        ],
+        "note": "Road note: SH38 is a winding mountain road with sharp curves and truck traffic — drive carefully, especially in wet weather. Paid parking is available near the castle entrance and in the town centre."
+      }
+    }
   },
   "gallery": {
     "title": "Photo Gallery",

@@ -1,10 +1,19 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
+import { useTranslations, useMessages } from 'next-intl';
 import type { ReactNode } from 'react';
 
 export default function TransportSection() {
   const t = useTranslations('transport');
+  const messages = useMessages() as any;
+  const airport = messages?.transport?.airport as
+    | {
+        title: string;
+        intro: string;
+        transit: { title: string; duration: string; cost: string; steps: string[] };
+        drive: { title: string; duration: string; cost: string; steps: string[]; note: string };
+      }
+    | undefined;
 
   const transportOptions = [
     {
@@ -91,8 +100,99 @@ export default function TransportSection() {
             />
           ))}
         </div>
+
+        {airport && (
+          <div
+            className="mt-10 rounded-2xl p-6 sm:p-8 border"
+            style={{ background: 'var(--bg-tertiary)', borderColor: 'var(--border-color)' }}
+          >
+            <h3
+              className="font-display text-2xl font-semibold mb-2"
+              style={{ color: 'var(--text-primary)' }}
+            >
+              {airport.title}
+            </h3>
+            <p className="mb-6" style={{ color: 'var(--text-secondary)' }}>{airport.intro}</p>
+
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+              <AirportRoute
+                title={airport.transit.title}
+                duration={airport.transit.duration}
+                cost={airport.transit.cost}
+                steps={airport.transit.steps}
+              />
+              <AirportRoute
+                title={airport.drive.title}
+                duration={airport.drive.duration}
+                cost={airport.drive.cost}
+                steps={airport.drive.steps}
+                note={airport.drive.note}
+              />
+            </div>
+          </div>
+        )}
       </div>
     </section>
+  );
+}
+
+function AirportRoute({
+  title,
+  duration,
+  cost,
+  steps,
+  note,
+}: {
+  title: string;
+  duration: string;
+  cost: string;
+  steps: string[];
+  note?: string;
+}) {
+  return (
+    <div
+      className="rounded-xl p-5 border"
+      style={{ background: 'var(--bg-secondary)', borderColor: 'var(--border-color)' }}
+    >
+      <h4 className="font-display text-lg font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
+        {title}
+      </h4>
+      <div className="flex flex-wrap gap-2 mb-4">
+        <span
+          className="text-xs px-2.5 py-1 rounded-full font-medium"
+          style={{ background: 'var(--accent)', color: 'white' }}
+        >
+          {duration}
+        </span>
+        <span
+          className="text-xs px-2.5 py-1 rounded-full font-medium"
+          style={{ background: 'var(--accent-soft, rgba(0,0,0,0.06))', color: 'var(--text-primary)' }}
+        >
+          {cost}
+        </span>
+      </div>
+      <ol className="space-y-2.5">
+        {steps.map((step, i) => (
+          <li key={i} className="flex gap-2.5 text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+            <span
+              className="flex-shrink-0 w-5 h-5 rounded-full flex items-center justify-center text-xs font-bold mt-0.5"
+              style={{ background: 'var(--accent)', color: 'white' }}
+            >
+              {i + 1}
+            </span>
+            <span>{step}</span>
+          </li>
+        ))}
+      </ol>
+      {note && (
+        <p
+          className="mt-4 text-xs leading-relaxed p-3 rounded-lg"
+          style={{ background: 'rgba(0,0,0,0.04)', color: 'var(--text-muted)' }}
+        >
+          {note}
+        </p>
+      )}
+    </div>
   );
 }
 

@@ -44,6 +44,7 @@ export default async function LocaleLayout({
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
+  const baseUrl = 'https://castleofkruja.com';
 
   if (!routing.locales.includes(locale as any)) {
     notFound();
@@ -52,9 +53,76 @@ export default async function LocaleLayout({
   setRequestLocale(locale);
   const messages = await getMessages();
 
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': ['LandmarkOrHistoricalBuilding', 'TouristAttraction'],
+    name: 'Castle of Kruja',
+    alternateName: 'Kalaja e Krujës',
+    description: messages.meta.description,
+    url: `${baseUrl}/${locale}`,
+    image: `${baseUrl}/og-image.jpg`,
+    touristType: ['History', 'Culture', 'Architecture'],
+    geo: {
+      '@type': 'GeoCoordinates',
+      latitude: 41.5091,
+      longitude: 19.7925,
+    },
+    address: {
+      '@type': 'PostalAddress',
+      streetAddress: 'Rruga Kala',
+      addressLocality: 'Krujë',
+      addressCountry: 'AL',
+    },
+    openingHoursSpecification: [
+      {
+        '@type': 'OpeningHoursSpecification',
+        dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+        opens: '09:00',
+        closes: '19:00',
+        validFrom: '2026-05-01',
+        validThrough: '2026-10-31',
+      },
+      {
+        '@type': 'OpeningHoursSpecification',
+        dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+        opens: '09:00',
+        closes: '17:00',
+        validFrom: '2026-11-01',
+        validThrough: '2027-04-30',
+      },
+    ],
+    containsPlace: {
+      '@type': 'Museum',
+      name: 'Skanderbeg Museum',
+      openingHoursSpecification: [
+        {
+          '@type': 'OpeningHoursSpecification',
+          dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+          opens: '09:00',
+          closes: '19:00',
+          validFrom: '2026-05-01',
+          validThrough: '2026-10-31',
+        },
+        {
+          '@type': 'OpeningHoursSpecification',
+          dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+          opens: '09:00',
+          closes: '17:00',
+          validFrom: '2026-11-01',
+          validThrough: '2027-04-30',
+        },
+      ],
+      priceRange: '500 ALL',
+    },
+  };
+
   return (
     <html lang={locale === 'zh' ? 'zh-CN' : locale === 'sq' ? 'sq-AL' : 'en'} suppressHydrationWarning>
       <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossOrigin="anonymous" />
         <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />
         <script

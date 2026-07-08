@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Kalaja e Krujës – Krujë, Shqipëria",
-    "description": "Udhëzues i plotë udhëtimi për Kalanë e Krujës. Mësoni rreth kësaj kalaje historike shqiptare, përfshirë vendndodhjen, pamjet, aksesin dhe informacionin për vizitorët."
+    "title": "Kalaja e Krujës | Histori, Arkitekturë & Udhëzues i Vizitorëve",
+    "description": "Udhëzuesi autoritativ për Kalanë e Krujës në Shqipëri — historia, arkitektura, tre rrethimet e Skënderbeut, oraret e hapjes, çmimet zyrtare të biletave dhe si të shkoni nga Aeroporti i Tiranës."
   },
   "header": {
     "home": "Kreu",
@@ -64,14 +64,70 @@
         "title": "Rëndësia Kulturore",
         "content": "Sot, Kalaja e Krujës është një nga monumentet më të rëndësishme kulturore dhe historike të Shqipërisë. Ajo tërheq mijëra vizitorë çdo vit, të cilët vijnë për të mësuar rreth heroit kombëtar të vendit dhe trashëgimisë së tij të pasur."
       }
-    ]
+    ],
+    "timeline": {
+      "title": "Kronologia Historike",
+      "subtitle": "Mbetjet kryesore në historinë e Kalasë së Krujës",
+      "items": [
+        {
+          "year": "Shek. 5–6",
+          "title": "Origjina Bizantine",
+          "description": "Fortifikimet e para në kodër mbi Krujën ndërtohen gjatë antikitetit të vonë / fillimit të periudhës bizantine, duke shfrytëzuar pozicionin natyrshëm të mbrojtshëm."
+        },
+        {
+          "year": "1190",
+          "title": "Principata e Arbanonit",
+          "description": "Progoni i Krujës bën kalajën seli të Principatës së Arbanonit, një nga politetë e para mesjetare shqiptare."
+        },
+        {
+          "year": "1415",
+          "title": "Pushtimi Osman",
+          "description": "Perandoria në ekspansion Osmane merr nën kontroll Krujën, duke e mbajtur për gati tre dekada përpara se të bëhet pika kyçe e rezistencës."
+        },
+        {
+          "year": "1443",
+          "title": "Kryeqyteti i Skënderbeut",
+          "description": "Gjergj Kastrioti Skënderbeu pushton Krujën dhe e bën atë kryeqytet të principatës së tij rebel, duke themeluar Lidhjen e Lezhës të njëjtën vit."
+        },
+        {
+          "year": "1450",
+          "title": "Rrethimi i Parë i Krujës",
+          "description": "Sulltan Murati II drejton një ushtri të madhe osmane kundër kalasë; mbrojtësit e pakët të Skënderbeut mbajnë muret dhe rrethimi dështon."
+        },
+        {
+          "year": "1466",
+          "title": "Rrethimi i Dytë i Krujës",
+          "description": "Mehmeti II ndërton kështjellën e rrethimit të Elbasanit për të ngushtuar Krujën, por sulmi i dytë i madh refuzohet përsëri nga garnizioni."
+        },
+        {
+          "year": "1467",
+          "title": "Rrethimi i Tretë i Krujës",
+          "description": "Një ofensivë e tretë osmane nën Mehmetin II dështon të marrë fortesën, duke forcuar legjendën e saj si një kala pothuajse i pushtueshëm."
+        },
+        {
+          "year": "1478",
+          "title": "Rënia në Duart Osmane",
+          "description": "Dhjetë vjet pas vdekjes së Skënderbeut (1468), kalaja bie përfundimisht në duart e osmanëve pas një rrethimi të gjatë."
+        },
+        {
+          "year": "1912",
+          "title": "Pavarësia e Shqipërisë",
+          "description": "Krujë bëhet pjesë e shtetit të ri të pavarur shqiptar, dhe kalaja përqafohet si simbol kombëtar rezistence."
+        },
+        {
+          "year": "1982",
+          "title": "Hapet Muzeu i Skënderbeut",
+          "description": "Një muze modern i dedikuar Skënderbeut, i dizajnuar në stilin tradicional shqiptar, hapet brenda mureve të restoresuara të kalasë."
+        }
+      ]
+    }
   },
   "faq": {
     "title": "Pyetjet e Bëra më Shpesh",
     "items": [
       {
         "question": "Cilat janë oraret e hapjes së Kalasë së Krujës?",
-        "answer": "Ambjentet e kalasë zakonisht janë të hapura nga mëngjesi deri në mbrëmje. Muzetë brenda kanë orare specifike vizitash, zakonisht nga ora 9:00 e mëngjesit deri në 6:00 të pasdites."
+        "answer": "Ambjentet e kalasë janë falas dhe të hapura gjatë ditës. Muzetë brenda ndjekin oraret sezonale: 09:00–19:00 në verë (Maj–Tetor) dhe 09:00–17:00 në dimër (Nëntor–Prill)."
       },
       {
         "question": "A ka një tarifë hyrjeje?",
@@ -110,8 +166,13 @@
   },
   "hours": {
     "title": "Oraret e Vizitave",
-    "park": "Aksesi në Kala",
-    "parkTime": "Hapur çdo ditë",
+    "park": "Ambjentet e Kalasë",
+    "parkTime": "Hyrje falas · Hapur çdo ditë",
+    "summerTitle": "Sezoni Veror (Maj – Tetor)",
+    "summerTime": "Muzetë: 09:00 – 19:00",
+    "winterTitle": "Sezoni Dimëror (Nëntor – Prill)",
+    "winterTime": "Muzetë: 09:00 – 17:00",
+    "seasonNote": "Ambjentet e kalasë janë të aksesueshme falas gjatë ditës. Oraret më sipër vlejnë për Muzeun e Skënderbeut dhe Muzeun Kombëtar Etnografik brenda mureve. Hyrja e fundit zakonisht 30 minuta para mbylljes.",
     "bestTime": "Koha më e Mirë për të Vizituar",
     "bestTimeSpring": "Pranverë: Mot i këndshëm për eksplorim",
     "bestTimeSummer": "Verë: E zënë por e shkëlqyer për fotografi",
@@ -120,13 +181,13 @@
     "tip": "Vizitoni herët në mëngjes për të shmangur turmat dhe për të shijuar dritën më të mirë."
   },
   "tickets": {
-    "title": "Informacion mbi Hyrjen",
-    "park": "Ambjentet e Kalasë",
-    "parkPrice": "Akses publik falas",
-    "parking": "Parkimi",
-    "parkingPrice": "Parkim me pagesë në dispozicion afër",
-    "guided": "Muzetë",
-    "guidedPrice": "Kërkohet tarifë hyrjeje"
+    "title": "Hyrja & Biletat",
+    "intro": "Ambjentet e kalasë janë falas për t'u hyrë. Muzetë brenda kanë një tarifë hyrjeje zyrtare të caktuar nga Ministria e Kulturës e Shqipërisë, e paguar në zyrën e biletave në vend.",
+    "grounds": { "name": "Ambjentet e Kalasë", "price": "Falas", "desc": "Të hapura për publikun pa pagesë; shëtiteni oborret, muret dhe Pazarin e Vjetër." },
+    "skanderbeg": { "name": "Muzeu i Skënderbeut", "price": "500 ALL", "desc": "≈ €5 për të rritur · 200 ALL (≈ €2) për studentë dhe fëmijë" },
+    "ethnographic": { "name": "Muzeu Kombëtar Etnografik", "price": "300 ALL", "desc": "≈ €3 për person" },
+    "parking": { "name": "Parkimi", "price": "Me pagesë", "desc": "Disa parkingje me pagesë pranë hyrjes së kalasë dhe në qendër të qytetit." },
+    "note": "Çmimet zyrtare janë orientuese dhe mund të rregullohen periodikisht nga autoriteti menaxhues — ju lutemi konfirmoni në zyrën e biletave ditën e vizitës."
   },
   "transport": {
     "title": "Si të Vini Këtu",
@@ -141,7 +202,33 @@
     "walking": "Në Këmbë",
     "walkingDesc": "Sapo të jeni në qendër të qytetit të Krujës, ndiqni tabelat për 'Kalaja' dhe ecni përmes pazarit. Është një distancë shumë e shkurtër.",
     "driving": "Me Makinë",
-    "drivingDesc": "Ndiqni tabelat për në Krujë; ka disa parkingje me pagesë të disponueshme pranë hyrjes së kalasë dhe në qendër të qytetit."
+    "drivingDesc": "Ndiqni tabelat për në Krujë; ka disa parkingje me pagesë të disponueshme pranë hyrjes së kalasë dhe në qendër të qytetit.",
+    "airport": {
+      "title": "Nga Aeroporti Ndërkombëtar i Tiranës (TIA) te Kalaja",
+      "intro": "Aeroporti Ndërkombëtar i Tiranës Nënë Tereza (TIA) ndodhet rreth 18 km në jug të Krujës. Nuk ka autobus të drejtpërdrejtë, prandaj shumica e vizitorëve zgjedhin një linjë furgoni lidhës ose taksi / makinë me qira.",
+      "transit": {
+        "title": "Me Transport Publik (opsioni ekonomik, ~2–2.5 orë)",
+        "duration": "Koha totale e udhëtimit: rreth 2–2.5 orë",
+        "cost": "Kosto e vlerësuar: ~600–900 ALL (≈ €6–9) për person",
+        "steps": [
+          "Hapi 1 — Shuttle i aeroportit: Merrni autobusin shuttle Rinas Express nga terminali i arritjeve në qendër të Tiranës (Sheshi Skënderbej / terminali Non-Stop). Nisjet janë rreth çdo 30–60 min; udhëtimi zgjat rreth 40 minuta dhe kushton ~300–400 ALL.",
+          "Hapi 2 — Arritja në Terminalin e Veriut: Nga qendra, merrni një taksi të shkurtër ose autobus qytetari për në Terminalin e Autobusëve të Veriut të Tiranës. Llogaritni rreth 10–15 minuta.",
+          "Hapi 3 — Furgon për në Krujë: Në Terminalin e Veriut, hipni në një furgon (minibus i përbashkët) për në Krujë. Udhëtimi zgjat rreth 1 orë dhe kushton ~200–250 ALL.",
+          "Hapi 4 — Ecni në kala: Në qendër të qytetit të Krujës, ndiqni tabelat për 'Kalaja' dhe ecni përmes Pazarit të Vjetër për rreth 10–15 minuta deri te hyrja e kalasë."
+        ]
+      },
+      "drive": {
+        "title": "Me Taksi ose Makinë me Qira (~35–45 min)",
+        "duration": "Koha totale e udhëtimit: rreth 35–45 minuta",
+        "cost": "Tarifa e taksisë: rreth €25–30 (≈ 2,500–3,000 ALL); makina me qira me koston tuaj",
+        "steps": [
+          "Largohuni nga aeroporti dhe merrni rrugën SH52 drejt autostradës SH1 (Tirana–Durrës).",
+          "Ndiqni SH1 në veri duke kaluar Vorën, pastaj merrni daljen SH38 të shënuar për Krujën.",
+          "Vazhdoni në SH38 lart në mal në Krujë; ndiqni tabelat për 'Kalaja' drejt zonave të parkimit të kalasë."
+        ],
+        "note": "Shënim rrugor: SH38 është një rrugë malore me kthesa të mprehta dhe trafik kamionësh — drejtoni me kujdes, veçanërisht në mot me shi. Parkim me pagesë është i disponueshëm pranë hyrjes së kalasë dhe në qendër të qytetit."
+      }
+    }
   },
   "gallery": {
     "title": "Galeria e Fotove",

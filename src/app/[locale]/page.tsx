@@ -8,6 +8,7 @@ import HoursSection from '@/components/HoursSection';
 import TicketsSection from '@/components/TicketsSection';
 import TransportSection from '@/components/TransportSection';
 import InfoSection from '@/components/InfoSection';
+import TimelineSection from '@/components/TimelineSection';
 import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import MapEmbed from '@/components/MapEmbed';
@@ -53,6 +54,7 @@ export default async function HomePage({
         <TicketsSection />
         <TransportSection />
         <InfoSection />
+        <TimelineSection />
         <Gallery />
         <Reviews />
         <FAQSection />

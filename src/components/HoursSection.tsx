@@ -17,8 +17,20 @@ export default function HoursSection() {
         </h2>
         <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
           <TimeCard title={t('park')} time={t('parkTime')} iconKey="park" />
+          <TimeCard title={t('summerTitle')} time={t('summerTime')} iconKey="season" highlight />
+          <TimeCard title={t('winterTitle')} time={t('winterTime')} iconKey="season" />
+        </div>
+
+        <p
+          className="text-sm mb-8 leading-relaxed"
+          style={{ color: 'var(--text-secondary)' }}
+        >
+          {t('seasonNote')}
+        </p>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
           <TimeCard title={t('bestTime')} time={t('bestTimeSpring')} subtitle={t('bestTimeSummer')} iconKey="season" />
           <TimeCard title={t('bestTime')} time={t('bestTimeAutumn')} subtitle={t('bestTimeWinter')} iconKey="season" />
         </div>
@@ -39,7 +51,7 @@ export default function HoursSection() {
   );
 }
 
-function TimeCard({ title, time, subtitle, iconKey }: { title: string; time: string; subtitle?: string; iconKey: string }) {
+function TimeCard({ title, time, subtitle, iconKey, highlight }: { title: string; time: string; subtitle?: string; iconKey: string; highlight?: boolean }) {
   const icons: Record<string, ReactNode> = {
     park: (
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
@@ -65,13 +77,16 @@ function TimeCard({ title, time, subtitle, iconKey }: { title: string; time: str
   return (
     <div
       className="rounded-xl p-6"
-      style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
+      style={{
+        background: highlight ? 'var(--accent)' : 'var(--bg-tertiary)',
+        border: highlight ? '1px solid var(--accent)' : '1px solid var(--border-color)',
+      }}
     >
-      <div className="flex items-center gap-3 mb-3" style={{ color: 'var(--accent)' }}>
+      <div className="flex items-center gap-3 mb-3" style={{ color: highlight ? 'white' : 'var(--accent)' }}>
         {icons[iconKey]}
-        <h3 className="font-medium" style={{ color: 'var(--text-primary)' }}>{title}</h3>
+        <h3 className="font-medium" style={{ color: highlight ? 'white' : 'var(--text-primary)' }}>{title}</h3>
       </div>
-      <p className="text-lg font-semibold" style={{ color: 'var(--text-primary)' }}>{time}</p>
+      <p className="text-lg font-semibold" style={{ color: highlight ? 'white' : 'var(--text-primary)' }}>{time}</p>
       {subtitle && (
         <p className="text-sm mt-1" style={{ color: 'var(--text-secondary)' }}>{subtitle}</p>
       )}
