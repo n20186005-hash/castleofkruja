@@ -20,25 +20,15 @@ import ArchitectureSection from '@/components/ArchitectureSection';
 import SurroundingsSection from '@/components/SurroundingsSection';
 import ReferencesSection from '@/components/ReferencesSection';
 import SchemaMarkup from '@/components/SchemaMarkup';
+import PracticalInfoSection from '@/components/PracticalInfoSection';
 
 export async function generateMetadata({
   params,
 }: {
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
-  const { locale } = await params;
-  const baseUrl = 'https://castleofkruja.com';
-  return {
-    alternates: {
-      canonical: `${baseUrl}/${locale}`,
-      languages: {
-        'zh': `${baseUrl}/zh`,
-        'en': `${baseUrl}/en`,
-        'sq': `${baseUrl}/sq`,
-        'x-default': `${baseUrl}/en`,
-      },
-    },
-  };
+  await params;
+  return {};
 }
 
 export default async function HomePage({
@@ -60,12 +50,13 @@ export default async function HomePage({
         <BasicInfo />
         <TicketsSection />
         <HoursSection />
-        <ArchitectureSection />
+        <PracticalInfoSection />
         <TimelineSection />
         <LegendsSection />
-        <TransportSection />
+        <ArchitectureSection />
         <SurroundingsSection />
         <InfoSection />
+        <TransportSection />
         <Gallery />
         <Reviews />
         <FAQSection />

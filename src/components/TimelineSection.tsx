@@ -4,6 +4,7 @@ type TimelineItem = { year: string; title: string; description: string };
 
 export default function TimelineSection() {
   const t = useTranslations('knowledge.timeline');
+  const tSEO = useTranslations('seo');
   const messages = useMessages() as any;
   const items = (messages?.knowledge?.timeline?.items || []) as TimelineItem[];
 
@@ -16,8 +17,15 @@ export default function TimelineSection() {
           className="font-display text-3xl sm:text-4xl font-semibold mb-6 text-center"
           style={{ color: 'var(--text-primary)' }}
         >
-          {t('title')}
+          {tSEO('h2History')}
         </h2>
+        <div className="w-12 h-0.5 mb-8 mx-auto" style={{ background: 'var(--accent)' }} />
+        <h3
+          className="font-display text-2xl sm:text-3xl font-semibold mb-3 text-center"
+          style={{ color: 'var(--text-primary)' }}
+        >
+          {t('title')}
+        </h3>
         <p
           className="text-center mb-12 max-w-2xl mx-auto"
           style={{ color: 'var(--text-secondary)' }}

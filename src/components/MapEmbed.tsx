@@ -1,10 +1,14 @@
-import { useTranslations } from 'next-intl';
-import { useMessages } from 'next-intl';
+import { useTranslations, useMessages } from 'next-intl';
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
+  const tSEO = useTranslations('seo');
+  const tBasic = useTranslations('basicInfo');
   const messages = useMessages() as any;
   const mapsLink = messages?.hero?.mapsLink || 'https://maps.app.goo.gl/z3Ak17fXyWwwntcB9';
+  const mapsEmbedSrc =
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5314.343359275666!2d19.7944047!3d41.507325400000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1351cdda90c2b389%3A0x39d52cebe65e9e3a!2z5YWL6a2v5Lqe5Z-O5aCh!5e1!3m2!1szh-CN!2s!4v1788143650269!5m2!1szh-CN!2s';
+  const govtTourismUrl = 'https://akt.gov.al';
 
   return (
     <section id="map" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -13,34 +17,28 @@ export default function MapEmbed() {
           className="font-display text-3xl sm:text-4xl font-semibold mb-2"
           style={{ color: 'var(--text-primary)' }}
         >
-          {t('title')}
+          {tSEO('h2Location')}
         </h2>
         <p className="mb-8 text-sm" style={{ color: 'var(--text-muted)' }}>{t('subtitle')}</p>
         <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
 
-        {/* Map */}
         <div
           className="map-container relative rounded-xl overflow-hidden border"
           style={{ borderColor: 'var(--map-border)' }}
         >
-          {/*
-            NOTE: Google Maps attribution is hidden via CSS (.gm-style-cc, .gmnoprint).
-            This is for visual cleanliness only. Google's Terms of Service apply.
-          */}
           <iframe
-            src="https://maps.google.com/maps?q=Castle+of+Kruja+Albania&output=embed"
+            src={mapsEmbedSrc}
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Castle of Kruja"
+            referrerPolicy="strict-origin-when-cross-origin"
+            title={`Google Maps - ${tBasic('officialNameValue')} - ${tBasic('cityValue')}`}
           />
         </div>
 
-        {/* Open in Google Maps */}
-        <div className="mt-6 flex justify-center">
+        <div className="mt-6 flex flex-wrap justify-center gap-4 items-center">
           <a
             href={mapsLink}
             target="_blank"
@@ -59,6 +57,22 @@ export default function MapEmbed() {
               <line x1="10" y1="14" x2="21" y2="3" />
             </svg>
           </a>
+        </div>
+
+        <div className="mt-10 text-center text-sm">
+          <p style={{ color: 'var(--text-muted)' }}>
+            For official updates and regional tourism information, visit{' '}
+            <a
+              href={govtTourismUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline hover:no-underline"
+              style={{ color: 'var(--accent)' }}
+            >
+              {tBasic('countryValue')} Official Tourism Portal (AKT)
+            </a>
+            .
+          </p>
         </div>
       </div>
     </section>

@@ -17,21 +17,46 @@ export async function generateMetadata({
   const messages = (await import(`@/messages/${locale}.json`)).default;
   const baseUrl = 'https://castleofkruja.com';
 
-  const zhUrl = `${baseUrl}/zh`;
-  const enUrl = `${baseUrl}/en`;
-  const sqUrl = `${baseUrl}/sq`;
   const selfUrl = `${baseUrl}/${locale}`;
+  const ogImageUrl = `${baseUrl}/gallery/castle-of-kruja%20(1).jpg`;
+  const ogImageAlt = messages.basicInfo
+    ? `${messages.basicInfo.officialNameValue || 'Castle of Kruja'} - Main view in ${messages.basicInfo.cityValue || 'Krujë'}, ${messages.basicInfo.countryValue || 'Albania'}`
+    : 'Castle of Kruja - Main view in Krujë, Albania';
 
   return {
     metadataBase: new URL(baseUrl),
     title: messages.meta.title,
     description: messages.meta.description,
+    alternates: {
+      canonical: selfUrl,
+      languages: {
+        'zh': `${baseUrl}/zh`,
+        'en': `${baseUrl}/en`,
+        'sq': `${baseUrl}/sq`,
+        'x-default': `${baseUrl}/sq`,
+      },
+    },
     openGraph: {
       title: messages.meta.title,
       description: messages.meta.description,
       siteName: "Castle of Kruja",
       locale: locale === 'zh' ? 'zh_CN' : locale === 'sq' ? 'sq_AL' : 'en_US',
       type: 'website',
+      url: selfUrl,
+      images: [
+        {
+          url: ogImageUrl,
+          width: 1200,
+          height: 800,
+          alt: ogImageAlt,
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: messages.meta.title,
+      description: messages.meta.description,
+      images: [ogImageUrl],
     },
   };
 }
@@ -53,24 +78,42 @@ export default async function LocaleLayout({
   setRequestLocale(locale);
   const messages = await getMessages();
 
+  const heroImageUrl = `${baseUrl}/gallery/castle-of-kruja%20(1).jpg`;
+  const mapsShareUrl = 'https://maps.app.goo.gl/z3Ak17fXyWwwntcB9';
+  const govtTourismUrl = 'https://akt.gov.al';
+
   const jsonLd = {
     '@context': 'https://schema.org',
-    '@type': ['LandmarkOrHistoricalBuilding', 'TouristAttraction'],
+    '@type': ['TouristAttraction', 'LandmarkOrHistoricalBuilding'],
+    '@id': `${baseUrl}/#attraction`,
     name: 'Castle of Kruja',
-    alternateName: 'Kalaja e Krujës',
+    alternateName: ['Kalaja e Krujës', 'Krujë Castle', 'Castle of Kruja (Krujë)'],
     description: messages.meta.description,
     url: `${baseUrl}/${locale}`,
-    image: `${baseUrl}/og-image.jpg`,
+    image: [heroImageUrl],
+    isAccessibleForFree: true,
     touristType: ['History', 'Culture', 'Architecture'],
+    hasMap: mapsShareUrl,
+    sameAs: [
+      mapsShareUrl,
+      govtTourismUrl,
+    ],
+    aggregateRating: {
+      '@type': 'AggregateRating',
+      ratingValue: '4.6',
+      reviewCount: '10706',
+    },
     geo: {
       '@type': 'GeoCoordinates',
-      latitude: 41.5091,
-      longitude: 19.7925,
+      latitude: 41.507325400000006,
+      longitude: 19.7944047,
     },
     address: {
       '@type': 'PostalAddress',
       streetAddress: 'Rruga Kala',
       addressLocality: 'Krujë',
+      addressRegion: 'Durrës County',
+      postalCode: '1500',
       addressCountry: 'AL',
     },
     openingHoursSpecification: [

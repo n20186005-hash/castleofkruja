@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Kalaja e Krujës | Histori, Arkitekturë & Udhëzues i Vizitorëve",
-    "description": "Udhëzuesi autoritativ për Kalanë e Krujës në Shqipëri — historia, arkitektura, tre rrethimet e Skënderbeut, oraret e hapjes, çmimet zyrtare të biletave dhe si të shkoni nga Aeroporti i Tiranës."
+    "title": "Kalaja e Krujës (Krujë) - Udhëzues Vizitor & Vendndodhje",
+    "description": "Zbuloni Kalën e Krujës (Castle of Kruja), monumentin ikonik në Krujë, Qarku i Durrësit, Shqipëri. Shikoni hartën e vendndodhjes, detaje të hapjes, Muzeun e Skënderbeut dhe Pazarin e Vjetër të Krujës në afërsi, dhe këshilla udhëtimi."
   },
   "header": {
     "home": "Kreu",
@@ -11,13 +11,22 @@
     "backToHome": "Kthehu në Kreu"
   },
   "hero": {
-    "title": "Kalaja e Krujës",
-    "subtitle": "Kala Historike · Krujë, Shqipëria",
+    "title": "Kalaja e Krujës (Krujë)",
+    "subtitle": "Castle of Kruja · Kala Historike · Krujë, Durrës, Shqipëria",
     "rating": "4.6",
-    "reviewCount": "9,953 vlerësime",
+    "reviewCount": "10,706 vlerësime",
     "type": "Kala Historike",
     "openMaps": "Shiko në Google Maps",
     "mapsLink": "https://maps.app.goo.gl/z3Ak17fXyWwwntcB9"
+  },
+  "seo": {
+    "identityDeclaration": "Mirë se vini në Kalën e Krujës (Castle of Kruja), e njohur gjerësisht si monumenti qendror i Kalës së Krujës. E vendosur në zemër të Krujës, Qarku i Durrësit, Shqipëri, ky destinim shërben si një qendër primare për vizitorët që vizitojnë rajonin.",
+    "geoBreadcrumb": "Kalaja e Krujës → Krujë → Qarku i Durrësit → Shqipëri",
+    "surroundingCluster": "Kur vizitoni Kalën e Krujës, vizitorët mund të eksplorojnë lehtësisht monumentet historike dhe pikat e interesit përreth, duke përfshirë Muzeun e Skënderbeut dhe Pazarin e Vjetër të Krujës.",
+    "h2About": "Rreth Kalasë së Krujës",
+    "h2Location": "Vendndodhja & Si të Vizitoni Kalën e Krujës në Krujë",
+    "h2Landmarks": "Monumentet & Atraktivet Rreth Kalasë së Krujës",
+    "h2History": "Historia & Rëndësia e Kalasë së Krujës"
   },
   "intro": {
     "title": "Zbuloni Kalanë e Krujës",
@@ -154,7 +163,7 @@
     "city": "Qyteti",
     "cityValue": "Krujë",
     "googleRating": "Vlerësimi në Google",
-    "googleRatingValue": "4.6 (9,953)",
+    "googleRatingValue": "4.6 (10,706)",
     "address": "Adresa",
     "addressValue": "Rruga Kala, Krujë, Shqipëria",
     "telephone": "Telefoni i Kontaktit",
@@ -163,6 +172,18 @@
     "accessibilityValue": "Këshillë: Rrugët e lashta me kalldrëm që të çojnë në kështjellë ruajnë karakterin e tyre mesjetar, me sipërfaqe të pabarabarta dhe pjerrësi. Përdoruesit e karrigeve me rrota ose vizitorët me lëvizshmëri të kufizuar mund të kenë nevojë për ndihmë; rekomandohet planifikimi paraprak.",
     "plusCode": "Kodi Plus",
     "plusCodeValue": "GQ4V+WQ Krujë, Shqipëria",
+    "region": "Qarku / Rajoni",
+    "regionValue": "Qarku i Durrësit",
+    "coordinates": "Koordinatat Gjeografike",
+    "coordinatesValue": "41.5073° V, 19.7944° L",
+    "heritageStatus": "Statusi i Trashëgimisë",
+    "heritageStatusValue": "Monument Kombëtar i Mbrojtur i Shqipërisë (Regjistri IKTK nr. 119/1948); Lista e Përkohshme UNESCO (2017) – Grupi i Kalasave Mesjetare të Shqipërisë",
+    "suggestedDuration": "Kohë e Rekomanduara për Vizitë",
+    "suggestedDurationValue": "2–3 orë (gjysmë dite). Shto 1–2 orë për Pazarin e Vjetër dhe një darkë në Krujë.",
+    "photographyPolicy": "Fotografimi dhe Filmimi",
+    "photographyPolicyValue": "Fotografimi personal dhe filmimi joprofitable lejohen në gjithë zonat e kalasë dhe muzeve. Tripodet dhe sesionet profesionale kërkojnë leje paraprake me shkrim nga IKTK.",
+    "dressCode": "Kodi i Veshjes",
+    "dressCodeValue": "Nuk ka kod formal veshjesh; veshjet e modesta vlerësohen nga respekti për shtresat kulturore dhe fetare të vendit (rënojat e xhamisë, kishat e kaluara, trashëgimia Bektashi në afërsi).",
     "sunsetTip": "Këshillë për Perëndimin e Diellit",
     "sunsetTipValue": "Rekomandohet të mbërrini rreth orës 18:30. Drita për të fotografuar perëndimin e diellit mbi detin Adriatik nga muret e kështjellës është më e mira në këtë kohë."
   },
@@ -396,10 +417,75 @@
   "toc": {
     "title": "Përmbajtja",
     "tickets": "Biletat dhe Orari",
+    "practical": "Informate Praktike",
     "history": "Legjendat dhe Historia",
     "architecture": "Arkitektura",
     "transport": "Si të arrini",
     "reviews": "Vlerësimet"
+  },
+  "practicalInfo": {
+    "title": "Informate Praktike për Vizitorët",
+    "subtitle": "Tualetet, parkimi, ushqimi, strehimi, dyqanet, karburanti — udhëzim neutral pa rekomandime biznesesh",
+    "disclaimer": "Si platformë edukative jofitimprurëse, ne nuk mbështesim biznese specifike. Përshkrimet e mëposhtme i referohen TIPOVE të shërbimeve që gjenden zakonisht në zonë, jo të ndërmarrjeve individuale.",
+    "restrooms": {
+      "title": "Tualetet Publike (WC)",
+      "summary": "Objektet e sanitares publike shpërndahen në tre lloje vendndodhjesh rreth vendit.",
+      "items": [
+        "Muze me tarifë hyrjeje: Gjehen në lokalet e Muzeut të Skënderbeut dhe Muzeu Etnografik. Zakonisht të aksesueshme për të ardhurit me biletë. Shënim: Standartet e hyrjes për publikun e gjerë mund të ndryshojnë sezonisht.",
+        "Tualetet publike në nivel qyteti: Vendosur në zonën e qytetit të poshtëm dhe pranë sheshit të Pazarit të Vjetër, zakonisht brenda një çastejeje të udhëtimit 5–10 minuta nga hyrja kryesore e kalasë. Prisni kushte të modesta tipike të vendbanimeve rurale të Ballkanit.",
+        "Objektet në restorante dhe kafe: Shumica e vendeve të ushqyerjes në Krujë ofrojnë akses tualetesh për klientët. Planifikoni përkatësisht nëse vizitoni jashtë orëve kryesore të shërbimit."
+      ]
+    },
+    "parking": {
+      "title": "Parkimi",
+      "summary": "Vetë kalaja në mal nuk mban një parkim të madh të dedikuar. Zgjidhjet e parkimit janë të renditura sipas distancës së ecjes.",
+      "items": [
+        "Parkim në anën e rrugës në qytetin e sipërm: Hapësira të kufizuara afatshkurtra përgjatë Rruga Kala pranë hyrjes së kalasë, të përshtatshme për ndalime të shpejta ose lëshimi pasagjerësh. Shumë i ngarkuar në verë (Qershor–Gusht) dhe ditët e festave kombëtare.",
+        "Zona të parkimit të pagueshme në qytetin e poshtëm: Zona të caktuara për parkim në qendër të qytetit të Krujës, rreth një ecjeje 10–15 minuta në kodër deri te kalaja. Të përshtatshme për qëndrime të gjata. Prisni tarifa çastore në përputhje me normat e qyteteve të vogla shqiptare.",
+        "Parkim pranë Pazarit të Vjetër: Hapësira të asfaltuara të mesme afër Pazarit të Vjetër, një ecje 5 minuta poshtëm nga kalaja. Opsioni më i mirë për vizita ditë të plota që kombinojnë kalasë dhe pazar. Akses me makinë nga rruga kryesore e aksesit të Krujës (SH22).",
+        "Këshillë për lëvizshmëri: Vizitorët me lëvizshmëri të kufizuar duhet të llogarisin për pjerrësitë e kalldrëmta midis zonave të parkimit dhe kalasë. Konsideroni vendosje paraprake për lëshimin në hyrje."
+      ]
+    },
+    "dining": {
+      "title": "Ushqimi dhe Kuzhina",
+      "summary": "Krujë ofron një gamë të plotë llojesh ushqyjeje të përshtatshme një qyteti të vogël historik. Çdo vlerësim çmimi më poshtë tregon rangun e një ditejeje për person (pa alkool), dhe nuk i referohet asnjë restoranti individuali.",
+      "items": [
+        "Vende ushqyjeje të lira / kazuale: Tavëlinat tradicionale (tavernat) dhe baret e shpejtë që shërbejnë mish të pjekur në sharr, byrek dhe bukë të freskët. Buxhet tipik: 400–800 ALL për person.",
+        "Restorante tradicionale mesme: Objekte të drejtuara nga familjet, të specializuara në kuzhinën malore shqiptare (Tavë Dheu, flije, qofsh pjekur, pite). Zakonisht përgjatë promenadës së Pazarit të Vjetër dhe rrugës mes pazariut dhe kalasë. Diapazon tipik: 1,200–2,500 ALL për person.",
+        "Ulset dhe pamjet: Shumica e objekteve në Krujë ofrojnë terraca të orientuara drejt bregut të Adriatikut. Pamja më e mirë e perëndimit të diellit dhe horizontit të detit është nga promenade e sipërme midis pazarit dhe kalasë.",
+        "Shënime për dietën: Opsionet vegjetare janë të kufizuara por zakonisht në dispozicion në formë pite të djathit, sallata dhe cazma perimesh. Vizitorët pa gluten duhet të mbajnë karta të përkthyer; kuzhinat e dedikuara pa gluten janë të rralla në këtë rajon."
+      ]
+    },
+    "lodging": {
+      "title": "Strehimi dhe Akomodimi",
+      "summary": "Ne nuk rekomandojmë hotele apo shtëpi pushimi specifike. Më poshtë është një pasqyrë e bazuar në type të formateve të akomodimit që vizitorët hasin zakonisht rreth Krujës.",
+      "items": [
+        "Shtëpi pushimi dhe pansionet ekonomike: Dhoma të drejtuara nga familjet në qytetin e Krujës ose fshatrat malore pranë. Profil i zakontshëm i lehtësive: Banjo private mund të jetë ose jo brenda dhomës; mëngjesi shpesh i përfshirë.",
+        "Hotele butike dhe trashëgimi mesme: Shtëpi guri të restauruara në rrethin historik të Pazarit, shumë të tematuara rreth epokës osmane ose arkitekturës së zakonshme shqiptare. Të populluara për udhëtarët kulturore.",
+        "Eko-lodgjet malore të nivelit të lartë: Të përqendruara në zonën e malit Sari Salltik 2–5 km në veri të Krujës, të orientuara udhëtarëve e shëtitjeve dhe natyrës. Mundësia e aksesit jashtë sezonit mund të jetë e kufizuar.",
+        "Këshillë e distancës: Shumica e hoteleve me zinxhir të plota në qarkun e gjerë ndodhen në zonën bregëtore të Durrësit (30–40 km). Tirana (35 km) është një bazë tjetër për udhëtarët ditore."
+      ]
+    },
+    "shops": {
+      "title": "Dukagjini, Dyqanet dhe Shërbimet",
+      "summary": "Një gamë kompakte funksionale shërbimesh dore është në dispozicion brenda qytetit të Krujës. Për nevoji të specializuara, Tirana ose Durrësi ofrojnë një zgjedhje shumë më të gjerë.",
+      "items": [
+        "Dyqane të vogla dhe mini-markete: Dyqane ushqimore të formateve të vogla në qytetin e poshtëm që shesin ujë në shishe, dëbora, dhe produkte bazë higjiene. Shumica pranojnë vetëm para me dorë.",
+        "Farmaci: Të paktën një farmaci zakonisht është në funksion gjatë orëve të ditës së javës në qendër të qytetit. Mbushja e farmacëve të diel dhe mbrëmje rrotullohet (kërkoni shenjat turni / farmaci e parë).",
+        "ATM dhe valutë: ATM që pranojnë kartat debetore / kredito ndërkombëtare janë në dispozicion në qendër të qytetit të Krujës. Për para, eurot dhe dollarët amerikane kanë të kthejnë në banka; ofruesit e ndryshimit në Pazar mund të ofrojnë kursa të pafavorshme.",
+        "Suvenirët dhe artizanati: Pazar i Vjetër specializohet në mallra tradicionale prej leshi (qiellama), qilima leshi, xhaferri argjendi me filigran, dhe zanaatë lokale. Kjo është një kategori produktesh, jo miratimi i ndonjë stalli individuali."
+      ]
+    },
+    "fuel": {
+      "title": "Stacione të Karburantit dhe Ngarkesa EV",
+      "summary": "Shoferët duhet të mbushën para se të ngjiten në Krujë. Infrastruktura EV në Krujë është e kufizuar për sa i përket të dhënave më të fundit.",
+      "items": [
+        "Karburanti (benzinë / naftë): Koncentrimi kryesor i stacioneve të karburantit është përgjatë korridorit SH22 (Fushë-Krujë – Krujë – Tirana). Market funksionojnë pavarësisht; çmimet luhatin me normat e tregut botëror. Mbushni para se të hyni në qytetin e Krujës pasi stacionet në kodër janë të shpërngulura.",
+        "Ngarkesa EV: Ngarkesa publike e fuqisë së lartë DC është e përqendruar në Tiranë (35 km) dhe Durrës (40 km). Ngarkesa në destinim në shtëpitë pushimi të mesme dhe të larta mund të jetë në dispozicion në shpjegim të pronarëve individualë — nuk garantohet për asnjë objekt të caktuar.",
+        "Planifikimi i rrugëtimit: Udhëtimi ida e kthyer nga Tirana te Krujë është brenda një ngarkese të vetme për shumicën e modeleve EV. Për itinerare më të gjata rurale (p.sh., vazhdim drejt Shkodrës ose Lezhës), planifikoni ndalesa e ngarkesave në qytete më të mëdha.",
+        "Këshillë e makinave në kodër: 3 km e fundit ngjitëse për në Krujë kanë pjerrësi 8–12%; EV me modet kurse të energjisë ose regenerative rekomandohen për të ruajtur autonominë."
+      ]
+    }
   },
   "legends": {
     "title": "Legjendat dhe Mitet",

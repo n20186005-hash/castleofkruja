@@ -2,17 +2,20 @@ import { useTranslations } from 'next-intl';
 
 export default function Hero() {
   const t = useTranslations('hero');
+  const tBasic = useTranslations('basicInfo');
 
   const mapsLink = t('mapsLink') || 'https://maps.app.goo.gl/z3Ak17fXyWwwntcB9';
+  const heroAlt = `${tBasic('officialNameValue') || 'Castle of Kruja'} - Main view in ${tBasic('cityValue') || 'Krujë'}, ${tBasic('countryValue') || 'Albania'}`;
 
   return (
     <section className="relative min-h-screen flex items-end pb-16 sm:pb-24 overflow-hidden">
-      {/* Background image slideshow */}
       <div className="absolute inset-0">
         <img
           src="/gallery/castle-of-kruja (1).jpg"
-          alt="Castle of Kruja"
+          alt={heroAlt}
           className="w-full h-full object-cover"
+          loading="eager"
+          fetchPriority="high"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
       </div>

@@ -1,31 +1,14 @@
 import React from 'react';
-import { useTranslations } from 'next-intl';
+import { useTranslations, useMessages } from 'next-intl';
 
 export default function SchemaMarkup() {
   const tBasic = useTranslations('basicInfo');
   const tHero = useTranslations('hero');
   const tMeta = useTranslations('meta');
   const tTransport = useTranslations('transport');
-
-  const touristAttractionSchema = {
-    "@context": "https://schema.org",
-    "@type": ["TouristAttraction", "Place"],
-    "name": tBasic('officialNameValue'),
-    "alternateName": tHero('title'),
-    "description": tMeta('description'),
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": tBasic('cityValue'),
-      "addressCountry": tBasic('countryValue'),
-      "streetAddress": tBasic('addressValue')
-    },
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "4.6",
-      "reviewCount": "9953"
-    },
-    "publicAccess": true
-  };
+  const tFAQ = useTranslations('faq');
+  const messages = useMessages() as any;
+  const faqItems = (messages?.faq?.items || []) as Array<{ question: string; answer: string }>;
 
   const webSiteSchema = {
     "@context": "https://schema.org",
@@ -40,7 +23,7 @@ export default function SchemaMarkup() {
     "@context": "https://schema.org",
     "@type": "AboutPage",
     "mainEntity": {
-      "@id": "https://castleofkruja.com/#touristattraction"
+      "@id": "https://castleofkruja.com/#attraction"
     }
   };
 
@@ -63,6 +46,19 @@ export default function SchemaMarkup() {
     ]
   };
 
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqItems.map((item) => ({
+      "@type": "Question",
+      "name": item.question,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": item.answer
+      }
+    }))
+  };
+
   return (
     <>
       <script
@@ -76,6 +72,10 @@ export default function SchemaMarkup() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(howToSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
       />
     </>
   );

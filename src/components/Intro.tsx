@@ -2,6 +2,7 @@ import { useTranslations, useMessages } from 'next-intl';
 
 export default function Intro() {
   const t = useTranslations('intro');
+  const tSEO = useTranslations('seo');
   const tOff = useTranslations('officialManagement');
   const messages = useMessages() as any;
   const items: string[] = messages?.intro?.visitGuide?.items || [];
@@ -14,16 +15,54 @@ export default function Intro() {
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
           style={{ color: 'var(--text-primary)' }}
         >
-          {t('title')}
+          {tSEO('h2About')}
         </h2>
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
 
+        <div
+          className="p-5 sm:p-6 rounded-xl border mb-10"
+          style={{
+            background: 'var(--bg-tertiary)',
+            borderColor: 'var(--border-color)',
+            borderStyle: 'dashed',
+          }}
+        >
+          <p
+            className="text-base font-medium leading-relaxed mb-4"
+            style={{ color: 'var(--text-primary)' }}
+          >
+            {tSEO('identityDeclaration')}
+          </p>
+          <nav aria-label="Geo breadcrumb" className="text-sm">
+            <ol className="flex flex-wrap items-center gap-1.5" style={{ color: 'var(--text-muted)' }}>
+              {tSEO('geoBreadcrumb').split(' → ').map((crumb, i, arr) => (
+                <li key={i} className="flex items-center gap-1.5">
+                  <span style={{ color: i === arr.length - 1 ? 'var(--text-secondary)' : 'var(--text-muted)' }}>{crumb}</span>
+                  {i < arr.length - 1 && <span aria-hidden="true">→</span>}
+                </li>
+              ))}
+            </ol>
+          </nav>
+        </div>
+
         <p
-          className="text-lg leading-relaxed mb-12"
+          className="text-lg leading-relaxed mb-8"
           style={{ color: 'var(--text-secondary)' }}
         >
           {t('description')}
         </p>
+
+        <div
+          className="p-5 sm:p-6 rounded-xl border mb-12"
+          style={{ background: 'var(--bg-tertiary)', borderColor: 'var(--border-color)' }}
+        >
+          <p
+            className="text-base leading-relaxed"
+            style={{ color: 'var(--text-secondary)' }}
+          >
+            {tSEO('surroundingCluster')}
+          </p>
+        </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div

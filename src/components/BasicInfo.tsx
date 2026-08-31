@@ -2,6 +2,27 @@
 
 import { useTranslations } from 'next-intl';
 
+type OptionalFieldKey =
+  | 'accessibility'
+  | 'sunsetTip'
+  | 'region'
+  | 'coordinates'
+  | 'heritageStatus'
+  | 'suggestedDuration'
+  | 'photographyPolicy'
+  | 'dressCode';
+
+const OPTIONAL_FIELDS: OptionalFieldKey[] = [
+  'accessibility',
+  'sunsetTip',
+  'region',
+  'coordinates',
+  'heritageStatus',
+  'suggestedDuration',
+  'photographyPolicy',
+  'dressCode',
+];
+
 export default function BasicInfo() {
   const t = useTranslations('basicInfo');
 
@@ -20,9 +41,17 @@ export default function BasicInfo() {
           <InfoCard title={t('officialName')} value={t('officialNameValue')} />
           <InfoCard title={t('type')} value={t('typeValue')} />
           <InfoCard title={t('googleRating')} value={t('googleRatingValue')} />
-          {t.has('accessibility') && <InfoCard title={t('accessibility')} value={t('accessibilityValue')} />}
-          {t.has('sunsetTip') && <InfoCard title={t('sunsetTip')} value={t('sunsetTipValue')} />}
           <InfoCard title={t('plusCode')} value={t('plusCodeValue')} />
+          {OPTIONAL_FIELDS.map((key) =>
+            t.has(key) ? (
+              <InfoCard
+                key={key}
+                title={t(key)}
+                value={t(`${key}Value` as any)}
+                wide={key === 'heritageStatus' || key === 'photographyPolicy' || key === 'accessibility' || key === 'dressCode'}
+              />
+            ) : null
+          )}
           <div className="md:col-span-2 lg:col-span-3">
             <InfoCard title={t('address')} value={t('addressValue')} />
           </div>
@@ -32,14 +61,14 @@ export default function BasicInfo() {
   );
 }
 
-function InfoCard({ title, value }: { title: string; value: string }) {
+function InfoCard({ title, value, wide }: { title: string; value: string; wide?: boolean }) {
   return (
     <div
-      className="rounded-xl p-5 border"
+      className={`rounded-xl p-5 border ${wide ? 'md:col-span-2 lg:col-span-3' : ''}`}
       style={{ background: 'var(--bg-tertiary)', borderColor: 'var(--border-color)' }}
     >
       <p className="text-sm mb-1" style={{ color: 'var(--text-muted)' }}>{title}</p>
-      <p className="font-medium" style={{ color: 'var(--text-primary)' }}>{value}</p>
+      <p className="font-medium leading-relaxed" style={{ color: 'var(--text-primary)' }}>{value}</p>
     </div>
   );
 }
