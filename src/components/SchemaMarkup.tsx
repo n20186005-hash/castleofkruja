@@ -14,16 +14,16 @@ export default function SchemaMarkup() {
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": tMeta('title'),
-    "url": "https://castleofkruja.com",
+    "url": "https://www.castleofkruja.com",
     "description": tMeta('description'),
-    "inLanguage": ["en", "zh", "sq"]
+    "inLanguage": ["en", "zh", "sq", "de", "fr", "it", "nl"]
   };
 
   const aboutPageSchema = {
     "@context": "https://schema.org",
     "@type": "AboutPage",
     "mainEntity": {
-      "@id": "https://castleofkruja.com/#attraction"
+      "@id": "https://www.castleofkruja.com/#attraction"
     }
   };
 

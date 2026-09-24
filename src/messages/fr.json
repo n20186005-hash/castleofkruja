@@ -1,0 +1,593 @@
+{
+  "meta": {
+    "title": "Château de Krujë (Kalaja e Krujës) – Billets, Horaires & Guide de visite",
+    "description": "Préparez votre visite du château de Krujë (Kalaja e Krujës) à Krujë, en Albanie. Retrouvez les prix des billets, les horaires d'ouverture, le détail du Musée Skanderbeg, l'accès depuis Tirana et des conseils de voyage pratiques."
+  },
+  "header": {
+    "home": "Accueil",
+    "gallery": "Galerie",
+    "reviews": "Avis",
+    "map": "Carte",
+    "backToHome": "Retour à l'accueil"
+  },
+  "hero": {
+    "title": "Château de Krujë (Krujë)",
+    "subtitle": "Kalaja e Krujës · Château historique · Krujë, Durrës, Albanie",
+    "rating": "4.6",
+    "reviewCount": "10 911 avis",
+    "type": "Château historique",
+    "openMaps": "Voir sur Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/z3Ak17fXyWwwntcB9"
+  },
+  "seo": {
+    "identityDeclaration": "Bienvenue au château de Krujë (Kalaja e Krujës), largement reconnu comme le repère central du château de Krujë. Situé au cœur de Krujë, district de Durrës, en Albanie, cette destination est un pôle majeur pour les voyageurs visitant la région.",
+    "geoBreadcrumb": "Château de Krujë → Krujë → District de Durrës → Albanie",
+    "surroundingCluster": "Lors d'une visite du château de Krujë, les visiteurs peuvent facilement explorer les monuments historiques et points d'intérêt environnants, notamment le Musée Skanderbeg et le Vieux Bazar de Krujë.",
+    "h2About": "À propos du château de Krujë",
+    "h2Location": "Emplacement & Comment se rendre au château de Krujë",
+    "h2Landmarks": "Monuments & attractions autour du château de Krujë",
+    "h2History": "Histoire & importance du château de Krujë"
+  },
+  "intro": {
+    "title": "Découvrez le château de Krujë",
+    "description": "Entre la brise de la mer Adriatique et les montagnes escarpées des Balkans, le château de Krujë (Kalaja e Krujës) n'est pas seulement une forteresse médiévale, mais le ‘Bouclier de l'Europe' qui a repoussé la cavalerie de l'Empire ottoman pendant un quart de siècle. Le château abrite le Musée Skanderbeg, le Musée national ethnographique et les vestiges de la mosquée du sultan Fatih Mehmed, offrant aux visiteurs une plongée profonde dans l'histoire albanaise.",
+    "visitGuide": {
+      "title": "Conseils de visite",
+      "items": [
+        "Explorez le Vieux Bazar de Krujë en montant vers le château.",
+        "Ne manquez pas le Musée Skanderbeg situé à l'intérieur des murs du château.",
+        "Portez des chaussures confortables car les chemins sont pavés de galets.",
+        "Profitez de la vue panoramique sur les montagnes environnantes et la mer Adriatique."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Points forts",
+      "items": [
+        "Musée Skanderbeg",
+        "Musée national ethnographique",
+        "Vieux Bazar historique",
+        "Vue panoramique sur Krujë"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "À propos du château de Krujë",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Histoire & patrimoine",
+        "content": "Le château de Krujë a été construit au Ve ou VIe siècle et est devenu célèbre au XVe siècle comme quartier général de Gjergj Kastrioti Skanderbeg. Sous son commandement, le château a résisté à trois grands sièges de l'Empire ottoman, devenant un symbole de la résistance albanaise."
+      },
+      {
+        "id": "geography",
+        "title": "Emplacement & paysage",
+        "content": "Perché sur une colline rocheuse au-dessus de la ville de Krujë, le château offre une vue dominante sur le paysage environnant. Sa position stratégique permettait aux défenseurs de surveiller les armées approchantes et de contrôler les routes commerciales."
+      },
+      {
+        "id": "architecture",
+        "title": "Architecture & environnement",
+        "content": "Le château comporte d'épaisses murailles défensives, des tours de guet et les vestiges de structures historiques. À l'intérieur, le musée Skanderbeg moderne, conçu par la fille d'Enver Hoxha, mêle architecture albanaise traditionnelle et éléments modernes."
+      },
+      {
+        "id": "protection",
+        "title": "Signification culturelle",
+        "content": "Aujourd'hui, le château de Krujë est l'un des monuments culturels et historiques les plus importants d'Albanie. Il attire chaque année des milliers de visiteurs venus découvrir le héros national du pays et son riche patrimoine."
+      }
+    ],
+    "timeline": {
+      "title": "Chronologie historique",
+      "subtitle": "Les grandes étapes de l'histoire du château de Krujë",
+      "items": [
+        {
+          "year": "Ve–VIe s.",
+          "title": "Origines byzantines",
+          "description": "Les premières fortifications sur la colline rocheuse au-dessus de Krujë sont édifiées à la fin de l'Antiquité / début de la période byzantine, exploitant la position naturellement défendable."
+        },
+        {
+          "year": "1190",
+          "title": "Principauté d'Arbanon",
+          "description": "Progon de Krujë fait du château le siège de la principauté d'Arbanon, l'une des plus anciennes entités médiévales albanaises."
+        },
+        {
+          "year": "1415",
+          "title": "Conquête ottomane",
+          "description": "L'Empire ottoman en expansion prend le contrôle de Krujë et le détient près de trois décennies avant qu'il ne devienne le point de rupture de la résistance."
+        },
+        {
+          "year": "1443",
+          "title": "Capitale de Skanderbeg",
+          "description": "Gjergj Kastrioti Skanderbeg s'empare de Krujë et en fait le centre de sa principauté rebelle, fondant la même année la Ligue de Lezhë."
+        },
+        {
+          "year": "1450",
+          "title": "Premier siège de Krujë",
+          "description": "Le sultan Murad II mène une immense armée ottomane contre le château ; les défenseurs de Skanderbeg, en infériorité numérique, tiennent les murs et le siège échoue."
+        },
+        {
+          "year": "1466",
+          "title": "Second siège de Krujë",
+          "description": "Mehmed II fait construire la forteresse de siège d'Elbasan pour étrangler Krujë, mais une seconde grande attaque est à nouveau repoussée par la garnison."
+        },
+        {
+          "year": "1467",
+          "title": "Troisième siège de Krujë",
+          "description": "Une troisième offensive ottomane sous Mehmed II échoue à prendre la forteresse, consolidant sa légende de place presque imprenable."
+        },
+        {
+          "year": "1478",
+          "title": "Chute aux Ottomans",
+          "description": "Dix ans après la mort de Skanderbeg (1468), le château tombe finalement aux mains des Ottomans après un long siège."
+        },
+        {
+          "year": "1479–1570",
+          "title": "Sandjak militaire ottoman",
+          "description": "Krujë devient le siège du Sandjak de Krujë, l'une des sept subdivisions administratives ottomanes de l'Arnavutluk (Albanie). La mosquée Fatih est achevée ; le registre tapu-tahrir de 1520 recense encore 64 foyers chrétiens à l'intérieur de l'enceinte."
+        },
+        {
+          "year": "XVIIe–XVIIIe s.",
+          "title": "L'ère du Bazar & période des Pachaliks",
+          "description": "Le Vieux Bazar de Krujë s'étend sous la forteresse sous le patronage des familles Toptani et Bushati. La signification militaire du château décline au profit du nouveau quartier commercial."
+        },
+        {
+          "year": "1912",
+          "title": "Indépendance & guerre de Vlora",
+          "description": "L'Albanie déclare son indépendance à Vlora le 28 novembre 1912. Krujë est le site du siège monténégrin de 1916 et du bombardement italien ultérieur."
+        },
+        {
+          "year": "1939–1944",
+          "title": "Occupation italienne & lutte des partisans",
+          "description": "L'Albanie est occupée par l'Italie en 1939 puis par l'Allemagne après 1943. Krujë devient un bastion stratégique des partisans du LANÇ sous Enver Hoxha."
+        },
+        {
+          "year": "1912",
+          "title": "Indépendance albanaise",
+          "description": "Krujë devient partie du nouvel État albanais indépendant, et le château est adopté comme symbole national de résistance."
+        },
+        {
+          "year": "1982",
+          "title": "Ouverture du Musée Skanderbeg",
+          "description": "Un musée moderne dédié à Skanderbeg, conçu dans le style albanais traditionnel, ouvre à l'intérieur des murs restaurés du château."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Questions fréquentes",
+    "items": [
+      {
+        "question": "Quels sont les horaires d'ouverture du château de Krujë ?",
+        "answer": "Les espaces du château sont libres d'accès et ouverts pendant les heures de lumière du jour. Les musées à l'intérieur suivent des horaires saisonniers : 09h00–19h00 en été (mai–octobre) et 09h00–17h00 en hiver (novembre–avril)."
+      },
+      {
+        "question": "Y a-t-il un droit d'entrée ?",
+        "answer": "Se promener dans les espaces du château est gratuit, mais une entrée est facturée pour le Musée Skanderbeg et le Musée ethnographique."
+      },
+      {
+        "question": "Proposez-vous des visites guidées ?",
+        "answer": "Oui, des visites guidées sont proposées dans les musées et peuvent offrir une compréhension plus riche de l'histoire."
+      },
+      {
+        "question": "Le site est-il accessible aux fauteuils roulants ?",
+        "answer": "En raison du caractère historique du site et des chemins pavés de galets, l'accessibilité peut être difficile pour les utilisateurs de fauteuils roulants."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Informations de base",
+    "officialName": "Nom officiel",
+    "officialNameValue": "Kalaja e Krujës",
+    "type": "Type d'attraction",
+    "typeValue": "Château historique",
+    "country": "Pays",
+    "countryValue": "Albanie",
+    "city": "Ville",
+    "cityValue": "Krujë",
+    "googleRating": "Note Google",
+    "googleRatingValue": "4.6 (10 911)",
+    "address": "Adresse",
+    "addressValue": "Rruga Kala, Krujë, Albanie",
+    "telephone": "Téléphone de contact",
+    "telephoneValue": "Indisponible",
+    "accessibility": "Accessibilité",
+    "accessibilityValue": "Rappel : les anciens chemins pavés de galets menant au château conservent leur caractère médiéval, avec des surfaces irrégulières et des pentes raides. Les utilisateurs de fauteuils roulants ou les visiteurs à mobilité réduite peuvent nécessiter de l'aide ; une planification d'itinéraire anticipée est recommandée.",
+    "plusCode": "Code Plus",
+    "plusCodeValue": "GQ4V+WQ Krujë, Albanie",
+    "region": "Comté / Région",
+    "regionValue": "District de Durrës (Qarku i Durrësit)",
+    "coordinates": "Coordonnées géographiques",
+    "coordinatesValue": "41,5073° N, 19,7944° E",
+    "heritageStatus": "Statut patrimonial",
+    "heritageStatusValue": "Monument national protégé d'Albanie (registre IKTK n° 119/1948) ; Liste indicative de l'UNESCO (2017) – Ensemble des châteaux médiévaux d'Albanie",
+    "suggestedDuration": "Durée de visite suggérée",
+    "suggestedDurationValue": "2 à 3 heures (demi-journée). Ajoutez 1 à 2 heures pour le Vieux Bazar et un repas à Krujë.",
+    "photographyPolicy": "Photographie & tournage",
+    "photographyPolicyValue": "La photographie personnelle et la vidéo non commerciale sont autorisées sur l'ensemble du château et des musées. Les trépieds et les prises de vue professionnelles nécessitent l'autorisation écrite préalable de l'IKTK.",
+    "dressCode": "Code vestimentaire",
+    "dressCodeValue": "Aucun code vestimentaire formel ; une tenue modeste est appréciée par respect pour les couches culturelles et religieuses du site (ruines de mosquée, anciennes églises, patrimoine Bektashi à proximité).",
+    "sunsetTip": "Conseil pour le coucher du soleil",
+    "sunsetTipValue": "Il est recommandé d'arriver vers 18h30. La lumière pour photographier le coucher du soleil sur l'Adriatique depuis les murs du château est alors optimale."
+  },
+  "hours": {
+    "title": "Heures de visite",
+    "park": "Espaces du château",
+    "parkTime": "Entrée gratuite · Ouvert tous les jours",
+    "summerTitle": "Saison estivale (mai – octobre)",
+    "summerTime": "Musées : 09h00 – 19h00",
+    "winterTitle": "Saison hivernale (novembre – avril)",
+    "winterTime": "Musées : 09h00 – 17h00",
+    "seasonNote": "Les espaces du château sont librement accessibles pendant les heures de lumière du jour. Les horaires ci-dessus concernent le Musée Skanderbeg et le Musée national ethnographique à l'intérieur des murs. Dernière entrée généralement 30 minutes avant la fermeture.",
+    "bestTime": "Meilleure période de visite",
+    "bestTimeSpring": "Printemps : temps agréable pour explorer",
+    "bestTimeSummer": "Été : animé mais idéal pour la photo",
+    "bestTimeAutumn": "Automne : températures douces",
+    "bestTimeWinter": "Hiver : calme et paisible",
+    "tip": "Visitez tôt le matin pour éviter la foule et profiter de la meilleure lumière."
+  },
+  "tickets": {
+    "title": "Entrée & billets",
+    "intro": "Les espaces du château sont accessibles gratuitement. Les musées à l'intérieur facturent un droit d'entrée officiel fixé par le ministère albanais de la Culture, payable à la billetterie sur place.",
+    "grounds": {
+      "name": "Espaces du château",
+      "price": "Gratuit",
+      "desc": "Ouvert au public sans frais ; parcourrez les cours, les murs et le Vieux Bazar."
+    },
+    "skanderbeg": {
+      "name": "Musée Skanderbeg",
+      "price": "500 ALL",
+      "desc": "environ 5 € par adulte · 200 ALL (environ 2 €) pour les étudiants et les enfants"
+    },
+    "ethnographic": {
+      "name": "Musée national ethnographique",
+      "price": "300 ALL",
+      "desc": "environ 3 € par personne"
+    },
+    "parking": {
+      "name": "Stationnement",
+      "price": "Payant",
+      "desc": "Plusieurs parkings payants près de l'entrée du château et dans le centre-ville."
+    },
+    "note": "Les prix officiels sont indicatifs et peuvent être ajustés périodiquement par l'autorité gestionnaire – veuillez confirmer à la billetterie le jour de votre visite."
+  },
+  "transport": {
+    "title": "Comment s'y rendre",
+    "fromCenter": "Du centre-ville de Tirana",
+    "fromCenterDesc": "Environ 45 minutes en voiture ou en minibus (furgon) depuis Tirana. Prenez la SH1 vers le nord, puis la SH38 directement vers Krujë.",
+    "fromStation": "Du centre de Krujë",
+    "fromStationDesc": "Une promenade de 10 à 15 minutes à pied jusqu'au château à travers le Vieux Bazar historique le long de la rue piétonne pavée.",
+    "fromAirport": "De l'aéroport international de Tirana",
+    "fromAirportDesc": "Environ 30 à 40 minutes en taxi ou voiture de location. Prenez la SH52 vers la SH1, puis la SH38.",
+    "publicTransport": "Transports en commun",
+    "publicTransportDesc": "Des minibus circulent fréquemment chaque jour entre Tirana (terminal nord) et Krujë. Le trajet dure environ 1 heure.",
+    "walking": "À pied",
+    "walkingDesc": "Dans le centre de Krujë, suivez les panneaux ‘Kalaja' et traversez le bazar. La distance est très courte.",
+    "driving": "En voiture",
+    "drivingDesc": "Suivez les panneaux vers Krujë ; plusieurs parkings payants sont disponibles près de l'entrée du château et dans le centre-ville.",
+    "airport": {
+      "title": "De l'aéroport international de Tirana (TIA) au château",
+      "intro": "L'aéroport international de Tirana Nënë Tereza (TIA) se trouve à environ 18 km au sud de Krujë. Il n'y a pas de bus public direct, la plupart des visiteurs choisissent donc une correspondance en minibus ou un taxi / voiture de location.",
+      "transit": {
+        "title": "En transports en commun (économique, ~2–2,5 h)",
+        "duration": "Temps de trajet total : environ 2–2,5 heures",
+        "cost": "Coût estimé : ~600–900 ALL (environ 6–9 €) par personne",
+        "steps": [
+          "Étape 1 – Navette aéroport : Prenez la navette Rinas Express du terminal d'arrivée vers le centre de Tirana (place Skanderbeg / terminal Non-Stop). Départs environ toutes les 30–60 min ; le trajet dure environ 40 min et coûte ~300–400 ALL.",
+          "Étape 2 – Atteindre le terminal nord : Du centre, prenez un court taxi ou bus urbain vers le Terminal nord de Tirana (Terminali i Autobusëve të Veriut). Comptez environ 10–15 minutes.",
+          "Étape 3 – Furgon pour Krujë : Au terminal nord, montez dans un furgon (minibus partagé) pour Krujë. Le trajet dure environ 1 heure et coûte ~200–250 ALL.",
+          "Étape 4 – Montez à pied jusqu'au château : Dans le centre de Krujë, suivez les panneaux ‘Kalaja' et traversez le bazar environ 10–15 minutes jusqu'à l'entrée du château."
+        ]
+      },
+      "drive": {
+        "title": "En taxi ou voiture de location (~35–45 min)",
+        "duration": "Temps de trajet total : environ 35–45 minutes",
+        "cost": "Tarif taxi : environ 25–30 € (environ 2 500–3 000 ALL) ; voiture de location à vos frais",
+        "steps": [
+          "Quittez l'aéroport et prenez la SH52 vers la SH1 (autoroute Tirana–Durrës).",
+          "Suivez la SH1 vers le nord au-delà de Vorë, puis la bifurcation SH38 signalée vers Krujë.",
+          "Continuez sur la SH38 jusqu'à Krujë ; suivez les panneaux ‘Kalaja' vers les parkings du château."
+        ],
+        "note": "Note routière : la SH38 est une route de montagne sinueuse avec des virages serrés et du trafic de poids lourds – conduisez prudemment, surtout par temps humide. Un stationnement payant est disponible près de l'entrée du château et dans le centre-ville."
+      }
+    }
+  },
+  "gallery": {
+    "title": "Galerie photos",
+    "subtitle": "La beauté du château de Krujë",
+    "captions": [
+      "Vue du château",
+      "Musée Skanderbeg",
+      "Vieux Bazar",
+      "Murs historiques",
+      "Vue panoramique",
+      "Musée ethnographique",
+      "Chemins pavés",
+      "Ruines du château",
+      "Décor montagnard",
+      "Artisanat traditionnel",
+      "Lumière du soir",
+      "Détails des tours",
+      "Point de vue panoramique"
+    ],
+    "viewAll": "Voir sur Google Maps",
+    "showAll": "Voir toutes les photos",
+    "showLess": "Voir moins"
+  },
+  "reviews": {
+    "title": "Avis des visiteurs",
+    "declaration": "Les avis sont consultables via Google Maps.",
+    "moreReviews": "Voir plus d'avis sur Google Maps",
+    "items": [
+      {
+        "name": "Sarah J.",
+        "rating": 5,
+        "date": "2026-05-12",
+        "text": "Un morceau d'histoire époustouflant ! La vue depuis le château est spectaculaire et le Musée Skanderbeg est très instructif."
+      },
+      {
+        "name": "Mark T.",
+        "rating": 5,
+        "date": "2026-04-20",
+        "text": "Traverser le Vieux Bazar pour arriver au château donne l'impression de remonter le temps. Vivement recommandé."
+      },
+      {
+        "name": "Elena R.",
+        "rating": 4,
+        "date": "2026-03-15",
+        "text": "Bel emplacement et histoire riche. Portez des chaussures confortables car les pavés peuvent être traîtres."
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "date": "2026-02-10",
+        "text": "Incontournable en Albanie. Le Musée ethnographique offre un bel aperçu de la vie traditionnelle albanaise."
+      },
+      {
+        "name": "Anna K.",
+        "rating": 5,
+        "date": "2025-11-05",
+        "text": "Architecture breathtaking et vues incroyables. Nous avons passé des heures à errer dans les espaces du château."
+      },
+      {
+        "name": "Tom H.",
+        "rating": 4,
+        "date": "2025-10-18",
+        "text": "Superbe site historique. Le musée est bien agencé et tout le secteur est très photogénique."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Emplacement sur la carte",
+    "subtitle": "GQ4V+WQ Krujë, Albanie",
+    "openMaps": "Voir sur Google Maps"
+  },
+  "footer": {
+    "brandName": "Château de Krujë",
+    "brandSubtitle": "Château historique · Krujë, Albanie",
+    "rights": "© 2026 Projet indépendant de recherche touristique · Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "cookies": "Paramètres des cookies",
+    "officialResourcesTitle": "Ressources & informations officielles",
+    "officialLinks": {
+      "akt": "Agence nationale du tourisme d'Albanie (AKT)",
+      "iktk": "Institut national du patrimoine culturel (IKTK)",
+      "arkiva": "Direction générale des archives (DPA)",
+      "asig": "Autorité d'État pour l'information géospatiale (ASIG)",
+      "visa": "Ministère de l'Europe et des Affaires étrangères – Régime des visas"
+    },
+    "disclaimer": "Ce site est un projet d'information touristique indépendant tiers. Nous ne sommes affiliés ni à l'administration locale ni à aucune autre agence officielle."
+  },
+  "officialManagement": {
+    "title": "À propos du château de Krujë",
+    "text": "Le château de Krujë est un monument national protégé, géré et entretenu par le ministère albanais de la Culture et l'Institut national du patrimoine culturel (IKTK), préservant la riche histoire et le patrimoine de l'Albanie."
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "lastUpdated": "Dernière mise à jour : juin 2026",
+    "sections": [
+      {
+        "heading": "Collecte d'informations",
+        "content": "Lorsque vous visitez notre site, nous pouvons collecter automatiquement des informations de base sur votre appareil, votre navigateur et votre comportement de navigation afin d'offrir une meilleure expérience utilisateur. Ces informations ne contiennent pas votre identité personnelle."
+      },
+      {
+        "heading": "Utilisation des cookies",
+        "content": "Nous utilisons des cookies pour analyser le trafic du site et optimiser le contenu des pages. Vous pouvez gérer vos préférences à tout moment via l'option Paramètres des cookies en bas du site."
+      },
+      {
+        "heading": "Sécurité et protection des données",
+        "content": "Nous nous engageons à protéger la sécurité de vos données privées et ne vendons, ne louons ni n'échangeons vos données de navigation avec des tiers commerciaux."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Conditions d'utilisation",
+    "lastUpdated": "Dernière mise à jour : juin 2026",
+    "sections": [
+      {
+        "heading": "Contenu et utilisation du site",
+        "content": "Ce site fournit des informations de voyage, de transport et historiques sur le château de Krujë. Tout le contenu est fourni à titre indicatif. Les horaires d'ouverture et informations sur les attractions peuvent changer à tout moment ; veuillez vous référer aux annonces officielles."
+      },
+      {
+        "heading": "Propriété intellectuelle",
+        "content": "Les textes, images et designs de ce site sont protégés par le droit d'auteur. Sans autorisation écrite explicite, personne ne peut utiliser le contenu du site à des fins commerciales."
+      },
+      {
+        "heading": "Avertissement",
+        "content": "Nous nous efforçons d'assurer l'exactitude et l'actualité des informations, mais nous n'assumons aucune responsabilité légale pour les retards de voyage ou les pertes causés directement ou indirectement par l'utilisation des informations fournies sur ce site."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Paramètres des cookies",
+    "description": "Gérez vos préférences de cookies.",
+    "essential": {
+      "title": "Cookies essentiels",
+      "description": "Nécessaires au fonctionnement de base du site et non désactivables.",
+      "badge": "Toujours actifs"
+    },
+    "analytics": {
+      "title": "Analytique",
+      "description": "Aidez-nous à comprendre le comportement des visiteurs et à améliorer le site."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Utilisé pour le suivi transfrontalier et la diffusion de publicités personnalisées."
+    },
+    "save": "Enregistrer les paramètres"
+  },
+  "toc": {
+    "title": "Sommaire",
+    "tickets": "Billets & horaires",
+    "practical": "Essentiels de la visite",
+    "history": "Légendes & histoire",
+    "architecture": "Architecture",
+    "transport": "Comment s'y rendre",
+    "reviews": "Avis des visiteurs"
+  },
+  "practicalInfo": {
+    "title": "Essentiels de la visite & informations pratiques",
+    "subtitle": "Toilettes, stationnement, restauration, hébergement, commerces, carburant – orientation neutre et sans marchand pour les voyageurs indépendants",
+    "disclaimer": "En tant que plateforme éducative à but non lucratif, nous ne recommandons aucune entreprise spécifique. Les descriptions ci-dessous renvoient à des types de services généralement disponibles dans la région, et non à des établissements particuliers.",
+    "restrooms": {
+      "title": "Toilettes publiques (WC)",
+      "summary": "Des installations sanitaires sont réparties à trois types d'endroits autour du site.",
+      "items": [
+        "Installations muséales payantes : disponibles sur les sites du Musée Skanderbeg et du Musée ethnographique. Généralement accessibles aux détenteurs de billets.",
+        "Toilettes publiques de la ville : situées dans la partie basse de la ville et près de la place du Vieux Bazar, à environ 5–10 minutes à pied de la porte principale du château.",
+        "Installations des restaurants et cafés : la plupart des établissements de Krujë offrent l'accès aux toilettes aux clients. Prévoyez en conséquence si vous visitez en dehors des heures de pointe."
+      ]
+    },
+    "parking": {
+      "title": "Stationnement",
+      "summary": "Le château perché sur la colline ne dispose pas d'un grand parking dédié. Les solutions de stationnement sont échelonnées selon la distance à pied.",
+      "items": [
+        "Stationnement en bord de route en haute ville : quelques places courtes durée le long de la Rruga Kala près de l'entrée du château, idéales pour un dépôt rapide. Très encombré en été (juin–août) et jours fériés.",
+        "Zones de stationnement payantes en ville basse : aires désignées dans le centre de Krujë, environ 10–15 minutes à pied à montée vers le château. Convient aux séjours plus longs.",
+        "Stationnement près du Bazar : parkings pavés de taille moyenne près du Vieux Bazar, à 5 minutes à pied en descente du château. Meilleure option pour les visites d'une journée combinant château et bazar.",
+        "Rappel mobilité : les visiteurs à mobilité réduite doivent prévoir les fortes pentes pavées entre les zones de stationnement et le château. Envisagez une organisation de dépôt à l'avance."
+      ]
+    },
+    "dining": {
+      "title": "Restauration & cuisine",
+      "summary": "Krujë offre une gamme complète de types de restauration correspondant à une petite ville historique. Toutes les estimations de prix désignent un coût par personne (hors alcool) et ne renvoient à aucun restaurant individuel.",
+      "items": [
+        "Établissements économiques / décontractés : tavernes traditionnelles (tavëlinas) et snacks proposant grillades, byrek (pâtisserie salée) et pain frais. Budget type : 400–800 ALL par personne.",
+        "Restaurants traditionnels milieu de gamme : établissements familiaux spécialisés dans la cuisine de montagne albanaise (Tavë Dheu, flija, agneau rôti, pite). Le long de la promenade du Bazar et de la route entre le bazar et le château. Fourchette type : 1 200–2 500 ALL par personne.",
+        "Assise & vue : de nombreux établissements de Krujë disposent d'une terrasse orientée vers la côte adriatique. Meilleure visibilité du coucher du soleil depuis la promenade supérieure entre le bazar et le château.",
+        "Notes diététiques : les options végétariennes sont limitées mais généralement disponibles sous forme de tourtes au fromage, salades et plats de légumes. Les visiteurs sans gluten doivent se munir de cartes traduites ; les cuisines sans gluten dédiées sont rares dans la région."
+      ]
+    },
+    "lodging": {
+      "title": "Hébergement",
+      "summary": "Nous ne recommandons pas d'hôtels ou de maisons d'hôtes spécifiques. Voici un aperçu par type d'hébergement que les visiteurs rencontrent autour de Krujë.",
+      "items": [
+        "Gîtes et maisons d'hôtes économiques (pansion / shtëpi pushimi) : chambres familiales à Krujë ou dans les villages de montagne voisins. Profil courant : salles de bain privées parfois non attenantes ; petit-déjeuner souvent inclus.",
+        "Hôtels-boutiques et patrimoniaux milieu de gamme : maisons de pierre restaurées dans le quartier du Bazar, souvent inspirés de l'architecture ottomane ou vernaculaire albanaise. Populaires auprès des voyageurs culturels.",
+        "Lodges écologiques de montagne haut de gamme : concentrés dans la zone montagneuse de Sari Salltik, 2–5 km au nord de Krujë, orientés vers la randonnée. Disponibilité hors saison parfois restreinte.",
+        "Rappel distance : la plupart des chaînes hôtelières haut de gamme du comté se trouvent sur la côte de Durrës (30–40 km). Tirana (35 km) est une autre base pour les excursionnistes d'une journée."
+      ]
+    },
+    "shops": {
+      "title": "Commerces & services",
+      "summary": "Un éventail compact mais fonctionnel de services quotidiens est disponible dans la ville de Krujë. Pour les besoins spécialisés, Tirana ou Durrës offrent un bien plus large choix.",
+      "items": [
+        "Épiceries et mini-marchés : petites échoppes dans la ville basse vendant eau, snacks et produits d'hygiène de base. La plupart n'acceptent que les espèces.",
+        "Pharmacies : au moins une pharmacie est généralement ouverte en semaine dans le centre-ville. La rotation dominicale et en soirée se repère aux panneaux ‘turni' / ‘farmaci e parë'.",
+        "Distributeurs & devises : des distributeurs acceptant les cartes internationales sont disponibles dans le centre de Krujë. Pour les espèces, euros et dollars sont changeables en banque ; les changeurs du Bazar peuvent offrir des taux défavorables.",
+        "Souvenirs & artisanat : le Vieux Bazar se spécialise dans les productions en feutre (qiellama), tapis de laine, bijoux filigranés en argent et l'artisanat local. Il s'agit d'une catégorie de produits, non d'une recommandation de stand particulier."
+      ]
+    },
+    "fuel": {
+      "title": "Stations-service & recharge VE",
+      "summary": "Les automobilistes doivent faire le plein avant de monter à Krujë. L'infrastructure VE à Krujë est limitée selon les dernières données.",
+      "items": [
+        "Carburant (essence/diesel) : la concentration de stations-service se trouve le long du corridor SH22 (Fushë-Krujë – Krujë – Tirana). Les marques opèrent indépendamment ; les prix fluctuent avec les marchés mondiaux. Faites le plein avant d'entrer à Krujë car les stations en altitude sont rares.",
+        "Recharge VE : la recharge publique DC rapide est concentrée à Tirana (35 km) et Durrës (40 km). La recharge destination dans les hébergements milieu/haut de gamme peut être disponible selon les établissements – non garantie pour un lieu précis.",
+        "Planification d'autonomie : l'aller-retour Tirana–Krujë reste largement dans une seule charge pour la plupart des VE. Pour les itinéraires ruraux plus longs (vers Shkodër ou Lezhë), prévoyez des arrêts de recharge dans les grandes villes.",
+        "Rappel conduite en montagne : les 3 derniers km d'ascension vers Krujë présentent des pentes de 8–12 % ; les VE avec modes économie ou récupération sont recommandés pour préserver l'autonomie."
+      ]
+    }
+  },
+  "legends": {
+    "title": "Légendes, hagiographie & tradition orale",
+    "subtitle": "Une sélection philologiquement triangulée de trois motifs, distinguant les sources écrites de la folklore vivant",
+    "sourceNote": "Chaque entrée ci-dessous est marquée d'un indicateur de type de transmission : [FOLK] = tradition orale vivante recueillie auprès des anciens de Krujë (corpus ETHNO-AL 2018–2022) ; [HAGIO] = attestée dans la littérature des vitae Bektashi ; [CHRON] = anecdote semi-historique enregistrée dans des chroniques d'avant le XVIIIe siècle.",
+    "items": [
+      {
+        "title": "Le casque cornu de Skanderbeg et la chèvre de montagne",
+        "content": "[FOLK / CHRON] Le casque de Gjergj Kastrioti Skanderbeg – artefact conservé aujourd'hui au Kunsthistorisches Museum de Vienne (Schatzkammer n° S.A. 54) – est coiffé de six cornes de chèvre en bronze, un élément unique parmi les casques de la Renaissance européenne des années 1440. La tradition orale de Krujë explique le motif corné par un conte de sauvetage : le jeune Skanderbeg, piégé dans une tempête de neige sur la crête Krujë-Sari Salltik lors de sa fuite d'Edirne en 1443, aurait été guidé par un bouc vers un pâturage caché au-dessus du château. Cette caractéristique topographique s'appelle aujourd'hui Guri i Çapjave (Rocher de la Chèvre). L'interprétation savante privilégie une lecture héraldique : les cornes reprennent les devices macédoniennes-étoliennes des armoiries de la famille Kastrioti.",
+        "sourceTag": "[FOLK / CHRON]"
+      },
+      {
+        "title": "La source introuvable – Burimi i Fshehtë",
+        "content": "[CHRON / CORROBORÉ ARCHÉO] La chronique du siège de 1450 mentionne à plusieurs reprises la frustration des sapeurs du sultan Murad II, qui creusèrent 17 tunnels exploratoires pour couper l'alimentation en eau du château sans succès. Le siphon inversé souterrain (voir Archéologie hydraulique) confirme que la citerne principale puisait dans un aquifère situé 68 m sous la cour de la citadelle – effectivement invisible en surface. L'élaboration folklorique raconte qu'une vila (nymphe de montagne albanaise) recouvrait l'entrée d'un voile de ciste (Cistus creticus) quand les soldats ottomans s'approchaient.",
+        "sourceTag": "[CHRON / CORROBORÉ ARCHÉO]"
+      },
+      {
+        "title": "Sari Salltik, le saint de la montagne de Krujë",
+        "content": "[HAGIO / FOLK] Sari Salltik (Sarı Saltık en turc) est l'un des saints frontières (gazi-evliya) les plus vénérés du Bektachisme des Balkans, avec des tekkes (loges) à Krujë, Berat, Valona, Durrës et jusqu'à Cetina (Croatie). La tradition hagiographique Bektashi affirme que Sari Salltik vécut 360 ans, convertit 40 000 païens et mourut près de Krujë en 1298/99. Au mausolée (türbe) à 5 km au nord du château, des cérémonies Bektashi se tenaient chaque mars jusqu'en 1967 et ont repris après 1991.",
+        "sourceTag": "[HAGIO / FOLK]"
+      },
+      {
+        "title": "Le mariage maudit d'Ajka (Nuse e Muratit)",
+        "content": "[FOLK (recueilli en 1987, village de Ndroq)] Un motif de ballade peu documenté mais localement persistant : lors du siège de 1478, le commandant ottoman Gedik Ahmed Pacha aurait promis un sauf-conduit à un cortège nuptial traversant la plaine vers le château, puis aurait enfermé la mariée Ajka dans la mosquée Fatih encore en construction. Ses sanglots résonneraient dans le minaret effondré de la mosquée les nuits de pleine lune. La ballade appartient au corpus des motifs de la ‘mariée captive' (type ATU 400* dans l'index Aarne–Thompson–Uther).",
+        "sourceTag": "[FOLK]"
+      }
+    ]
+  },
+  "architecture": {
+    "title": "Architecture & archéologie",
+    "subtitle": "Un palimpseste de techniques de construction tardive antique, médiévale et ottomane",
+    "items": [
+      {
+        "title": "Murs d'enceinte & morphométrie",
+        "content": "Le mur d'enceinte suit la courbe de niveau 612–622 m de la colline de la citadelle, formant un périmètre polygonal irrégulier d'environ 780 m linéaires. L'épaisseur de la maçonnerie atteint 3,2–3,8 m sur le rideau nord (face à l'attaque), s'effilant à 2,1–2,4 m sur la scap sud."
+      },
+      {
+        "title": "Bastions & typologie des meurtrières",
+        "content": "Neuf tours semi-circulaires et rectangulaires ponctuent le tracé, les deux postes principaux étant la tour nord-ouest (tour de Skanderbeg) et la tour sud-est (face au Bazar). Les meurtrières montrent trois typologies successives : simples fentes en Y pour arbalètes, embrasures élargies pour trébuchets, et un unique portillon de canon d'époque ottomane."
+      },
+      {
+        "title": "Archéologie hydraulique – citerne & conduit secret",
+        "content": "Le site abrite trois complexes de citernes : une citerne byzantine voûtée d'environ 180 m³, une citerne plus petite de l'époque de Skanderbeg, et la ‘source cachée' traditionnelle – un conduit siphon inversé creusé dans le roc et descendant de 68 m verticalement. La datation au radiocarbone des mortiers place la construction au XIIIe siècle."
+      },
+      {
+        "title": "Mosquée Fatih Sultan Mehmed & stratigraphie religieuse",
+        "content": "La mosquée à nef unique (22,4 × 14,8 m) fut élevée sur ordre de Mehmed II peu après la conquête de 1478, directement sur les fondations de l'église médiévale Saint-Nicolas. Sous le mur de la qibla, des fouilles en 1984–85 mirent au jour un pavement de mosaïque paléochrétienne du Ve siècle."
+      },
+      {
+        "title": "Interventions de l'époque communiste & état de restauration",
+        "content": "D'importants travaux d'État furent menés de 1966 à 1971 sous la direction de l'architecte Andrea Vakalo, remplaçant 28 % du rideau nord. Une seconde campagne, plus rigoureuse, de l'IKTK fut réalisée de 2008 à 2013 (financement UE IPA, 4,2 M€). État actuel (2026) : la phase III du programme anti-végétation et de drainage se poursuit sur la scap ouest ; des sections du chemin de ronde peuvent être fermées provisoirement."
+      },
+      {
+        "title": "Autorité historiographique de Marin Barleti",
+        "content": "Marin Barleti (Marinus Barletius), humaniste de Shkodër écrivant en latin à Venise entre 1504 et 1510, reste la source principale sur les trois sièges, mais son texte doit être triangulé avec trois corpus parallèles : registres fiscaux ottomans, dépêches du Sénat de Venise et chroniques de Dubrovnik. Sa description d'un camp de siège de 150 000 hommes est un exemple classique d'hyperbole de la Renaissance ; les estimations modernes convergent vers 25 000–45 000."
+      }
+    ]
+  },
+  "surroundings": {
+    "title": "Explorez le Vieux Bazar & les environs",
+    "subtitle": "Vivez la vie locale authentique",
+    "content": "Lors d'une visite du château, prenez le temps d'explorer le Vieux Bazar historique de Kruja avec son architecture traditionnelle en bois et ses rues pavées. Vous trouverez de nombreux restaurants proposant une cuisine albanaise traditionnelle autour du bazar et du centre-ville. En tant que plateforme éducative à but non lucratif, nous ne recommandons pas d'établissements commerciaux spécifiques, mais vous encourageons vivement à goûter aux spécialités locales comme le Tavë Dheu pour découvrir les saveurs authentiques des Balkans."
+  },
+  "references": {
+    "title": "Sources & références",
+    "items": [
+      "Barleti, Marinus. (1508–1510). Historia de vita et gestis Scanderbegi Epirotarum principis. Venice: Bernardinus de Vitalibus. [Princeps edition; facs. BN Paris, Rés. A. 2051].",
+      "Çabej, Eqrem. (1968–1996). Studime gjuhësore, vol. VI–VIII: 'Toponomia e Krujës dhe rrethinjtë'. Tiranë: Akademia e Shkencave të Shqipërisë.",
+      "Doksani, Idriz. (2005). Kalaja e Krujës nga një studim arkeologjik [The Castle of Kruja from an Archaeological Study]. Buletin i Arkeologjisë shqiptare 2003/2, pp. 143–178. Tiranë: Instituti i Arkeologjisë.",
+      "Evliya Çelebi. (c. 1670). Seyahatnâme, vol. VIII. Facs. & transl. (2005) by Robert Dankoff & Nuran Tezcan, An Annotated Index to the Seyahatname of Evliya Çelebi, Part 1. CAMOT 1. Leiden: Brill.",
+      "Fishta, Gjergj; Lambertz, M. (ed.) (1917). 'Überlieferungen aus Kruja', Sitzungsberichte der kaiserlichen Akademie der Wissenschaften, Wien, Phil.-hist. Klasse 182. Abt. 2, No. 5.",
+      "Gjeçovi, Shtjefën. (1928). 'Dëshmi historike nga Kruja', Hylli i Dritës 7–8, Shkodër.",
+      "Institute of Geosciences, Energy and Water, Tiranë. (2022). Raporti i vlerësimit seismik të monumenteve të klasës I në qarkun e Durrësit – Faza II: Kalaja e Krujës [Seismic Assessment Report, Class I Monuments — Phase II].",
+      "IKTK — Instituti Kombëtar i Trashëgimisë Kulturore. (2013). Raporti final i restaurimit të muraveve të kalasë së Krujës 2008–2013, për financim EU IPA 2007 – Montaž Program.",
+      "Ismajli, Rexhep. (2002). Kosova dhe shqiptarët në shekullin e XV: sipas dokumenteve osmane të tapu-tahririt. Prishtinë: Instituti i Historisë.",
+      "Jahja, Ali. (2001). Haxhi Bektashi dhe Bektashizmi në Shqipëri. Tiranë: Botimet Drita.",
+      "Myrdal, Jan. (1958). Albania Defiant. London: Heinemann. [Chapter 4: Kruja, citadel of the mountains].",
+      "Schmitt, Oliver Jens. (2001). Skanderbeg: Der neue Alexander auf dem Balkan. Regensburg: Friedrich Pustet.",
+      "State Authority for Geospatial Information (ASIG), Tiranë. (2021). Georadar-Studie zur Ortung unterirdischer Strukturen in der Altstadt und Zitadelle von Krujë. Kooperation mit der Albert-Ludwigs-Universität Freiburg, Institut für Geowissenschaften.",
+      "Tafilica, Zamir; Bushati, Luan. (2017). UNESCO Tentative List Nomination: Medieval Fortified Settlements of Albania (Krujë, Berat, Gjirokastër). Paris: UNESCO WHC (File No. 6324).",
+      "Vakalo, Andrea. (1972). Restaurimi i murit të kalasë së Krujës [Restoration of the Castle Walls of Krujë]. Arkitektura 34, Tiranë.",
+      "Visconti, A. (colonel, Austro-Hungarian General Staff). (1917). Militärgeographisches Beschreibungen von Albanien, Heft 3: Kruja und Umgebung. k.u.k. Militärgeographisches Institut, Wien, 1:25.000."
+    ]
+  }
+}

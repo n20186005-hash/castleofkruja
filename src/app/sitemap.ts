@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next';
 import { routing } from '@/i18n/routing';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://castleofkruja.com';
+  const baseUrl = 'https://www.castleofkruja.com';
   
   const entries: MetadataRoute.Sitemap = [];
 
@@ -13,7 +13,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/cookie-settings'
   ];
 
-  const locales = ['en', 'zh', 'sq'];
+  const locales = ['en', 'zh', 'sq', 'de', 'fr', 'it', 'nl'];
   for (const locale of locales) {
     for (const page of pages) {
       entries.push({

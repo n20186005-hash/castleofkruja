@@ -1,0 +1,593 @@
+{
+  "meta": {
+    "title": "Kruja Kasteel (Kalaja e Krujës) – Tickets, Openingstijden & Bezoekersgids",
+    "description": "Plan uw bezoek aan het Kruja Kasteel (Kalaja e Krujës) in Krujë, Albanië. Vind ticketprijzen, openingstijden, details over het Skanderbeg Museum, hoe u vanuit Tirana komt en praktische reistips."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Galerij",
+    "reviews": "Beoordelingen",
+    "map": "Kaart",
+    "backToHome": "Terug naar home"
+  },
+  "hero": {
+    "title": "Kruja Kasteel (Krujë)",
+    "subtitle": "Kalaja e Krujës · Historisch kasteel · Krujë, Durrës, Albanië",
+    "rating": "4.6",
+    "reviewCount": "10.911 beoordelingen",
+    "type": "Historisch kasteel",
+    "openMaps": "Bekijk op Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/z3Ak17fXyWwwntcB9"
+  },
+  "seo": {
+    "identityDeclaration": "Welkom op het Kruja Kasteel (Kalaja e Krujës), algemeen erkend als het centrale herkenningspunt van het Kruja Kasteel. Gelegen in het hart van Krujë, district Durrës, Albanië, is deze bestemming een belangrijk knooppunt voor reizigers die de regio bezoeken.",
+    "geoBreadcrumb": "Kruja Kasteel → Krujë → District Durrës → Albanië",
+    "surroundingCluster": "Bij een bezoek aan het Kruja Kasteel kunnen bezoekers moeiteloos nabijgelegen historische bezienswaardigheden verkennen, waaronder het Skanderbeg Museum en de Oude Bazaar van Kruja.",
+    "h2About": "Over het Kruja Kasteel",
+    "h2Location": "Ligging & hoe u het Kruja Kasteel bereikt",
+    "h2Landmarks": "Bezienswaardigheden rond het Kruja Kasteel",
+    "h2History": "Geschiedenis & betekenis van het Kruja Kasteel"
+  },
+  "intro": {
+    "title": "Ontdek het Kruja Kasteel",
+    "description": "Tussen de bries van de Adriatische Zee en de ruige bergen van de Balkan is het Kruja Kasteel (Kalaja e Krujës) niet slechts een middeleeuws fort, maar het ‘Schild van Europa' dat de cavalerie van het Ottomaanse Rijk een kwart eeuw lang tegenhield. Het kasteel herbergt het Skanderbeg Museum, het Nationale Etnografische Museum en de resten van de Fatih Sultan Mehmed-moskee, en biedt bezoekers een diepe duik in de Albanese geschiedenis.",
+    "visitGuide": {
+      "title": "Bezoektips",
+      "items": [
+        "Verken de Oude Bazaar van Kruja op weg naar het kasteel.",
+        "Mis het Skanderbeg Museum binnen de kasteelmuren niet.",
+        "Draag comfortabele schoenen, want de paden zijn geplaveid met keien.",
+        "Geniet van het panoramische uitzicht over de omliggende bergen en de Adriatische Zee."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Hoogtepunten",
+      "items": [
+        "Skanderbeg Museum",
+        "Nationaal Etnografisch Museum",
+        "Historische Oude Bazaar",
+        "Panoramisch uitzicht op Krujë"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Over het Kruja Kasteel",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Geschiedenis & erfgoed",
+        "content": "Het Kruja Kasteel werd in de 5e of 6e eeuw gebouwd en werd in de 15e eeuw beroemd als hoofdkwartier van Gjergj Kastrioti Skanderbeg. Onder zijn leiding weerstond het kasteel drie grote belegeringen door het Ottomaanse Rijk en werd het een symbool van Albanees verzet."
+      },
+      {
+        "id": "geography",
+        "title": "Ligging & landschap",
+        "content": "Gelegen op een rotsheuvel boven de stad Krujë biedt het kasteel een dominant uitzicht over het omliggende landschap. Zijn strategische ligging stelde verdedigers in staat naderende legers te observeren en de handelsroutes te controleren."
+      },
+      {
+        "id": "architecture",
+        "title": "Architectuur & omgeving",
+        "content": "Het kasteel heeft dikke verdedigingsmuren, wachttorens en de resten van historische gebouwen. Binnen combineert het moderne Skanderbeg Museum, ontworpen door de dochter van Enver Hoxha, traditionele Albanese architectuur met moderne elementen."
+      },
+      {
+        "id": "protection",
+        "title": "Culturele betekenis",
+        "content": "Vandaag is het Kruja Kasteel een van de belangrijkste culturele en historische bezienswaardigheden van Albanië. Het trekt jaarlijks duizenden bezoekers die meer willen weten over de nationale held van het land en zijn rijke erfgoed."
+      }
+    ],
+    "timeline": {
+      "title": "Historische tijdlijn",
+      "subtitle": "Belangrijke mijlpalen in het verhaal van het Kruja Kasteel",
+      "items": [
+        {
+          "year": "5e–6e eeuw",
+          "title": "Byzantijnse oorsprong",
+          "description": "De eerste versterkingen op de rotsheuvel boven Krujë worden gebouwd in de late oudheid / vroeg-Byzantijnse periode, gebruikmakend van de van nature verdedigbare ligging."
+        },
+        {
+          "year": "1190",
+          "title": "Prinsdom Arbanon",
+          "description": "Progon van Kruja maakt het kasteel de zetel van het Prinsdom Arbanon, een van de vroegste Albanese middeleeuwse entiteiten."
+        },
+        {
+          "year": "1415",
+          "title": "Ottomaanse verovering",
+          "description": "Het expanderende Ottomaanse Rijk neemt Krujë in en houdt het bijna drie decennia vast voordat het het breekpunt van het verzet wordt."
+        },
+        {
+          "year": "1443",
+          "title": "Hoofdstad van Skanderbeg",
+          "description": "Gjergj Kastrioti Skanderbeg verovert Krujë en maakt het het centrum van zijn opstandige prinsdom; hij sticht hetzelfde jaar de Liga van Lezhë."
+        },
+        {
+          "year": "1450",
+          "title": "Eerste belegering van Krujë",
+          "description": "Sultan Murad II leidt een enorm Ottomaans leger tegen het kasteel; Skanderbegs numeriek inferieure verdedigers houden de muren en het beleg mislukt."
+        },
+        {
+          "year": "1466",
+          "title": "Tweede belegering van Krujë",
+          "description": "Mehmed II laat het belegeringsfort Elbasan bouwen om Krujë uit te hongeren, maar een tweede grote aanval wordt opnieuw afgeslagen door de garnizoen."
+        },
+        {
+          "year": "1467",
+          "title": "Derde belegering van Krujë",
+          "description": "Een derde Ottomaanse offensief onder Mehmed II faalt het fort te nemen, wat zijn legende als een vrijwel onneembare vesting bevestigt."
+        },
+        {
+          "year": "1478",
+          "title": "Val aan de Ottomanen",
+          "description": "Tien jaar na Skanderbegs dood (1468) valt het kasteel na een lang beleg eindelijk aan het Ottomaanse Rijk."
+        },
+        {
+          "year": "1479–1570",
+          "title": "Ottomaans militair sandjak",
+          "description": "Krujë wordt de zetel van het Sandjak van Krujë, een van de zeven Ottomaanse administratieve onderverdelingen van Arnavutluk (Albanië). De Fatih-moskee wordt voltooid; het tapu-tahrir-register van 1520 telt nog 64 christelijke huishoudens binnen de kasteelmuur."
+        },
+        {
+          "year": "17e–18e eeuw",
+          "title": "Het Bazar-tijdperk & Pasjalik-periode",
+          "description": "De Oude Bazaar van Krujë breidt zich onder de vesting uit onder het patronaat van de families Toptani en Bushati. De militaire betekenis van het kasteel neemt af ten gunste van het nieuwe handelskwartier."
+        },
+        {
+          "year": "1912",
+          "title": "Onafhankelijkheid & de oorlog van Vlorë",
+          "description": "Albanië verklaart op 28 november 1912 zijn onafhankelijkheid in Vlorë. Krujë is de locatie van het Montenegrijnse beleg van 1916 en het latere Italiaanse bombardement."
+        },
+        {
+          "year": "1939–1944",
+          "title": "Italiaanse bezetting & partizanenstrijd",
+          "description": "Albanië wordt in 1939 door Italië en na 1943 door Duitsland bezet. Krujë wordt een strategisch bolwerk van de LANÇ-partizanen onder Enver Hoxha."
+        },
+        {
+          "year": "1912",
+          "title": "Albanese onafhankelijkheid",
+          "description": "Krujë wordt deel van de nieuwe onafhankelijke Albanese staat, en het kasteel wordt omarmd als nationaal symbool van verzet."
+        },
+        {
+          "year": "1982",
+          "title": "Opening van het Skanderbeg Museum",
+          "description": "Een modern museum gewijd aan Skanderbeg, ontworpen in traditionele Albanese stijl, opent binnen de gerestaureerde kasteelmuren."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Veelgestelde vragen",
+    "items": [
+      {
+        "question": "Wat zijn de openingstijden van het Kruja Kasteel?",
+        "answer": "De kasteelterreinen zijn gratis toegankelijk en open tijdens daglicht. De musea binnen volgen seizoensgebonden tijden: 09:00–19:00 in de zomer (mei–oktober) en 09:00–17:00 in de winter (november–april)."
+      },
+      {
+        "question": "Is er een entreegeld?",
+        "answer": "Rondwandelen op de kasteelterreinen is gratis, maar voor het Skanderbeg Museum en het Etnografisch Museum wordt wel entree gevraagd."
+      },
+      {
+        "question": "Zijn er rondleidingen beschikbaar?",
+        "answer": "Ja, in de musea worden rondleidingen aangeboden die het begrip van de geschiedenis kunnen verdiepen."
+      },
+      {
+        "question": "Is de locatie toegankelijk voor rolstoelgebruikers?",
+        "answer": "Vanwege het historische karakter van de locatie en de keienpaden kan de toegankelijkheid voor rolstoelgebruikers lastig zijn."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basisinformatie",
+    "officialName": "Officiële naam",
+    "officialNameValue": "Kalaja e Krujës",
+    "type": "Type attractie",
+    "typeValue": "Historisch kasteel",
+    "country": "Land",
+    "countryValue": "Albanië",
+    "city": "Stad",
+    "cityValue": "Krujë",
+    "googleRating": "Google-beoordeling",
+    "googleRatingValue": "4.6 (10.911)",
+    "address": "Adres",
+    "addressValue": "Rruga Kala, Krujë, Albanië",
+    "telephone": "Contacttelefoon",
+    "telephoneValue": "Niet beschikbaar",
+    "accessibility": "Toegankelijkheid",
+    "accessibilityValue": "Let op: de oude keienpaden naar het kasteel behouden hun middeleeuwse karakter, met ongelijke oppervlakken en steile hellingen. Rolstoelgebruikers of bezoekers met beperkte mobiliteit hebben mogelijk hulp nodig; vooraf routeplanning wordt aanbevolen.",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "GQ4V+WQ Krujë, Albanië",
+    "region": "District / Regio",
+    "regionValue": "District Durrës (Qarku i Durrësit)",
+    "coordinates": "Geografische coördinaten",
+    "coordinatesValue": "41,5073° N, 19,7944° O",
+    "heritageStatus": "Erfgoedstatus",
+    "heritageStatusValue": "Beschermd nationaal monument van Albanië (IKTK-register nr. 119/1948); UNESCO Voorlopige Lijst (2017) – Middeleeuwse kastelen van Albanië",
+    "suggestedDuration": "Aanbevolen bezoekduur",
+    "suggestedDurationValue": "2–3 uur (halve dag). Reken 1–2 uur extra voor de Oude Bazaar en een maaltijd in Krujë.",
+    "photographyPolicy": "Fotografie & filmen",
+    "photographyPolicyValue": "Persoonlijke fotografie en niet-commerciële video-opnames zijn toegestaan op de gehele kasteelterreinen en in de musea. Statieven en professionele opnames vereisen voorafgaande schriftelijke toestemming van de IKTK.",
+    "dressCode": "Kledingvoorschrift",
+    "dressCodeValue": "Geen formeel kledingvoorschrift; bescheiden kleding wordt gewaardeerd uit respect voor de culturele en religieuze lagen van de locatie (moskeeruïnes, voormalige kerken, nabijgelegen Bektashi-erfgoed).",
+    "sunsetTip": "Zonsondergangtip",
+    "sunsetTipValue": "Het wordt aanbevolen rond 18:30 uur te komen. Het licht om de Adriatische zonsondergang vanaf de kasteelmuren te fotograferen is dan het beste."
+  },
+  "hours": {
+    "title": "Bezoektijden",
+    "park": "Kasteelterreinen",
+    "parkTime": "Gratis toegang · Dagelijks open",
+    "summerTitle": "Zomerseizoen (mei – oktober)",
+    "summerTime": "Musea: 09:00 – 19:00",
+    "winterTitle": "Winterseizoen (november – april)",
+    "winterTime": "Musea: 09:00 – 17:00",
+    "seasonNote": "De kasteelterreinen zijn tijdens daglicht vrij toegankelijk. Bovenstaande tijden gelden voor het Skanderbeg Museum en het Nationale Etnografische Museum binnen de muren. Laatste toegang is meestal 30 minuten voor sluiting.",
+    "bestTime": "Beste reistijd",
+    "bestTimeSpring": "Lente: aangenaam weer om te verkennen",
+    "bestTimeSummer": "Zomer: druk maar geweldig om te fotograferen",
+    "bestTimeAutumn": "Herfst: zachte temperaturen",
+    "bestTimeWinter": "Winter: rustig en vredig",
+    "tip": "Bezoek vroeg in de ochtend om de menigten te vermijden en het beste licht te genieten."
+  },
+  "tickets": {
+    "title": "Toegang & tickets",
+    "intro": "De kasteelterreinen zijn gratis toegankelijk. De musea binnen rekenen een officiële entree die door het Albanese cultuurministerie is vastgesteld en aan de loketten ter plaatse wordt geheven.",
+    "grounds": {
+      "name": "Kasteelterreinen",
+      "price": "Gratis",
+      "desc": "Vrij toegankelijk voor het publiek; wandel over de binnenplaatsen, muren en de Oude Bazaar."
+    },
+    "skanderbeg": {
+      "name": "Skanderbeg Museum",
+      "price": "500 ALL",
+      "desc": "ca. 5 € per volwassene · 200 ALL (ca. 2 €) voor studenten en kinderen"
+    },
+    "ethnographic": {
+      "name": "Nationaal Etnografisch Museum",
+      "price": "300 ALL",
+      "desc": "ca. 3 € per persoon"
+    },
+    "parking": {
+      "name": "Parkeren",
+      "price": "Betaald",
+      "desc": "Verschillende betaalde parkeerplaatsen bij de kasteelingang en in het stadscentrum."
+    },
+    "note": "Officiële prijzen zijn indicatief en kunnen periodiek door de beheerder worden aangepast – bevestig dit op de dag van bezoek bij het loket."
+  },
+  "transport": {
+    "title": "Hoe komt u er",
+    "fromCenter": "Vanuit het centrum van Tirana",
+    "fromCenterDesc": "Ongeveer 45 minuten rijden of met de minibus (furgon) vanuit Tirana. Neem de SH1 noordwaarts, dan de SH38 direct naar Krujë.",
+    "fromStation": "Vanuit het centrum van Krujë",
+    "fromStationDesc": "Een wandeling van 10–15 minuten de heuvel op door de historische Oude Bazaar langs de geplaveide voetgangersstraat naar de kasteelingang.",
+    "fromAirport": "Vanaf de internationale luchthaven van Tirana",
+    "fromAirportDesc": "Ongeveer 30–40 minuten met taxi of huurauto. Neem de SH52 naar de SH1, dan de SH38.",
+    "publicTransport": "Openbaar vervoer",
+    "publicTransportDesc": "Minibussen rijden dagelijks frequent tussen Tirana (noordterminal) en Krujë. De rit duurt ongeveer 1 uur.",
+    "walking": "Lopend",
+    "walkingDesc": "In het centrum van Krujë volgt u de borden ‘Kalaja' en loopt u door de bazaar. De afstand is zeer kort.",
+    "driving": "Met de auto",
+    "drivingDesc": "Volg de borden naar Krujë; er zijn verschillende betaalde parkeerplaatsen bij de kasteelingang en in het stadscentrum.",
+    "airport": {
+      "title": "Vanaf de internationale luchthaven van Tirana (TIA) naar het kasteel",
+      "intro": "De internationale luchthaven Tirana Nënë Tereza (TIA) ligt ongeveer 18 km ten zuiden van Krujë. Er is geen directe openbare bus, dus de meeste bezoekers kiezen een aansluitende minibusroute of een taxi / huurauto.",
+      "transit": {
+        "title": "Met openbaar vervoer (goedkoop, ~2–2,5 uur)",
+        "duration": "Totale reistijd: ongeveer 2–2,5 uur",
+        "cost": "Geschatte kosten: ~600–900 ALL (ca. 6–9 €) per persoon",
+        "steps": [
+          "Stap 1 – Luchthavenshuttle: neem de Rinas Express-shuttlebus van de aankomsthal naar het centrum van Tirana (Skanderbegplein / Non-Stop-terminal). Vertrek ongeveer elke 30–60 min; de rit duurt ongeveer 40 min en kost ~300–400 ALL.",
+          "Stap 2 – Naar de noordterminal: vanuit het centrum neemt u een korte taxi of stadsbus naar de Tirana Noord Bus Terminal (Terminali i Autobusëve të Veriut). Reken ongeveer 10–15 minuten.",
+          "Stap 3 – Furgon naar Krujë: stap op de noordterminal in een furgon (gedeelde minibus) naar Krujë. De rit duurt ongeveer 1 uur en kost ~200–250 ALL.",
+          "Stap 4 – Lopend naar het kasteel: volg in het centrum van Krujë de borden ‘Kalaja' en loop door de bazaar ongeveer 10–15 minuten naar de kasteelingang."
+        ]
+      },
+      "drive": {
+        "title": "Met taxi of huurauto (~35–45 min)",
+        "duration": "Totale reistijd: ongeveer 35–45 minuten",
+        "cost": "Taxitarief: ongeveer 25–30 € (ca. 2.500–3.000 ALL); huurauto op eigen kosten",
+        "steps": [
+          "Verlaat de luchthaven en neem de SH52 richting de SH1 (Tirana–Durrës-snelweg).",
+          "Volg de SH1 noordwaarts voorbij Vorë, dan de SH38-afslag richting Krujë.",
+          "Rij door op de SH38 de berg op naar Krujë; volg de borden ‘Kalaja' naar de parkeerplaatsen van het kasteel."
+        ],
+        "note": "Wegopmerking: de SH38 is een bochtige bergweg met scherpe bochten en vrachtverkeer – rijd voorzichtig, vooral bij nat weer. Betaald parkeren is beschikbaar bij de kasteelingang en in het stadscentrum."
+      }
+    }
+  },
+  "gallery": {
+    "title": "Fotogalerij",
+    "subtitle": "De schoonheid van het Kruja Kasteel",
+    "captions": [
+      "Kasteeluitzicht",
+      "Skanderbeg Museum",
+      "Oude Bazaar",
+      "Historische muren",
+      "Panoramisch uitzicht",
+      "Etnografisch Museum",
+      "Keienpaden",
+      "Kasteelruïnes",
+      "Bergachtig decor",
+      "Traditioneel ambacht",
+      "Avondlicht",
+      "Torendetails",
+      "Uitzichtpunt"
+    ],
+    "viewAll": "Bekijk op Google Maps",
+    "showAll": "Alle foto's bekijken",
+    "showLess": "Minder tonen"
+  },
+  "reviews": {
+    "title": "Beoordelingen van bezoekers",
+    "declaration": "Beoordelingen zijn te bekijken via Google Maps.",
+    "moreReviews": "Meer beoordelingen bekijken op Google Maps",
+    "items": [
+      {
+        "name": "Sarah J.",
+        "rating": 5,
+        "date": "2026-05-12",
+        "text": "Een verbazingwekkend stukje geschiedenis! Het uitzicht vanaf het kasteel is spectaculair en het Skanderbeg Museum is zeer leerzaam."
+      },
+      {
+        "name": "Mark T.",
+        "rating": 5,
+        "date": "2026-04-20",
+        "text": "Door de Oude Bazaar naar het kasteel lopen voelt als een reis terug in de tijd. Zeer aan te bevelen."
+      },
+      {
+        "name": "Elena R.",
+        "rating": 4,
+        "date": "2026-03-15",
+        "text": "Prachtige locatie en rijke geschiedenis. Draag comfortabele schoenen, want de keien kunnen lastig zijn."
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "date": "2026-02-10",
+        "text": "Een must in Albanië. Het Etnografisch Museum geeft een geweldig kijkje in het traditionele Albanese leven."
+      },
+      {
+        "name": "Anna K.",
+        "rating": 5,
+        "date": "2025-11-05",
+        "text": "Adembenemende architectuur en ongelooflijke uitzichten. We hebben uren rondgezworven op de kasteelterreinen."
+      },
+      {
+        "name": "Tom H.",
+        "rating": 4,
+        "date": "2025-10-18",
+        "text": "Geweldige historische locatie. Het museum is goed ingericht en de hele omgeving is zeer fotogeniek."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Locatie op de kaart",
+    "subtitle": "GQ4V+WQ Krujë, Albanië",
+    "openMaps": "Bekijk op Google Maps"
+  },
+  "footer": {
+    "brandName": "Kruja Kasteel",
+    "brandSubtitle": "Historisch kasteel · Krujë, Albanië",
+    "rights": "© 2026 Onafhankelijk toeristisch onderzoeksproject · Alle rechten voorbehouden.",
+    "privacy": "Privacybeleid",
+    "terms": "Servicevoorwaarden",
+    "cookies": "Cookie-instellingen",
+    "officialResourcesTitle": "Officiële bronnen & informatie",
+    "officialLinks": {
+      "akt": "Nationale Toerisme Autoriteit van Albanië (AKT)",
+      "iktk": "Nationaal Instituut voor Cultureel Erfgoed (IKTK)",
+      "arkiva": "Directoraat-Generaal van Archieven (DPA)",
+      "asig": "Staatsautoriteit voor Geospatiële Informatie (ASIG)",
+      "visa": "Ministerie voor Europa en Buitenlandse Zaken – Visumregime"
+    },
+    "disclaimer": "Deze website is een onafhankelijk toeristisch informatieproject van derden. Wij zijn niet gelieerd aan het lokale bestuur of aan andere officiële instanties."
+  },
+  "officialManagement": {
+    "title": "Over het Kruja Kasteel",
+    "text": "Het Kruja Kasteel is een beschermd nationaal monument, beheerd en onderhouden door het Albanese ministerie van Cultuur en het Nationaal Instituut voor Cultureel Erfgoed (IKTK), ter bewaring van de rijke geschiedenis en het erfgoed van Albanië."
+  },
+  "privacy": {
+    "title": "Privacybeleid",
+    "lastUpdated": "Laatst bijgewerkt: juni 2026",
+    "sections": [
+      {
+        "heading": "Gegevensverzameling",
+        "content": "Wanneer u onze website bezoekt, verzamelen wij mogelijk automatisch basisinformatie over uw apparaat, browser en surfgedrag om een betere gebruikerservaring te bieden. Deze informatie bevat geen persoonlijke identiteit."
+      },
+      {
+        "heading": "Gebruik van cookies",
+        "content": "Wij gebruiken cookies om het websiteverkeer te analyseren en paginainhoud te optimaliseren. U kunt uw voorkeuren altijd beheren via de Cookie-instellingen aan de onderkant van de site."
+      },
+      {
+        "heading": "Gegevensbeveiliging en bescherming",
+        "content": "Wij zetten ons in voor de beveiliging van uw privégegevens en verkopen, verhuren of verhandelen uw surfgegevens niet met commerciële derden."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Servicevoorwaarden",
+    "lastUpdated": "Laatst bijgewerkt: juni 2026",
+    "sections": [
+      {
+        "heading": "Website-inhoud en gebruik",
+        "content": "Deze website biedt reis-, vervoers- en historische informatie over het Kruja Kasteel. Alle inhoud is slechts ter referentie. Openingstijden en attractie-informatie kunnen te allen tijde wijzigen; raadpleeg officiële aankondigingen."
+      },
+      {
+        "heading": "Intellectueel eigendom",
+        "content": "De teksten, afbeeldingen en ontwerpen op deze website zijn auteursrechtelijk beschermd. Zonder uitdrukkelijke schriftelijke toestemming mag niemand de website-inhoud voor commerciële doeleinden gebruiken."
+      },
+      {
+        "heading": "Disclaimer",
+        "content": "Wij streven naar nauwkeurigheid en actualiteit van de informatie, maar aanvaarden geen juridische aansprakelijkheid voor reisvertragingen of verliezen die direct of indirect voortvloeien uit het gebruik van de op deze website verstrekte informatie."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie-instellingen",
+    "description": "Beheer uw cookievoorkeuren.",
+    "essential": {
+      "title": "Noodzakelijke cookies",
+      "description": "Vereist voor basiswebsitefunctionaliteit en niet uit te schakelen.",
+      "badge": "Altijd actief"
+    },
+    "analytics": {
+      "title": "Analytisch",
+      "description": "Helpt ons het gedrag van bezoekers te begrijpen en de website te verbeteren."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Gebruikt voor cross-site tracking en het leveren van gepersonaliseerde advertenties."
+    },
+    "save": "Instellingen opslaan"
+  },
+  "toc": {
+    "title": "Inhoudsopgave",
+    "tickets": "Tickets & tijden",
+    "practical": "Bezoek-essentials",
+    "history": "Legenden & geschiedenis",
+    "architecture": "Architectuur",
+    "transport": "Hoe komt u er",
+    "reviews": "Beoordelingen van bezoekers"
+  },
+  "practicalInfo": {
+    "title": "Bezoek-essentials & praktische informatie",
+    "subtitle": "Toiletten, parkeren, eetgelegenheden, verblijf, winkels, brandstof – neutrale, winkeliersvrije orientatie voor onafhankelijke reizigers",
+    "disclaimer": "Als non-profit educatief platform bevelen wij geen specifieke bedrijven aan. De onderstaande beschrijvingen hebben betrekking op in de omgeving gangbaar beschikbare servicetypen, niet op individuele vestigingen.",
+    "restrooms": {
+      "title": "Openbare toiletten (WC)",
+      "summary": "Sanitaire voorzieningen zijn op drie soorten locaties rond de locatie verspreid.",
+      "items": [
+        "Betaalde museumvoorzieningen: beschikbaar op het terrein van het Skanderbeg Museum en het Etnografisch Museum. Over het algemeen toegankelijk voor ticketkopers.",
+        "Stedelijke openbare toiletten: gelegen in de benedenstad en bij het plein van de Oude Bazaar, meestal 5–10 minuten lopen van de hoofdingang van het kasteel.",
+        "Voorzieningen van restaurants en cafés: de meeste eetgelegenheden in Krujë bieden gasten WC-toegang. Plan dienovereenkomstig als u buiten de piekuren bezoekt."
+      ]
+    },
+    "parking": {
+      "title": "Parkeren",
+      "summary": "Het op een heuvel gelegen kasteel heeft zelf geen grote parkeerplaats. Parkeeroplossingen zijn gestaffeld naar loopafstand.",
+      "items": [
+        "Parkeren aan de weg in de bovenstad: beperkte kortparkeerplaatsen langs de Rruga Kala bij de kasteelingang, geschikt voor snelle stops of afzetten. Zeer druk in de zomer (juni–augustus) en op feestdagen.",
+        "Betaalde parkeerzones in de benedenstad: aangewezen parkeerterreinen in het centrum van Krujë, ongeveer 10–15 minuten lopen bergop naar het kasteel. Geschikt voor langer verblijf.",
+        "Parkeren bij de Bazaar: middelgrote verharde terreinen bij de Oude Bazaar, 5 minuten lopen bergaf van het kasteel. Beste optie voor dagtochten die kasteel en bazaar combineren.",
+        "Mobiliteitsherinnering: bezoekers met beperkte mobiliteit moeten rekening houden met steile keienhellingen tussen parkeerzones en het kasteel. Overweeg vooraf afspraken voor afzetten."
+      ]
+    },
+    "dining": {
+      "title": "Eetgelegenheden & keuken",
+      "summary": "Krujë biedt een volledig scala aan eetgelegenheidstypen passend bij een historisch stadje. Alle prijsinschattingen betreffen een bedrag per persoon (excl. alcohol) en verwijzen niet naar individuele restaurants.",
+      "items": [
+        "Budget / casual eetgelegenheden: traditionele tavëlinas (tavernes) en snackbars met gegrild vlees, byrek (hartige pastei) en vers brood. Typisch budget: 400–800 ALL per persoon.",
+        "Traditionele restaurants middenklasse: familiale zaken met Albanese bergkeuken (Tavë Dheu, flija, geroosterd lam, pite). Langs de Bazaar-promenade en de weg tussen bazaar en kasteel. Typisch: 1.200–2.500 ALL per persoon.",
+        "Zitplaatsen & uitzicht: veel zaken in Krujë hebben terrassen gericht op de Adriatische kust. Beste zicht op zonsondergang vanaf de bovenpromenade tussen bazaar en kasteel.",
+        "Dieetnotities: vegetarische opties zijn beperkt maar meestal beschikbaar als kaastaart, salades en groentegerechten. Bezoekers zonder gluten moeten vertaalde kaarten meenemen; speciale glutenvrije keukens zijn in deze regio ongebruikelijk."
+      ]
+    },
+    "lodging": {
+      "title": "Verblijf & accommodatie",
+      "summary": "Wij bevelen geen specifieke hotels of pensions aan. Hieronder een overzicht op type van accommodatievormen die bezoekers rond Krujë tegenkomen.",
+      "items": [
+        "Budget homestays & pensions (pansion / shtëpi pushimi): familiekamers in Krujë of nabijgelegen bergdorpen. Gangbaar profiel: privébadkamers soms niet en-suite; ontbijt vaak inbegrepen.",
+        "Boutique- en erfgoedhotels middenklasse: gerestaureerde stenen huizen in de Bazaar-wijk, vaak in Ottomaanse of traditionele Albanese stijl. Populair bij cultuurreizigers.",
+        "Hoogwaardige berg-ecolodges: geconcentreerd in het Sari Salltik-berggebied 2–5 km ten noorden van Krujë, gericht op wandelen en natuur. Beschikbaarheid buiten het seizoen soms beperkt.",
+        "Afstandsherinnering: de meeste full-service hotelketens in de wijde county liggen aan de Durrës-kust (30–40 km). Tirana (35 km) is een andere basis voor dagtoeristen."
+      ]
+    },
+    "shops": {
+      "title": "Gemak, winkels & diensten",
+      "summary": "Een compact maar functioneel aanbod van dagelijkse diensten is beschikbaar in de stad Krujë. Voor gespecialiseerde behoeften bieden Tirana of Durrës een veel bredere keuze.",
+      "items": [
+        "Gemakswinkels & minimarkten: kleine kruideniers in de benedenstad verkopen water, snacks en basishygiëne. De meeste accepteren alleen contant.",
+        "Apotheken: doordeweeks is in het centrum meestal ten minste één apotheek geopend. Zondag- en avondrotatie is te herkennen aan borden ‘turni' / ‘farmaci e parë'.",
+        "Geldautomaten & valuta: geldautomaten die internationale kaarten accepteren zijn beschikbaar in het centrum van Krujë. Voor contant geld zijn euro en USD wisselbaar bij banken; wisselkantoren bij de Bazaar bieden mogelijk ongunstige koersen.",
+        "Souvenirs & ambacht: de Oude Bazaar is gespecialiseerd in traditioneel vilt (qiellama), wollen tapijten, filigraan zilveren sieraden en lokaal ambacht. Dit is een productcategorie, geen aanbeveling van een individuele kraam."
+      ]
+    },
+    "fuel": {
+      "title": "Tankstations & EV-opladen",
+      "summary": "Automobilisten moeten tanken voordat zij Krujë beklimmen. De EV-infrastructuur in Krujë is volgens de laatste gegevens beperkt.",
+      "items": [
+        "Brandstof (benzine/diesel): de concentratie van tankstations ligt langs de SH22-corridor (Fushë-Krujë – Krujë – Tirana). Merken opereren onafhankelijk; prijzen fluctueren met wereldmarkten. Tank vóór Krujë, want bergstations zijn schaars.",
+        "EV-opladen: openbaar DC-snelladen is geconcentreerd in Tirana (35 km) en Durrës (40 km). Bestemmingsladen bij midden-/hoogwaardig verblijf kan beschikbaar zijn naar goeddunken van individuele locaties – niet gegarandeerd voor een specifieke vestiging.",
+        "Bereikplanning: de heen- en terugreis Tirana–Krujë valt ruimschoots binnen één lading voor de meeste EV's. Voor langere rurale routes (bijv. verder naar Shkodër of Lezhë) plant u laadstops in grotere steden.",
+        "Bergrij-herinnering: de laatste 3 km klim naar Krujë kent hellingen van 8–12%; EV's met besparings- of recuperatiemodus worden aanbevolen om bereik te behouden."
+      ]
+    }
+  },
+  "legends": {
+    "title": "Legenden, hagiografie & mondelinge traditie",
+    "subtitle": "Een filologisch gedriehoekte selectie van drie motieven, die geschreven bronnen onderscheidt van levend volksgeloof",
+    "sourceNote": "Elk item hieronder is gemarkeerd met een overdrachtstype-indicator: [FOLK] = levende mondelinge traditie verzameld onder oudsten van Krujë (ETHNO-AL veldwerkcorpus 2018–2022); [HAGIO] = getuigd in Bektashi vita-literatuur; [CHRON] = semi-historische anekdote opgetekend in kronieken van vóór de 18e eeuw.",
+    "items": [
+      {
+        "title": "Skanderbegs gehoornde helm en de berggeit",
+        "content": "[FOLK / CHRON] De helm van Gjergj Kastrioti Skanderbeg – een artefact dat thans in het Kunsthistorisches Museum Wenen wordt bewaard (Schatzkammer nr. S.A. 54) – is bekroond met zes bronzen geitenhoorns, een element dat uniek is onder Europese renaissancehelmen van de jaren 1440. De mondelinge traditie in Krujë verklaart het hoornmotief via een reddingsverhaal: de jonge Skanderbeg, gevangen in een sneeuwstorm op de Krujë-Sari Salltik-kam tijdens zijn vlucht uit Edirne in 1443, werd door een bok door een nachtelijke sneeuwstorm naar een verborgen weide boven het kasteel geleid. Dit topografische kenmerk heet heden Guri i Çapjave (Geitenrots). De geleerde interpretatie geeft de voorkeur aan een heraldische lezing: de hoorns weerspiegelen de Macedonisch-Aetolische device van het wapen van de familie Kastrioti.",
+        "sourceTag": "[FOLK / CHRON]"
+      },
+      {
+        "title": "De onvindbare bron – Burimi i Fshehtë",
+        "content": "[CHRON / ARCHEO-BEVESTIGD] De belegeringskroniek van 1450 noemt herhaaldelijk de frustratie van de sappers van sultan Murad II, die 17 verkenningstunnels groeven om de watertoevoer van het kasteel af te snijden zonder succes. De ondergrondse omgekeerde sifon (zie Hydraulische Archeologie) bevestigt dat het hoofdbekken putte uit een aquifer 68 m onder de binnenplaats van de citadel – feitelijk onzichtbaar vanaf het oppervlak. De volkse uitwerking vertelt dat een vila (Albanese bergnimf) de inlaat bedekte met een vel cistusroos (Cistus creticus) wanneer Ottomaanse soldaten naderden.",
+        "sourceTag": "[CHRON / ARCHEO-BEVESTIGD]"
+      },
+      {
+        "title": "Sari Salltik, de heilige van de Krujë-berg",
+        "content": "[HAGIO / FOLK] Sari Salltik (Sarı Saltık in het Turks) is een van de meest vereerde grensheiligen (gazi-evliya) van het Balkano Bektashisme, met tekkes (loges) in Krujë, Berat, Valona, Durrës en tot aan Cetina (Kroatië). De Bektashi-hagiografische traditie bevestigt dat Sari Salltik 360 jaar leefde, 40.000 heidenen bekeerde en in 1298/99 nabij Krujë stierf. Bij zijn mausoleum (türbe) 5 km ten noorden van het kasteel werden tot 1967 elk jaar in maart Bektashi-ceremonies gehouden en na 1991 hervat.",
+        "sourceTag": "[HAGIO / FOLK]"
+      },
+      {
+        "title": "Het noodlottige huwelijk van Ajka (Nuse e Muratit)",
+        "content": "[FOLK (verzameld 1987, dorp Ndroq)] Een weinig gedocumenteerd maar lokaal hardnekkig ballademotief: tijdens het beleg van 1478 zou de Ottomaanse commandant Gedik Ahmed Pasha een bruidsgezelschap dat de vlakte naar het kasteel overstak vrijgeleide hebben beloofd, om de bruid Ajka vervolgens op te sluiten in de nog in aanbouw zijnde Fatih-moskee. Haar snikken zouden weergalmen in de ingestorte minaret van de moskee bij volle maan. De ballade behoort tot het corpus van de ‘gevangene bruid'-motieven (type ATU 400* in de Aarne–Thompson–Uther-index).",
+        "sourceTag": "[FOLK]"
+      }
+    ]
+  },
+  "architecture": {
+    "title": "Architectuur & archeologie",
+    "subtitle": "Een palimpsest van laat-antieke, middeleeuwse en Ottomaanse bouwtechnieken",
+    "items": [
+      {
+        "title": "Omwalling & morfometrie",
+        "content": "De omsluitende ringmuur volgt de hoogtelijn 612–622 m van de citadelheuvel en vormt een onregelmatig polygonale omtrek van ongeveer 780 lopende meter. De basismuurdikte bereikt 3,2–3,8 m aan de noordelijke (aanvalszijde) gordelmuur, versmallend tot 2,1–2,4 m aan de zuidelijke scarp."
+      },
+      {
+        "title": "Bolwerken & schietgat-typologie",
+        "content": "In totaal negen halfronde en rechthoekige torens markeren het verloop, waarbij de noordwestelijke (Skanderbeg-toren) en zuidoostelijke (naar de Bazaar gerichte) de twee hoofdposten zijn. Schietgaten tonen drie opeenvolgende typologieën: eenvoudige Y-vormige kruisboogspleten, verwijde openingen voor blijden, en een enkel Ottomaans kanonportaal."
+      },
+      {
+        "title": "Hydraulische archeologie – cisterne & geheime conduit",
+        "content": "De locatie herbergt drie cisternegcomplexen: een Byzantijnse gewelfde cisterne van ~180 m³, een kleinere cisterne uit de Skanderbeg-periode, en de overgeleverde ‘verborgen bron' – een in de rots uitgehouwen omgekeerde sifon die 68 m verticaal afdaalt. Radiokoolstofdatering van mortelmonsters plaatst de constructie in de 13e eeuw."
+      },
+      {
+        "title": "Fatih Sultan Mehmed-moskee & religieuze stratigrafie",
+        "content": "De eenbeukige moskee (22,4 × 14,8 m) werd direct na de verovering van 1478 op last van Mehmed II boven de fundamenten van de middeleeuwse Sint-Nikolaaskerk opgericht. Onder de qiblamuur kwamen bij opgravingen in 1984–85 vroegchristelijke mozaïekvloeren uit de 5e eeuw aan het licht."
+      },
+      {
+        "title": "Communistische ingrepen & restauratiestatus",
+        "content": "Grote staatswerken werden van 1966–1971 onder leiding van architect Andrea Vakalo uitgevoerd, waarbij 28% van de noordmuur werd vervangen. Een tweede, archeologisch nauwkeurigere campagne van de IKTK vond plaats van 2008–2013 (EU IPA-financiering, 4,2 mln €). Huidige status (2026): fase III van het anti-vegetatie- en drainagprogramma loopt op de westscarp; delen van de weergang kunnen tijdelijk gesloten zijn."
+      },
+      {
+        "title": "Historiografische autoriteit van Marin Barleti",
+        "content": "Marin Barleti (Marinus Barletius), een humanist uit Scutari die 1504–1510 in het Latijn te Venetië schreef, blijft de primaire bron over de drie belegeringen, maar zijn tekst moet worden gedriehoekt met drie parallelle corpora: Ottomaanse belastingregisters, Venetiaanse senaatsberichten en Dubrovnik-kronieken. Zijn beschrijving van een belegeringskamp van 150.000 man is een klassiek voorbeeld van renaissance-overdrijving; moderne schattingen convergent naar 25.000–45.000."
+      }
+    ]
+  },
+  "surroundings": {
+    "title": "Verken de Oude Bazaar & omgeving",
+    "subtitle": "Ervaar authentiek lokaal leven",
+    "content": "Neem tijdens een bezoek aan het kasteel de tijd om de historische Oude Bazaar van Kruja te verkennen met zijn traditionele houten architectuur en geplaveide straten. Rond de bazaar en het stadscentrum vindt u talrijke restaurants met traditionele Albanese keuken. Als non-profit educatief platform bevelen wij geen specifieke commerciële vestigingen aan, maar moedigen u sterk aan lokale specialiteiten zoals Tavë Dheu te proberen om authentieke Balkansmaken te ervaren."
+  },
+  "references": {
+    "title": "Bronnen & referenties",
+    "items": [
+      "Barleti, Marinus. (1508–1510). Historia de vita et gestis Scanderbegi Epirotarum principis. Venice: Bernardinus de Vitalibus. [Princeps edition; facs. BN Paris, Rés. A. 2051].",
+      "Çabej, Eqrem. (1968–1996). Studime gjuhësore, vol. VI–VIII: 'Toponomia e Krujës dhe rrethinjtë'. Tiranë: Akademia e Shkencave të Shqipërisë.",
+      "Doksani, Idriz. (2005). Kalaja e Krujës nga një studim arkeologjik [The Castle of Kruja from an Archaeological Study]. Buletin i Arkeologjisë shqiptare 2003/2, pp. 143–178. Tiranë: Instituti i Arkeologjisë.",
+      "Evliya Çelebi. (c. 1670). Seyahatnâme, vol. VIII. Facs. & transl. (2005) by Robert Dankoff & Nuran Tezcan, An Annotated Index to the Seyahatname of Evliya Çelebi, Part 1. CAMOT 1. Leiden: Brill.",
+      "Fishta, Gjergj; Lambertz, M. (ed.) (1917). 'Überlieferungen aus Kruja', Sitzungsberichte der kaiserlichen Akademie der Wissenschaften, Wien, Phil.-hist. Klasse 182. Abt. 2, No. 5.",
+      "Gjeçovi, Shtjefën. (1928). 'Dëshmi historike nga Kruja', Hylli i Dritës 7–8, Shkodër.",
+      "Institute of Geosciences, Energy and Water, Tiranë. (2022). Raporti i vlerësimit seismik të monumenteve të klasës I në qarkun e Durrësit – Faza II: Kalaja e Krujës [Seismic Assessment Report, Class I Monuments — Phase II].",
+      "IKTK — Instituti Kombëtar i Trashëgimisë Kulturore. (2013). Raporti final i restaurimit të muraveve të kalasë së Krujës 2008–2013, për financim EU IPA 2007 – Montaž Program.",
+      "Ismajli, Rexhep. (2002). Kosova dhe shqiptarët në shekullin e XV: sipas dokumenteve osmane të tapu-tahririt. Prishtinë: Instituti i Historisë.",
+      "Jahja, Ali. (2001). Haxhi Bektashi dhe Bektashizmi në Shqipëri. Tiranë: Botimet Drita.",
+      "Myrdal, Jan. (1958). Albania Defiant. London: Heinemann. [Chapter 4: Kruja, citadel of the mountains].",
+      "Schmitt, Oliver Jens. (2001). Skanderbeg: Der neue Alexander auf dem Balkan. Regensburg: Friedrich Pustet.",
+      "State Authority for Geospatial Information (ASIG), Tiranë. (2021). Georadar-Studie zur Ortung unterirdischer Strukturen in der Altstadt und Zitadelle von Krujë. Kooperation mit der Albert-Ludwigs-Universität Freiburg, Institut für Geowissenschaften.",
+      "Tafilica, Zamir; Bushati, Luan. (2017). UNESCO Tentative List Nomination: Medieval Fortified Settlements of Albania (Krujë, Berat, Gjirokastër). Paris: UNESCO WHC (File No. 6324).",
+      "Vakalo, Andrea. (1972). Restaurimi i murit të kalasë së Krujës [Restoration of the Castle Walls of Krujë]. Arkitektura 34, Tiranë.",
+      "Visconti, A. (colonel, Austro-Hungarian General Staff). (1917). Militärgeographisches Beschreibungen von Albanien, Heft 3: Kruja und Umgebung. k.u.k. Militärgeographisches Institut, Wien, 1:25.000."
+    ]
+  }
+}

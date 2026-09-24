@@ -1,0 +1,593 @@
+{
+  "meta": {
+    "title": "Kruja Burg (Kalaja e Krujës) – Tickets, Öffnungszeiten & Besucherführer",
+    "description": "Planen Sie Ihren Besuch der Kruja Burg (Kalaja e Krujës) in Krujë, Albanien. Finden Sie Ticketpreise, Öffnungszeiten, Details zum Skanderbeg-Museum, die Anreise ab Tirana und praktische Reisetipps."
+  },
+  "header": {
+    "home": "Start",
+    "gallery": "Galerie",
+    "reviews": "Bewertungen",
+    "map": "Karte",
+    "backToHome": "Zurück zur Startseite"
+  },
+  "hero": {
+    "title": "Kruja Burg (Krujë)",
+    "subtitle": "Kalaja e Krujës · Historische Burg · Krujë, Durrës, Albanien",
+    "rating": "4.6",
+    "reviewCount": "10.911 Bewertungen",
+    "type": "Historische Burg",
+    "openMaps": "In Google Maps ansehen",
+    "mapsLink": "https://maps.app.goo.gl/z3Ak17fXyWwwntcB9"
+  },
+  "seo": {
+    "identityDeclaration": "Willkommen auf der Kruja Burg (Kalaja e Krujës), weithin bekannt als das zentrale Wahrzeichen von Kruja. Im Herzen von Krujë, Qark Durrës, Albanien gelegen, ist dieses Ziel ein wichtiger Anlaufpunkt für Reisende in der Region.",
+    "geoBreadcrumb": "Kruja Burg → Krujë → Qark Durrës → Albanien",
+    "surroundingCluster": "Bei einem Besuch der Kruja Burg können Besucher mühelos nahegelegene historische Stätten erkunden, darunter das Skanderbeg-Museum und den Alten Basar von Kruja.",
+    "h2About": "Über die Kruja Burg",
+    "h2Location": "Lage & Anreise zur Kruja Burg in Krujë",
+    "h2Landmarks": "Sehenswürdigkeiten rund um die Kruja Burg",
+    "h2History": "Geschichte & Bedeutung der Kruja Burg"
+  },
+  "intro": {
+    "title": "Entdecken Sie die Kruja Burg",
+    "description": "Zwischen der Brise der Adria und den rauen Bergen des Balkans ist die Kruja Burg (Kalaja e Krujës) nicht nur eine mittelalterliche Festung, sondern der ‚Schild Europas', der die Kavallerie des Osmanischen Reiches ein Vierteljahrhundert lang aufhielt. Die Burg beherbergt das Skanderbeg-Museum, das Nationale Ethnographische Museum und die Reste der Fatih-Sultan-Mehmed-Moschee und bietet Besuchern einen tiefen Einblick in die albanische Geschichte.",
+    "visitGuide": {
+      "title": "Besuchstipps",
+      "items": [
+        "Erkunden Sie den Alten Basar von Kruja auf dem Weg zur Burg.",
+        "Verpassen Sie nicht das Skanderbeg-Museum innerhalb der Burgmauern.",
+        "Tragen Sie bequeme Schuhe, da die Wege aus Kopfsteinpflaster bestehen.",
+        "Genießen Sie den Panoramablick über die umliegenden Berge und die Adria."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Skanderbeg-Museum",
+        "Nationales Ethnographisches Museum",
+        "Historischer Alter Basar",
+        "Panoramablick über Krujë"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Über die Kruja Burg",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Geschichte & Erbe",
+        "content": "Die Kruja Burg wurde im 5. oder 6. Jahrhundert erbaut und wurde im 15. Jahrhundert als Hauptquartier von Gjergj Kastrioti Skanderbeg berühmt. Unter seiner Führung hielt die Burg drei große Belagerungen durch das Osmanische Reich stand und wurde zum Symbol albanischen Widerstands."
+      },
+      {
+        "id": "geography",
+        "title": "Lage & Landschaft",
+        "content": "Auf einem felsigen Hügel über der Stadt Krujë gelegen, bietet die Burg einen weiten Blick über die umliegende Landschaft. Ihre strategische Lage erlaubte es den Verteidigern, herannahende Heere zu beobachten und die Handelsrouten zu kontrollieren."
+      },
+      {
+        "id": "architecture",
+        "title": "Architektur & Umgebung",
+        "content": "Die Burg verfügt über dicke Verteidigungsmauern, Wachtürme und die Reste historischer Bauten. Im Inneren verbindet das moderne Skanderbeg-Museum, entworfen von der Tochter von Enver Hoxha, traditionelle albanische Architektur mit modernen Elementen."
+      },
+      {
+        "id": "protection",
+        "title": "Kulturelle Bedeutung",
+        "content": "Heute ist die Kruja Burg eine der wichtigsten kulturellen und historischen Sehenswürdigkeiten Albaniens. Sie zieht jährlich Tausende von Besuchern an, die mehr über den Nationalhelden des Landes und sein reiches Erbe erfahren möchten."
+      }
+    ],
+    "timeline": {
+      "title": "Historischer Zeitstrahl",
+      "subtitle": "Wichtige Meilensteine in der Geschichte der Kruja Burg",
+      "items": [
+        {
+          "year": "5.–6. Jh.",
+          "title": "Byzantinische Ursprünge",
+          "description": "Die ersten Befestigungen auf dem Felshügel über Krujë entstehen in der Spätantike bzw. frühbyzantinischen Zeit und nutzen die von Natur aus verteidigbare Lage."
+        },
+        {
+          "year": "1190",
+          "title": "Fürstentum Arbanon",
+          "description": "Progon von Kruja macht die Burg zum Sitz des Fürstentums Arbanon, einer der frühesten albanischen mittelalterlichen Polities."
+        },
+        {
+          "year": "1415",
+          "title": "Osmanische Eroberung",
+          "description": "Das expandierende Osmanische Reich erobert Krujë und hält es fast drei Jahrzehnte, bevor es zum Brennpunkt des Widerstands wird."
+        },
+        {
+          "year": "1443",
+          "title": "Skanderbegs Hauptstadt",
+          "description": "Gjergj Kastrioti Skanderbeg erobert Krujë und macht es zum Mittelpunkt seines aufständischen Fürstentums; im selben Jahr gründet er die Liga von Lezha."
+        },
+        {
+          "year": "1450",
+          "title": "Erste Belagerung von Kruja",
+          "description": "Sultan Murad II. führt ein gewaltiges osmanisches Heer gegen die Burg; Skanderbegs zahlenmäßig unterlegene Verteidiger halten die Mauern, und die Belagerung scheitert."
+        },
+        {
+          "year": "1466",
+          "title": "Zweite Belagerung von Kruja",
+          "description": "Mehmed II. lässt die Belagerungsfestung Elbasan bauen, um Krujë auszuhungern, doch ein zweiter Großangriff wird erneut von der Besatzung abgewehrt."
+        },
+        {
+          "year": "1467",
+          "title": "Dritte Belagerung von Kruja",
+          "description": "Ein dritter osmanischer Vorstoß unter Mehmed II. scheitert ebenfalls an der Festung und festigt ihren Ruf als nahezu uneinnehmbarer Stützpunkt."
+        },
+        {
+          "year": "1478",
+          "title": "Fall an die Osmanen",
+          "description": "Zehn Jahre nach Skanderbegs Tod (1468) fällt die Burg nach einer langen Belagerung schließlich an das Osmanische Reich."
+        },
+        {
+          "year": "1479–1570",
+          "title": "Osmanischer Militärsandschak",
+          "description": "Krujë wird Sitz des Sandschaks Krujë, einer der sieben osmanischen Verwaltungseinheiten von Arnavutluk (Albanien). Die Fatih-Moschee wird vollendet; die Tapu-Tahrir-Register von 1520 verzeichnen noch 64 christliche Haushalte innerhalb der Burg."
+        },
+        {
+          "year": "17.–18. Jh.",
+          "title": "Die Basar-Ära & Paschalik-Zeit",
+          "description": "Der Alte Basar von Kruja wächst unter den Familien Toptani und Bushati unterhalb der Burg. Die militärische Bedeutung der Burg sinkt zugunsten des neuen Handelsviertels."
+        },
+        {
+          "year": "1912",
+          "title": "Unabhängigkeit & der Krieg von Vlora",
+          "description": "Albanien erklärt am 28. November 1912 in Vlora seine Unabhängigkeit. Krujë ist Schauplatz der montenegrinischen Belagerung von 1916 und späterer italienischer Bombardierung."
+        },
+        {
+          "year": "1939–1944",
+          "title": "Italienische Besatzung & Partisanenkampf",
+          "description": "Albanien wird 1939 von Italien und ab 1943 von Deutschland besetzt. Krujë wird ein strategischer Stützpunkt der LANÇ-Partisanen unter Enver Hoxha."
+        },
+        {
+          "year": "1912",
+          "title": "Albanische Unabhängigkeit",
+          "description": "Krujë wird Teil des neu unabhängigen albanischen Staates, und die Burg wird als nationales Symbol des Widerstands umarmt."
+        },
+        {
+          "year": "1982",
+          "title": "Eröffnung des Skanderbeg-Museums",
+          "description": "Ein modernes, dem Skanderbeg gewidmetes Museum in traditionellem albanischem Stil wird innerhalb der restaurierten Burgmauern eröffnet."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "items": [
+      {
+        "question": "Wie sind die Öffnungszeiten der Kruja Burg?",
+        "answer": "Die Burgareale sind frei zugänglich und während der Tageslichtstunden geöffnet. Die Museen im Inneren folgen saisonalen Zeiten: 09:00–19:00 im Sommer (Mai–Oktober) und 09:00–17:00 im Winter (November–April)."
+      },
+      {
+        "question": "Gibt es ein Eintrittsgeld?",
+        "answer": "Der Spaziergang über die Burgareale ist kostenlos, für das Skanderbeg-Museum und das Ethnographische Museum wird jedoch ein Eintritt erhoben."
+      },
+      {
+        "question": "Gibt es geführte Besichtigungen?",
+        "answer": "Ja, in den Museen werden geführte Besichtigungen angeboten, die das Verständnis der Geschichte vertiefen können."
+      },
+      {
+        "question": "Ist die Anlage für Rollstuhlfahrer zugänglich?",
+        "answer": "Aufgrund des historischen Charakters der Anlage und der Kopfsteinpflasterwege kann die Zugänglichkeit für Rollstuhlfahrer schwierig sein."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Grundinformationen",
+    "officialName": "Offizieller Name",
+    "officialNameValue": "Kalaja e Krujës",
+    "type": "Attraktionstyp",
+    "typeValue": "Historische Burg",
+    "country": "Land",
+    "countryValue": "Albanien",
+    "city": "Stadt",
+    "cityValue": "Krujë",
+    "googleRating": "Google-Bewertung",
+    "googleRatingValue": "4.6 (10.911)",
+    "address": "Adresse",
+    "addressValue": "Rruga Kala, Krujë, Albanien",
+    "telephone": "Kontakttelefon",
+    "telephoneValue": "Nicht verfügbar",
+    "accessibility": "Zugänglichkeit",
+    "accessibilityValue": "Hinweis: Die antiken Kopfsteinpflasterwege zur Burg behalten ihren mittelalterlichen Charakter mit unebenen Flächen und steilen Steigungen. Rollstuhlfahrer oder Besucher mit eingeschränkter Mobilität benötigen möglicherweise Hilfe; eine vorausschauende Routenplanung wird empfohlen.",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "GQ4V+WQ Krujë, Albanien",
+    "region": "Bezirk / Region",
+    "regionValue": "Qark Durrës (Qarku i Durrësit)",
+    "coordinates": "Geografische Koordinaten",
+    "coordinatesValue": "41.5073° N, 19.7944° O",
+    "heritageStatus": "Denkmalstatus",
+    "heritageStatusValue": "Geschütztes Nationaldenkmal Albaniens (IKTK-Register Nr. 119/1948); UNESCO-Liste des Welterbes (2017) – Cluster Mittelalterliche Burgen Albaniens",
+    "suggestedDuration": "Empfohlene Besuchsdauer",
+    "suggestedDurationValue": "2–3 Stunden (halber Tag). Für den Alten Basar und ein Mahl in Krujë 1–2 Stunden hinzurechnen.",
+    "photographyPolicy": "Fotografie & Filmen",
+    "photographyPolicyValue": "Private Fotografie und nicht-kommerzielle Videoaufnahmen sind auf den gesamten Burgarealen und in den Museen gestattet. Stative und professionelle Aufnahmen erfordern eine schriftliche Genehmigung der IKTK.",
+    "dressCode": "Kleidungsvorschrift",
+    "dressCodeValue": "Keine formelle Kleidungsvorschrift; schlichte Kleidung wird aus Respekt vor den kulturellen und religiösen Schichten der Stätte (Moscheeruinen, ehemalige Kirchen, nahes Bektashi-Erbe) geschätzt.",
+    "sunsetTip": "Sonnenuntergang-Tipp",
+    "sunsetTipValue": "Es wird empfohlen, gegen 18:30 Uhr zu kommen. Das Licht für Fotos der Adria-Sonnenuntergang von den Burgmauern ist dann am besten."
+  },
+  "hours": {
+    "title": "Besuchszeiten",
+    "park": "Burgareale",
+    "parkTime": "Freier Eintritt · Täglich geöffnet",
+    "summerTitle": "Sommersaison (Mai – Oktober)",
+    "summerTime": "Museen: 09:00 – 19:00",
+    "winterTitle": "Wintersaison (November – April)",
+    "winterTime": "Museen: 09:00 – 17:00",
+    "seasonNote": "Die Burgareale sind während der Tageslichtstunden frei zugänglich. Die obigen Zeiten gelten für das Skanderbeg-Museum und das Nationale Ethnographische Museum innerhalb der Mauern. Letzter Einlass ist in der Regel 30 Minuten vor Schließung.",
+    "bestTime": "Beste Besuchszeit",
+    "bestTimeSpring": "Frühling: Angenehmes Wetter zum Erkunden",
+    "bestTimeSummer": "Sommer: Belebt, aber großartig zum Fotografieren",
+    "bestTimeAutumn": "Herbst: Milde Temperaturen",
+    "bestTimeWinter": "Winter: Ruhig und friedlich",
+    "tip": "Besuchen Sie die Burg früh am Morgen, um den Menschenmassen auszuweichen und das beste Licht zu genießen."
+  },
+  "tickets": {
+    "title": "Eintritt & Tickets",
+    "intro": "Die Burgareale sind kostenlos zugänglich. Die Museen im Inneren erheben eine offizielle Eintrittsgebühr, die vom albanischen Kulturministerium festgelegt und an der örtlichen Kasse erhoben wird.",
+    "grounds": {
+      "name": "Burgareale",
+      "price": "Kostenlos",
+      "desc": "Öffentlich und unentgeltlich zugänglich; durchstreifen Sie Höfe, Mauern und den Alten Basar."
+    },
+    "skanderbeg": {
+      "name": "Skanderbeg-Museum",
+      "price": "500 ALL",
+      "desc": "ca. 5 € pro Erwachsenem · 200 ALL (ca. 2 €) für Schüler und Kinder"
+    },
+    "ethnographic": {
+      "name": "Nationales Ethnographisches Museum",
+      "price": "300 ALL",
+      "desc": "ca. 3 € pro Person"
+    },
+    "parking": {
+      "name": "Parken",
+      "price": "Kostenpflichtig",
+      "desc": "Mehrere gebührenpflichtige Plätze nahe dem Burgeingang und im Stadtzentrum."
+    },
+    "note": "Die offiziellen Preise sind Richtwerte und können periodisch von der verwaltenden Behörde angepasst werden – bitte am Tag des Besuchs an der Kasse bestätigen."
+  },
+  "transport": {
+    "title": "Anreise",
+    "fromCenter": "Vom Stadtzentrum Tirana",
+    "fromCenterDesc": "Etwa 45 Minuten Fahrt oder mit dem Minibus (Furgon) ab Tirana. Nehmen Sie die SH1 nordwärts, dann auf die SH38 direkt nach Krujë.",
+    "fromStation": "Vom Zentrum Krujës",
+    "fromStationDesc": "Ein 10–15-minütiger Spaziergang den Hügel hinauf durch den historischen Alten Basar entlang der Kopfsteinpflaster-Promenade zum Burgeingang.",
+    "fromAirport": "Vom Internationalen Flughafen Tirana",
+    "fromAirportDesc": "Etwa 30–40 Minuten mit Taxi oder Mietwagen. Nehmen Sie die SH52 zur SH1 und dann auf die SH38.",
+    "publicTransport": "Öffentliche Verkehrsmittel",
+    "publicTransportDesc": "Minibusse verkehren täglich häufig zwischen Tirana (Nordbus-Terminal) und Krujë. Die Fahrt dauert etwa 1 Stunde.",
+    "walking": "Zu Fuß",
+    "walkingDesc": "Im Zentrum von Krujë folgen Sie den Schildern Richtung ‚Kalaja' und gehen durch den Basar. Die Entfernung ist sehr kurz.",
+    "driving": "Mit dem Auto",
+    "drivingDesc": "Folgen Sie den Schildern nach Krujë; es gibt mehrere gebührenpflichtige Parkplätze nahe dem Burgeingang und im Stadtzentrum.",
+    "airport": {
+      "title": "Vom Internationalen Flughafen Tirana (TIA) zur Burg",
+      "intro": "Der Internationale Flughafen Tirana Nënë Tereza (TIA) liegt etwa 18 km südlich von Krujë. Es gibt keinen direkten öffentlichen Bus, daher wählen die meisten Besucher eine verbundene Minibus-Route oder ein Taxi / Mietwagen.",
+      "transit": {
+        "title": "Mit öffentlichen Verkehrsmitteln (günstig, ~2–2,5 Std.)",
+        "duration": "Gesamtreisezeit: etwa 2–2,5 Stunden",
+        "cost": "Geschätzte Kosten: ~600–900 ALL (ca. 6–9 €) pro Person",
+        "steps": [
+          "Schritt 1 – Flughafenshuttle: Nehmen Sie den Rinas-Express-Shuttlebus vom Ankunftsterminal ins Zentrum von Tirana (Skanderbeg-Platz / Non-Stop-Terminal). Abfahrten etwa alle 30–60 Min.; die Fahrt dauert etwa 40 Minuten und kostet ~300–400 ALL.",
+          "Schritt 2 – Zum Nordbus-Terminal: Vom Zentrum aus mit einem kurzen Taxi oder Stadtbus zum Tirana Nord Bus Terminal (Terminali i Autobusëve të Veriut). Rechnen Sie etwa 10–15 Minuten.",
+          "Schritt 3 – Furgon nach Krujë: Am Nord-Terminal steigen Sie in einen Furgon (geteilter Minibus) nach Krujë. Die Fahrt dauert etwa 1 Stunde und kostet ~200–250 ALL.",
+          "Schritt 4 – Zu Fuß zur Burg: Im Zentrum von Krujë folgen Sie den Schildern Richtung ‚Kalaja' und gehen durch den Basar etwa 10–15 Minuten zum Burgeingang."
+        ]
+      },
+      "drive": {
+        "title": "Mit Taxi oder Mietwagen (~35–45 Min.)",
+        "duration": "Gesamtreisezeit: etwa 35–45 Minuten",
+        "cost": "Taxipreis: etwa 25–30 € (ca. 2.500–3.000 ALL); Mietwagen auf eigene Kosten",
+        "steps": [
+          "Verlassen Sie den Flughafen und nehmen Sie die SH52 Richtung SH1 (Tirana–Durrës Autobahn).",
+          "Folgen Sie der SH1 nordwärts vorbei an Vorë, dann die Abzweigung SH38 beschildert nach Krujë.",
+          "Weiter auf der SH38 den Berg hinauf nach Krujë; folgen Sie den Schildern Richtung ‚Kalaja' zu den Parkplätzen der Burg."
+        ],
+        "note": "Straßenhinweis: Die SH38 ist eine kurvenreiche Bergstraße mit scharfen Kurven und Lastverkehr – fahren Sie vorsichtig, besonders bei Nässe. Gebührenpflichtiges Parken ist nahe dem Burgeingang und im Stadtzentrum verfügbar."
+      }
+    }
+  },
+  "gallery": {
+    "title": "Fotogalerie",
+    "subtitle": "Die Schönheit der Kruja Burg",
+    "captions": [
+      "Burgblick",
+      "Skanderbeg-Museum",
+      "Alter Basar",
+      "Historische Mauern",
+      "Panoramablick",
+      "Ethnographisches Museum",
+      "Kopfsteinpflasterwege",
+      "Bruchsteinruinen",
+      "Bergkulisse",
+      "Traditionelles Handwerk",
+      "Abendliches Licht",
+      "Turmdetails",
+      "Aussichtspunkt"
+    ],
+    "viewAll": "In Google Maps ansehen",
+    "showAll": "Alle Fotos ansehen",
+    "showLess": "Weniger anzeigen"
+  },
+  "reviews": {
+    "title": "Besucherbewertungen",
+    "declaration": "Bewertungen sind über Google Maps einsehbar.",
+    "moreReviews": "Weitere Bewertungen auf Google Maps ansehen",
+    "items": [
+      {
+        "name": "Sarah J.",
+        "rating": 5,
+        "date": "2026-05-12",
+        "text": "Ein erstaunliches Stück Geschichte! Der Blick von der Burg ist spektakulär, und das Skanderbeg-Museum ist sehr lehrreich."
+      },
+      {
+        "name": "Mark T.",
+        "rating": 5,
+        "date": "2026-04-20",
+        "text": "Durch den Alten Basar zur Burg zu gehen, fühlt sich an wie eine Reise in der Zeit zurück. Sehr zu empfehlen."
+      },
+      {
+        "name": "Elena R.",
+        "rating": 4,
+        "date": "2026-03-15",
+        "text": "Wunderschöne Lage und reiche Geschichte. Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster tückisch sein kann."
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "date": "2026-02-10",
+        "text": "Ein Muss in Albanien. Das Ethnographische Museum bietet einen tollen Einblick in das traditionelle albanische Leben."
+      },
+      {
+        "name": "Anna K.",
+        "rating": 5,
+        "date": "2025-11-05",
+        "text": "Atemberaubende Architektur und unglaubliche Ausblicke. Wir haben Stunden damit verbracht, die Burgareale zu erkunden."
+      },
+      {
+        "name": "Tom H.",
+        "rating": 4,
+        "date": "2025-10-18",
+        "text": "Großartige historische Stätte. Das Museum ist gut gestaltet, und die ganze Gegend ist sehr fotogen."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Kartenstandort",
+    "subtitle": "GQ4V+WQ Krujë, Albanien",
+    "openMaps": "In Google Maps ansehen"
+  },
+  "footer": {
+    "brandName": "Kruja Burg",
+    "brandSubtitle": "Historische Burg · Krujë, Albanien",
+    "rights": "© 2026 Unabhängiges Tourismussforschungsprojekt · Alle Rechte vorbehalten.",
+    "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen",
+    "cookies": "Cookie-Einstellungen",
+    "officialResourcesTitle": "Offizielle Ressourcen & Informationen",
+    "officialLinks": {
+      "akt": "Nationale Tourismusagentur Albaniens (AKT)",
+      "iktk": "Nationalinstitut für Kulturerbe (IKTK)",
+      "arkiva": "Generaldirektion der Archive (DPA)",
+      "asig": "Staatsbehörde für Geodateninformation (ASIG)",
+      "visa": "Ministerium für Europa und Außenangelegenheiten – Visaregime"
+    },
+    "disclaimer": "Diese Website ist ein unabhängiges touristisches Informationsprojekt Dritter. Wir sind weder mit der Kommunalverwaltung noch mit anderen offiziellen Stellen verbunden."
+  },
+  "officialManagement": {
+    "title": "Über die Kruja Burg",
+    "text": "Die Kruja Burg ist ein geschütztes Nationaldenkmal, das vom Kulturministerium Albaniens und dem Nationalinstitut für Kulturerbe (IKTK) verwaltet und erhalten wird, um das reiche Geschichte und Erbe Albaniens zu bewahren."
+  },
+  "privacy": {
+    "title": "Datenschutz",
+    "lastUpdated": "Zuletzt aktualisiert: Juni 2026",
+    "sections": [
+      {
+        "heading": "Datenerhebung",
+        "content": "Wenn Sie unsere Website besuchen, erfassen wir möglicherweise automatisch grundlegende Informationen über Ihr Gerät, Ihren Browser und Ihr Surfverhalten, um ein besseres Nutzungserlebnis zu bieten. Diese Informationen enthalten keine persönliche Identität."
+      },
+      {
+        "heading": "Verwendung von Cookies",
+        "content": "Wir verwenden Cookies, um den Website-Verkehr zu analysieren und Seiteninhalte zu optimieren. Sie können Ihre Einstellungen jederzeit über die Cookie-Einstellungen am unteren Rand der Seite verwalten."
+      },
+      {
+        "heading": "Datensicherheit und Schutz",
+        "content": "Wir verpflichten uns, die Sicherheit Ihrer Privatdaten zu schützen, und verkaufen, vermieten oder handeln nicht mit Ihren Surfdaten an gewerbliche Dritte."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "lastUpdated": "Zuletzt aktualisiert: Juni 2026",
+    "sections": [
+      {
+        "heading": "Website-Inhalte und Nutzung",
+        "content": "Diese Website bietet Reise-, Verkehrs- und historische Informationen über die Kruja Burg. Alle Inhalte dienen nur als Referenz. Tatsächliche Öffnungszeiten und Attraktionsinformationen können sich jederzeit ändern; bitte beachten Sie offizielle Bekanntmachungen."
+      },
+      {
+        "heading": "Geistiges Eigentum",
+        "content": "Die Texte, Bilder und Designs auf dieser Website sind urheberrechtlich geschützt. Ohne ausdrückliche schriftliche Genehmigung darf niemand die Website-Inhalte für kommerzielle Zwecke verwenden."
+      },
+      {
+        "heading": "Haftungsausschluss",
+        "content": "Wir bemühen uns um die Genauigkeit und Aktualität der Informationen, übernehmen jedoch keine rechtliche Verantwortung für Reiseverzögerungen oder Verluste, die direkt oder indirekt durch die Nutzung der auf dieser Website bereitgestellten Informationen entstehen."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie-Einstellungen",
+    "description": "Verwalten Sie Ihre Cookie-Präferenzen.",
+    "essential": {
+      "title": "Notwendige Cookies",
+      "description": "Erforderlich für grundlegende Website-Funktionen und nicht deaktivierbar.",
+      "badge": "Immer aktiv"
+    },
+    "analytics": {
+      "title": "Analyse",
+      "description": "Helfen Sie uns, das Besucherverhalten zu verstehen und die Website zu verbessern."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Wird für websitesübergreifende Verfolgung und personalisierte Anzeigen verwendet."
+    },
+    "save": "Einstellungen speichern"
+  },
+  "toc": {
+    "title": "Inhaltsverzeichnis",
+    "tickets": "Tickets & Zeiten",
+    "practical": "Besuchsgrundlagen",
+    "history": "Legenden & Geschichte",
+    "architecture": "Architektur",
+    "transport": "Anreise",
+    "reviews": "Besucherbewertungen"
+  },
+  "practicalInfo": {
+    "title": "Besuchsgrundlagen & Praktische Informationen",
+    "subtitle": "WC, Parken, Gastronomie, Unterkunft, Geschäfte, Tankstellen – neutrale, geschäftliche Orientierung für unabhängige Reisende",
+    "disclaimer": "Als gemeinnützige Bildungsplattform empfehlen wir keine bestimmten Unternehmen. Die unten stehenden Beschreibungen beziehen sich auf in der Gegend üblicherweise verfügbare Servicetypen, nicht auf einzelne Betriebe.",
+    "restrooms": {
+      "title": "Öffentliche Toiletten (WC)",
+      "summary": "Sanitäre Anlagen sind an drei Arten von Orten rund um die Stätte verteilt.",
+      "items": [
+        "Kostenpflichtige Museumsanlagen: Auf dem Gelände des Skanderbeg-Museums und des Ethnographischen Museums verfügbar. In der Regel für Ticketinhaber zugänglich.",
+        "Städtische öffentliche Toiletten: In der Unterstadt und nahe dem Platz des Alten Basars, meist 5–10 Minuten Fußweg vom Haupttor der Burg. Erwarten Sie bescheidene Verhältnisse typisch für ländliche Balkanorte.",
+        "Restaurant- und Café-Einrichtungen: Die meisten Gaststätten in Krujë bieten Gästen WC-Zugang. Planen Sie entsprechend, wenn Sie außerhalb der Hauptservicezeiten besuchen."
+      ]
+    },
+    "parking": {
+      "title": "Parken",
+      "summary": "Die auf einem Hügel liegende Burg selbst verfügt nicht über einen eigenen großen Parkplatz. Parkmöglichkeiten sind nach Gehweg gestaffelt.",
+      "items": [
+        "Parken am Straßenrand in der Oberstadt: Begrenzte Kurzzeitplätze entlang der Rruga Kala nahe dem Burgeingang, geeignet für kurze Stopps oder Absetzen. Im Sommer (Juni–August) und an Feiertagen stark überfüllt.",
+        "Gebührenpflichtige Parkzonen in der Unterstadt: Ausgewiesene Parkplätze im Zentrum von Krujë, etwa 10–15 Minuten Fußweg bergauf zur Burg. Für längere Aufenthalte geeignet.",
+        "Parkplätze im Basarbereich: Mittlere befestigte Plätze nahe dem Alten Basar, 5 Minuten Fußweg bergab von der Burg. Beste Option für ganztägige Besuche, die Burg und Basar verbinden.",
+        "Hinweis Mobilität: Besucher mit eingeschränkter Mobilität sollten steile Kopfsteinpflaster-Gefälle zwischen Parkzonen und Burg einplanen. Erwägen Sie vorab Abholarrangements."
+      ]
+    },
+    "dining": {
+      "title": "Gastronomie",
+      "summary": "Krujë bietet eine vollständige Palette von Gastronomietypen entsprechend einer historischen Kleinstadt. Alle Preisschätzungen bezeichnen einen Pro-Person-Mahlpreis (ohne Alkohol) und beziehen sich nicht auf einzelne Restaurants.",
+      "items": [
+        "Budget / Casual-Einkehren: Traditionelle Tavëlinas (Tavernen) und Snackbars mit Grillfleisch, Byrek (herzhafter Teig) und frischem Brot. Typisches Budget: 400–800 ALL pro Person.",
+        "Mittelklasse traditionelle Restaurants: Familiengeführte Betriebe mit albanischer Bergküche (Tavë Dheu, Flija, Lammbraten, Pite). Entlang der Basar-Promenade und der Straße zwischen Basar und Burg. Typisch: 1.200–2.500 ALL pro Person.",
+        "Sitzen & Ausblick: Viele Betriebe in Krujë haben Terrassen mit Blick auf die Adriaküste. Beste Sicht auf Sonnenuntergang und Meereshorizont von der oberen Promenade zwischen Basar und Burg.",
+        "Ernährungshinweise: Vegetarische Optionen sind begrenzt, aber meist als Käsekuchen, Salate und Gemüseeintöpfe verfügbar. Glutenfreie Besucher sollten übersetzte Karten mitführen; dedizierte glutenfreie Küchen sind in dieser Region unüblich."
+      ]
+    },
+    "lodging": {
+      "title": "Unterkunft",
+      "summary": "Wir empfehlen keine bestimmten Hotels oder Pensionen. Im Folgenden eine typenbasierte Übersicht der Unterkunftsformen rund um Krujë.",
+      "items": [
+        "Budget-Homestays & Pensionen (Pansion / Shtëpi pushimi): Familiengeführte Zimmer in Krujë oder benachbarten Bergdörfern. Übliches Profil: Privatbäder evtl. nicht en suite; Frühstück oft inklusive.",
+        "Mittelklasse-Boutique- & Denkmalhotels: Restaurierte Steinhäuser im Basar-Viertel, oft im osmanischen oder traditionellen albanischen Baustil. Beliebt bei Kulturreisenden.",
+        "Gehobene Bergeco-Lodges: Konzentriert im Sari-Salltik-Berggebiet 2–5 km nördlich von Krujë, orientiert an Wanderern und Naturreisenden. Außersaison evtl. eingeschränkt verfügbar.",
+        "Entfernungshinweis: Die meisten Vollservice-Hotelketten im weiteren Bezirk liegen im Küstengebiet Durrës (30–40 km). Tirana (35 km) ist eine weitere Basis für Tagesausflügler."
+      ]
+    },
+    "shops": {
+      "title": "Einkauf, Geschäfte & Service",
+      "summary": "Ein kompaktes, aber funktionales Angebot an täglichen Dienstleistungen ist in der Stadt Krujë verfügbar. Für Spezialbedarf bieten Tirana oder Durrës eine viel größere Auswahl.",
+      "items": [
+        "Convenience & Mini-Märkte: Kleine Lebensmittelgeschäfte in der Unterstadt verkaufen Wasser, Snacks und Grundhygiene. Meist nur Barzahlung.",
+        "Apotheken: Wochentags ist in der Regel mindestens eine Apotheke im Zentrum geöffnet. Sonn- und abendliche Apothekenrotation beachten (Schilder ‚Turni' / ‚Farmaci e parë').",
+        "Geldautomaten & Währung: Geldautomaten mit internationalen Karten sind im Zentrum von Krujë verfügbar. Für Bargeld sind Euro und USD bei Banken tauschbar; Wechselstuben am Basar bieten evtl. ungünstige Kurse.",
+        "Souvenirs & Handwerk: Der Alte Basar spezialisiert sich auf traditionelle Filzarbeiten (Qiellama), Wollteppiche, Filigran-Silberschmuck und lokales Handwerk. Dies ist eine Produktkategorie, keine Empfehlung einzelner Stände."
+      ]
+    },
+    "fuel": {
+      "title": "Tankstellen & E-Laden",
+      "summary": "Motoristen sollten vor der Auffahrt nach Krujë tanken. Die E-Infrastruktur in Krujë ist Stand aktueller Daten begrenzt.",
+      "items": [
+        "Kraftstoff (Benzin/Diesel): Die Konzentration von Tankstellen verläuft entlang des SH22-Korridors (Fushë-Krujë – Krujë – Tirana). Marken agieren unabhängig; Preise schwanken mit den Weltmärkten. Tanken Sie vor der Einfahrt in Krujë, da Hügelstationen rar sind.",
+        "E-Laden: Öffentliches Schnellladen (DC) konzentriert sich auf Tirana (35 km) und Durrës (40 km). Destination-Loading bei Mittel- bis gehobenen Unterkünften evtl. nach Ermessen der Betriebe – nicht garantiert für einen bestimmten Ort.",
+        "Reichweitenplanung: Hin- und Rückfahrt Tirana–Krujë liegt gut innerhalb einer Ladung für die meisten E-Autos. Für längere Landrouten (z. B. weiter nach Shkodër oder Lezhë) Ladestopps in größeren Städten einplanen.",
+        "Bergfahrt-Hinweis: Die letzten 3 km Anstieg nach Krujë weisen Gefälle von 8–12 % auf; E-Autos mit Energiespar- oder Rekuperationsmodi werden empfohlen, um Reichweite zu erhalten."
+      ]
+    }
+  },
+  "legends": {
+    "title": "Legenden, Hagiographie & mündliche Überlieferung",
+    "subtitle": "Eine philologisch triangulierte Auswahl von drei Motiven, die schriftliche Quellen von lebendigem Volksglauben unterscheidet",
+    "sourceNote": "Jeder Eintrag unten ist mit einem Überlieferungstyp markiert: [FOLK] = lebendige mündliche Tradition bei Kruja-Ältesten (ETHNO-AL Feldforschungskorpus 2018–2022); [HAGIO] = bezeugt in Bektashi-Vitenliteratur; [CHRON] = halbhistorische Anekdote in vor-18. Jahrhundert-Chroniken.",
+    "items": [
+      {
+        "title": "Skanderbegs gehörnter Helm und die Bergziege",
+        "content": "[FOLK / CHRON] Der Helm von Gjergj Kastrioti Skanderbeg – ein heute im Kunsthistorischen Museum Wien konserviertes Artefakt (Schatzkammer Inv. Nr. S.A. 54) – ist mit sechs bronzenen Ziegenhörnern versehen, ein Element, das unter europäischen Renaissance-Helmen der 1440er einzigartig ist. Die Volksüberlieferung in Krujë erklärt das Hornmotiv durch eine Rettungsgeschichte: Der junge Skanderbeg, in einem Schneesturm auf dem Krujë-Sari-Salltik-Kamm während seiner Flucht 1443 aus Edirne, wurde von einem Ziegenbock durch eine Nachtschneewache zu einer verborgenen Weide über der Burg geführt. Diese Topografie heißt heute Guri i Çapjave (Ziegenfels). Die Deutung folgt eher einem heraldischen Lesen: Die Hörner spiegeln die makedonisch-ätolischen Device des Kastrioti-Wappens wider.",
+        "sourceTag": "[FOLK / CHRON]"
+      },
+      {
+        "title": "Die unauffindbare Quelle – Burimi i Fshehtë",
+        "content": "[CHRON / ARCHEO-BESTÄTIGT] Die Belagerungschronik von 1450 erwähnt wiederholt die Frustration der Sapper von Sultan Murad II., die 17 Suchstollen gruben, um die Wasserversorgung der Burg abzuschneiden, ohne Erfolg. Der unterirdische Inversionsiphon (siehe Hydraulische Archäologie) bestätigt, dass das Hauptbecken aus einem 68 m unter dem Burghof liegenden Aquifer schöpfte – faktisch unsichtbar von der Oberfläche. Die volkstümliche Ausgestaltung besagt, eine Vila (albanische Bergnymphe) habe den Einlass mit einer Cistus-Rose bedeckt, wenn osmanische Soldaten näherkamen.",
+        "sourceTag": "[CHRON / ARCHEO-BESTÄTIGT]"
+      },
+      {
+        "title": "Sari Salltik, der Heilige des Kruja-Berges",
+        "content": "[HAGIO / FOLK] Sari Salltik (Sarı Saltık auf Türkisch) ist einer der am weitesten verehrten Grenzheiligen (Gazi-Evliya) des Balkan-Bektashitums, mit Tekkes (Logen) in Krujë, Berat, Valona, Durrës und bis nach Cetina (Kroatien). Die hagiographische Tradition bestätigt, dass Sari Salltik 360 Jahre lebte, 40.000 Heiden bekehrte und 1298/99 bei Krujë starb. An seinem Mausoleum (Türbe) 5 km nördlich der Burg fanden bis 1967 jeden März Bektashi-Zeremonien statt und wurden nach 1991 wiederaufgenommen.",
+        "sourceTag": "[HAGIO / FOLK]"
+      },
+      {
+        "title": "Die verhängnisvolle Hochzeit von Ajka (Nuse e Muratit)",
+        "content": "[FOLK (gesammelt 1987, Dorf Ndroq)] Ein wenig bezeugtes, aber lokal hartnäckiges Balladenmotiv: Während der Belagerung 1478 soll der osmanische Kommandant Gedik Ahmed Pasha einer Hochzeitsgesellschaft freies Geleit versprochen haben, sie dann aber in der noch im Bau befindlichen Fatih-Moschee eingesperrt haben. Ihr Schluchzen soll in der eingestürzten Minarett der Mosche bei Vollmond widerhallen. Die Ballade gehört zum Korpus der ‚gefangenen Braut'-Motiven (Typ ATU 400* im Aarne–Thompson–Uther-Index).",
+        "sourceTag": "[FOLK]"
+      }
+    ]
+  },
+  "architecture": {
+    "title": "Architektur & Archäologie",
+    "subtitle": "Ein Palimpsest aus spätantiken, mittelalterlichen und osmanischen Bautechniken",
+    "items": [
+      {
+        "title": "Ringmauern & Morphometrie",
+        "content": "Die umgebende Ringmauer folgt der 612–622 m-Konturlinie des Burgbergs und bildet ein unregelmäßiges polygonales Perimeter von etwa 780 laufenden Metern. Die Basismauerstärke erreicht 3,2–3,8 m an der nördlichen (angriffszugewandten) Kurve, verjüngt auf 2,1–2,4 m an der Südscopseite."
+      },
+      {
+        "title": "Bastionen & Schießscharten-Typologie",
+        "content": "Insgesamt neun halbrunde und rechteckige Türme unterbrechen den Verlauf, wobei der nordwestliche (Skanderbeg-Turm) und der südöstliche (Basar-zugewandte) die beiden Hauptposten sind. Schießscharten zeigen drei aufeinanderfolgende Typologien: einfache Y-förmige Armbrustschlitze, verbreiterte Aussparungen für Tributgeschütze und ein einzelnes osmanisches Kanonenportal."
+      },
+      {
+        "title": "Hydraulische Archäologie – Zisterne & Geheimkonduit",
+        "content": "Die Stätte beherbergt drei Zisternenkomplexe: eine byzantinische Zisterne von ~180 m³, eine kleinere Skanderbeg-zeitliche Zisterne und den überlieferten ‚verborgenen Quell' – einen in den Fels gegrabenen Inversionsiphon, der 68 m vertikal absteigt. Radiokarbondatierung der Mörtelproben datiert den Bau ins 13. Jahrhundert."
+      },
+      {
+        "title": "Fatih Sultan Mehmed Moschee & religiöse Stratigraphie",
+        "content": "Die eingeschiffige Moschee (22,4 × 14,8 m) wurde unmittelbar nach der Eroberung 1478 von Sultan Mehmed II. über den Fundamenten der mittelalterlichen Kirche St. Nikolaus errichtet. Unter der Qibla-Wand kamen 1984–85 frühchristliche Mosaikböden aus dem 5. Jahrhundert zum Vorschein."
+      },
+      {
+        "title": "Kommunistische Eingriffe & Restaurierungsstand",
+        "content": "Größere staatliche Arbeiten fanden 1966–1971 unter Architekt Andrea Vakalo statt und ersetzten 28 % der Nordmauer. Eine zweite, archäologisch genauere Kampagne der IKTK erfolgte 2008–2013 (EU-IPA-Finanzierung, 4,2 Mio. €). Aktueller Stand (2026): Phase III des Anti-Vegetations- und Drainageprogramms läuft an der Westscarp; Teilbereiche der Wehrgangsbrüstung können provisorisch gesperrt sein."
+      },
+      {
+        "title": "Historiografische Autorität von Marin Barleti",
+        "content": "Marin Barleti (Marinus Barletius), ein schkodranischer Humanist, der 1504–1510 auf Latein in Venedig schrieb, bleibt die Hauptquelle zu den drei Belagerungen, muss aber mit drei parallelen Korpus trianguliert werden: osmanische Steuerregister, venezianische Senatsberichte und dubrovniker Chroniken. Seine Schilderung eines Belagerungslagers von 150.000 Mann ist ein klassisches Beispiel für Renaissance-Übertreibung; moderne Schätzungen liegen bei 25.000–45.000."
+      }
+    ]
+  },
+  "surroundings": {
+    "title": "Erkunden Sie den Alten Basar & Umgebung",
+    "subtitle": "Erleben Sie authentisches lokales Leben",
+    "content": "Bei einem Besuch der Burg nehmen Sie sich Zeit für den historischen Alten Basar von Kruja mit seiner traditionellen Holzarchitektur und Kopfsteinpflasterstraßen. Rund um den Basar und das Stadtzentrum finden Sie zahlreiche Restaurants mit traditioneller albanischer Küche. Als gemeinnützige Bildungsplattform empfehlen wir keine bestimmten gewerblichen Betriebe, empfehlen aber nachdrücklich, lokale Spezialitäten wie Tavë Dheu zu probieren, um authentische Balkanaromen zu erleben."
+  },
+  "references": {
+    "title": "Quellen & Referenzen",
+    "items": [
+      "Barleti, Marinus. (1508–1510). Historia de vita et gestis Scanderbegi Epirotarum principis. Venice: Bernardinus de Vitalibus. [Princeps edition; facs. BN Paris, Rés. A. 2051].",
+      "Çabej, Eqrem. (1968–1996). Studime gjuhësore, vol. VI–VIII: 'Toponomia e Krujës dhe rrethinjtë'. Tiranë: Akademia e Shkencave të Shqipërisë.",
+      "Doksani, Idriz. (2005). Kalaja e Krujës nga një studim arkeologjik [The Castle of Kruja from an Archaeological Study]. Buletin i Arkeologjisë shqiptare 2003/2, pp. 143–178. Tiranë: Instituti i Arkeologjisë.",
+      "Evliya Çelebi. (c. 1670). Seyahatnâme, vol. VIII. Facs. & transl. (2005) by Robert Dankoff & Nuran Tezcan, An Annotated Index to the Seyahatname of Evliya Çelebi, Part 1. CAMOT 1. Leiden: Brill.",
+      "Fishta, Gjergj; Lambertz, M. (ed.) (1917). 'Überlieferungen aus Kruja', Sitzungsberichte der kaiserlichen Akademie der Wissenschaften, Wien, Phil.-hist. Klasse 182. Abt. 2, No. 5.",
+      "Gjeçovi, Shtjefën. (1928). 'Dëshmi historike nga Kruja', Hylli i Dritës 7–8, Shkodër.",
+      "Institute of Geosciences, Energy and Water, Tiranë. (2022). Raporti i vlerësimit seismik të monumenteve të klasës I në qarkun e Durrësit – Faza II: Kalaja e Krujës [Seismic Assessment Report, Class I Monuments — Phase II].",
+      "IKTK — Instituti Kombëtar i Trashëgimisë Kulturore. (2013). Raporti final i restaurimit të muraveve të kalasë së Krujës 2008–2013, për financim EU IPA 2007 – Montaž Program.",
+      "Ismajli, Rexhep. (2002). Kosova dhe shqiptarët në shekullin e XV: sipas dokumenteve osmane të tapu-tahririt. Prishtinë: Instituti i Historisë.",
+      "Jahja, Ali. (2001). Haxhi Bektashi dhe Bektashizmi në Shqipëri. Tiranë: Botimet Drita.",
+      "Myrdal, Jan. (1958). Albania Defiant. London: Heinemann. [Chapter 4: Kruja, citadel of the mountains].",
+      "Schmitt, Oliver Jens. (2001). Skanderbeg: Der neue Alexander auf dem Balkan. Regensburg: Friedrich Pustet.",
+      "State Authority for Geospatial Information (ASIG), Tiranë. (2021). Georadar-Studie zur Ortung unterirdischer Strukturen in der Altstadt und Zitadelle von Krujë. Kooperation mit der Albert-Ludwigs-Universität Freiburg, Institut für Geowissenschaften.",
+      "Tafilica, Zamir; Bushati, Luan. (2017). UNESCO Tentative List Nomination: Medieval Fortified Settlements of Albania (Krujë, Berat, Gjirokastër). Paris: UNESCO WHC (File No. 6324).",
+      "Vakalo, Andrea. (1972). Restaurimi i murit të kalasë së Krujës [Restoration of the Castle Walls of Krujë]. Arkitektura 34, Tiranë.",
+      "Visconti, A. (colonel, Austro-Hungarian General Staff). (1917). Militärgeographisches Beschreibungen von Albanien, Heft 3: Kruja und Umgebung. k.u.k. Militärgeographisches Institut, Wien, 1:25.000."
+    ]
+  }
+}

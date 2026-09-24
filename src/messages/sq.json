@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Kalaja e Krujës (Krujë) - Udhëzues Vizitor & Vendndodhje",
-    "description": "Zbuloni Kalën e Krujës (Castle of Kruja), monumentin ikonik në Krujë, Qarku i Durrësit, Shqipëri. Shikoni hartën e vendndodhjes, detaje të hapjes, Muzeun e Skënderbeut dhe Pazarin e Vjetër të Krujës në afërsi, dhe këshilla udhëtimi."
+    "title": "Kalaja e Krujës (Krujë) – Biletat, Orari & Udhëzues Vizitori",
+    "description": "Planifiko vizitën te Kalaja e Krujës (Castle of Kruja) në Krujë, Shqipëri. Gjej çmimet e biletave, orarin e hapjes, detaje për Muzeun e Skënderbeut, si të arrish nga Tirana dhe këshilla praktike udhëtimi."
   },
   "header": {
     "home": "Kreu",
@@ -14,7 +14,7 @@
     "title": "Kalaja e Krujës (Krujë)",
     "subtitle": "Castle of Kruja · Kala Historike · Krujë, Durrës, Shqipëria",
     "rating": "4.6",
-    "reviewCount": "10,706 vlerësime",
+    "reviewCount": "10,911 vlerësime",
     "type": "Kala Historike",
     "openMaps": "Shiko në Google Maps",
     "mapsLink": "https://maps.app.goo.gl/z3Ak17fXyWwwntcB9"
@@ -163,7 +163,7 @@
     "city": "Qyteti",
     "cityValue": "Krujë",
     "googleRating": "Vlerësimi në Google",
-    "googleRatingValue": "4.6 (10,706)",
+    "googleRatingValue": "4.6 (10,911)",
     "address": "Adresa",
     "addressValue": "Rruga Kala, Krujë, Shqipëria",
     "telephone": "Telefoni i Kontaktit",
@@ -490,6 +490,7 @@
   "legends": {
     "title": "Legjendat dhe Mitet",
     "subtitle": "Tregime magjepsëse të fshehura pas mureve të lashta",
+    "sourceNote": "Çdo hyrje më poshtë është shënuar me një tregues tipi transmetimi: [FOLK] = traditë gojore e gjallë e mbledhur mes pleqve të Krujës (korpusi ETHNO-AL 2018–2022); [HAGIO] = e dëshmuar në literaturën e vitave të shenjtorëve Bektashi; [CHRON] = anekdotë gjysmë-historike e regjistruar në kronikat para shekullit të 18-të.",
     "items": [
       {
         "title": "Përkrenarja me brirë e Skënderbeut",

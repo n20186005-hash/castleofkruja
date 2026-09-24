@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://castleofkruja.com/sitemap.xml',
+    sitemap: 'https://www.castleofkruja.com/sitemap.xml',
   };
 }

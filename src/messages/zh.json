@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "克鲁亚城堡 (克鲁亚) - 游览指南与位置",
-    "description": "探索阿尔巴尼亚都拉斯州克鲁亚的标志性地标——克鲁亚城堡（Kalaja e Krujës）。查看位置地图、开放详情，以及附近的斯坎德培博物馆和克鲁亚旧巴扎，获取实用旅行建议。"
+    "title": "克鲁亚城堡（Kalaja e Krujës）－门票、开放时间与游览指南",
+    "description": "规划您的克鲁亚城堡（Kalaja e Krujës）之旅，位于阿尔巴尼亚克鲁亚。查看门票价格、开放时间、斯坎德培博物馆详情、从地拉那如何前往，以及实用旅行建议。"
   },
   "header": {
     "home": "首页",
@@ -14,7 +14,7 @@
     "title": "克鲁亚城堡 (克鲁亚)",
     "subtitle": "Kalaja e Krujës · 历史城堡 · 克鲁亚，都拉斯州，阿尔巴尼亚",
     "rating": "4.6",
-    "reviewCount": "10,706 条评价",
+    "reviewCount": "10,911 条评价",
     "type": "历史城堡",
     "openMaps": "在Google地图上查看位置",
     "mapsLink": "https://maps.app.goo.gl/z3Ak17fXyWwwntcB9"
@@ -163,7 +163,7 @@
     "city": "城市",
     "cityValue": "克鲁亚",
     "googleRating": "谷歌评分",
-    "googleRatingValue": "4.6 (10,706)",
+    "googleRatingValue": "4.6 (10,911)",
     "address": "地址",
     "addressValue": "Rruga Kala, Krujë, 阿尔巴尼亚",
     "telephone": "联系电话",
@@ -490,6 +490,7 @@
   "legends": {
     "title": "传奇与神秘故事",
     "subtitle": "深藏在古老城墙背后的奇闻异事",
+    "sourceNote": "以下每条目均标有传承类型标识：[FOLK] = 流传于克鲁亚长者间的活态口头传统（ETHNO-AL 2018–2022 田野调查语料库）；[HAGIO] = 见于贝克塔什圣徒传记文献；[CHRON] = 记录于18世纪前编年史中的半历史轶事。",
     "items": [
       {
         "title": "斯坎德培的羊角头盔",

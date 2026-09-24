@@ -15,7 +15,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://castleofkruja.com';
+  const baseUrl = 'https://www.castleofkruja.com';
 
   const selfUrl = `${baseUrl}/${locale}`;
   const ogImageUrl = `${baseUrl}/gallery/castle-of-kruja%20(1).jpg`;
@@ -33,6 +33,10 @@ export async function generateMetadata({
         'zh': `${baseUrl}/zh`,
         'en': `${baseUrl}/en`,
         'sq': `${baseUrl}/sq`,
+        'de': `${baseUrl}/de`,
+        'fr': `${baseUrl}/fr`,
+        'it': `${baseUrl}/it`,
+        'nl': `${baseUrl}/nl`,
         'x-default': `${baseUrl}/sq`,
       },
     },
@@ -40,7 +44,7 @@ export async function generateMetadata({
       title: messages.meta.title,
       description: messages.meta.description,
       siteName: "Castle of Kruja",
-      locale: locale === 'zh' ? 'zh_CN' : locale === 'sq' ? 'sq_AL' : 'en_US',
+      locale: locale === 'zh' ? 'zh_CN' : locale === 'sq' ? 'sq_AL' : locale === 'de' ? 'de_DE' : locale === 'fr' ? 'fr_FR' : locale === 'it' ? 'it_IT' : locale === 'nl' ? 'nl_NL' : 'en_US',
       type: 'website',
       url: selfUrl,
       images: [
@@ -69,7 +73,7 @@ export default async function LocaleLayout({
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
-  const baseUrl = 'https://castleofkruja.com';
+  const baseUrl = 'https://www.castleofkruja.com';
 
   if (!routing.locales.includes(locale as any)) {
     notFound();
@@ -101,7 +105,7 @@ export default async function LocaleLayout({
     aggregateRating: {
       '@type': 'AggregateRating',
       ratingValue: '4.6',
-      reviewCount: '10706',
+      reviewCount: '10911',
     },
     geo: {
       '@type': 'GeoCoordinates',
@@ -160,7 +164,7 @@ export default async function LocaleLayout({
   };
 
   return (
-    <html lang={locale === 'zh' ? 'zh-CN' : locale === 'sq' ? 'sq-AL' : 'en'} suppressHydrationWarning>
+    <html lang={locale === 'zh' ? 'zh-CN' : locale === 'sq' ? 'sq-AL' : locale === 'de' ? 'de' : locale === 'fr' ? 'fr' : locale === 'it' ? 'it' : locale === 'nl' ? 'nl' : 'en'} suppressHydrationWarning>
       <head>
         <script
           type="application/ld+json"
