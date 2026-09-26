@@ -1,14 +1,14 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "castleofkruja",
+  "name": "castle-of-kruja",
   "compatibility_date": "2026-09-25",
   "observability": {
     "enabled": true
   },
-  "pages_build_output_dir": ".open-next/assets",
-  "scripts": {
-    "dev": "opennextjs-cloudflare build && opennextjs-cloudflare dev",
-    "deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
-    "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview"
-  }
+  "services": [
+    {
+      "binding": "WORKER_SELF_REFERENCE",
+      "service": "castle-of-kruja"
+    }
+  ]
 }
