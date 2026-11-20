@@ -3,7 +3,8 @@ import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import { setRequestLocale } from 'next-intl/server';
 import Header from '@/components/Header';
-import GuideFacts, { museumMaps } from '@/components/GuideFacts';
+import { GuideAbout, GuideVisitDetails } from '@/components/GuideDetail';
+import GuideFacts, { guideMaps } from '@/components/GuideFacts';
 import { museumCopy } from '@/i18n/museum-copy';
 import Footer from '@/components/Footer';
 import { Link, routing, type Locale } from '@/i18n/routing';
@@ -14,17 +15,17 @@ import { visitGuide, visitPath } from '@/i18n/visit-guide';
 const origin = 'https://www.castleofkruja.com';
 const guides = {
   'skanderbeg-museum': { key: 'skanderbeg', path: skanderbegPath, image: '/guides/skanderbeg-museum.webp',
-    map: museumMaps.skanderbeg, source: 'https://akt.gov.al/en/attractions/Skanderbeg-Museum/',
+    map: guideMaps.skanderbeg, source: 'https://akt.gov.al/en/attractions/Skanderbeg-Museum/',
     photo: 'The_Museum_of_Scanderbeg,_Kruja_Castle,_Albania_and_the_ruins_of_Fatih_Mosque_of_Kruja.jpg',
     author: 'Gerimema2' },
   'ethnographic-museum': { key: 'ethnographic', path: ethnographicPath, image: '/guides/ethnographic-museum.webp',
-    map: museumMaps.ethnographic, source: 'https://akt.gov.al/en/muze/muzeu-etnografik-i-krujes/',
+    map: guideMaps.ethnographic, source: 'https://akt.gov.al/en/muze/muzeu-etnografik-i-krujes/',
     photo: 'Museum_of_Ethnographic_in_Kruja.jpg', author: 'OdettMelody' },
   'old-bazaar': { key: 'bazaar', path: oldBazaarPath, image: '/guides/old-bazaar.webp',
-    map: 'https://www.google.com/maps/search/?api=1&query=Pazari+i+Vjeter+i+Krujes%2C+Kruje',
+    map: guideMaps.bazaar,
     source: 'https://akt.gov.al/en/attractions/old-bazaar-traditional-bazaar/' },
   'half-day-in-kruje': { key: 'half', path: halfDayPath, image: '/gallery/castle-of-kruja%20(1).jpg',
-    map: 'https://www.google.com/maps/dir/?api=1&origin=Pazari+i+Vjeter+i+Krujes&destination=Kruja+Castle&travelmode=walking',
+    map: 'https://www.google.com/maps/dir/?api=1&origin=Old+Bazaar+of+Kruja%2C+GQ5V%2BRQ4&destination=Ethnographic+Museum+of+Kruja%2C+GQ4V%2BMFJ&waypoints=Gjergj+Kastrioti+National+Museum%2C+Kruje&travelmode=walking',
     source: 'https://www.akt.gov.al/en/cities/kruje/' },
 } as const;
 
@@ -98,6 +99,7 @@ export default async function KrujeGuidePage({ params }: Props) {
               </figcaption>
             )}
           </figure>
+          <GuideAbout locale={locale} kind={key} />
           <GuideFacts locale={locale} kind={key} />
           <section className="space-y-3">
             <h2 className="font-display text-3xl font-semibold">{firstHeading}</h2>
@@ -112,6 +114,18 @@ export default async function KrujeGuidePage({ params }: Props) {
               </a>
             )}
           </section>
+          {key === 'half' && (
+            <figure>
+              <Image src="/guides/old-bazaar.webp" alt={copy.bazaar[0]} width={1200} height={800}
+                className="aspect-[2/1] w-full rounded-2xl object-cover" />
+              <figcaption className="mt-2 text-sm">
+                <Link className="underline" href={oldBazaarPath}>{copy.bazaar[0]}</Link>
+                {' · '}
+                <a className="underline" href="https://commons.wikimedia.org/wiki/File:Old_Bazaar_in_Kruja.jpg">Wikiuser Mely / Wikimedia Commons</a>
+              </figcaption>
+            </figure>
+          )}
+          <GuideVisitDetails locale={locale} kind={key} />
           <ul className="space-y-2 underline">
             <li><Link href={visitPath}>{tickets}</Link></li>
             <li>{key === 'bazaar'

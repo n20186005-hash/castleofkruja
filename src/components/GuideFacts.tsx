@@ -26,15 +26,14 @@ const stops = {
   },
 } as const;
 
-export const museumMaps = { skanderbeg: stops.skanderbeg.map, ethnographic: stops.ethnographic.map };
+export const guideMaps = { bazaar: stops.bazaar.map, skanderbeg: stops.skanderbeg.map, ethnographic: stops.ethnographic.map };
 
 type Stop = keyof typeof stops;
 type GuideKind = Stop | 'half' | 'tickets';
 
 export default function GuideFacts({ locale, kind }: { locale: Locale; kind: GuideKind }) {
   const copy = museumCopy[locale];
-  const [basic, address, manager, gettingThere, ratings, checked, bazaarManager, routeRatings, directions] = copy.labels;
-  const museumSite = `https://www.qendramuzeore-kruje.com/${locale === 'sq' ? 'sq' : 'en'}/visit`;
+  const [basic, address, , gettingThere, ratings, checked, , routeRatings, directions] = copy.labels;
   const relevant: Stop[] = kind === 'half' ? ['bazaar', 'skanderbeg', 'ethnographic']
     : kind === 'tickets' ? ['skanderbeg', 'ethnographic'] : [kind];
 
@@ -47,13 +46,6 @@ export default function GuideFacts({ locale, kind }: { locale: Locale; kind: Gui
             <dt className="font-semibold">{address}</dt>
             <dd className="flex flex-col gap-1">
               {relevant.map((stop) => <a className="underline" key={stop} href={stops[stop].map}>{stops[stop].address}</a>)}
-            </dd>
-          </div>
-          <div>
-            <dt className="font-semibold">{manager}</dt>
-            <dd>
-              {kind !== 'bazaar' && <a className="underline" href={museumSite}>Qendra Muzeore Krujë · 0511 22225</a>}
-              {(kind === 'bazaar' || kind === 'half') && <p>{bazaarManager} <a className="underline" href="https://kruja.gov.al/wp-content/uploads/2016/06/Kruja_Info_English.pdf">Bashkia Krujë</a></p>}
             </dd>
           </div>
         </dl>

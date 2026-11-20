@@ -1,5 +1,7 @@
+import { museumCopy } from '@/i18n/museum-copy';
+import { GuideAbout, GuideVisitDetails } from '@/components/GuideDetail';
 import GuideFacts from '@/components/GuideFacts';
-import { oldBazaarPath, halfDayPath } from '@/i18n/guide-paths';
+import { oldBazaarPath, halfDayPath, skanderbegPath } from '@/i18n/guide-paths';
 import { krujeGuides } from '@/i18n/kruje-guides';
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -57,6 +59,7 @@ export default async function VisitGuidePage({ params }: Props) {
           </header>
           <Image src={image} alt="Kalaja e Krujës" width={1200} height={800}
             className="aspect-[2/1] w-full rounded-2xl object-cover" priority />
+          <GuideAbout locale={locale} kind="tickets" />
           <section className="space-y-3">
             <h2 className="font-display text-3xl font-semibold">{admissionHeading}</h2>
             <p>{admission}</p>
@@ -78,6 +81,16 @@ export default async function VisitGuidePage({ params }: Props) {
             </ol>
           </section>
           <GuideFacts locale={locale} kind="tickets" />
+          <figure>
+            <Image src="/guides/skanderbeg-museum.webp" alt={museumCopy[locale].skanderbeg[0]}
+              width={1200} height={553} className="aspect-[2/1] w-full rounded-2xl object-cover" />
+            <figcaption className="mt-2 text-sm">
+              <Link className="underline" href={skanderbegPath}>{museumCopy[locale].skanderbeg[0]}</Link>
+              {' · '}
+              <a className="underline" href="https://commons.wikimedia.org/wiki/File:The_Museum_of_Scanderbeg,_Kruja_Castle,_Albania_and_the_ruins_of_Fatih_Mosque_of_Kruja.jpg">Gerimema2 / Wikimedia Commons</a>
+            </figcaption>
+          </figure>
+          <GuideVisitDetails locale={locale} kind="tickets" />
           <ul className="space-y-2 underline">
             <li><Link href={oldBazaarPath}>{krujeGuides[locale].bazaar[0]}</Link></li>
             <li><Link href={halfDayPath}>{krujeGuides[locale].half[0]}</Link></li>

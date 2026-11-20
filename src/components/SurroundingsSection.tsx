@@ -1,3 +1,5 @@
+import { guideLabels } from '@/i18n/guide-details';
+import { visitGuide, visitPath } from '@/i18n/visit-guide';
 import { museumCopy } from '@/i18n/museum-copy';
 import { Link, type Locale } from '@/i18n/routing';
 import { oldBazaarPath, halfDayPath, skanderbegPath, ethnographicPath } from '@/i18n/guide-paths';
@@ -43,12 +45,16 @@ export default function SurroundingsSection() {
             {t('content')}
           </p>
         </div>
-        <ul className="mt-4 flex flex-wrap gap-x-5 gap-y-2 underline" style={{ color: 'var(--accent)' }}>
+        <nav className="mt-6 rounded-2xl border p-5 sm:p-7" aria-labelledby="nearby-guides" style={{ background: 'var(--bg-tertiary)', borderColor: 'var(--border-color)' }}>
+          <h3 id="nearby-guides" className="font-display text-2xl font-semibold mb-3">{guideLabels[locale][3]}</h3>
+          <ul className="grid gap-3 sm:grid-cols-2 underline" style={{ color: 'var(--accent)' }}>
           <li><Link href={oldBazaarPath}>{bazaar[0]}</Link></li>
           <li><Link href={halfDayPath}>{half[0]}</Link></li>
           <li><Link href={skanderbegPath}>{museumCopy[locale].skanderbeg[0]}</Link></li>
           <li><Link href={ethnographicPath}>{museumCopy[locale].ethnographic[0]}</Link></li>
-        </ul>
+          <li><Link href={visitPath}>{visitGuide[locale][0]}</Link></li>
+          </ul>
+        </nav>
       </div>
     </section>
   );
