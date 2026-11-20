@@ -1,3 +1,4 @@
+import { heritagePaths, heritageText } from '@/i18n/heritage';
 import { guideLabels } from '@/i18n/guide-details';
 import { visitGuide, visitPath } from '@/i18n/visit-guide';
 import { museumCopy } from '@/i18n/museum-copy';
@@ -8,6 +9,7 @@ import { useLocale, useTranslations } from 'next-intl';
 
 export default function SurroundingsSection() {
   const locale = useLocale() as Locale;
+  const heritage = heritageText[locale as keyof typeof heritageText];
   const { bazaar, half } = krujeGuides[locale];
   const t = useTranslations('surroundings');
   const tSEO = useTranslations('seo');
@@ -53,6 +55,10 @@ export default function SurroundingsSection() {
           <li><Link href={skanderbegPath}>{museumCopy[locale].skanderbeg[0]}</Link></li>
           <li><Link href={ethnographicPath}>{museumCopy[locale].ethnographic[0]}</Link></li>
           <li><Link href={visitPath}>{visitGuide[locale][0]}</Link></li>
+          {heritage && Object.entries(heritagePaths).map(([path, href]) => {
+            const place = path.split('/').at(-1) as keyof typeof heritage;
+            return <li key={path}><Link href={href}>{heritage[place][0]}</Link></li>;
+          })}
           </ul>
         </nav>
       </div>

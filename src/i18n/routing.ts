@@ -1,3 +1,4 @@
+import { heritagePaths } from './heritage';
 import { oldBazaarPath, halfDayPath, skanderbegPath, ethnographicPath } from '@/i18n/guide-paths';
 import { visitPath } from './visit-guide';
 import { defineRouting } from 'next-intl/routing';
@@ -10,6 +11,7 @@ export const routing = defineRouting({
     mode: 'always',
   },
   pathnames: {
+    ...heritagePaths,
     '/': '/',
     [visitPath]: visitPath,
     [oldBazaarPath]: oldBazaarPath,
