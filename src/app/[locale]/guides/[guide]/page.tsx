@@ -3,14 +3,23 @@ import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import { setRequestLocale } from 'next-intl/server';
 import Header from '@/components/Header';
+import GuideFacts, { museumMaps } from '@/components/GuideFacts';
+import { museumCopy } from '@/i18n/museum-copy';
 import Footer from '@/components/Footer';
 import { Link, routing, type Locale } from '@/i18n/routing';
-import { oldBazaarPath, halfDayPath } from '@/i18n/guide-paths';
+import { oldBazaarPath, halfDayPath, skanderbegPath, ethnographicPath } from '@/i18n/guide-paths';
 import { krujeGuides } from '@/i18n/kruje-guides';
 import { visitGuide, visitPath } from '@/i18n/visit-guide';
 
 const origin = 'https://www.castleofkruja.com';
 const guides = {
+  'skanderbeg-museum': { key: 'skanderbeg', path: skanderbegPath, image: '/guides/skanderbeg-museum.webp',
+    map: museumMaps.skanderbeg, source: 'https://akt.gov.al/en/attractions/Skanderbeg-Museum/',
+    photo: 'The_Museum_of_Scanderbeg,_Kruja_Castle,_Albania_and_the_ruins_of_Fatih_Mosque_of_Kruja.jpg',
+    author: 'Gerimema2' },
+  'ethnographic-museum': { key: 'ethnographic', path: ethnographicPath, image: '/guides/ethnographic-museum.webp',
+    map: museumMaps.ethnographic, source: 'https://akt.gov.al/en/muze/muzeu-etnografik-i-krujes/',
+    photo: 'Museum_of_Ethnographic_in_Kruja.jpg', author: 'OdettMelody' },
   'old-bazaar': { key: 'bazaar', path: oldBazaarPath, image: '/guides/old-bazaar.webp',
     map: 'https://www.google.com/maps/search/?api=1&query=Pazari+i+Vjeter+i+Krujes%2C+Kruje',
     source: 'https://akt.gov.al/en/attractions/old-bazaar-traditional-bazaar/' },
@@ -33,7 +42,7 @@ function getGuide(slug: string) {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale, guide } = await params;
   const { path, key, image } = getGuide(guide);
-  const [title, description] = krujeGuides[locale][key];
+  const [title, description] = (key === 'skanderbeg' || key === 'ethnographic' ? museumCopy[locale][key] : krujeGuides[locale][key]);
   const url = `${origin}/${locale}${path}`;
   return {
     title,
@@ -53,9 +62,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function KrujeGuidePage({ params }: Props) {
   const { locale, guide } = await params;
   setRequestLocale(locale);
-  const { key, image, map, source } = getGuide(guide);
+  const details = getGuide(guide);
+  const { key, image, map, source } = details;
   const copy = krujeGuides[locale];
-  const [title, description, firstHeading, first, secondHeading, second] = copy[key];
+  const [title, description, firstHeading, first, secondHeading, second] = key === 'skanderbeg' || key === 'ethnographic' ? museumCopy[locale][key] : copy[key];
   const [tickets, , , , , , , , , , home, , sourceLabel] = visitGuide[locale];
 
   return (
@@ -70,9 +80,16 @@ export default async function KrujeGuidePage({ params }: Props) {
             <a className="underline" href={map}>Google Maps</a>
           </header>
           <figure>
-            <Image src={image} alt={key === 'bazaar' ? 'Pazari i Vjetër i Krujës' : 'Kalaja e Krujës'}
+            <Image src={image} alt={key === 'half' ? 'Kalaja e Krujës' : title}
               width={1200} height={800} priority
               className="aspect-[2/1] w-full rounded-2xl object-cover" />
+            {'photo' in details && (
+              <figcaption className="mt-2 text-sm">
+                <a className="underline" href={`https://commons.wikimedia.org/wiki/File:${details.photo}`}>
+                  {details.author} / Wikimedia Commons
+                </a>
+              </figcaption>
+            )}
             {key === 'bazaar' && (
               <figcaption className="mt-2 text-sm">
                 <a className="underline" href="https://commons.wikimedia.org/wiki/File:Old_Bazaar_in_Kruja.jpg">
@@ -81,6 +98,7 @@ export default async function KrujeGuidePage({ params }: Props) {
               </figcaption>
             )}
           </figure>
+          <GuideFacts locale={locale} kind={key} />
           <section className="space-y-3">
             <h2 className="font-display text-3xl font-semibold">{firstHeading}</h2>
             <p>{first}</p>

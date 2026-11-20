@@ -1,4 +1,4 @@
-import { oldBazaarPath, halfDayPath } from '@/i18n/guide-paths';
+import { oldBazaarPath, halfDayPath, skanderbegPath, ethnographicPath } from '@/i18n/guide-paths';
 import { MetadataRoute } from 'next';
 import { visitPath } from '@/i18n/visit-guide';
 import { routing } from '@/i18n/routing';
@@ -15,7 +15,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/cookie-settings',
     visitPath,
     oldBazaarPath,
-    halfDayPath
+    halfDayPath,
+    skanderbegPath,
+    ethnographicPath
   ];
 
   for (const locale of routing.locales) {

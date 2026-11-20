@@ -1,10 +1,12 @@
+import { museumCopy } from '@/i18n/museum-copy';
 import { Link, type Locale } from '@/i18n/routing';
-import { oldBazaarPath, halfDayPath } from '@/i18n/guide-paths';
+import { oldBazaarPath, halfDayPath, skanderbegPath, ethnographicPath } from '@/i18n/guide-paths';
 import { krujeGuides } from '@/i18n/kruje-guides';
 import { useLocale, useTranslations } from 'next-intl';
 
 export default function SurroundingsSection() {
-  const { bazaar, half } = krujeGuides[useLocale() as Locale];
+  const locale = useLocale() as Locale;
+  const { bazaar, half } = krujeGuides[locale];
   const t = useTranslations('surroundings');
   const tSEO = useTranslations('seo');
 
@@ -44,6 +46,8 @@ export default function SurroundingsSection() {
         <ul className="mt-4 flex flex-wrap gap-x-5 gap-y-2 underline" style={{ color: 'var(--accent)' }}>
           <li><Link href={oldBazaarPath}>{bazaar[0]}</Link></li>
           <li><Link href={halfDayPath}>{half[0]}</Link></li>
+          <li><Link href={skanderbegPath}>{museumCopy[locale].skanderbeg[0]}</Link></li>
+          <li><Link href={ethnographicPath}>{museumCopy[locale].ethnographic[0]}</Link></li>
         </ul>
       </div>
     </section>

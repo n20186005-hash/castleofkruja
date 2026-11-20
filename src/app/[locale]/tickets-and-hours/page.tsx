@@ -1,3 +1,4 @@
+import GuideFacts from '@/components/GuideFacts';
 import { oldBazaarPath, halfDayPath } from '@/i18n/guide-paths';
 import { krujeGuides } from '@/i18n/kruje-guides';
 import type { Metadata } from 'next';
@@ -76,6 +77,7 @@ export default async function VisitGuidePage({ params }: Props) {
               {[bazaar, museum, returnWalk].map((step) => <li key={step}>{step}</li>)}
             </ol>
           </section>
+          <GuideFacts locale={locale} kind="tickets" />
           <ul className="space-y-2 underline">
             <li><Link href={oldBazaarPath}>{krujeGuides[locale].bazaar[0]}</Link></li>
             <li><Link href={halfDayPath}>{krujeGuides[locale].half[0]}</Link></li>
