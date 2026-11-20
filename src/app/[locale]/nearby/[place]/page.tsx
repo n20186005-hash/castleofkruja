@@ -5,7 +5,7 @@ import { setRequestLocale } from 'next-intl/server';
 import { Link } from '@/i18n/routing';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
-import { heritageObservations, heritagePlaces, heritageText } from '@/i18n/heritage';
+import { heritageObservations, heritagePractical, heritagePlaces, heritageText } from '@/i18n/heritage';
 import { museumCopy } from '@/i18n/museum-copy';
 import { guideLabels } from '@/i18n/guide-details';
 import { regionalLabels } from '@/i18n/regional';
@@ -47,8 +47,14 @@ export default async function HeritagePage({ params }: Props) {
   const [title, about, route, question, answer] = heritageText[locale][place];
   const { name, image, photo, credit, source } = heritagePlaces[place];
   const [basic, address, manager] = museumCopy[locale].labels;
+  const [type, tekke, tower, ruins, access, accessNote, stay, stayNote, reviews] = heritagePractical[locale];
   const [walking, photos, faq] = guideLabels[locale];
   const observationIndex = { 'dollma-tekke': 0, 'clock-tower': 1, 'fatih-mosque-ruins': 2 } as const;
+  const siteType = [tekke, tower, ruins][observationIndex[place]];
+  const routeStart = {
+    en: 'Krujë Castle gate', zh: '克鲁亚城堡门', sq: 'Porta e Kalasë së Krujës',
+    de: 'Burgtor von Krujë', fr: 'Porte du château de Krujë', it: 'Porta del castello di Krujë', nl: 'Kasteelpoort van Krujë',
+  }[locale];
   const observationHeading = {
     en: regionalLabels.en.observe, zh: regionalLabels.zh.observe, sq: 'Arkitektura dhe detajet',
     de: 'Architektur und Details', fr: 'Architecture et détails', it: 'Architettura e dettagli', nl: 'Architectuur en details',
@@ -62,6 +68,7 @@ export default async function HeritagePage({ params }: Props) {
           <Link href="/" className="underline">{visitGuide[locale][10]}</Link>
           <header className="space-y-4">
             <h1 className="font-display text-4xl font-semibold sm:text-5xl">{title}</h1>
+            <p className="text-lg">{siteType} · Krujë</p>
             <a href={map} className="underline">Google Maps</a>
           </header>
           <figure>
@@ -78,7 +85,14 @@ export default async function HeritagePage({ params }: Props) {
           </section>
           <section className="space-y-3">
             <h2 className="font-display text-3xl font-semibold">{basic}</h2>
-            <dl><dt className="font-semibold">{address}</dt><dd>{name} · Rruga Kala, Krujë</dd></dl>
+            <dl className="grid gap-4 sm:grid-cols-2">
+              <div><dt className="font-semibold">{type}</dt><dd>{siteType}</dd></div>
+              <div><dt className="font-semibold">{address}</dt><dd>{name} · Rruga Kala, Krujë</dd></div>
+            </dl>
+          </section>
+          <section className="space-y-3">
+            <h2 className="font-display text-3xl font-semibold">{access}</h2>
+            <p>{accessNote}</p>
           </section>
           <section className="space-y-3">
             <h2 className="font-display text-3xl font-semibold">{observationHeading}</h2>
@@ -86,6 +100,10 @@ export default async function HeritagePage({ params }: Props) {
           </section>
           <section className="space-y-3">
             <h2 className="font-display text-3xl font-semibold">{walking} · {photos}</h2>
+            <ol className="list-decimal space-y-2 pl-6">
+              <li>{routeStart}</li>
+              <li><a className="underline" href={map}>{name}</a></li>
+            </ol>
             <p>{route}</p>
           </section>
           <section className="space-y-3">
@@ -94,6 +112,15 @@ export default async function HeritagePage({ params }: Props) {
               <summary className="cursor-pointer font-semibold">{question}</summary>
               <p className="mt-3">{answer}</p>
             </details>
+          </section>
+          <section className="space-y-3">
+            <h2 className="font-display text-3xl font-semibold">{stay}</h2>
+            <p>{stayNote}</p>
+          </section>
+          <section className="space-y-3">
+            <h2 className="font-display text-3xl font-semibold">{reviews}</h2>
+            <p>{name} · Rruga Kala, Krujë</p>
+            <a href={map} className="underline">Google Maps</a>
           </section>
         </article>
       </main>
