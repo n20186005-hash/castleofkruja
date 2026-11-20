@@ -1,4 +1,4 @@
-import { setRequestLocale } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import type { Metadata } from 'next';
 import CookieSettingsClient from './CookieSettingsClient';
 
@@ -8,6 +8,7 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: 'cookieSettings' });
   const baseUrl = 'https://www.castleofkruja.com';
   const zhUrl = `${baseUrl}/zh/cookie-settings`;
   const enUrl = `${baseUrl}/en/cookie-settings`;
@@ -19,6 +20,10 @@ export async function generateMetadata({
   const selfUrl = `${baseUrl}/${locale}/cookie-settings`;
 
   return {
+    title: t('title'),
+    description: t('description'),
+    openGraph: { title: t('title'), url: selfUrl },
+    twitter: { title: t('title') },
     alternates: {
       canonical: selfUrl,
       languages: {

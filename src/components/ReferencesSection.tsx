@@ -2,6 +2,7 @@ import { useTranslations, useMessages } from 'next-intl';
 
 export default function ReferencesSection() {
   const t = useTranslations('references');
+  const ui = useTranslations('interface');
   const tFooter = useTranslations('footer');
   const messages = useMessages() as any;
   const items = (messages?.references?.items || []) as string[];
@@ -19,7 +20,7 @@ export default function ReferencesSection() {
         
         <div className="space-y-6">
           <div>
-            <h4 className="text-sm font-medium mb-3" style={{ color: 'var(--text-secondary)' }}>Literature & Archives</h4>
+            <h4 className="text-sm font-medium mb-3" style={{ color: 'var(--text-secondary)' }}>{ui('literature')}</h4>
             <ul className="list-disc list-outside ml-5 space-y-2">
               {items.map((item, index) => (
                 <li
@@ -38,27 +39,27 @@ export default function ReferencesSection() {
             <ul className="list-disc list-outside ml-5 space-y-2">
               <li className="text-sm leading-relaxed" style={{ color: 'var(--text-muted)' }}>
                 <a href="https://akt.gov.al/" target="_blank" rel="noopener noreferrer" className="hover:underline hover:text-[var(--accent)]">
-                  {officialLinks.akt || 'National Tourism Agency of Albania (AKT)'}
+                  {officialLinks.akt}
                 </a>
               </li>
               <li className="text-sm leading-relaxed" style={{ color: 'var(--text-muted)' }}>
                 <a href="https://iktk.gov.al/" target="_blank" rel="noopener noreferrer" className="hover:underline hover:text-[var(--accent)]">
-                  {officialLinks.iktk || 'National Institute of Cultural Heritage (IKTK)'}
+                  {officialLinks.iktk}
                 </a>
               </li>
               <li className="text-sm leading-relaxed" style={{ color: 'var(--text-muted)' }}>
                 <a href="https://arkiva.gov.al/" target="_blank" rel="noopener noreferrer" className="hover:underline hover:text-[var(--accent)]">
-                  {officialLinks.arkiva || 'General Directorate of Archives'}
+                  {officialLinks.arkiva}
                 </a>
               </li>
               <li className="text-sm leading-relaxed" style={{ color: 'var(--text-muted)' }}>
                 <a href="https://asig.gov.al/" target="_blank" rel="noopener noreferrer" className="hover:underline hover:text-[var(--accent)]">
-                  {officialLinks.asig || 'State Authority for Geospatial Information (ASIG)'}
+                  {officialLinks.asig}
                 </a>
               </li>
               <li className="text-sm leading-relaxed" style={{ color: 'var(--text-muted)' }}>
                 <a href="https://punetejashtme.gov.al/en/regjimi-i-vizave-per-te-huajt/" target="_blank" rel="noopener noreferrer" className="hover:underline hover:text-[var(--accent)]">
-                  {officialLinks.visa || 'Ministry for Europe and Foreign Affairs - Visa Regime'}
+                  {officialLinks.visa}
                 </a>
               </li>
             </ul>

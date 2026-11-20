@@ -536,5 +536,18 @@
       "Albanian Institute of Archaeology. Historical records on the fortification of Krujë.",
       "Ministry of Culture of Albania. National Cultural Heritage Register."
     ]
+  },
+  "interface": {
+    "switchLanguage": "切换语言",
+    "toggleTheme": "切换显示主题",
+    "breadcrumb": "位置导航",
+    "previousPhoto": "上一张照片",
+    "nextPhoto": "下一张照片",
+    "closePhotos": "关闭照片浏览器",
+    "literature": "文献与档案",
+    "question": "问",
+    "answer": "答",
+    "heroAlt": "克鲁亚城堡主景",
+    "galleryAlt": "克鲁亚城堡照片 {number}"
   }
 }

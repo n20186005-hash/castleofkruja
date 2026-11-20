@@ -536,5 +536,18 @@
       "Instituti Shqiptar i Arkeologjisë. Të dhëna historike mbi fortifikimin e Krujës.",
       "Ministria e Kulturës e Shqipërisë. Regjistri Kombëtar i Trashëgimisë Kulturore."
     ]
+  },
+  "interface": {
+    "switchLanguage": "Ndrysho gjuhën",
+    "toggleTheme": "Ndrysho temën",
+    "breadcrumb": "Shtegu i vendndodhjes",
+    "previousPhoto": "Fotoja e mëparshme",
+    "nextPhoto": "Fotoja tjetër",
+    "closePhotos": "Mbyll pamjen e fotove",
+    "literature": "Literatura dhe arkivat",
+    "question": "Pyetje",
+    "answer": "Përgjigje",
+    "heroAlt": "Pamja kryesore e Kalasë së Krujës",
+    "galleryAlt": "Fotografia {number} e Kalasë së Krujës"
   }
 }

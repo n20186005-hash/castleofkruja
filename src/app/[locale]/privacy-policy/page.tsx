@@ -1,4 +1,4 @@
-import { setRequestLocale } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { useTranslations, useLocale, useMessages } from 'next-intl';
 import type { Metadata } from 'next';
 
@@ -8,6 +8,7 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: 'privacy' });
   const baseUrl = 'https://www.castleofkruja.com';
   const zhUrl = `${baseUrl}/zh/privacy-policy`;
   const enUrl = `${baseUrl}/en/privacy-policy`;
@@ -19,6 +20,9 @@ export async function generateMetadata({
   const selfUrl = `${baseUrl}/${locale}/privacy-policy`;
 
   return {
+    title: t('title'),
+    openGraph: { title: t('title'), url: selfUrl },
+    twitter: { title: t('title') },
     alternates: {
       canonical: selfUrl,
       languages: {

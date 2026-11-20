@@ -5,7 +5,7 @@ import { oldBazaarPath, halfDayPath, skanderbegPath } from '@/i18n/guide-paths';
 import { krujeGuides } from '@/i18n/kruje-guides';
 import type { Metadata } from 'next';
 import Image from 'next/image';
-import { setRequestLocale } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import { Link, routing, type Locale } from '@/i18n/routing';
@@ -40,6 +40,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function VisitGuidePage({ params }: Props) {
   const { locale } = await params;
   setRequestLocale(locale);
+  const ui = await getTranslations({ locale, namespace: 'interface' });
 
   const [
     title, description, admissionHeading, admission, hoursHeading, hours,
@@ -57,7 +58,7 @@ export default async function VisitGuidePage({ params }: Props) {
             <p className="text-lg">{description}</p>
             <a className="underline" href="https://maps.app.goo.gl/z3Ak17fXyWwwntcB9">{map}</a>
           </header>
-          <Image src={image} alt="Kalaja e Krujës" width={1200} height={800}
+          <Image src={image} alt={ui('heroAlt')} width={1200} height={800}
             className="aspect-[2/1] w-full rounded-2xl object-cover" priority />
           <GuideAbout locale={locale} kind="tickets" />
           <section className="space-y-3">

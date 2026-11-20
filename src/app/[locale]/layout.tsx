@@ -19,9 +19,7 @@ export async function generateMetadata({
 
   const selfUrl = `${baseUrl}/${locale}`;
   const ogImageUrl = `${baseUrl}/gallery/castle-of-kruja%20(1).jpg`;
-  const ogImageAlt = messages.basicInfo
-    ? `${messages.basicInfo.officialNameValue || 'Castle of Kruja'} - Main view in ${messages.basicInfo.cityValue || 'Krujë'}, ${messages.basicInfo.countryValue || 'Albania'}`
-    : 'Castle of Kruja - Main view in Krujë, Albania';
+  const ogImageAlt = messages.interface.heroAlt;
 
   return {
     metadataBase: new URL(baseUrl),
@@ -43,7 +41,7 @@ export async function generateMetadata({
     openGraph: {
       title: messages.meta.title,
       description: messages.meta.description,
-      siteName: "Castle of Kruja",
+      siteName: messages.footer.brandName,
       locale: locale === 'zh' ? 'zh_CN' : locale === 'sq' ? 'sq_AL' : locale === 'de' ? 'de_DE' : locale === 'fr' ? 'fr_FR' : locale === 'it' ? 'it_IT' : locale === 'nl' ? 'nl_NL' : 'en_US',
       type: 'website',
       url: selfUrl,

@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import { notFound } from 'next/navigation';
-import { setRequestLocale } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import Header from '@/components/Header';
 import { GuideAbout, GuideVisitDetails } from '@/components/GuideDetail';
 import GuideFacts, { guideMaps } from '@/components/GuideFacts';
@@ -63,6 +63,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function KrujeGuidePage({ params }: Props) {
   const { locale, guide } = await params;
   setRequestLocale(locale);
+  const ui = await getTranslations({ locale, namespace: 'interface' });
   const details = getGuide(guide);
   const { key, image, map, source } = details;
   const copy = krujeGuides[locale];
@@ -81,7 +82,7 @@ export default async function KrujeGuidePage({ params }: Props) {
             <a className="underline" href={map}>Google Maps</a>
           </header>
           <figure>
-            <Image src={image} alt={key === 'half' ? 'Kalaja e Krujës' : title}
+            <Image src={image} alt={key === 'half' ? ui('heroAlt') : title}
               width={1200} height={800} priority
               className="aspect-[2/1] w-full rounded-2xl object-cover" />
             {'photo' in details && (
