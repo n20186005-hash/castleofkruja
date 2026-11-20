@@ -103,7 +103,7 @@ export default async function LocaleLayout({
     aggregateRating: {
       '@type': 'AggregateRating',
       ratingValue: '4.6',
-      reviewCount: '10911',
+      reviewCount: '11330',
     },
     geo: {
       '@type': 'GeoCoordinates',

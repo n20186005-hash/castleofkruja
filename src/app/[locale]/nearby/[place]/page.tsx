@@ -1,3 +1,4 @@
+import { localVisit } from '@/i18n/local-visit';
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import { notFound } from 'next/navigation';
@@ -46,7 +47,7 @@ export default async function HeritagePage({ params }: Props) {
   setRequestLocale(locale);
   const [title, about, route, question, answer] = heritageText[locale][place];
   const { name, image, photo, credit, source } = heritagePlaces[place];
-  const [basic, address, manager] = museumCopy[locale].labels;
+  const [basic, address, manager, transport] = museumCopy[locale].labels;
   const [type, tekke, tower, ruins, access, accessNote, stay, stayNote, reviews] = heritagePractical[locale];
   const [walking, photos, faq] = guideLabels[locale];
   const observationIndex = { 'dollma-tekke': 0, 'clock-tower': 1, 'fatih-mosque-ruins': 2 } as const;
@@ -69,6 +70,7 @@ export default async function HeritagePage({ params }: Props) {
           <header className="space-y-4">
             <h1 className="font-display text-4xl font-semibold sm:text-5xl">{title}</h1>
             <p className="text-lg">{siteType} · Krujë</p>
+            <p className="text-sm">{accessNote}</p>
             <a href={map} className="underline">Google Maps</a>
           </header>
           <figure>
@@ -93,6 +95,12 @@ export default async function HeritagePage({ params }: Props) {
           <section className="space-y-3">
             <h2 className="font-display text-3xl font-semibold">{access}</h2>
             <p>{accessNote}</p>
+          </section>
+          <section className="space-y-3">
+            <h2 className="font-display text-3xl font-semibold">{transport}</h2>
+            <a className="underline" href={`https://www.google.com/maps/dir/?api=1&origin=${encodeURIComponent('Old Bazaar of Kruja, Krujë')}&destination=${encodeURIComponent(`${name}, Krujë, Albania`)}&travelmode=walking`}>
+              {localVisit[locale][13]} → {title}
+            </a>
           </section>
           <section className="space-y-3">
             <h2 className="font-display text-3xl font-semibold">{observationHeading}</h2>

@@ -8,7 +8,7 @@ import { Link } from '@/i18n/routing';
 import { guideLabels } from '@/i18n/guide-details';
 import { practicalLabels, regionalPractical } from '@/i18n/regional-visit';
 import { museumCopy } from '@/i18n/museum-copy';
-import { isRegionalLocale, regionalLabels, regionalLocales, regionalPlaces, verifiedManager, visitorContact, type PlaceSlug } from '@/i18n/regional';
+import { isRegionalLocale, regionalAlternates, regionalExtra, regionalLabels, regionalLocales, regionalPlaces, verifiedManager, visitorContact, type PlaceSlug } from '@/i18n/regional';
 
 type Props = { params: Promise<{ locale: string; place: string }> };
 
@@ -29,7 +29,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const path = `/day-trips/${slug}`;
   return {
     title: copy.title, description: copy.about,
-    alternates: { canonical: `/${locale}${path}`, languages: { en: `/en${path}`, zh: `/zh${path}`, 'x-default': `/en${path}` } },
+    alternates: { canonical: `/${locale}${path}`, languages: regionalAlternates(path) },
     openGraph: { title: copy.title, description: copy.about, url: `/${locale}${path}`, images: [`/region/${slug}.webp`] },
   };
 }
@@ -41,7 +41,7 @@ export default async function RegionalPlace({ params }: Props) {
   const labels = practicalLabels[locale];
   const practical = regionalPractical(locale, data.kind, data.access, data.area);
   const amphitheatre = slug === 'durres-amphitheatre';
-  const reportedAdmission = locale === 'zh'
+  const reportedAdmission = locale !== 'en' && locale !== 'zh' ? regionalExtra[locale].amphitheatre : locale === 'zh'
     ? '近期旅游资料记录的成人票为约 200–300 列克，具体金额请以入口售票处为准。'
     : 'Recent visitor guides report 200–300 lek for adult admission. Confirm the amount at the entrance booth.';
   const cableCar = 'https://dajtiekspres.com/rates-and-opening-hours/';

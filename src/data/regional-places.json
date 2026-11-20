@@ -38,7 +38,77 @@
       ]
     },
     "kind": "bath",
-    "access": "outdoor"
+    "access": "outdoor",
+    "sq": {
+      "about": "Sipas Agjencisë Kombëtare të Turizmit, hamami osman në anën perëndimore të kalasë së Krujës daton në shekullin XV. Banja tregon se brenda fortifikimit kishte hapësira edhe për jetën e përditshme.",
+      "visit": "Filloni brenda portës së kështjellës dhe ndiqni rrugët publike drejt anës perëndimore. Shikoni shellin e vogël të gurit dhe çatin nga rruga, duke mbajtur larg mureria. Vendosni çati të ulët me terrenin e kështjellës pas tij.",
+      "question": "A është kjo një banjë pune?",
+      "answer": "Është një monument historik. Planifikoni një ndalje të jashtme dhe përdorni udhëzimet e hyrjes të postuara.",
+      "observe": "Shikoni çatinë e ulët dhe trashësinë e murit rreth hyrjes. Lexoni banjën si një ndërtesë kompakt shërbimi brenda një vendbanim shumë më të madh të fortifikuar.",
+      "planning": "Krahasoni me Muzeun Etnografik në të njëjtën vizitë. Lëre rrethanat perëndimore për kthimin nëse biletat tuaja të muzeut kanë kufizim kohor.",
+      "steps": [
+        "Porta e kalasë",
+        "Rrugica publike në perëndim",
+        "Pamja e jashtme e hamamit"
+      ],
+      "title": "Hamami i Kalasë së Krujës"
+    },
+    "de": {
+      "about": "Das Osmanische Bad auf der westlichen Seite der Festung wird im nationalen Tourismusbericht als Struktur aus dem 15. Jahrhundert beschrieben. Es zeigt, daß der befestigte Hügel sowohl das tägliche Leben als auch die Verteidigung unterstützte.",
+      "visit": "Beginnen Sie im Schloss und folgen Sie den öffentlichen Gassen auf der Westseite. Beobachten Sie die kompakte Steinschalen und das Dach von der Spur abseits der Mauer. Rast das niedrige Dach mit dem Festungsterren hinter ihm ein.",
+      "question": "Ist das ein Arbeitsbad?",
+      "answer": "Es ist ein historisches Denkmal. Planen Sie eine Außenstation und verwenden Sie die angezeigten Zugangsanweisungen.",
+      "observe": "Schauen Sie sich das niedrige Dach an und die Dicke der Wand um den Eingang herum. Lesen Sie das Bad als kompaktes Dienstgebäude in einer viel größeren befestigten Siedlung.",
+      "planning": "Vergleichen Sie es mit dem Ethnographischen Museum bei demselben Besuch. Lassen Sie die Weststraßen für die Rückfahrt zurück, wenn Ihr Museumsticket eine Frist hat.",
+      "steps": [
+        "Burgtor",
+        "Öffentlicher Weg nach Westen",
+        "Außenansicht des Hamams"
+      ],
+      "title": "Hamam der Burg Krujë"
+    },
+    "fr": {
+      "about": "Le bain de la période ottomane sur le côté ouest de la forteresse est décrit dans le compte-rendu du tourisme national comme une structure du XVe siècle. Il montre que la colline fortifiée soutenait la vie quotidienne ainsi que la défense.",
+      "visit": "Commencez à l'intérieur de la porte du château et suivez les voies publiques vers le côté ouest. Observez la coquille compacte de pierre et le toit de la voie, en évitant les maçons. Ramez le toit bas avec le terrain de la forteresse derrière lui.",
+      "question": "C'est un bain de travail ?",
+      "answer": "C'est un monument historique. Planifiez un arrêt extérieur et utilisez les instructions d'accès affichées.",
+      "observe": "Regardez le toit bas et l'épaisseur du mur autour de l'entrée. Lisez le bain comme un bâtiment de service compact dans une colonie fortifiée beaucoup plus grande.",
+      "planning": "Comparez-le avec le musée ethnographique lors de la même visite. Laissez les voies ouest pour la rentrée si votre billet de musée a une limite de temps.",
+      "steps": [
+        "Porte du château",
+        "Chemin public vers l’ouest",
+        "Extérieur du hammam"
+      ],
+      "title": "Hammam du château de Krujë"
+    },
+    "it": {
+      "about": "Il bagno del periodo ottomano sul lato occidentale della fortezza è descritto nel resoconto turistico nazionale come una struttura del XV secolo. Essa mostra che la collina fortificata sosteneva la vita quotidiana e la difesa.",
+      "visit": "Inizia all'interno del cancello del castello e segui le vie pubbliche verso il lato occidentale. Osservate la conchiglia di pietra e il tetto dalla corsia, mantenendo lontana la muratura. Incredi il tetto basso con il terreno della fortezza dietro di esso.",
+      "question": "E' un bagno di lavoro?",
+      "answer": "E' un monumento storico. Pianificare una fermata esterna e usare le istruzioni di accesso pubblicate.",
+      "observe": "Guarda il tetto basso e lo spessore della parete intorno all'ingresso. Leggi il bagno come un compatto edificio di servizio all'interno di un insediamento fortificato molto più grande.",
+      "planning": "Confrontalo con il Museo Etnografico della stessa visita. Lasciate le vie occidentali per la tappa di ritorno se il vostro biglietto al museo ha un limite di tempo.",
+      "steps": [
+        "Porta del castello",
+        "Vicolo pubblico verso ovest",
+        "Esterno dell’hammam"
+      ],
+      "title": "Hammam del castello di Krujë"
+    },
+    "nl": {
+      "about": "Het Ottomaanse bad aan de westelijke kant van het fort wordt in het nationale toeristische verslag beschreven als een constructie uit de vijfde eeuw. Het toont aan dat de versterkte heuvel zowel het dagelijks leven als de verdediging ondersteunde.",
+      "visit": "Begin binnen het kasteelpoort en volg de openbare wegen naar de westelijke kant. Bekijk de compacte stenen schaal en het dak van de baan, waardoor het muurwerk niet wordt ingericht. Maak het laag dak met het forteringsterrein achter het.",
+      "question": "Is dit een werkend bad?",
+      "answer": "Het is een historisch monument. Plan een buitenstop en gebruik de geplaatste toegangsinstructies.",
+      "observe": "Kijk naar het lage dak en de dikte van de muur rond de ingang. Lees het bad als een compact dienstgebouw binnen een veel grotere versterkte nederzetting.",
+      "planning": "Vergelijk het met het Ethnographic Museum op hetzelfde bezoek. Verlaat de westelijke wegen voor de terugreis als je museumkaart een tijdslimiet heeft.",
+      "steps": [
+        "Kasteelpoort",
+        "Openbaar pad naar het westen",
+        "Buitenkant van de hamam"
+      ],
+      "title": "Hamam van het kasteel van Krujë"
+    }
   },
   "bazaar-mosque": {
     "address": "Xhamia e Pazarit, Krujë",
@@ -79,7 +149,77 @@
       ]
     },
     "kind": "mosque",
-    "access": "worship"
+    "access": "worship",
+    "sq": {
+      "about": "E njohur gjithashtu si Xhaminë Murad Bey, ky vend adhurimi i përket vendbanimit të tregut nën kështjellën. Minaret i saj ngrihet mbi dyqanet e pllakave dhe shërben si një pikë referimi e dobishme në qasje.",
+      "visit": "Filloni në fund të Bazarit të Vjetër. Ndiqni rrugën e gurë deri në xhami dhe shikoni kontrastin midis minaretës së hollë dhe çatave të ulëta të tregut. Fotografoni nga rruga pa bllokuar hyrjen.",
+      "question": "A është rrënoja e Xhamisë Fatih?",
+      "answer": "Xhamia Bazar është pranë tregut. Rruina e Fatih janë brenda kështjellës.",
+      "observe": "Shikoni lart nga rruga e tregut për të parë se si minaret ngrihet mbi dyqanet. Në derën e derës, është më e lehtë të lexohet kur bëhet kalja nga tregu i zënë në vendin e lutjes.",
+      "planning": "Ndalo në shëtitje në majë të kështjellës ose në kthim. Në një vizitë në dyqan, lini hapësirë të mjaftueshme për adhuruesit dhe klientët që të kalojnë.",
+      "steps": [
+        "Skaji i poshtëm i pazarit",
+        "Pamje e minares",
+        "Pragu i xhamisë"
+      ],
+      "title": "Xhamia e Pazarit të Krujës"
+    },
+    "de": {
+      "about": "Auch bekannt als die Murad Bey Moschee, gehört dieser Gottesdienstort zum Marktviertel unterhalb des Schlosses. Sein Minarett erhebt sich über den Fliesenläden und dient als nützliches Wahrzeichen bei der Annäherung.",
+      "visit": "Beginnen Sie am unteren Ende des alten Bazaar. Folgen Sie der Steinstraße zur Moschee und sehen Sie den Kontrast zwischen dem schlanken Minarett und den niedrigen Marktdachs. Fotografieren Sie von der Spur, ohne den Eingang zu blockieren.",
+      "question": "Ist es die Ruine der Fatih Moschee?",
+      "answer": "Die Bazaar Moschee ist am Markt. Die Ruinen von Fatih befinden sich in der Festung.",
+      "observe": "Schauen Sie von der Marktstraße nach oben, um zu sehen, wie sich das Minarett über den Geschäften erhebt. Bei der Tür ist der Übergang vom geschäftigen Markt zum Gebetsraum leichter zu lesen.",
+      "planning": "Haltet auf dem Weg zum Schloss oder zur Rückkehr. Wenn Sie ein Geschäft besuchen, lassen Sie genügend Platz für Anbeter und Kunden vorbei.",
+      "steps": [
+        "Unteres Ende des Basars",
+        "Blick auf das Minarett",
+        "Eingang der Moschee"
+      ],
+      "title": "Basarmoschee von Krujë"
+    },
+    "fr": {
+      "about": "Aussi connue sous le nom de Mosquée Murad Bey, ce lieu de culte appartient au quartier du marché situé sous le château. Son minaret s'élève au-dessus des magasins en carreaux et sert de repère utile sur l'approche.",
+      "visit": "Commencez à l'extrémité inférieure du Vieux Bazaar. Suivez la voie de pierre jusqu'à la mosquée et regardez le contraste entre le minaret mince et les toits bas du marché. Prenez une photo de la voie sans bloquer l'entrée.",
+      "question": "C'est la ruine de la mosquée Fatih ?",
+      "answer": "La mosquée du Bazaar est près du marché. Les ruines de Fatih sont à l'intérieur de la forteresse.",
+      "observe": "Regardez depuis la voie du marché pour voir comment le minaret s'élève au-dessus des magasins. À la porte, la transition du marché animé à l'espace de prière est plus facile à lire.",
+      "planning": "Arrêtez-vous sur la randonnée jusqu'au château ou au retour. Lors d'une visite en magasin, laissez passer suffisamment de place pour les fidèles et les clients.",
+      "steps": [
+        "Bas du bazar",
+        "Vue sur le minaret",
+        "Seuil de la mosquée"
+      ],
+      "title": "Mosquée du bazar de Krujë"
+    },
+    "it": {
+      "about": "Conosciuta anche come la Moschea Murad Bey, questo luogo di culto appartiene al quartiere del mercato sotto il castello. Il suo minareto si erge sopra i negozi di piastrelle e serve come utile punto di riferimento per l'approccio.",
+      "visit": "Iniziate all'estremità inferiore del vecchio bazar. Seguite la strada di pietra fino alla moschea e guardate il contrasto tra il minareto sottile e i bassi tetti del mercato. Fotografia dalla corsia senza bloccare l'entrata.",
+      "question": "E' la rovina della moschea di Fatih?",
+      "answer": "La moschea Bazaar è vicino al mercato. Le rovine di Fatih sono all'interno della fortezza.",
+      "observe": "Guardate dall'alline del mercato per vedere come il minareto si alza sopra i negozi. Alla porta, la transizione dal mercato occupato al luogo di preghiera è più facile da leggere.",
+      "planning": "Fermati sulla salita fino al castello o al ritorno. Quando visitate un negozio, lasciate passare abbastanza spazio per i fedeli e i clienti.",
+      "steps": [
+        "Parte bassa del bazar",
+        "Vista sul minareto",
+        "Ingresso della moschea"
+      ],
+      "title": "Moschea del bazar di Krujë"
+    },
+    "nl": {
+      "about": "Ook bekend als de Murad Bey Moskee, behoort deze plaats van aanbidding tot de marktwijk onder het kasteel. De minaret staat boven de tegelswinkels en is een nuttig landmerk bij de nadering.",
+      "visit": "Begin aan de onderkant van de oude bazaar. Volg de steenbaan naar de moskee en kijk naar het contrast tussen het slanke minaret en de lage marktdakken. Fotografeer vanuit de baan zonder de ingang te blokkeren.",
+      "question": "Is het de ruïne van de Fatih Moskee?",
+      "answer": "De Bazaar Moskee ligt bij de markt. De ruïnes van Fatih liggen in het fort.",
+      "observe": "Kijk vanaf de marktstraat om te zien hoe de minaret boven de winkels stijgt. Bij de deur is de overgang van een drukke markt naar een gebedsruimte gemakkelijker te lezen.",
+      "planning": "Stop op de heuvelswandeling naar het kasteel of op de terugkeer. Wanneer u een winkel bezoekt, laat voldoende ruimte voor aanbidders en klanten voorbijgaan.",
+      "steps": [
+        "Onderkant van de bazaar",
+        "Zicht op de minaret",
+        "Ingang van de moskee"
+      ],
+      "title": "Bazaarmoskee van Krujë"
+    }
   },
   "sari-salltik": {
     "address": "Teqeja e Sari Salltikut, Krujë",
@@ -120,7 +260,77 @@
       ]
     },
     "kind": "shrine",
-    "access": "worship"
+    "access": "worship",
+    "sq": {
+      "about": "Ky vend pelegrinazhi bektashian ndodhet në një zgavër shkëmbore mbi Krujë. Shkallët të çojnë te teqeja e vogël, e ndërtuar në shkëmb. Agjencia Kombëtare e Turizmit dokumenton traditën e pelegrinazhit.",
+      "visit": "Përdorni rrugën malore për në tempull dhe konfirmoni udhëtimin e kthimit. Shkoni vetëm në shkallë të hapura, duke mbajtur rrugën të pastër. Fotografoni shenjtërimin kundër shkëmbit nga një ulje e lejuar.",
+      "question": "Mund të fotografoj brenda?",
+      "answer": "Pyetni ata që janë në shërbim, sidomos gjatë lutjes. Ndiqni çdo kufizim të vendosur.",
+      "observe": "Shenjtë e gjelbër dhe i bardhë përshtatet në një shkëmbim të mprehtë të shkëmbi. Kërkoni ndryshimin nga drita e ditës në shkallën në shkëmbin e mbyllur në prag të shenjtrit.",
+      "planning": "Planifikoni këtë pas shikimeve të qytetit si një këmbë të veçantë rrugore. Nëse shkallët ose shikimi e bën të vështirë qasjen, qëndroni në zonën e sipërme të ndalimit.",
+      "steps": [
+        "Pika e zbritjes nga makina",
+        "Sheshi sipër",
+        "Shkallët e teqesë kur janë të hapura"
+      ],
+      "title": "Teqeja dhe shpella e Sari Salltikut"
+    },
+    "de": {
+      "about": "Diese Pilgerstätte der Bektaschi liegt in einer Felsnische über Krujë. Treppe und kleines Heiligtum sind in den Fels eingebunden. Die nationale Tourismusagentur dokumentiert die Pilgertradition.",
+      "visit": "Verwenden Sie die Bergstraße zum Heiligtum und bestätigen Sie die Rückfahrt. Absteigen Sie nur auf offenen Stufen und halten Sie den Durchgang frei. Fotografieren Sie den Schrein gegen die Klippe von einer freigegebenen Treppenabsatz.",
+      "question": "Darf ich da drinnen fotografieren?",
+      "answer": "Fragen Sie die Angestellten, besonders während des Gebets. Folgen Sie den Einschränkungen.",
+      "observe": "Das grün-weiße Schrein passt in eine steile Kalkstein-Rückfahrt. Suchen Sie nach dem Wechsel vom Tageslicht auf der Treppe zum geschlossenen Felsen an der Schreinschwelle.",
+      "planning": "Planen Sie das nach den Sehenswürdigkeiten der Stadt. Wenn die Anfahrt durch Treppen oder Sichtbarkeit erschwert wird, bleiben Sie am oberen Haltbereich.",
+      "steps": [
+        "Ausstieg an der Bergstraße",
+        "Oberes Podest",
+        "Treppe zum Heiligtum, falls geöffnet"
+      ],
+      "title": "Höhlenheiligtum Sari Salltik"
+    },
+    "fr": {
+      "about": "Ce lieu de pèlerinage de Bektashi est construit dans la roche au-dessus de Krujë. Le seuil, l'escalier et le petit sanctuaire font de la roche elle-même une partie de la visite. L'agence nationale du tourisme documente la tradition du pèlerinage.",
+      "visit": "Utilisez la route de montagne pour approcher le sanctuaire et confirmez le retour. Ne descendez que sur des marches ouvertes, en gardant le passage libre. Prenez une photo du sanctuaire face au rocher d'une zone d'atterrissage.",
+      "question": "Je peux photographier à l'intérieur ?",
+      "answer": "Demandez aux assistants, surtout pendant la prière. Suivez toutes les restrictions.",
+      "observe": "Le sanctuaire vert et blanc s'inscrit dans une profondeur de calcaire. Cherchez le changement de la lumière du jour sur l'escalier à la roche fermée au seuil du sanctuaire.",
+      "planning": "Planifiez ceci après les sites touristiques de la ville comme une étape de route séparée. Si les escaliers ou la visibilité rendent l'approche difficile, restez dans la zone d'arrêt supérieure.",
+      "steps": [
+        "Dépose sur la route de montagne",
+        "Palier supérieur",
+        "Escalier du sanctuaire si ouvert"
+      ],
+      "title": "Sanctuaire troglodytique de Sari Salltik"
+    },
+    "it": {
+      "about": "Questo luogo di pellegrinaggio di Bektashi è costruito nella roccia sopra Krujë. La soglia, le scale e il piccolo santuario fanno della roccia stessa parte della visita. L'agenzia nazionale del turismo documenta la tradizione del pellegrinaggio.",
+      "visit": "Usa la strada di montagna per avvicinarti al santuario e conferma il viaggio di ritorno. Scendere solo su gradini aperti, mantenendo il passaggio libero. Fate una foto del santuario contro la scogliera da un atterraggio consentito.",
+      "question": "Posso fotografare dentro?",
+      "answer": "Chiedete ai presenti, specialmente durante la preghiera. Seguire le restrizioni.",
+      "observe": "Il santuario verde-bianco si inserisce in una ripida scogliera calcarea. Cercate il passaggio dalla luce del giorno sulla scala alla roccia chiusa alla soglia del santuario.",
+      "planning": "Pianifica questo dopo le attrazioni della città come una parte separata della strada. Se le scale o la visibilità rendono difficile l'approccio, rimanete nella zona di fermo superiore.",
+      "steps": [
+        "Discesa dall’auto sulla strada di montagna",
+        "Pianerottolo superiore",
+        "Scala del santuario se aperta"
+      ],
+      "title": "Santuario rupestre di Sari Salltik"
+    },
+    "nl": {
+      "about": "Deze Bektashi pelgrimstoel is gebouwd in de rots boven Krujë. De drempel, de trap en het kleine heiligdom maken de rots zelf onderdeel van het bezoek. Het nationale toerismebureau documenteert de pelgrimstraditie.",
+      "visit": "Gebruik de bergweg naar het heiligdom en bevestig de terugreis. Ga alleen naar beneden op open trappen, zodat de doorgang vrij is. Fotografeer het heiligdom tegen de klif van een toegestane landing.",
+      "question": "Mag ik binnen fotograferen?",
+      "answer": "Vraag het aan de bedienden, vooral tijdens het gebed. Volg alle beperkingen.",
+      "observe": "Het groen-witte heiligdom past in een steile kalksteen afgrond. Kijk naar de verandering van het daglicht op de trap naar de afgesloten rots aan de drempel van het heiligdom.",
+      "planning": "Plan dit na de bezienswaardigheden van de stad als een aparte weg. Als de benadering door trappen of zichtbaarheid moeilijk is, blijf dan op het bovenste haltepunt.",
+      "steps": [
+        "Uitstappunt aan de bergweg",
+        "Bovenste bordes",
+        "Trap naar het heiligdom indien open"
+      ],
+      "title": "Grotheiligdom van Sari Salltik"
+    }
   },
   "zgerdhesh": {
     "address": "Qyteti antik i Zgërdheshit, Krujë",
@@ -161,7 +371,77 @@
       ]
     },
     "kind": "ruins",
-    "access": "outdoor"
+    "access": "outdoor",
+    "sq": {
+      "about": "Muret e ulëta mbijetojnë nga një vendbanim i fortifikuar i lashtë pranë Krujë. Shpesh lidhet me Albanopolis; lidhja është një interpretim. Lexoni murat që kanë mbijetuar, në vend që të prisni një qytet të rindërtuar.",
+      "visit": "Vendosni hartë në vendin arkeologjik, jo në kështjellë. Kontrolloni qasjen përfundimtare në vend, pastaj shikoni linjat e mureve nga toka e hapur. Fotografoni rrënojat në një kënd për të treguar gjatësinë e tyre dhe terrenin.",
+      "question": "A është identifikuar me siguri Albanopolis këtu?",
+      "answer": "Shoqata shfaqet në literaturën e trashëgimisë. Përdorni Zgërdhesh kur kërkoni faqen.",
+      "observe": "Lexoni blloqet në kontekst: kurset e vazhdueshme të mureve shënojnë rrethin më qartë se gurët e izoluara. Shkurta e bën pozicionin e parë mbrojtës të kuptueshëm.",
+      "planning": "Kombino këtë vend të lartësisë së ulët me kështjellën në majë të kodrës për një krahasim. konfirmo qasjen e fshatit para se të largoheni nga rruga kryesore.",
+      "steps": [
+        "Hyrja nga fshati",
+        "Skaji i hapur i rrënojave",
+        "Kthim nga e njëjta rrugë"
+      ],
+      "title": "Vendi arkeologjik i Zgërdheshit"
+    },
+    "de": {
+      "about": "Niedrige Mauern überleben aus einer alten befestigten Siedlung in der Nähe von Krujë. Es wird oft mit Albanopolis verbunden; die Vereinigung ist eine Interpretation. Lesen Sie das überlebende Mauerwerk auf dem Hang, anstatt eine rekonstruierte Stadt zu erwarten.",
+      "visit": "Setzen Sie die Karte auf die archäologische Stätte, nicht auf das Schloss. Überprüfen Sie die endgültige Annäherung vor Ort und sehen Sie die Wandlinien vom offenen Boden aus. Fotografieren Sie die Ruinen in einem Winkel, um ihre Länge und das Gelände zu zeigen.",
+      "question": "Ist Albanopolis hier sicher identifiziert?",
+      "answer": "Der Verein erscheint in der Kulturerbeliteratur. Verwenden Sie Zgërdhesh bei der Suche nach der Website.",
+      "observe": "Lesen Sie die Blöcke im Kontext: kontinuierliche Wandläufe markieren den Gehäuse deutlicher als isolierte Steine. Der Hang macht die ursprüngliche Verteidigung verständlich.",
+      "planning": "Kombinieren Sie diese niedrigere Elevation mit der Burg auf dem Hügel, um zu vergleichen. Bestätigen Sie den Ansatz des Dorfes, bevor Sie die Hauptstraße verlassen.",
+      "steps": [
+        "Zugang vom Dorf",
+        "Offener Rand der Ausgrabung",
+        "Rückweg auf derselben Strecke"
+      ],
+      "title": "Archäologische Stätte Zgërdhesh"
+    },
+    "fr": {
+      "about": "Des murs bas ont survécu à une ancienne colonie fortifiée près de Krujë. Il est souvent associé à Albanopolis; l'association est une interprétation. Lisez la maçonnerie survivante sur la pente plutôt que d'attendre une ville reconstruite.",
+      "visit": "Mettez la carte au site archéologique, pas au château. Vérifiez l'approche finale localement, puis regardez les lignes murales à l'ouverture. Photographier les ruines sous un angle pour montrer leur longueur et leur terrain.",
+      "question": "Albanopolis est-il bien identifié ici ?",
+      "answer": "L'association figure dans la littérature du patrimoine. Utilisez Zgërdhesh lors de la recherche du site.",
+      "observe": "Lisez les blocs dans leur contexte: les courants de la paroi continus marquent l'enceinte plus clairement que les pierres isolées. La pente rend l'emplacement défensif original compréhensible.",
+      "planning": "Combinez ce site de basse altitude avec le château au sommet d'une colline pour une comparaison. Confirmez l'approche du village avant de quitter la route principale.",
+      "steps": [
+        "Accès depuis le village",
+        "Bord accessible des vestiges",
+        "Retour par le même chemin"
+      ],
+      "title": "Site archéologique de Zgërdhesh"
+    },
+    "it": {
+      "about": "Le basse mura sopravvivono da un antico insediamento fortificato vicino a Krujë. È spesso associato ad Albanopolis; l'associazione è un'interpretazione. Leggete la muratura sopravvissuta contro la pendenza piuttosto che aspettarvi una città ricostruita.",
+      "visit": "Metti la mappa al sito archeologico, non al castello. Controlla l'approccio finale localmente, poi visualizza le linee della parete da terra aperta. Fate una foto delle rovine in un angolo per mostrarne la lunghezza e il terreno.",
+      "question": "Albanopolis e' ben identificata qui?",
+      "answer": "L'associazione appare nella letteratura patrimoniale. Utilizzare Zgërdhesh durante la ricerca del sito.",
+      "observe": "Leggi i blocchi nel contesto: i percorsi continuativi delle pareti segnano l'inclosure più chiaramente delle pietre isolate. La pendenza rende la posizione difensiva originale comprensibile.",
+      "planning": "Combina questo sito di altitudine inferiore con il castello in cima alla collina per un confronto. Confirmate l'approccio al villaggio prima di lasciare la strada principale.",
+      "steps": [
+        "Accesso dal villaggio",
+        "Margine accessibile delle rovine",
+        "Ritorno per lo stesso percorso"
+      ],
+      "title": "Sito archeologico di Zgërdhesh"
+    },
+    "nl": {
+      "about": "Lage muren overleven uit een oude versterkte nederzetting in de buurt van Krujë. Het wordt vaak geassocieerd met Albanopolis; de associatie is een interpretatie. Lees het overgebleven murenwerk tegen de helling in plaats van te verwachten dat een herbouwde stad zal komen.",
+      "visit": "Zet de kaart op de archeologische plek, niet op het kasteel. Controleer de laatste benadering lokaal en bekijk dan de muurlijnen vanuit open grond. Fotografeer de ruïnes in een hoek om hun lengte en het terrein te laten zien.",
+      "question": "Is Albanopolis hier veilig geïdentificeerd?",
+      "answer": "De vereniging verschijnt in de erfgoedliteratuur. Gebruik Zgërdhesh bij het zoeken naar de site.",
+      "observe": "Lees de blokken in de context: continue wandbanen markeren de omgeving duidelijker dan geïsoleerde stenen. De helling maakt de oorspronkelijke verdedigingssituatie begrijpelijk.",
+      "planning": "Combineer deze lagere locatie met het kasteel op de heuvel voor een vergelijking. Bevestig de aanpak van het dorp voordat u de hoofdweg verlaat.",
+      "steps": [
+        "Toegang vanuit het dorp",
+        "Open rand van de opgraving",
+        "Terug langs dezelfde route"
+      ],
+      "title": "Archeologische vindplaats Zgërdhesh"
+    }
   },
   "kurcaj-bridge": {
     "address": "Ura e Kurçajt, Kurçaj, Krujë",
@@ -202,7 +482,77 @@
       ]
     },
     "kind": "bridge",
-    "access": "outdoor"
+    "access": "outdoor",
+    "sq": {
+      "about": "Ura kaloi Zezanë në një rrugë të vjetër të karavanës midis Krujë dhe Tiranës. EU4Culture daton atë në mënyrë provatuese në shekullin e 18-të dhe dokumenton riparimet pas tërmetit të vitit 2019.",
+      "visit": "Rritni fshatin Kurçaj me rrugë dhe vazhdoni me këmbë. Nga një rrugë e hapur në anën e bankës shikoni në të kundërt në arki, pastaj përdorni vetëm qasjet e shënuara. Vendosni arkiun në anën e sipërme të lumit.",
+      "question": "Mund të kaloj mbrapa?",
+      "answer": "Projekti i restaurimit përshkruan një vizitë këmbësor. Lërini makinën para se të afroheni me këmbë.",
+      "observe": "Shikoni arkun nga ana e saj për të parë se si rringu i gurit shtrihet nëpër lumin pa një pir në kanalet kryesore. Deck e urës jep një lexim të ndryshëm të kaluar të karavanit të kaluar.",
+      "planning": "Mbajeni fotografitë e bregut të lumit të ndara nga kalës së shënuar. Nëse rruga e hyrjes është e mbyllur, kthehu në qasjen e fshatit.",
+      "steps": [
+        "Fshati Kurçaj",
+        "Shtegu i shënuar",
+        "Ura historike"
+      ],
+      "title": "Ura e Kurçajt"
+    },
+    "de": {
+      "about": "Die Brücke überquerte die Zeza auf einer alten Karawanroute zwischen Krujë und Tirana. EU4Culture stammt vorläufig aus dem 18. Jahrhundert und dokumentiert Reparaturen nach dem Erdbeben von 2019.",
+      "visit": "Erreichen Sie das Dorf Kurçaj auf der Straße und gehen Sie zu Fuß weiter. Von einem offenen Bankseitenweg über den Bogen schauen, und dann nur die markierten Ansätze verwenden. Rüstet den Bogen nebenan über dem Flussbett.",
+      "question": "Darf ich über die Brücke fahren?",
+      "answer": "Das Restaurierungsprojekt beschreibt einen Fußgängerbesuch. Verlassen Sie das Auto, bevor Sie zu Fuß kommen.",
+      "observe": "Schauen Sie sich den Bogen von der Seite an, um zu sehen, wie der Steinring den Fluss ohne Pier im Hauptkanal durchspannt. Das Brückendeck gibt eine andere Auffassung von der ehemaligen Karawanüberfahrt.",
+      "planning": "Halten Sie die Flussbecken-Fotografie getrennt von der markierten Überfahrt. Wenn der Zugangspfad geschlossen ist, kehren Sie zum Dorfanteil zurück.",
+      "steps": [
+        "Dorf Kurçaj",
+        "Markierter Fußweg",
+        "Historischer Brückenübergang"
+      ],
+      "title": "Brücke von Kurçaj"
+    },
+    "fr": {
+      "about": "Le pont traversait la Zeza sur une ancienne route de caravane entre Krujë et Tirana. EU4Culture le date tentativement du XVIIIe siècle et fait état de réparations après le tremblement de terre de 2019.",
+      "visit": "Rendez-vous au village de Kurçaj par la route et continuez à pied. De l'ouverture d'un chemin à côté de la rive, regardez l'arc, puis utilisez uniquement les approches marquées. Encadrez l'arc sur le côté au-dessus du lit de la rivière.",
+      "question": "Je peux traverser le pont ?",
+      "answer": "Le projet de restauration décrit une visite piétonne. Laissez la voiture avant l'approche à pied.",
+      "observe": "Regardez l'arc du côté pour voir comment l'anneau de pierre couvre la rivière sans qu'il y ait un quai dans le canal principal. Le pont donne une interprétation différente de l'ancienne traversée de la caravane.",
+      "planning": "Gardez la photographie de la rive de la rivière séparée du passage marqué. Si le chemin d'accès est fermé, retournez à l'approche du village.",
+      "steps": [
+        "Village de Kurçaj",
+        "Sentier balisé",
+        "Traversée du pont historique"
+      ],
+      "title": "Pont de Kurçaj"
+    },
+    "it": {
+      "about": "Il ponte attraversava la Zeza su un vecchio percorso di caravana tra Krujë e Tirana. EU4Culture lo risale provvisoriamente al XVIII secolo e documenta le riparazioni dopo il terremoto del 2019.",
+      "visit": "Si raggiunge il villaggio di Kurçaj per strada e prosegue a piedi. Da un percorso aperto sul lato della riva, guardate l'arco, quindi utilizzate solo gli approcci segnalati. Incadratta l'arco lateralmente sopra il letto del fiume.",
+      "question": "Posso guidare sul ponte?",
+      "answer": "Il progetto di restauro descrive una visita pedonale. Lascia l'auto prima dell'approccio a piedi.",
+      "observe": "Guardate l'arco da un lato per vedere come l'anello di pietra si estende attraverso il fiume senza un molo nel canale principale. Il ponte offre una diversa lettura dell'ex attraversamento della caravana.",
+      "planning": "Tenere le fotografie sulla riva del fiume separate dal passaggio segnalato. Se il percorso di accesso è chiuso, rivolgetevi all'approccio del villaggio.",
+      "steps": [
+        "Villaggio di Kurçaj",
+        "Sentiero segnalato",
+        "Attraversamento del ponte storico"
+      ],
+      "title": "Ponte di Kurçaj"
+    },
+    "nl": {
+      "about": "De brug kruiste de Zeza op een oude caravanroute tussen Krujë en Tirana. EU4Culture dateert het voorlopig uit de achttiende eeuw en documenteert reparaties na de aardbeving van 2019.",
+      "visit": "Bereik het dorp Kurçaj per weg en ga verder te voet. Vanuit een open bank-zijdepad kijk naar de boog en gebruik dan alleen de aangegeven benaderingen. Rame de boog aan de zijkant boven het rivierbodem.",
+      "question": "Mag ik over de brug rijden?",
+      "answer": "Het restauratieproject beschrijft een voetgangersbezoek. Verlaat de auto voordat de wandeling nadert.",
+      "observe": "Bekijk de boog van de zijkant om te zien hoe de stenen ring de rivier overspant zonder een pier in het hoofdkanaal. Het brugdek geeft een andere weergave van de voormalige caravan oversteken.",
+      "planning": "Houd de foto van de oever afzonderlijk van de gemarkeerde overstap. Als het toegangspad is gesloten, keert u terug bij de dorpsaanval.",
+      "steps": [
+        "Dorp Kurçaj",
+        "Gemarkeerd voetpad",
+        "Oversteek over de historische brug"
+      ],
+      "title": "Brug van Kurçaj"
+    }
   },
   "qafe-shtame": {
     "address": "Parku Kombëtar i Qafë Shtamës, Krujë",
@@ -243,7 +593,77 @@
       ]
     },
     "kind": "park",
-    "access": "park"
+    "access": "park",
+    "sq": {
+      "about": "Kjo tokë e lartë e mbrojtur pranë Krujë kombinon pyll conifer dhe gjethe të gjera me shpinë të hapura malore. Agjencia Kombëtare e Turizmit regjistron pinë të zezë, bukë dhe bok në park. Zyra e zonës së mbrojtur është kontakt i vizitorëve për rregullat lokale.",
+      "visit": "Merrni rrugën malore nga Krujë dhe filloni nga një rrugë e hapur e shënuar. Filloni me një shëtitje të shkurtër dhe fotografojeni krahun e pyjeve dhe shpinat nga një hapje publike.",
+      "question": "A shkon rrugës e kështjellës deri në park?",
+      "answer": "Lejoni transport të veçantë rrugor. Parku është një ekskursion në malet e larta jashtë fortesës.",
+      "observe": "Krahasoni stendat më të errëta me dritën që hyjnë në krahët e pyjeve. Tranzicioni nga shkop i mbyllur në shkop i hapur është më i dukshëm sesa nga rruga.",
+      "planning": "Zgjidhni një rrugë të shënuar para se të parkoni dhe përdorni të njëjtën rrugë për kthimin. Pyetni zyrën rajonale të zonave të mbrojtura për kufizimet sezonale të rrugëve ose rrugëve.",
+      "steps": [
+        "Hyrja e shënuar e shtegut",
+        "Skaji i pyllit",
+        "Kthim në pikën e nisjes"
+      ],
+      "title": "Parku Natyror i Qafështamës"
+    },
+    "de": {
+      "about": "Dieses geschützte Hochland in der Nähe von Krujë verbindet Schnabel- und Breitblattwald mit offenen Berghängen. Die Nationalen Tourismusagentur registriert schwarze Kiefer, Buche und Eiche im Park. Das Büro für Schutzgebiete ist der Besucherkontakt für lokale Regeln.",
+      "visit": "Nehmen Sie die Bergstraße von Krujë und beginnen Sie an einem unterzeichneten offenen Pfad. Beginnen Sie mit einem kurzen Spaziergang und fotografieren Sie den Waldrand und die Krebse von einem öffentlichen Platz.",
+      "question": "Erreicht der Schloss-Wanderweg den Park?",
+      "answer": "Erlaubt einen separaten Straßenverkehr. Der Park ist ein Hochland Ausflug außerhalb der Festung.",
+      "observe": "Vergleichen Sie dunklere Koniferstände mit Licht, das in die Wälder und die Räume eindringt. Der Übergang vom geschlossenen Dachboden zum offenen Berg ist sichtbarer als von der Straße.",
+      "planning": "Wählen Sie vor dem Parken einen unterschriebenen Weg und nutzen Sie den gleichen Weg zur Rückkehr. Fragen Sie das regionale Schutzzoneamt nach saisonalen Straßen- oder Streckenbeschränkungen.",
+      "steps": [
+        "Markierter Wegeinstieg",
+        "Waldrand",
+        "Rückkehr zum Ausgangspunkt"
+      ],
+      "title": "Naturpark Qafë-Shtamë"
+    },
+    "fr": {
+      "about": "Cette montagne protégée près de Krujë combine une forêt de conifères et de feuilles larges avec des pentes de montagne ouvertes. L'Agence nationale du tourisme enregistre le pin noir, le buisson et le chêne dans le parc. Le bureau de la zone protégée est le contact des visiteurs pour les règles locales.",
+      "visit": "Prenez la route de montagne de Krujë et commencez par un sentier ouvert signé. Commencez par une courte promenade et photographiez le bord de la forêt et les crêtes d'une place publique.",
+      "question": "La route de marche du château atteint-elle le parc ?",
+      "answer": "Permettre un transport routier séparé. Le parc est une excursion dans les hautes terres en dehors de la forteresse.",
+      "observe": "Comparez les stands de conifère plus sombres avec la lumière qui pénètre dans les forêts et les débris. La transition de la canopée fermée à la crête ouverte est plus visible qu'elle ne l'est de la route.",
+      "planning": "Choisissez un sentier signé avant de vous garer et utilisez le même sentier pour le retour. Demandez au bureau régional des zones protégées des restrictions saisonnières sur les routes ou les sentiers.",
+      "steps": [
+        "Départ du sentier balisé",
+        "Lisière de la forêt",
+        "Retour au point de départ"
+      ],
+      "title": "Parc naturel de Qafë-Shtamë"
+    },
+    "it": {
+      "about": "Questa montagna protetta vicino a Krujë combina conifer e foresta a foglie larghe con pendii di montagna aperti. L'Agenzia Nazionale del Turismo registra pino nero, fague e quercia nel parco. L'ufficio della zona protetta è il contatto per i visitatori delle norme locali.",
+      "visit": "Prendi la strada di montagna da Krujë e inizia da un sentiero aperto e segnalato. Inizia con una breve passeggiata e fotografa il bordo della foresta e le crine da un'area pubblica.",
+      "question": "Il percorso a piedi del castello raggiunge il parco?",
+      "answer": "Permettere un trasporto stradale separato. Il parco è un'escursione in montagna fuori dalla fortezza.",
+      "observe": "Confronta le stende di coniferie più scure con la luce che entra nei confini e nelle acque. La transizione da canopy chiuso a cresta aperta è più visibile che dalla strada.",
+      "planning": "Scegli un sentiero segnalato prima di parcheggiare e usa lo stesso tracciato per il ritorno. Chiedete all'ufficio regionale delle zone protette le restrizioni stagionali sulle strade o sui sentieri.",
+      "steps": [
+        "Inizio del sentiero segnalato",
+        "Margine del bosco",
+        "Ritorno al punto di partenza"
+      ],
+      "title": "Parco naturale di Qafë-Shtamë"
+    },
+    "nl": {
+      "about": "Dit beschermde hoogland in de buurt van Krujë combineert conifer- en breedblaadwoud met open berghangen. Het Nationaal Toerismebureau registreert zwarte pijnbomen, boeken en eiken in het park. Het kantoor van het beschermde gebied is het contactpunt voor bezoekers voor lokale regels.",
+      "visit": "Neem de bergweg van Krujë en begin op een gemarkeerd open pad. Begin met een korte wandeling en fotografeer de bosrand en de randen vanaf een openbare open plek.",
+      "question": "Bereikt de wandelroute van het kasteel het park?",
+      "answer": "Een afzonderlijk wegvervoer mogelijk maken. Het park is een bergtocht buiten het fort.",
+      "observe": "Vergelijk donkerder coniferstandjes met licht dat in bossen en openhoeken komt. De overgang van een gesloten balkon naar een open rand is meer zichtbaar dan vanaf de weg.",
+      "planning": "Kies een gemarkeerd pad voordat je parkt en gebruik hetzelfde pad voor de terugkeer. Vraag het regionale beschermde gebiedenbureau over seizoensgebonden weg- of padbeperkingen.",
+      "steps": [
+        "Gemarkeerd beginpunt",
+        "Bosrand",
+        "Terug naar het beginpunt"
+      ],
+      "title": "Natuurpark Qafë-Shtamë"
+    }
   },
   "skanderbeg-monument-kruje": {
     "address": "Monumenti i Skënderbeut, Krujë",
@@ -284,7 +704,77 @@
       ]
     },
     "kind": "monument",
-    "access": "street"
+    "access": "street",
+    "sq": {
+      "about": "Harta komunale e Krujë identifikon monumentin e kuajve të veçantë nga muzeu. Figura e ulur dhe pedestal kujtojnë Gjergj Kastrioti në hapësirën publike të qytetit.",
+      "visit": "Filloni në Krujë të qendrës dhe përdorni shkopin monumental para se të shkoni poshtë rrugës së tregut. Nga rruga e këmbësorëve e sheshive fotografoje kuajin dhe kalorën në profil me pedestal të dukshëm.",
+      "question": "A është kjo statuja në Tiranë?",
+      "answer": "Krujë ka monumentin e vet. Përdorni rezultatin e hartës me Krujë në adresën e saj.",
+      "observe": "Nga anët e saj, silhueti i kalës që rritet dhe i ngjitësit të drejtë shihen qartë. Baza e gurit e ndan kompozitën nga pamja e qytetit përreth.",
+      "planning": "Shihni monumentin para se të hyni në treg, kështu që funksionon si një pikë orientimi i qytetit. Lëreni një shkop të veçantë për ndalimin e kështjellës.",
+      "steps": [
+        "Qendra e Krujës",
+        "Zona për këmbësorë në shesh",
+        "Pazari i Vjetër"
+      ],
+      "title": "Monumenti i Skënderbeut në Krujë"
+    },
+    "de": {
+      "about": "Die Stadtkarte Krujë identifiziert das Reitmonument getrennt vom Museum. Die montierte Figur und das Fußbild erinnern an Gjergj Kastrioti im öffentlichen Raum der Stadt selbst.",
+      "visit": "Beginnen Sie im Zentrum von Krujë und nutzen Sie die Denkmalspin, bevor Sie die Marktbahn entlang gehen. Auf dem Fußgängerrand des Platzes fotografieren Sie das Pferd und den Reiter im Profil mit dem sichtbaren Fußboden.",
+      "question": "Ist das die Statue in Tirana?",
+      "answer": "Krujë hat ein eigenes Denkmal. Verwenden Sie das Kartenergebnis mit Krujë in seiner Adresse.",
+      "observe": "Von der Seite aus sieht man das Silhouette des Pferdes und des aufrechten Reiters deutlich. Die Steinbasis trennt die Zusammensetzung von der umliegenden Stadtlandschaft.",
+      "planning": "Schauen Sie sich das Denkmal an, bevor Sie den Markt betreten, so dass es als Stadtorientierungspunkt funktioniert. Lassen Sie die Musée-Stiftung für den Schloss stehen.",
+      "steps": [
+        "Zentrum von Krujë",
+        "Fußgängerbereich am Platz",
+        "Alter Basar"
+      ],
+      "title": "Skanderbeg-Denkmal in Krujë"
+    },
+    "fr": {
+      "about": "La carte municipale de Krujë identifie le monument équestre séparément du musée. La figure montée et le piédestal commémorent Gjergj Kastrioti dans l'espace public de la ville elle-même.",
+      "visit": "Commencez dans le centre de Krujë et utilisez la broche avant de descendre sur la voie du marché. Sur le bord piétonnier de la place, photographier le cheval et le cavalier en profil avec le piédestal visible.",
+      "question": "C'est la statue à Tirana ?",
+      "answer": "Krujë a son propre monument. Utilisez le résultat de la carte avec Krujë dans son adresse.",
+      "observe": "Du côté, on voit clairement la silhouette du cheval et du cavalier debout. La base en pierre sépare la composition du paysage urbain environnant.",
+      "planning": "Voir le monument avant d'entrer sur le marché afin qu'il serve de point d'orientation de la ville. Laissez la broche séparée du musée pour l'arrêt du château.",
+      "steps": [
+        "Centre de Krujë",
+        "Côté piéton de la place",
+        "Vieux bazar"
+      ],
+      "title": "Monument de Skanderbeg à Krujë"
+    },
+    "it": {
+      "about": "La mappa municipale di Krujë identifica il monumento equestre separatamente dal museo. La figura montata e il piedistallo commemorano Gjergj Kastrioti nello spazio pubblico della città stessa.",
+      "visit": "Inizia nel centro di Krujë e usa il bastone monumentale prima di scendere sulla corsia del mercato. Dal bordo pedonale della piazza fotografate il cavallo e il cavaliere in profilo con il piedistallo visibile.",
+      "question": "Questa è la statua di Tirana?",
+      "answer": "Krujë ha un suo monumento. Usa il risultato della mappa con Krujë nel suo indirizzo.",
+      "observe": "Dall'angolo si vede chiaramente la figura del cavallo e del suo cavaliere. La base di pietra separa la composizione dal paesaggio urbano circostante.",
+      "planning": "Vedete il monumento prima di entrare nel mercato, quindi serve come punto di orientamento della città. Lasciate la spina del museo per la fermata del castello.",
+      "steps": [
+        "Centro di Krujë",
+        "Lato pedonale della piazza",
+        "Vecchio Bazar"
+      ],
+      "title": "Monumento a Skanderbeg a Krujë"
+    },
+    "nl": {
+      "about": "Krujë's gemeentelijke kaart identificeert het ruitmonument afzonderlijk van het museum. Het gemonteerde figuur en voetstuk herdenken Gjergj Kastrioti in de openbare ruimte van de stad zelf.",
+      "visit": "Begin in het centrum van Krujë en gebruik de monument pin voordat je naar de marktbaan gaat. Vanuit de voetgangersrand van het plein foto's het paard en de ruiter in profiel met het voetstuk zichtbaar.",
+      "question": "Is dit het standbeeld in Tirana?",
+      "answer": "Krujë heeft zijn eigen monument. Gebruik het kaartresultaat met Krujë in het adres.",
+      "observe": "Van de zijkant is het silhouet van het paard en de rechtop rijder duidelijk zichtbaar. De stenen basis scheiden de samenstelling van het omliggende stadslandschap.",
+      "planning": "Bekijk het monument voordat je de markt betreeft, zodat het als oriëntatiepunt van de stad werkt. Laat het museum 's aparte pin voor het kasteel stop.",
+      "steps": [
+        "Centrum van Krujë",
+        "Voetgangerskant van het plein",
+        "Oude Bazaar"
+      ],
+      "title": "Skanderbegmonument in Krujë"
+    }
   },
   "preze-castle": {
     "address": "Kalaja e Prezës, Prezë, Vorë",
@@ -325,7 +815,77 @@
       ]
     },
     "kind": "fort",
-    "access": "outdoor"
+    "access": "outdoor",
+    "sq": {
+      "about": "Një kështjellë në majë të kodrës në krahasim me Krujë, Prezë lidhet me familjen Topia. Raporti kombëtar i turizmit vendos ndërtimin nga shekulli i katërmbëdhjetë në fillim të shekullit të pesëmbëdhjetë. Kullën e saj dhe muret e rrethanës përshkruajnë rrethin.",
+      "visit": "Shkoni me makinë deri në fshatin Prezë, pastaj ndiqni rrugën e shënuar përpjetë deri te kalaja. Krahasoni kullën me murin e oborrit dhe fotografoni fushën nga një pikë e lejuar vrojtimi.",
+      "question": "A është kjo pjesë e kështjellës Krujë?",
+      "answer": "Është një forcë e veçantë në Prezë. Planifikoni transportin rrugor mes tyre.",
+      "observe": "Kuadra e kullës bën një kontrast të fortë vertikale me murin e gjatë të gardhinës. Krahasoni shpinën e jashtme me oborrin e brendshëm të shtrirë për të kuptuar pozicionin mbrojtës.",
+      "planning": "Nëse afroheni përmes Vorë ose në anën e aeroportit, vendosni fshatin dhe kështjellën si ndalesa të ndara. Kërkoni hyrje të postuar në oborr para se të angazhoheni në një vizitë më të gjatë.",
+      "steps": [
+        "Fshati Prezë",
+        "Rruga përpjetë",
+        "Oborri i hapur ose muret e jashtme"
+      ],
+      "title": "Kalaja e Prezës"
+    },
+    "de": {
+      "about": "Als Hügelfort über die Ebene von Krujë ist Prezë mit der Familie Topia verbunden. Der nationale Tourismusbericht legt den Bau vom 14. Jahrhundert ins frühe 15. Jahrhundert. Sein Turm und seine Vorhänge umreißen die Umgebung.",
+      "visit": "Fahren Sie zum Dorf Prezë und nehmen Sie den unterzeichneten Aufstieg. Vergleichen Sie den Turm mit der Hofmauer und beziehen Sie die Ebene von einem offenen, erlaubten Aussichtspunkt aus.",
+      "question": "Ist das ein Teil von Krujë Castle?",
+      "answer": "Es ist eine getrennte Festung in Prezë. Planen Sie einen Straßenverkehr zwischen den beiden.",
+      "observe": "Der quadratische Turm macht einen starken vertikalen Kontrast zu der langen Vorhangwand. Vergleichen Sie die äußere Hang mit dem flacheren Innenhof, um die defensive Platzierung zu verstehen.",
+      "planning": "Wenn Sie sich über Vorë oder die Flughafenseite nähern, stellen Sie das Dorf und das Schloss als getrennte Haltestellen fest. Suchen Sie nach einem zugänglichen Zugang zum Hof, bevor Sie sich für einen längeren Besuch einsetzen.",
+      "steps": [
+        "Dorf Prezë",
+        "Anstieg zur Burg",
+        "Offener Hof oder Außenmauern"
+      ],
+      "title": "Burg Prezë"
+    },
+    "fr": {
+      "about": "Fort sur une colline à travers la plaine de Krujë, Prezë est associé à la famille Topia. Le compte national du tourisme place la construction du XIVe siècle au début du XVe. Sa tour et ses murs de rideau décrivent l'enceinte.",
+      "visit": "Vous conduirez au village de Prezë, puis prenez l'accès signé en haut. Comparez la tour avec le mur de la cour et encadrez la plaine d'un point de vue ouvert et autorisé.",
+      "question": "Cela fait partie du château de Krujë ?",
+      "answer": "C'est une forteresse séparée à Prezë. Planifiez le transport routier entre les deux.",
+      "observe": "La tour carrée fait un fort contraste vertical avec le long mur du rideau. Comparez la pente extérieure avec la cour intérieure plus plate pour comprendre la position défensive.",
+      "planning": "Si vous vous approchez via Vorë ou du côté de l'aéroport, fixez le village et le château comme arrêts distincts. Vérifiez l'accès à la cour avant de vous engager pour une visite plus longue.",
+      "steps": [
+        "Village de Prezë",
+        "Montée vers le château",
+        "Cour accessible ou murs extérieurs"
+      ],
+      "title": "Château de Prezë"
+    },
+    "it": {
+      "about": "Presë, un forte in cima alla collina attraverso la pianura da Krujë, è associato alla famiglia Topia. Il resoconto nazionale del turismo colloca la costruzione dal XIV secolo all'inizio del XV secolo. La sua torre e le pareti delle tende delineano il recinto.",
+      "visit": "Guidate fino al villaggio di Prezë, poi prendete l'accesso scelto. Confronta la torre con la parete del cortile e incornici la pianura da un punto di vista aperto e consentito.",
+      "question": "Fa parte del castello di Krujë?",
+      "answer": "È una fortezza separata a Prezë. Pianificare il trasporto stradale tra i due.",
+      "observe": "La torre quadrata fa un forte contrasto verticale con la lunga parete della tenda. Confronta la pendenza esterna con il cortile interno piatto per capire la posizione difensiva.",
+      "planning": "Se vi avvicinate via Vorë o sul lato aeroportuale, impostate il villaggio e il castello come fermate separate. Cerca di avere accesso all'ingresso al cortile prima di impegnarti per una visita più lunga.",
+      "steps": [
+        "Villaggio di Prezë",
+        "Salita al castello",
+        "Cortile aperto o mura esterne"
+      ],
+      "title": "Castello di Prezë"
+    },
+    "nl": {
+      "about": "Een heuveltop fort over de vlakte van Krujë, Prezë is geassocieerd met de familie Topia. Het nationale toeristische verslag plaatst de bouw van de veertiende eeuw tot het begin van de vijftiende. De toren en de gordijnmuur omschrijven de omgeving.",
+      "visit": "Rij naar het dorp Prezë en neem dan de gemarkeerde toegang. Vergelijk de toren met de binnenplaatsmuur en frame de vlakte vanuit een open, toegestane uitzichtpunt.",
+      "question": "Is dit een deel van het kasteel Krujë?",
+      "answer": "Het is een afzonderlijk fort in Prezë. Plan een wegvervoer tussen de twee.",
+      "observe": "De vierkante toren maakt een sterk verticaal contrast met de lange gordijnmuur. Vergelijk de buitenhang met de vlakkere binnenplaats om de verdediging te begrijpen.",
+      "planning": "Als u zich via Vorë of de luchthaven aan de kant van de luchthaven nadert, moet u het dorp en het kasteel als afzonderlijke stops plaatsen. Zoek naar de toegang tot de binnenplaats voordat u zich verplicht tot een langere bezoek.",
+      "steps": [
+        "Dorp Prezë",
+        "Weg omhoog",
+        "Open binnenplaats of buitenmuren"
+      ],
+      "title": "Kasteel van Prezë"
+    }
   },
   "ishem-castle": {
     "address": "Kalaja e Ishmit, Ishëm, Durrës",
@@ -366,7 +926,77 @@
       ]
     },
     "kind": "fort",
-    "access": "outdoor"
+    "access": "outdoor",
+    "sq": {
+      "about": "Qyteti i brendshëm në Ishëm është një mbyllje mbrojtëse e periudhës osmane. Perimetri i tij i gurit dhe portat e tij të mbijetuara ndihmojnë vizitorët të lexojnë linjën e ish-fortelimit kundër vendbanimit.",
+      "visit": "Naviga për në fshatin Ishëm dhe ndiqni shkopin e kështjellës nga vendbanimi. Kontrolloni hapjet në portën dhe fotografojeni murin që bie me rrëshqitje nga jashtë.",
+      "question": "A më çon ky shkop në bregdet?",
+      "answer": "Qyteti është në brendësi; Cape Rodon dhe kështjella e tij kanë një qasje të veçantë rrugore.",
+      "observe": "Kërkoni muret e trashë rreth hapjes dhe ndryshimin nga rruga e fshatit në perimetrin e mbyllur. Portalet ofrojnë një ndjenjë më të qartë të shkallës sesa një pamje të largët.",
+      "planning": "Vizitoni fortin e brendshëm së pari nëse e kombinoni me kapën. Përdorni fshatin Ishëm për qasjen rrugore dhe rivendosni navigimin para se të vazhdoni në bregdet.",
+      "steps": [
+        "Fshati Ishëm",
+        "Porta e kalasë",
+        "Ana publike e mureve"
+      ],
+      "title": "Kalaja e Ishmit"
+    },
+    "de": {
+      "about": "Die Binnenfestung von Ishëm ist ein defensives Gehäuse aus der osmanischen Periode. Sein überlebendes Stein-Umfang und das Tor helfen den Besuchern, die Linie der ehemaligen Festung gegen die Siedlung zu lesen.",
+      "visit": "Navigieren Sie zum Dorf Ishëm und folgen Sie dem Schlosspinn von der Siedlung. Überprüfen Sie die Öffnungen am Tor und fotografieren Sie die Wand, die von außen abbiegt.",
+      "question": "Bringt mich diese Nadel zur Küste?",
+      "answer": "Die Festung befindet sich im Landesinneren; Kap Rodon und sein Schloss haben einen separaten Straßenanschritt.",
+      "observe": "Suchen Sie nach dem dicken Mauerwerk um die Öffnung und dem Wechsel von der Dorfstraße in den geschlossenen Bereich. Das Gateway bietet ein klareres Maßstab als eine ferne Aussicht.",
+      "planning": "Besuchen Sie zuerst die Innenstadt, wenn Sie sie mit dem Kap verbinden. Verwenden Sie das Dorf Ishëm für die Straßenanfahrt und setzen Sie die Navigation zurück, bevor Sie zur Küste fahren.",
+      "steps": [
+        "Dorf Ishëm",
+        "Burgtor",
+        "Öffentlich zugängliche Außenseite"
+      ],
+      "title": "Burg Ishëm"
+    },
+    "fr": {
+      "about": "La forteresse intérieure d'Ishëm est une enceinte défensive de la période ottomane. Le périmètre et la porte de pierre qui y sont restés permettent aux visiteurs de lire la ligne de l'ancien bastion contre la colonie.",
+      "visit": "Naviguez jusqu'au village d'Ishëm et suivez le château depuis la colonie. Vérifiez les ouvertures à la porte et photographiez le mur qui s'écoule obliquement de l'extérieur.",
+      "question": "Cette broche me mène à la côte ?",
+      "answer": "La forteresse est à l'intérieur des terres; le Cap Rodon et son château ont une approche routière distincte.",
+      "observe": "Cherchez les murs épais autour de l'ouverture et le passage de la rue du village au périmètre fermé. La passerelle offre un sens plus clair de l'échelle qu'une vue éloignée.",
+      "planning": "Visitez d'abord le fort intérieur si vous le combinez avec la cape. Utilisez le village d'Ishëm pour l'approche routière et réinitialisez la navigation avant de continuer vers la côte.",
+      "steps": [
+        "Village d’Ishëm",
+        "Porte du château",
+        "Côté public de l’enceinte"
+      ],
+      "title": "Château d’Ishëm"
+    },
+    "it": {
+      "about": "La fortezza interna di Ishëm è un recinto difensivo del periodo ottomano. Il suo perimetro di pietra e il suo cancello sopravvissuti aiutano i visitatori a leggere la linea dell'ex fortezza contro l'insediamento.",
+      "visit": "Navigate verso il villaggio di Ishëm e seguite il castello fino all'insediamento. Controlla le aperture al cancello e fotografa il muro che corre obliquamente dall'esterno.",
+      "question": "Questa spina mi porta alla costa?",
+      "answer": "La fortezza è all'interno del territorio; il Capo Rodon e il suo castello hanno un approccio stradale separato.",
+      "observe": "Cercate la spessa muratura intorno all'apertura e il passaggio dalla strada del villaggio al perimetro chiuso. Il cancello fornisce un senso di scala più chiaro di una vista lontana.",
+      "planning": "Visita il forte interno prima se lo combina con il cappello. Utilizzare il villaggio di Ishëm per l'approccio stradale e ripristinare la navigazione prima di proseguire verso la costa.",
+      "steps": [
+        "Villaggio di Ishëm",
+        "Porta del castello",
+        "Lato pubblico delle mura"
+      ],
+      "title": "Castello di Ishëm"
+    },
+    "nl": {
+      "about": "Het binnenlandfort bij Ishëm is een defensief behuizing uit de Ottomaanse periode. De overgebleven stenen omtrek en poort helpen bezoekers de lijn van de voormalige vesting tegen de nederzetting te lezen.",
+      "visit": "Ga naar het dorp Ishëm en volg het kasteel vanaf de nederzetting. Controleer de openingen aan de poort en fotografeer de muur van buitenaf.",
+      "question": "Brengt deze pin me naar de kust?",
+      "answer": "Het fort is binnenland; Kaap Rodon en het kasteel hebben een aparte weg.",
+      "observe": "Zoek naar het dikke muren rondom de opening en de verandering van de dorpstraat naar de afgesloten omgeving. De toegangspoort geeft een duidelijker beeld van de schaal dan een uitzicht op afstand.",
+      "planning": "Bezoek eerst het binnenland fort als je het combineert met de kap. Gebruik Ishëm dorp voor de weg benadering en herstellen van de navigatie voordat u doorgaat naar de kust.",
+      "steps": [
+        "Dorp Ishëm",
+        "Kasteelpoort",
+        "Openbare kant van de muren"
+      ],
+      "title": "Kasteel van Ishëm"
+    }
   },
   "rodon-castle": {
     "address": "Kalaja e Skënderbeut në Kepin e Rodonit, Durrës",
@@ -409,7 +1039,82 @@
       ]
     },
     "kind": "fort",
-    "access": "outdoor"
+    "access": "outdoor",
+    "sq": {
+      "about": "Qëndrimi bregdetar në Kapin Rodon është i lidhur me strategjinë e mbrojtjes të shekullit të pesëmbëdhjetë të Skanderbeg. Muret e mbetura në kap tregojnë se si një kryeqytet i projektuar mund të kontrollojë qasjet nga deti.",
+      "visit": "Shkoni me makinë në zonën e vizitorëve në Kepin e Rodonit. Vazhdoni drejt rrënojave vetëm nëse shtegu bregdetar është i hapur. Fotografoni kepin dhe muret nga një pjesë e sigurt e shtegut publik.",
+      "question": "Është kështjella pranë kishës?",
+      "answer": "Të dy janë në kap. Lejoni një shëtitje të veçantë në rrënojat e kështjellës.",
+      "observe": "Muret e mbetura kthehen me bregdetin, ku ndërtesa murore dhe kryeqyteti punojnë së bashku. Një pamje anësore tregon se sa pak hapësirë e zë forca në det.",
+      "planning": "Planifikoni rrënojat si një ndalesë e veçantë për këmbë pas kishës. Kontrolloni rrugën e kthimit para se të shkoni në këmbën bregdetare.",
+      "steps": [
+        "Zona e vizitorëve",
+        "Shtegu bregdetar i shënuar",
+        "Rrënojat",
+        "Kthim nga i njëjti shteg"
+      ],
+      "title": "Kalaja e Rodonit"
+    },
+    "de": {
+      "about": "Die Küstenburg am Kap Rodon ist mit der Verteidigungsstrategie von Skanderbeg im 15. Jahrhundert verbunden. Die verbleibenden Mauern am Kap zeigen, wie ein hochwertiges Oberland die Anfahrt vom Meer kontrollieren konnte.",
+      "visit": "Sie erreichen das Besuchergebiet Cape Rodon per Straße. Von der unterschriebenen Wanderung bis zum Schloss gehen Sie nur dann fort, wenn der Weg offen ist, und fotografieren Sie dann über den Kopfland von einem stabilen öffentlichen Pfad.",
+      "question": "Ist das Schloss neben der Kirche?",
+      "answer": "Beide sind auf dem Gewand. Erlauben Sie einen separaten Spaziergang zu den Schlossruinen.",
+      "observe": "Die verbleibenden Mauern drehen sich mit der Küstenlinie, wo gebaute Mauerwerk und die Oberfläche zusammenarbeiten. Ein Nebenblick zeigt, wie wenig Platz die Seefort nimmt.",
+      "planning": "Planen Sie die Ruinen als separate Wanderstation nach der Kirche. Überprüfen Sie den Rückweg, bevor Sie zum Küstenbein fahren.",
+      "steps": [
+        "Besucherbereich",
+        "Markierter Küstenpfad",
+        "Burgruine",
+        "Rückkehr auf demselben Pfad"
+      ],
+      "title": "Burg am Kap Rodon"
+    },
+    "fr": {
+      "about": "La forteresse côtière du Cap Rodon est associée à la stratégie de défense du XVe siècle de Skanderbeg. Les murs restants du cap montrent comment un plateau projeté pouvait contrôler les approches depuis la mer.",
+      "visit": "Rejoignez par la route la zone d’accueil du cap Rodon. Empruntez le sentier balisé vers les ruines uniquement s’il est ouvert. Pour la photo, cadrez le promontoire et ses murailles depuis une partie stable du sentier public.",
+      "question": "Le château est-il à côté de l'église ?",
+      "answer": "Ils sont tous les deux sur la cape. Permettez-moi de marcher séparément jusqu'aux ruines du château.",
+      "observe": "Les murs restants tournent avec la côte, où la maçonnerie construite et le front travaillent ensemble. Une vue latérale montre à quel point le fort en mer occupe peu d'espace.",
+      "planning": "Planifiez les ruines comme un arrêt à pied séparé après l'église. Vérifiez le chemin de retour avant de vous engager à la jambe côtière.",
+      "steps": [
+        "Zone d’accueil",
+        "Sentier côtier balisé",
+        "Ruines du château",
+        "Retour par le même sentier"
+      ],
+      "title": "Château du cap Rodon"
+    },
+    "it": {
+      "about": "La roccaforte costiera del Capo Rodon è associata alla strategia di difesa del XV secolo di Skanderbeg. Le pareti rimaste al capone mostrano come una testa proiettata potesse controllare gli avvicinamenti dal mare.",
+      "visit": "Raggiungi su strada l’area visitatori di Capo Rodon. Prosegui verso le rovine lungo il sentiero segnalato solo se è aperto. Fotografa il promontorio e le mura da un punto stabile del sentiero pubblico.",
+      "question": "Il castello è vicino alla chiesa?",
+      "answer": "Entrambi sono sul capezzo. Permettiamoci di fare una passeggiata separata fino alle rovine del castello.",
+      "observe": "Le pareti rimanenti si girano con la costa, dove la muratura costruita e la testa lavorano insieme. Una vista laterale mostra quanto poco spazio occupa il forte sul mare.",
+      "planning": "Pianificare le rovine come una fermata separata dopo la chiesa. Controlla il percorso di ritorno prima di impegnarsi per la gamba costiera.",
+      "steps": [
+        "Area visitatori",
+        "Sentiero costiero segnalato",
+        "Rovine",
+        "Ritorno per lo stesso sentiero"
+      ],
+      "title": "Castello di Capo Rodon"
+    },
+    "nl": {
+      "about": "De kustvesting op Kaap Rodon is geassocieerd met Skanderbeg's verdedigingsstrategie uit de vijftienste eeuw. De overgebleven muren aan de Kaap laten zien hoe een uitgestoten hoofdland de naderen van de zee kon beheersen.",
+      "visit": "Rijd naar het bezoekersgebied op Kaap Rodon. Volg het gemarkeerde kustpad naar de ruïne alleen als het open is. Fotografeer de kaap en de muren vanaf een stabiel deel van het openbare pad.",
+      "question": "Is het kasteel naast de kerk?",
+      "answer": "Beiden zitten op de mantel. Laat een aparte wandeling naar de kasteelruïnes.",
+      "observe": "De resterende muren draaien met de kustlijn, waar gebouwd murenwerk en het hoofdland samenwerken. Een zijkant van het fort laat zien hoe weinig ruimte het aan zee gelegen fort bezit.",
+      "planning": "Plan de ruïnes als een aparte wandelstop na de kerk. Controleer het terugkeerpad voordat u naar het kustbeen gaat.",
+      "steps": [
+        "Bezoekersgebied",
+        "Gemarkeerd kustpad",
+        "Kasteelruïne",
+        "Terug langs hetzelfde pad"
+      ],
+      "title": "Kasteel op Kaap Rodon"
+    }
   },
   "saint-anthony-rodon": {
     "address": "Kisha e Shën Ndout, Kepi i Rodonit, Durrës",
@@ -450,7 +1155,77 @@
       ]
     },
     "kind": "church",
-    "access": "worship"
+    "access": "worship",
+    "sq": {
+      "about": "Ky kishë e vogël bregdetare lidhet me pranimin e franciskanëve në kap. UNOPS dokumenton restaurimin përmes EU4Culture. Mursoni dhe absida mund të lexohen nga toka e rrethuar.",
+      "visit": "Ndiqni rrugën e hyrjes në Cape Rodon dhe përdorni shkopin e kishës në zonën e vizitorëve. Shëtoni nëpër rrugët e jashtme të lejuara, pastaj mbështjellni absiden ose çati kundër peizazhit të hapur bregdetar.",
+      "question": "A ka qasje të garantuar brenda?",
+      "answer": "Kontrolloni rregullat e hapjes së shtëpisë para se të udhëtoni; jashtë është një ndalesë e vlefshme kur nuk është e disponueshme hyrja brenda.",
+      "observe": "Krahasoni murin e sheshit të sheshit me fundin e mallkuar të shenjtrit. Shkalla e vogël është më e dukshme kur çati dhe prerja përreth e shihen së bashku.",
+      "planning": "Vizitoni kishën para se të vendosni nëse do të vazhdoni në rrënojat. Nëse është e lejuar hyrja në brendësi, pyesni për rregullat për sipërfaqet e piktura.",
+      "steps": [
+        "Zona e vizitorëve",
+        "Hyrja e kishës",
+        "Pamje e absidës nga shtegu i lejuar"
+      ],
+      "title": "Kisha e Shën Ndout në Kepin e Rodonit"
+    },
+    "de": {
+      "about": "Diese kleine Küstenkirche ist mit der pränzenden Präsenz der Franziskaner auf dem Kap verbunden. UNOPS dokumentiert die Wiederherstellung durch EU4Culture. Das Mauerwerk und die Apside sind aus dem umliegenden Boden zu lesen.",
+      "visit": "Folgen Sie der Zugangsstraße von Cape Rodon und benutzen Sie den Kirchenpin im Besuchergebiet. Gehen Sie auf erlaubten Außenwegen herum, und dann einrahmen Sie die Apsis oder das Dach gegen die offene Küstenlandschaft.",
+      "question": "Gibt es einen garantierten Eintritt?",
+      "answer": "Überprüfen Sie die Öffnungsanordnungen, bevor Sie reisen; die Außenseite ist ein lohnender Halt, wenn der Innenbereich nicht verfügbar ist.",
+      "observe": "Vergleichen Sie die einfache Seitenwand mit dem gebogenen Ende des Heiligtums. Die kleine Größe zeigt sich am deutlichsten, wenn das Dach und das umliegende Gras zusammen gesehen werden.",
+      "planning": "Besuchen Sie die Kirche, bevor Sie sich entscheiden, ob Sie zu den Ruinen gehen. Wenn der Innenraum zugelassen ist, fragen Sie nach den Regeln für die gestrichenen Oberflächen.",
+      "steps": [
+        "Besucherbereich",
+        "Weg zur Kirche",
+        "Blick zur Apsis vom freigegebenen Weg"
+      ],
+      "title": "Antoniuskirche am Kap Rodon"
+    },
+    "fr": {
+      "about": "Cette petite église côtière est associée à la présence franciscaine sur le cap. Les documents UNOPS sont consacrés à la restauration par l'intermédiaire de EU4Culture. La maçonnerie et l'abside peuvent être lues du sol environnant.",
+      "visit": "Suivez la route d'accès du Cap Rodon et utilisez la broche de l'église dans la zone des visiteurs. Parcourez les sentiers extérieurs autorisés, puis encadrez l'abside ou le toit contre le paysage côtier ouvert.",
+      "question": "Y a-t-il un accès à l'intérieur garanti ?",
+      "answer": "Vérifiez les arrangements d'ouverture avant de voyager; l'extérieur est un arrêt utile lorsque l'accès à l'intérieur n'est pas disponible.",
+      "observe": "Comparez la paroi latérale avec l'extrémité incurvée du sanctuaire. La petite taille est particulièrement évidente lorsque le toit et l'herbe environnante sont vus ensemble.",
+      "planning": "Visitez l'église avant de décider de continuer vers les ruines. Si l'accès à l'intérieur est autorisé, demandez les règles pour les surfaces peintes.",
+      "steps": [
+        "Zone d’accueil",
+        "Accès à l’église",
+        "Vue sur l’abside depuis le chemin autorisé"
+      ],
+      "title": "Église Saint-Antoine du cap Rodon"
+    },
+    "it": {
+      "about": "Questa piccola chiesa costiera è associata alla presenza francescana sul cape. La UNOPS documenta il restauro attraverso EU4Culture. La muratura e l'abside si possono leggere dal terreno circostante.",
+      "visit": "Seguite la strada di accesso di Capo Rodon e usate la pinna della chiesa nella zona dei visitatori. Passeggiate per i sentieri esterni consentiti, poi incorniciate l'abside o il tetto contro il paesaggio costiero aperto.",
+      "question": "C'e' un accesso interno garantito?",
+      "answer": "Prima di viaggiare controlla le modalità di apertura; l'esterno è una fermata utile quando non è disponibile l'accesso all'interno.",
+      "observe": "Confronta la parete laterale piana con l'estremità curva del santuario. La piccola scala è più evidente quando si vedono insieme il tetto e l'erba circostante.",
+      "planning": "Visita la chiesa prima di decidere se continuare alle rovine. Se è consentito l'accesso all'interno, chiedere le regole per le superfici dipinte.",
+      "steps": [
+        "Area visitatori",
+        "Accesso alla chiesa",
+        "Vista dell’abside dal percorso consentito"
+      ],
+      "title": "Chiesa di Sant’Antonio a Capo Rodon"
+    },
+    "nl": {
+      "about": "Deze kleine kustkerk wordt geassocieerd met de Franciscanen aanwezigheid op de kap. UNOPS documenteert herstel via EU4Culture. De muren en de abside kunnen worden gelezen vanuit de omliggende grond.",
+      "visit": "Volg de Kaap Rodon-toegangsweg en gebruik de kerk pin op het bezoekersgebied. Ga door toegestane buitenwegen, en ram de abside of het dak dan tegen het open landschap aan de kust.",
+      "question": "Is er toegang binnen gegarandeerd?",
+      "answer": "Controleer de openingsregelingen voordat u reist; de buitenkant is een waardevolle halte wanneer binnenkomst niet beschikbaar is.",
+      "observe": "Vergelijk de vlakke zijmuur met het gebogen uiteinde van het heiligdom. De kleine schaal is het meest zichtbaar wanneer het dak en het omliggende gras samen worden gezien.",
+      "planning": "Bezoek de kerk voordat je besluit of je naar de ruïnes gaat. Als binnenkomst is toegestaan, vraag dan naar de regels voor de geverfde oppervlakken.",
+      "steps": [
+        "Bezoekersgebied",
+        "Toegang tot de kerk",
+        "Zicht op de apsis vanaf het toegestane pad"
+      ],
+      "title": "Sint-Antoniuskerk op Kaap Rodon"
+    }
   },
   "bovilla-lake": {
     "address": "Liqeni i Bovillës, Zall-Herr, Tiranë",
@@ -491,7 +1266,77 @@
       ]
     },
     "kind": "reservoir",
-    "access": "water"
+    "access": "water",
+    "sq": {
+      "about": "Bovilla është një rezervuar uji mes shpateve shkëmbore. Bashkia e Tiranës e paraqet si vend për t’u vizituar. Rreth rezervuarit të ujit të pijshëm zbatohen kufizime vendore.",
+      "visit": "Organizoni transport deri te hyrja e shënuar e rezervuarit dhe kontrolloni gjendjen e pjesës së fundit të rrugës. Nga pika e lejuar e vrojtimit fotografoni gjirin mes kreshtave.",
+      "question": "Mund të supozoj se uji është i hapur për të marrë banjë?",
+      "answer": "Planifikoni vizitën për pamjet dhe ndiqni rregullat e mbrojtjes dhe të qasjes.",
+      "observe": "Kërkoni hyrjen midis shkëmbinjve dhe dallimin midis sipërfaqes së gjerë të ujit dhe krahëve të saj të shtrënguar. Niveli i ujit mund të ndryshojë formën e dukshme nga një pamje.",
+      "planning": "Vendosni kthimin e shoferit dhe kthehuni para se të nisni. Zgjidhni një pikëpamje të autorizuar dhe ndiqni kufizimet rreth infrastrukturës së ujit.",
+      "steps": [
+        "Rruga e shënuar për në rezervuar",
+        "Pikë vrojtimi e lejuar",
+        "Pikë e caktuar takimi me shoferin"
+      ],
+      "title": "Liqeni i Bovillës"
+    },
+    "de": {
+      "about": "Der Bovilla-Stausee liegt zwischen steilen Felshängen. Die Stadt Tirana führt ihn als Ausflugsziel. Der Zugang zum Trinkwasserreservoir unterliegt örtlichen Beschränkungen.",
+      "visit": "Organisieren Sie den Straßentransport zum unterzeichneten Reservoir-Anschluss und bestätigen Sie den Zustand der Endstraße. Für Fotos nutzen Sie einen etablierten Ausblick und einrahmen Sie die Einfahrt zwischen den Rändern.",
+      "question": "Kann ich davon ausgehen, dass das Wasser für das Baden offen ist?",
+      "answer": "Planen Sie den Besuch für die Landschaft und befolgen Sie die Auflagen für Schutz und Zugang.",
+      "observe": "Suchen Sie nach dem Eingang zwischen den Klippen und den Unterschieden zwischen der breiten Wasseroberfläche und ihren geschränkten Armen. Der Wasserstand kann die Form verändern, die von einem Blick auf das Wasser sichtbar ist.",
+      "planning": "Bereiten Sie den Fahrer um und kehren Sie vor dem Start zurück. Wählen Sie einen autorisierten Standpunkt aus und befolgen Sie die Beschränkungen der Wasserinfrastruktur.",
+      "steps": [
+        "Ausgeschilderte Zufahrt zum Stausee",
+        "Zugelassener Aussichtspunkt",
+        "Vereinbarter Abholpunkt"
+      ],
+      "title": "Bovilla-Stausee"
+    },
+    "fr": {
+      "about": "Le réservoir de Bovilla est entouré de versants rocheux abrupts. La Ville de Tirana le présente comme une destination de découverte. L’accès aux abords de cette réserve d’eau potable est soumis aux règles locales.",
+      "visit": "Organiser le transport routier vers l'approche du réservoir signé et confirmer l'état de la route finale. Pour les photos, utilisez une vue établie et encadrez l'entrée entre les crêtes.",
+      "question": "Puis-je supposer que l'eau est ouverte pour le bain ?",
+      "answer": "Planifiez la visite pour les paysages et suivez les règles de protection et d'accès.",
+      "observe": "Cherchez l'entrée entre les falaises et la différence entre la large surface de l'eau et ses bras restreints. Le niveau de l'eau peut modifier la forme visible d'un point de vue.",
+      "planning": "Arrangez le tour du conducteur et revenez avant de partir. Choisissez un point de vue autorisé et suivez les restrictions concernant les infrastructures d'eau.",
+      "steps": [
+        "Accès balisé au réservoir",
+        "Belvédère autorisé",
+        "Point de rendez-vous avec le chauffeur"
+      ],
+      "title": "Lac de Bovilla"
+    },
+    "it": {
+      "about": "Bovilla è un serbatoio incorniciato da ripidi pendii rocciosi. La pagina dei visitatori comunali di Tirana la identifica come un punto di riferimento, mentre l'accesso intorno a un sito di approvvigionamento idrico è soggetto a restrizioni locali.",
+      "visit": "Organizzare il trasporto stradale verso l'approccio del serbatoio sottoscritto e confermare lo stato della strada finale. Per le foto utilizzare una vista stabilita e inquadrare l'ingresso tra le crine.",
+      "question": "Posso supporre che l'acqua sia aperta per il bagno?",
+      "answer": "Pianificare la visita per il paesaggio e seguire le regole di protezione e di accesso.",
+      "observe": "Cercate l'ingresso tra le scogliere e la differenza tra l'ampia superficie dell'acqua e i suoi bracci ristretti. Il livello dell'acqua può cambiare la forma visibile da una vista.",
+      "planning": "Organizzare il giro del conducente e tornare prima di partire. Scegli un punto di vista autorizzato e segui le restrizioni relative alle infrastrutture idriche.",
+      "steps": [
+        "Accesso segnalato al bacino",
+        "Belvedere autorizzato",
+        "Punto di ritrovo con l’autista"
+      ],
+      "title": "Lago di Bovilla"
+    },
+    "nl": {
+      "about": "Bovilla is een waterreservoir dat omgeven is door steile rotsende hellingen. De gemeentelijke bezoekerspagina van Tirana identificeert het als een bezienswaardigheid, terwijl de toegang rond een watervoorzieningsplaats onderworpen is aan lokale beperkingen.",
+      "visit": "Regel vervoer naar de aangegeven toegang tot het stuwmeer en controleer de toestand van het laatste stuk weg. Fotografeer vanaf een toegestaan uitkijkpunt de inham tussen de bergkammen.",
+      "question": "Kan ik aannemen dat het water open is voor het bad?",
+      "answer": "Plan de bezoek voor het landschap en volg de aangegeven beschermings- en toegangsregels.",
+      "observe": "Zoek naar de inlaat tussen de kliffen en het verschil tussen het brede wateroppervlak en de verzwaktte armen. Het waterniveau kan de vorm veranderen die vanaf een uitzicht zichtbaar is.",
+      "planning": "Maak de draai van de bestuurder en ga terug voordat u vertrekt. Kies een toegelaten standpunt en volg de beperkingen rond waterinfrastructuur.",
+      "steps": [
+        "Aangegeven toegang tot het stuwmeer",
+        "Toegestaan uitkijkpunt",
+        "Afgesproken ophaalpunt"
+      ],
+      "title": "Stuwmeer van Bovilla"
+    }
   },
   "durres-amphitheatre": {
     "address": "Amfiteatri i Durrësit, Durrës",
@@ -532,7 +1377,77 @@
       ]
     },
     "kind": "arena",
-    "access": "ticket"
+    "access": "ticket",
+    "sq": {
+      "about": "Amfiteatri romak u ndërtua në shekullin II. Shkallaret e lakuara dhe kalimet ndodhen nën nivelin e qytetit të sotëm. Më vonë një pjesë e ndërtesës u përdor si kapelë e krishterë.",
+      "visit": "Shkoni nga qendër e Durrës në hyrjen e shënuar. Ndiqni rrugën e shënuar dhe përdorni një pikë të lartë të lejuar për një fotografi të gjerë të arenës dhe çatave moderne.",
+      "question": "Mund ta shoh kapelën në çdo vizitë?",
+      "answer": "Zona e brendshme varet nga rruga e hapjes. Pyetni në hyrjen e faqes.",
+      "observe": "Lexoni kurbin e uljeve kundër shtëpive mbi të. Duke iu afruar rrugëve të lejuara, shihet dallimi midis tokës së arenës dhe qarkullimit përmes strukturës.",
+      "planning": "Filloni këtu para se të ecni drejt Kullës së Venecias. Nëse qasja në rrugë është e kufizuar, shpenzoni më shumë kohë në pamjen e hapur ose në rrugën e arenës.",
+      "steps": [
+        "Qyteti i vjetër",
+        "Sporteli i amfiteatrit",
+        "Arena ose pika e vrojtimit e hapur"
+      ],
+      "title": "Amfiteatri i Durrësit"
+    },
+    "de": {
+      "about": "Das römische Amphitheater entstand im 2. Jahrhundert. Seine gebogenen Sitzreihen und Gänge liegen unter dem heutigen Straßenniveau. Später wurde ein Teil der Anlage als christliche Kapelle genutzt.",
+      "visit": "Gehen Sie vom Zentrum von Durrës zum ausgeschilderten Eingang. Folgen Sie der markierten Route und nutzen Sie einen freigegebenen erhöhten Standort, um eine breite Fotografie der Arena und der modernen Dächer zu machen.",
+      "question": "Kann ich die Kapelle bei jedem Besuch sehen?",
+      "answer": "Die Innenräume hängen von der Öffnungsroute ab. Fragen Sie am Eingang.",
+      "observe": "Lesen Sie die Kurve der Sitzplätze gegenüber den Häusern darüber. Wenn man sich den zulässigen Passagen nähert, zeigt sich der Unterschied zwischen dem Boden der Arena und der Durchblutung durch die Struktur.",
+      "planning": "Beginnen Sie hier, bevor Sie zum Venetian Tower gehen. Wenn der Zugang zu den Passagen begrenzt ist, verbringen Sie länger Zeit auf dem offenen Ausblick oder der Arena-Route.",
+      "steps": [
+        "Altstadt",
+        "Kasseneingang des Amphitheaters",
+        "Freigegebene Arena- oder Aussichtsroute"
+      ],
+      "title": "Amphitheater von Durrës"
+    },
+    "fr": {
+      "about": "L'arène romaine a été construite au IIe siècle. Ses sièges et ses passages courbés sont situés en dessous du niveau de la ville moderne; une chapelle chrétienne a ensuite été réutilisée.",
+      "visit": "Parcourez le centre de Durrës jusqu'à l'entrée indiquée. Suivez la route marquée et utilisez un point élevé autorisé pour une photographie large de l'arène et des toits modernes.",
+      "question": "Puis-je voir la chapelle à chaque visite ?",
+      "answer": "Les espaces intérieurs dépendent de la route d'ouverture. Demandez à l'entrée du site.",
+      "observe": "Lisez la courbe des sièges contre les maisons au-dessus. Une approche des passages autorisés montre la différence entre le sol de l'arène et la circulation à travers la structure.",
+      "planning": "Commencez ici avant de marcher vers la Tour de Venise. Si l'accès au passage est limité, passez plus de temps sur la vue ou l'itinéraire de l'arène.",
+      "steps": [
+        "Vieille ville",
+        "Entrée et billetterie de l’amphithéâtre",
+        "Parcours autorisé dans l’arène ou au belvédère"
+      ],
+      "title": "Amphithéâtre de Durrës"
+    },
+    "it": {
+      "about": "L'arena romana fu costruita nel II secolo. I suoi sedili curvi e i suoi passaggi sono al di sotto del livello della moderna città; successivamente riutilizzato comprendeva una cappella cristiana.",
+      "visit": "Passeggiate dal centro di Durrës all'ingresso segnalato. Segui il percorso segnalato e usa un punto alto consentito per una foto ampia dell'arena e dei tetti moderni.",
+      "question": "Posso vedere la cappella a ogni visita?",
+      "answer": "Le aree interne dipendono dal percorso di apertura. Chiedi all'ingresso del sito.",
+      "observe": "Leggi la curva dei sedili contro le case sopra di esso. Approcciarsi ai passaggi consentiti mostra la differenza tra il pavimento dell'arena e la circolazione attraverso la struttura.",
+      "planning": "Inizia qui prima di camminare verso la Torre di Venezia. Se l'accesso al passaggio è limitato, trascorrere più tempo sulla strada aperta o sulla pista dell'arena.",
+      "steps": [
+        "Centro storico",
+        "Ingresso con biglietteria",
+        "Percorso aperto nell’arena o al belvedere"
+      ],
+      "title": "Anfiteatro di Durazzo"
+    },
+    "nl": {
+      "about": "De Romeinse arena werd gebouwd in de tweede eeuw. De gebogen zitplaatsen en doorgangen liggen onder het niveau van de hedendaagse stad; later werd er een christelijke kapel gebruikt.",
+      "visit": "Ga van het centrum van Durrës naar de gemarkeerde ingang. Volg de gemarkeerde route en gebruik een toegestane hoogte om een breed beeld te maken van de arena en de moderne daken.",
+      "question": "Mag ik de kapel zien bij elk bezoek?",
+      "answer": "De binnenruimte is afhankelijk van de openingsroute. Vraag bij de ingang.",
+      "observe": "Lees de curve van de zitplaats tegen de huizen boven. Wanneer men de toegestane gelegenheden nadert, wordt het verschil tussen de vloer van de arena en de circulatie door de structuur aangetoond.",
+      "planning": "Begin hier voordat je naar de Toren loopt. Als de toegang tot de doorgang beperkt is, moet u langer op de open uitzicht- of arena-route verblijven.",
+      "steps": [
+        "Oude stad",
+        "Ingang met kaartverkoop",
+        "Open route door de arena of naar het uitkijkpunt"
+      ],
+      "title": "Amfitheater van Durrës"
+    }
   },
   "durres-venetian-tower": {
     "address": "Torra Veneciane, Durrës",
@@ -573,7 +1488,77 @@
       ]
     },
     "kind": "tower",
-    "access": "ticket"
+    "access": "ticket",
+    "sq": {
+      "about": "Kulla e rrumbullakët i përket historisë së mbrojtjes së bregdetit të qytetit. Masa cilindrike dhe crenellations të saj janë të lehtë për të dalluar nga seksionet e mureve të drejtpërdrejtë. EU4Culture dokumenton ruajtjen e saj.",
+      "visit": "Nga bregdetin e ujit, shkoni në kullën në anën e rrugës. Kërkoni lidhjen e kullës dhe murit, pastaj ecni prapa në anën e këmbësorëve për të rrahur profilin e plotë.",
+      "question": "Është kulla hyrja e amfiteatrit?",
+      "answer": "- Jo, nuk. Është një fortifikim në bregdet me rregullat e veta të hyrjes dhe hyrjes.",
+      "observe": "Kullën cilindrike dhe murin e rrugave të rrugave paraqesin dy profile të ndryshme mbrojtëse. Krahasoni siluetin e tyre nga ana e bregut dhe ngjitjen e tyre nga afër.",
+      "planning": "Bashkoni kullën me amfiteatrin si dy ndalesa në shëtitjen e qytetit të vjetër. Kontrolloni hyrjen në shtëpi para se të ecni jashtë.",
+      "steps": [
+        "Bregdeti",
+        "Bashkimi i kullës me muret",
+        "Qendra interpretuese kur është e hapur"
+      ],
+      "title": "Torra Veneciane e Durrësit"
+    },
+    "de": {
+      "about": "Der runde Turm gehört zur Geschichte der Küstenverteidigung der Stadt. Seine zylindrische Masse und Krenellationen lassen sich leicht von den geraden Wänden unterscheiden. EU4Culture dokumentiert seine Erhaltung.",
+      "visit": "Von der Küste zu Fuß zum Turm auf der Landseite der Straße. Suchen Sie nach der Verbindung von Turm und Wand und treten Sie dann auf die Fußgängerseite zurück, um das komplette Profil zu einrahmen.",
+      "question": "Ist der Turm der Eingang zum Amphitheater?",
+      "answer": "- Nein, ich weiß nicht. Es ist eine Festung am Wasser mit eigenen Eintritts- und Zugangsregeln.",
+      "observe": "Der zylindrische Turm und die angrenzende Vorhängewand zeigen zwei verschiedene Verteidigungsprofile. Vergleichen Sie ihre Silhouette von der Küste und ihre Kreuzung aus der Nähe.",
+      "planning": "Vergleichen Sie den Turm mit dem Amphitheater als zwei Haltestellen auf dem Old Town Walk. Überprüfen Sie die Eingangsanweisung für den Zugang nach innen, bevor Sie nach außen gehen.",
+      "steps": [
+        "Uferpromenade",
+        "Übergang von Turm zu Mauer",
+        "Besucherzentrum, falls geöffnet"
+      ],
+      "title": "Venezianischer Turm in Durrës"
+    },
+    "fr": {
+      "about": "La tour ronde appartient à l'histoire de la défense côtière de la ville. Sa masse cylindrique et ses crénellations sont faciles à distinguer des sections murales droites. L'EU4Culture documente sa conservation.",
+      "visit": "Du bord de mer à la tour sur le côté terrestre de la route. Recherchez la jonction entre la tour et le mur, puis faites un pas en arrière sur le côté piéton pour encadrer le profil complet.",
+      "question": "La tour est-elle l'entrée de l'amphithéâtre ?",
+      "answer": "- Je ne sais pas. C'est une fortification au bord de l'eau avec ses propres règles d'entrée et d'accès.",
+      "observe": "La tour cylindrique et le mur de rideau adjacent présentent deux profils de défense différents. Comparez leur silhouette du côté de la plage et leur jonction de près.",
+      "planning": "Associer la tour à l'amphithéâtre comme deux arrêts sur la promenade de la vieille ville. Vérifiez l'entrée pour l'accès à l'intérieur avant de marcher à l'extérieur.",
+      "steps": [
+        "Front de mer",
+        "Jonction de la tour et des remparts",
+        "Centre d’interprétation si ouvert"
+      ],
+      "title": "Tour vénitienne de Durrës"
+    },
+    "it": {
+      "about": "La torre rotonda appartiene alla storia della difesa costiera della città. La sua massa cilindrica e le crenalità sono facili da distinguere dalle sezioni della parete dritta. EU4Culture documenta la sua conservazione.",
+      "visit": "Dal lungomare della spiaggia a piedi alla torre sul lato terrestre della strada. Cercate l'incrocio tra torre e muro, poi fate un passo indietro sul lato pedonale per inquadrare il profilo completo.",
+      "question": "La torre è l'ingresso dell'anfiteatro?",
+      "answer": "- No, no, no. Si tratta di una fortezza sul mare con le proprie regole di ingresso e accesso.",
+      "observe": "La torre cilindrica e il muro di tenda adiacente presentano due diversi profili difensivi. Confronta la loro silhouette dal lato del lungomare e la loro giunzione da vicino.",
+      "planning": "Accoppiare la torre con l'anfiteatro come due fermate sulla passeggiata della città vecchia. Controlla l'avviso di ingresso per l'accesso all'interno prima di camminare all'esterno.",
+      "steps": [
+        "Lungomare",
+        "Punto di unione tra torre e mura",
+        "Centro interpretativo se aperto"
+      ],
+      "title": "Torre veneziana di Durazzo"
+    },
+    "nl": {
+      "about": "De ronde toren behoort tot de kustverdedigingsgeschiedenis van de stad. De cilindrische massa en crenellaties zijn gemakkelijk te onderscheiden van de rechte muur secties. EU4Culture documentert het behoud ervan.",
+      "visit": "Van het strand lopen naar de toren aan de landzijde van de weg. Zoek naar de verbinding tussen toren en muur en stap dan terug op de voetgangerszijde om het volledige profiel in te kaderen.",
+      "question": "Is de toren de ingang van het amfiteater?",
+      "answer": "- Nee, dat is niet waar. Het is een vesting aan het water met eigen toegangs- en toegangsregels.",
+      "observe": "De cilindrische toren en de aangrenzende gordijnmuur hebben twee verschillende verdedigingsprofielen. Vergelijk hun silhouet van de oeverkant en hun kruising van dichtbij.",
+      "planning": "Pas de toren aan met het amfiteater als twee stops op de oude stadswandeling. Controleer de toegangsbevel voor binnen voordat je buiten loopt.",
+      "steps": [
+        "Waterkant",
+        "Aansluiting van toren en muren",
+        "Erfgoedcentrum indien open"
+      ],
+      "title": "Venetiaanse toren van Durrës"
+    }
   },
   "durres-fatih-mosque": {
     "address": "Xhamia e Fatihut, Durrës",
@@ -614,7 +1599,77 @@
       ]
     },
     "kind": "mosque",
-    "access": "worship"
+    "access": "worship",
+    "sq": {
+      "about": "Agjencia Kombëtare e Turizmit daton këtë xhami në vitin 1502 dhe e përshkruan atë si të ndërtuar mbi mbetjet e një bazilike mesjetare. Është një vend i veçantë nga xhamia më e madhe në sheshin kryesor.",
+      "visit": "Shkoni nga qyteti i vjetër dhe kontrolloni emrin e xhamisë lokale në portën. Shikoni shkallën e saj të modestë, pastaj fotografojeni nga jashtë pa bllokuar adhuruesit.",
+      "question": "A është kjo Xhaminë e Madhe?",
+      "answer": "Përdorni shkopin e Xhamisë Fatih. Xhamia e Madhe është në sheshin kryesor dhe është një ndërtesë e ndryshme.",
+      "observe": "Skala më e vogël, çati me pllaka dhe dritarat e arkëta dallojnë këtë xhami nga pamja kupullore në Sheshi Liria. Përdorni plakën e hyrjes për të konfirmuar ndërtesën.",
+      "planning": "Vizitoni atë të ndara nga Xhamia e Madhe, më mirë midis shërbimeve nëse doni të pyesni për hyrjen. Mbani portën dhe trondin të pastër.",
+      "steps": [
+        "Rrugicat e qytetit të vjetër",
+        "Tabela e xhamisë së Fatihut",
+        "Trotuari pranë hyrjes"
+      ],
+      "title": "Xhamia e Fatihut në Durrës"
+    },
+    "de": {
+      "about": "Die National Tourism Agency datiert diese Moschee auf 1502 und beschreibt sie als auf den Überresten einer mittelalterlichen Basilika gebaut. Es ist ein separater Standort von der größeren Moschee auf dem Hauptplatz.",
+      "visit": "Gehen Sie von der Altstadt aus und überprüfen Sie den Namen der örtlichen Moschee am Tor. Beachten Sie, wie bescheiden es ist, und fotografieren Sie dann von außen, ohne die Anbeter zu behindern.",
+      "question": "Ist das die große Moschee?",
+      "answer": "Verwenden Sie die Fatih-Moschee. Die Große Moschee befindet sich auf dem Hauptplatz und ist ein anderes Gebäude.",
+      "observe": "Die kleinere Größe, das gefliesene Dach und die gewölbten Fenster unterscheiden diese Moschee vom Kuppel-Landmark auf der Sheshi Liria. Verwenden Sie die Eintrittsplatte, um das Gebäude zu bestätigen.",
+      "planning": "Besuchen Sie sie getrennt von der Großen Moschee, vorzugsweise zwischen den Gottesdiensten, wenn Sie nach dem Eintritt fragen möchten. Halten Sie das Tor und den Bürgersteig frei.",
+      "steps": [
+        "Altstadtgasse",
+        "Schild der Fatih-Moschee",
+        "Öffentlicher Gehweg am Eingang"
+      ],
+      "title": "Fatih-Moschee in Durrës"
+    },
+    "fr": {
+      "about": "L'Agence nationale du tourisme date cette mosquée de 1502 et la décrit comme construite sur les restes d'une basilique médiévale. Il s'agit d'un site séparé de la plus grande mosquée sur la place principale.",
+      "visit": "Parcourez la vieille ville et vérifiez le nom de la mosquée locale à la porte. Observez sa petite taille, puis photographiez de l'extérieur sans empêcher les adorateurs.",
+      "question": "C'est la Grande Mosquée ?",
+      "answer": "Utilisez le pin de la mosquée Fatih. La Grande Mosquée est sur la place principale et est un bâtiment différent.",
+      "observe": "Le toit en carreaux et les fenêtres à arcs distinguent cette mosquée du monument dôme de Sheshi Liria. Utilisez la plaque d'entrée pour confirmer le bâtiment.",
+      "planning": "Visitez-le séparément de la Grande Mosquée, de préférence entre les services si vous voulez demander l'entrée. Gardez la porte et le trottoir propres.",
+      "steps": [
+        "Ruelle de la vieille ville",
+        "Panneau de la mosquée Fatih",
+        "Trottoir public près de l’entrée"
+      ],
+      "title": "Mosquée Fatih de Durrës"
+    },
+    "it": {
+      "about": "L'Agenzia Nazionale del Turismo data questa moschea del 1502 e la descrive come costruita sui resti di una basilica medievale. È un sito separato dalla moschea più grande sulla piazza principale.",
+      "visit": "Cammina dalla città vecchia e controlla il nome della moschea locale al cancello. Osservate la sua modesta scala, e poi fotografate dall'esterno senza bloccare i fedeli.",
+      "question": "Questa è la Grande Moschea?",
+      "answer": "Utilizzare il pin della moschea Fatih. La Grande Moschea è sulla piazza principale ed è un edificio diverso.",
+      "observe": "La scala più piccola, il tetto di piastrelle e le finestre arcate distinguono questa moschea dal punto di riferimento a cupola su Sheshi Liria. Usa la targa dell'ingresso per confermare l'edificio.",
+      "planning": "Visitalo separatamente dalla Grande Moschea, preferibilmente tra i servizi se volete chiedere l'ingresso. Tenete il cancello e il marciapiede puliti.",
+      "steps": [
+        "Vicolo del centro storico",
+        "Insegna della moschea Fatih",
+        "Marciapiede accanto all’ingresso"
+      ],
+      "title": "Moschea Fatih di Durazzo"
+    },
+    "nl": {
+      "about": "Het Nationaal Toerismebureau gaat deze moskee uit 1502 en beschrijft het als gebouwd op de overblijfselen van een middeleeuwse basiliek. Het is een aparte plaats van de grotere moskee op het hoofdplein.",
+      "visit": "Ga van de oude stad af en kijk naar de naam van de moskee aan de poort. Kijk naar de bescheiden omvang ervan en fotografeer dan van buiten zonder de aanbidders te blokkeren.",
+      "question": "Is dit de Grote Moskee?",
+      "answer": "Gebruik de Fatih Moskee pin. De Grote Moskee ligt op het hoofdplein en is een ander gebouw.",
+      "observe": "De kleinere schaal, tegeltak en boogvormige ramen onderscheiden deze moskee van het koepelvormige monument op Sheshi Liria. Gebruik de ingangsplaat om het gebouw te bevestigen.",
+      "planning": "Bezoek het afzonderlijk van de Grote Moskee, bij voorkeur tussen diensten als u naar binnen wilt vragen. Houd de poort en de trottoir vrij.",
+      "steps": [
+        "Straatje in de oude stad",
+        "Bord van de Fatih-moskee",
+        "Openbare stoep bij de ingang"
+      ],
+      "title": "Fatih-moskee van Durrës"
+    }
   },
   "durres-great-mosque": {
     "address": "Xhamia e Madhe, Sheshi Liria, Durrës",
@@ -655,7 +1710,77 @@
       ]
     },
     "kind": "mosque",
-    "access": "worship"
+    "access": "worship",
+    "sq": {
+      "about": "Xhamia dominon sheshin kryesor të qytetit. Kupola e saj, minaret dhe paraqyteti i ngritur bëjnë një ansambl të fortë me plaza qytetare. Rruga kombëtare e turizmit e dallojë atë nga xhamia e vjetër Fatih.",
+      "visit": "Afrohet Sheshi Liria. Merrni kupullin dhe shkaktoni nga sheshi publik para se të afroheni në derë. Pyetni para se të fotografoheni brenda.",
+      "question": "Mund të vizitoj gjatë lutjes?",
+      "answer": "Planifikoni një vizitë të jashtme gjatë shërbimeve dhe ndiqni udhëzimet e pranishmëve.",
+      "observe": "Së pari lexoni kupullin dhe minaretën si pjesë e horizonit të katrorit. Më afër shkallëve, shikoni se si ndryshimi i nivelit e ndryshëm e dallon shtepën e para nga trafiku rrugor.",
+      "planning": "Përdorni sheshin publik për një vizitë jashtë. Nëse vizitoni edhe Xhaminë Fatih, kërkoni për secilin emër veçmas në vend që të ndiqni një shkop të përgjithshëm të xhamisë.",
+      "steps": [
+        "Sheshi Liria",
+        "Pamje e kupolës dhe minares",
+        "Fundi i shkallëve"
+      ],
+      "title": "Xhamia e Madhe e Durrësit"
+    },
+    "de": {
+      "about": "Die Moschee dominiert den Hauptplatz der Stadt. Seine Kuppel, Minarett und erhobene Vorhöfe bilden ein starkes Ensemble mit dem Stadtplatz. Die nationale Tourismusroute unterscheidet sie von der älteren Fatih Moschee.",
+      "visit": "Näherung über Sheshi Liria. Nehmen Sie die Kuppel und Schritte vom öffentlichen Platz, bevor Sie sich der Tür nähern. Fragen Sie, bevor Sie nach innen fotografieren.",
+      "question": "Kann ich während des Gebets besuchen?",
+      "answer": "Planen Sie während der Gottesdienste einen externen Besuch und befolgen Sie die Anweisungen der Teilnehmer.",
+      "observe": "Lesen Sie zunächst die Kuppel und den Minarett als Teil der quadratischen Skyline. Näher an den Stufen, schauen Sie sich an, wie die Veränderung der Ebene den Vorhof vom Straßenverkehr unterscheidet.",
+      "planning": "Nutzen Sie den öffentlichen Platz für einen Besuch. Wenn Sie auch die Fatih-Moschee besuchen, suchen Sie nach jedem Namen separat, anstatt einem generischen Moschee-Pin zu folgen.",
+      "steps": [
+        "Sheshi Liria",
+        "Blick auf Kuppel und Minarett",
+        "Fuß der Freitreppe"
+      ],
+      "title": "Große Moschee von Durrës"
+    },
+    "fr": {
+      "about": "La mosquée domine la place principale de la ville. Son dôme, son minaret et sa cour haute constituent un ensemble solide avec la place civique. La route touristique nationale la distingue de l'ancienne mosquée Fatih.",
+      "visit": "Approchez-vous à travers Sheshi Liria. Prenez le dôme et les étapes de la place publique avant de vous approcher de la porte. Demandez avant de photographier à l'intérieur.",
+      "question": "Puis-je vous visiter pendant la prière ?",
+      "answer": "Planifiez une visite extérieure pendant les services et suivez les instructions des assistants.",
+      "observe": "Lisez d'abord le dôme et le minaret dans le cadre de l'horizon carré. Plus près des marches, regardez comment le changement de niveau distingue la cour avant de la circulation routière.",
+      "planning": "Utilisez la place publique pour une visite extérieure. Si vous visitez également la mosquée Fatih, recherchez chaque nom séparément plutôt que de suivre une épingle de mosquée générique.",
+      "steps": [
+        "Sheshi Liria",
+        "Vue sur la coupole et le minaret",
+        "Bas de l’escalier"
+      ],
+      "title": "Grande Mosquée de Durrës"
+    },
+    "it": {
+      "about": "La moschea domina la piazza principale della città. La sua cupola, il suo minareto e il suo cortile elevato formano un forte insieme con la piazza civica. Il percorso turistico nazionale lo distingue dalla vecchia Moschea di Fatih.",
+      "visit": "Si avvicina attraverso Sheshi Liria. Prendi la cupola e passi dalla piazza pubblica prima di avvicinarti alla porta. Chiedi prima di fotografare dentro.",
+      "question": "Posso visitarla durante la preghiera?",
+      "answer": "Pianificare una visita esterna durante i servizi e seguire le istruzioni degli assistenti.",
+      "observe": "Prima leggete la cupola e il minareto come parte dello skyline quadrato. Più vicino ai gradini, guarda come il cambiamento di livello distingue il cortile dal traffico stradale.",
+      "planning": "Utilizzare la piazza pubblica per una visita esterna. Se visitate anche la moschea di Fatih, cercate ogni nome separatamente piuttosto che seguire un pizzico di moschea generico.",
+      "steps": [
+        "Sheshi Liria",
+        "Vista della cupola e del minareto",
+        "Piede della scalinata"
+      ],
+      "title": "Grande moschea di Durazzo"
+    },
+    "nl": {
+      "about": "De moskee domineert het hoofdplein van de stad. De koepel, de minaret en het verhoogde voorhof vormen een sterk ensemble met het stadsplaats. De nationale toeristische route onderscheidt het van de oude Fatih Moskee.",
+      "visit": "Aan de overkant van Sheshi Liria. Neem de koepel binnen en stap op het plein voordat je de deur nadert. Vraag voordat je binnen fotografeert.",
+      "question": "Mag ik u bezoeken tijdens het gebed?",
+      "answer": "Plan een buitenbezoek tijdens de diensten en volg de instructies van de begeleiders.",
+      "observe": "Lees eerst de koepel en de minaret als onderdeel van de vierkante skyline. Bekijk hoe de veranderingen in niveau het voorhof van het straatverkeer onderscheiden.",
+      "planning": "Gebruik het openbare plein voor een buitenbezoek. Als u ook de Fatih-moskee bezoekt, zoek dan apart naar elke naam in plaats van een algemene moskee pin te volgen.",
+      "steps": [
+        "Sheshi Liria",
+        "Zicht op koepel en minaret",
+        "Onderkant van de trap"
+      ],
+      "title": "Grote Moskee van Durrës"
+    }
   },
   "durres-roman-baths": {
     "address": "Termat Romake, Aleksandër Moisiu Theatre, Durrës",
@@ -696,7 +1821,77 @@
       ]
     },
     "kind": "bath",
-    "access": "outdoor"
+    "access": "outdoor",
+    "sq": {
+      "about": "Banja mbetet pranë Teatrit modern Aleksandër Moisiu japin një pamje në nivelin e rrugës se si Durrës e lashtë dhe moderne mblidhen. Linjat e mureve të tullave dhe gurëve shënojnë dhomat e kompleksit të mëparshëm.",
+      "visit": "Shko në bllokun e teatrit dhe kërko zonën e shënuar arkeologjike. Fotografoje të vendosjes së zhytur nga ana e publikut e rradhës; kontrolloni njoftimet komunale për qasje më të afërt.",
+      "question": "A janë këto banjat në kështjellën e Krujë?",
+      "answer": "- Jo, nuk. Këto janë mbetje të periudhës romake në teatër në Durrës.",
+      "observe": "Ndiqni kurset e tullave në krahun e gërmimit për të lexuar ndarjen në dhoma. Teatri modern e bën dallimin në nivelin e tokës të lehtë për t'u krahasuar.",
+      "planning": "Planifikoni këtë si një ndalje të shkurtër arkeologjike urbane. Vazhdo në Forum për të krahasuar ndërtesat e mëparshme publike të cilat kanë mbijetuar në mënyra të ndryshme.",
+      "steps": [
+        "Zona e teatrit Aleksandër Moisiu",
+        "Tabela arkeologjike",
+        "Ana publike e parmakut"
+      ],
+      "title": "Termat romake të Durrësit"
+    },
+    "de": {
+      "about": "Das Badezimmer neben dem modernen Aleksandër Moisiu-Theater gibt einen Straßenebeneblick, wie sich das alte und das moderne Durrës überschneiden. Ziegel- und Steinwandlinien markieren Räume des ehemaligen Komplexes.",
+      "visit": "Gehen Sie zum Theaterblock und suchen Sie nach dem markierten archäologischen Bereich. Fotografieren Sie die gesunkene Layout von der öffentlichen Seite des Schienenrails; prüfen Sie die kommunalen Mitteilungen für einen näheren Zugang.",
+      "question": "Sind das die Bäder im Schloss Krujë?",
+      "answer": "- Nein, ich weiß nicht. Das sind Überreste aus der römischen Zeit im Theater in Durrës.",
+      "observe": "Folgen Sie den Ziegelkursen am Rande der Ausgrabung, um die Aufteilung in Räume zu lesen. Das moderne Theater macht den Unterschied im Boden leicht zu vergleichen.",
+      "planning": "Planen Sie es als kurze städtische Archäologie-Haltestelle. Weiter zum Forum, um ehemalige öffentliche Gebäude zu vergleichen, deren Layouts auf verschiedene Weise erhalten bleiben.",
+      "steps": [
+        "Gebäude des Theaters Aleksandër Moisiu",
+        "Hinweisschild der Ausgrabung",
+        "Öffentliche Seite des Geländers"
+      ],
+      "title": "Römische Thermen von Durrës"
+    },
+    "fr": {
+      "about": "Les restes de la baignoire à côté du théâtre moderne Aleksandër Moisiu donnent une vue au niveau de la rue sur la superposition de Durrës antique et moderne. Des lignes de mur en brique et en pierre marquent les chambres de l'ancien complexe.",
+      "visit": "Allez au bloc du théâtre et cherchez la zone archéologique marquée. Photographier la mise en page affondue du côté public de la raquette; vérifier les avis municipaux pour un accès plus proche.",
+      "question": "Ce sont les bains du château de Krujë ?",
+      "answer": "- Je ne sais pas. Ce sont des restes de la période romaine au théâtre de Durrës.",
+      "observe": "Suivez les cours de briques au bord de l'excavation pour lire la division en chambres. Le théâtre moderne rend la différence au niveau du sol facile à comparer.",
+      "planning": "Planifiez ceci comme un court arrêt d'archéologie urbaine. Continuez au Forum pour comparer les anciens bâtiments publics dont la mise en page survit de différentes manières.",
+      "steps": [
+        "Îlot du théâtre Aleksandër Moisiu",
+        "Panneau archéologique",
+        "Côté public de la rambarde"
+      ],
+      "title": "Thermes romains de Durrës"
+    },
+    "it": {
+      "about": "I resti del bagno accanto al moderno Teatro Aleksandër Moisiu offrono una vista a livello di strada di come Durrës antico e moderno si sovrappongono. Le linee di muro di mattoni e pietra contraddistinguono le stanze dell'ex complesso.",
+      "visit": "Vai al blocco del teatro e cerca l'area archeologica segnata. Fotografare il layout affondato dal lato pubblico della barella; verificare le notifiche municipali per un accesso più stretto.",
+      "question": "Questi sono i bagni del Castello di Krujë?",
+      "answer": "- No, no, no. Questi sono resti del periodo romano al teatro di Durrës.",
+      "observe": "Seguire i corsi di mattoni al bordo dell'escavazione per leggere la divisione in stanze. Il teatro moderno rende facile confrontare la differenza di livello del terreno.",
+      "planning": "Pianifica questo come una breve fermata di archeologia urbana. Proseguire al Forum per confrontare gli antichi edifici pubblici i cui layout sopravvivono in modi diversi.",
+      "steps": [
+        "Isolato del teatro Aleksandër Moisiu",
+        "Cartello archeologico",
+        "Lato pubblico della ringhiera"
+      ],
+      "title": "Terme romane di Durazzo"
+    },
+    "nl": {
+      "about": "Het bad blijft naast het moderne Aleksandër Moisiu-theater en geeft een straatniveau uitzicht op hoe oude en moderne Durrës elkaar overlappen. De stenen en bakstenen lijnen markeren de kamers van het voormalige complex.",
+      "visit": "Ga naar het theaterblok en zoek het gemarkeerde archeologische gebied. Fotografeer de ondergedompelde uitleg van de openbare kant van de railing; controleer de gemeentelijke kennisgevingen voor een nauwere toegang.",
+      "question": "Zijn dit de baden in Krujë Castle?",
+      "answer": "- Nee, dat is niet waar. Dit zijn overblijfselen uit de Romeinse tijd in het theater in Durrës.",
+      "observe": "Volg de bakstenen aan de rand van de opgraving om de verdeling in kamers te lezen. Het moderne theater maakt het verschil op het grondniveau gemakkelijk te vergelijken.",
+      "planning": "Plan dit als een korte stadse archeologische stop. Ga verder naar het forum om voormalige openbare gebouwen te vergelijken waarvan de uitleg op verschillende manieren nog bestaat.",
+      "steps": [
+        "Blok bij het Aleksandër Moisiu-theater",
+        "Bord van de opgraving",
+        "Openbare kant van de reling"
+      ],
+      "title": "Romeinse baden van Durrës"
+    }
   },
   "durres-forum": {
     "address": "Forumi Bizantin, Durrës",
@@ -737,7 +1932,77 @@
       ]
     },
     "kind": "market",
-    "access": "outdoor"
+    "access": "outdoor",
+    "sq": {
+      "about": "Rrjeti i mbijetuar i kolonave gjurmon një kompleks publik të Dyrrachiumit të lashtë, i përshkruar shpesh si një treg. Unaza lexohet më qartë nga jashtë sesa midis kolonave individuale.",
+      "visit": "Shkoni në vendin e shënuar të forumit në qendër të Durrës. Ndiqni perimetrin publik, ndaloni ku disa kolona mblidhen në pamje dhe fotografojeni arkun nga niveli i rrugës.",
+      "question": "A është kjo e njëjta si amfiteatri?",
+      "answer": "Forumi dhe amfiteatri zënë blloqe të ndryshme dhe kanë pinë të ndara të hartave.",
+      "observe": "Kolonat punojnë si një grup: gjeni kurbin para se të përqendroheni në kryeqytet ose fragmente individuale. Pikëpamjet e nivelit të rrugës e bëjnë përshkrimin më të lehtë të shihet.",
+      "planning": "Kombino vendndodhjen me banjat romake në vend që ta trajtojë si pjesë e hyrjes së amfiteatrit. Mbikëqyrje nga periferia publike nëse është e mbyllur.",
+      "steps": [
+        "Qendra e Durrësit",
+        "Perimetri publik",
+        "Pamje përballë rrethit të kolonave"
+      ],
+      "title": "Forumi Bizantin i Durrësit"
+    },
+    "de": {
+      "about": "Der überlebende Kreis der Säulen verfolgt einen öffentlichen Komplex des alten Dyrrachium, der oft als Markt beschrieben wird. Der Ring liest sich am deutlichsten von außen aus und nicht zwischen einzelnen Spalten.",
+      "visit": "Gehen Sie zum markierten Forum im Zentrum von Durrës. Folgen Sie dem öffentlichen Bereich, halten Sie an, wo sich mehrere Säulen in der Sicht überlappen, und fotografieren Sie den Bogen vom Straßenebene.",
+      "question": "Ist das das gleiche wie das Amphitheater?",
+      "answer": "Das Forum und das Amphitheater befinden sich in verschiedenen Blöcken und haben separate Kartenpins.",
+      "observe": "Die Spalten arbeiten als Gruppe: Finden Sie die Kurve, bevor Sie sich auf Hauptstücke oder einzelne Fragmente konzentrieren. Die Straßeneinstellungen machen den Umriss leichter zu sehen.",
+      "planning": "Kombinieren Sie den Ort mit den römischen Bädern, anstatt ihn als Teil des Amphitheaters zu behandeln. Beobachten Sie aus dem öffentlichen Bereich, wenn sie eingeschlossen sind.",
+      "steps": [
+        "Zentrum von Durrës",
+        "Öffentlicher Rand",
+        "Blick auf den Säulenring"
+      ],
+      "title": "Byzantinisches Forum von Durrës"
+    },
+    "fr": {
+      "about": "Le cercle de colonnes qui a survécu retrace un complexe public de l'ancien Dyrrachium, souvent décrit comme un marché. L'anneau se lit plus clairement de l'extérieur plutôt que entre les colonnes individuelles.",
+      "visit": "Marquez le site du forum dans le centre de Durrës. Suivez le périmètre public, arrêtez-vous là où plusieurs colonnes se chevauchent dans la vue et photographiez l'arc du niveau de la rue.",
+      "question": "C'est la même chose que l'amphithéâtre ?",
+      "answer": "Le forum et l'amphithéâtre occupent différents blocs et ont des broches de carte séparées.",
+      "observe": "Les colonnes fonctionnent en groupe: trouver la courbe avant de se concentrer sur les capitales ou les fragments individuels. Les points de vue situés au niveau de la rue facilitent la visualisation.",
+      "planning": "Combinez le site avec les bains romains plutôt que de le traiter comme faisant partie de l'entrée de l'amphithéâtre. Observez à partir du périmètre public si vous êtes fermé.",
+      "steps": [
+        "Centre de Durrës",
+        "Bordure publique",
+        "Vue sur le cercle des colonnes"
+      ],
+      "title": "Forum byzantin de Durrës"
+    },
+    "it": {
+      "about": "Il cerchio di colonne che è sopravvissuto traccia un complesso pubblico dell'antico Dyrrachium, spesso descritto come un mercato. L'anello si legge più chiaramente dall'esterno piuttosto che tra le singole colonne.",
+      "visit": "Camminare fino al sito del forum marcato nel centro di Durrës. Seguire il perimetro pubblico, fermarsi dove diverse colonne si sovrappongono nella vista e fotografare l'arco dal livello della strada.",
+      "question": "E' lo stesso dell'anfiteatro?",
+      "answer": "Il forum e l'anfiteatro occupano blocchi diversi e hanno pin di mappa separati.",
+      "observe": "Le colonne funzionano come un gruppo: trovare la curva prima di concentrarsi sui capitali o sui singoli frammenti. I punti di vista a livello stradale rendono più facile vedere il contorno.",
+      "planning": "Combina il sito con i bagni romani piuttosto che trattarlo come parte dell'ingresso dell'anfiteatro. Osservare dal perimetro pubblico se chiuso.",
+      "steps": [
+        "Centro di Durazzo",
+        "Perimetro pubblico",
+        "Vista sull’anello di colonne"
+      ],
+      "title": "Foro bizantino di Durazzo"
+    },
+    "nl": {
+      "about": "De overgebleven cirkel van kolommen volgt een openbaar complex van het oude Dyrrachium, vaak omschreven als een markt. De ring leest het helderst van buitenaf, in plaats van tussen individuele kolommen.",
+      "visit": "Ga naar de markerde forum in het centrum van Durrës. Volg het openbare gebied, stop waar verschillende kolommen elkaar overlappen in het uitzicht en fotografeer de boog vanaf straatniveau.",
+      "question": "Is dit hetzelfde als het amfiteater?",
+      "answer": "Het forum en het amfitheater bevinden zich in verschillende blokken en hebben afzonderlijke kaarten.",
+      "observe": "De kolommen werken als groep: zoek de curve voordat je je richt op hoofdstukken of afzonderlijke fragmenten. De uitzichtpunten op straatniveau maken het schets makkelijker te zien.",
+      "planning": "Combineer de locatie met de Romeinse baden in plaats van het als onderdeel van de ingang van het amfiteater te beschouwen. Bewaken vanuit het openbare gebied, indien gesloten.",
+      "steps": [
+        "Centrum van Durrës",
+        "Openbare rand",
+        "Zicht op de ring van zuilen"
+      ],
+      "title": "Byzantijns forum van Durrës"
+    }
   },
   "durres-archaeological-museum": {
     "address": "Muzeu Arkeologjik i Durrësit, Rruga Taulantia, Durrës",
@@ -778,7 +2043,77 @@
       ]
     },
     "kind": "museum",
-    "access": "ticket"
+    "access": "ticket",
+    "sq": {
+      "about": "Muzeu arkeologjik interpreton Dyrrachium të lashtë përmes objekteve në vend të rrënojave në vend. Historia e saj e mbledhjes dhe vendndodhja e saj në bregdetin e detit e bëjnë atë një kundërpërfshirje të dobishme për gërmimet e shpërndara në qytetin e vjetër.",
+      "visit": "Shëtoni përgjatë Rruga Taulantia dhe identifikoni hyrjen e muzeut para se të planifikoni rrugën tuaj. Fotografoni pjesën e jashtme nga një rrugë publike; pyesni stafin për rregullat e hapjes dhe të galerisë.",
+      "question": "Mund të mbështetem në orët e vjetra të hapjes të publikuara?",
+      "answer": "Kontrolloni kanalet e muzeut ose të vizitorëve të komunës për operacionet aktuale para se të udhëtoni.",
+      "observe": "Përdorni muzeun për të krahasuar skulpturat dhe objektet e lëvizshme me arkitekturën e parë jashtë në vendet arkeologjike të qytetit. Gjendja e përparme në bregdetin e detit gjithashtu ofron hapësirë për të lexuar fasaden e ndërtesës.",
+      "planning": "Kontrolloni operacionet e muzeut para se ta rregulloni atë si ndalesa juaj e parë. Nëse qasja brenda është e kufizuar, ndryshoni rendin dhe filloni në bregdetin e ujit ose amfiteatrin.",
+      "steps": [
+        "Rruga Taulantia",
+        "Sheshi para muzeut",
+        "Sallat e hapura atë ditë"
+      ],
+      "title": "Muzeu Arkeologjik i Durrësit"
+    },
+    "de": {
+      "about": "Das archäologische Museum interpretiert das alte Dyrrachium durch Gegenstände und nicht durch Ruinen. Seine geschichtliche Sammlung und seine Lage am Meer machen ihn zu einem nützlichen Gegenstück zu den verstreuten Ausgrabungen in der alten Stadt.",
+      "visit": "Gehen Sie durch die Rruga Taulantia und identifizieren Sie den Eingang zum Museum, bevor Sie Ihre Route planen. Fotografieren Sie das Äußere von einer öffentlichen Straße; fragen Sie das Personal nach Öffnungs- und Galerievorschriften.",
+      "question": "Kann ich mich auf veröffentlichte alte Öffnungszeiten verlassen?",
+      "answer": "Überprüfen Sie vor der Reise den Besucherkanal des Museums oder der Gemeinde für aktuelle Aktivitäten.",
+      "observe": "Verwenden Sie das Museum, um tragbare Skulpturen und Objekte mit der Architektur der archäologischen Stätten der Stadt zu vergleichen. Der Vorhof vor dem Meer bietet auch Raum, um die Gebäudefassade zu lesen.",
+      "planning": "Überprüfen Sie die Museumsbetriebe, bevor Sie es als erste Station reparieren. Wenn der Zugang im Innenraum eingeschränkt ist, wechseln Sie die Reihenfolge und starten Sie am Wasser oder am Amphitheater.",
+      "steps": [
+        "Rruga Taulantia",
+        "Museumsvorplatz",
+        "An diesem Tag geöffnete Galerien"
+      ],
+      "title": "Archäologisches Museum Durrës"
+    },
+    "fr": {
+      "about": "Le musée archéologique interprète l'ancien Dyrrachium à travers des objets plutôt que des ruines. Son histoire et son emplacement au bord de la mer en font une contrepartie utile aux fouilles dispersées de la vieille ville.",
+      "visit": "Marchez le long de la Rruga Taulantia et identifiez l'entrée du musée avant de planifier votre route. Prenez une photo de l'extérieur d'un chemin public; demandez au personnel les règles d'ouverture et de galerie.",
+      "question": "Je peux compter sur les anciennes heures d'ouverture publiées ?",
+      "answer": "Vérifiez les activités actuelles du musée ou du canal municipal avant de voyager.",
+      "observe": "Utilisez le musée pour comparer la sculpture et les objets portables avec l'architecture vue à l'extérieur des sites archéologiques de la ville. La façade de l'immeuble est également lisible sur le devant de la mer.",
+      "planning": "Vérifiez les opérations du musée avant de le réparer comme premier arrêt. Si l'accès à l'intérieur est restreint, changez d'ordre et commencez à la rive ou à l'amphithéâtre.",
+      "steps": [
+        "Rruga Taulantia",
+        "Parvis du musée",
+        "Salles ouvertes ce jour-là"
+      ],
+      "title": "Musée archéologique de Durrës"
+    },
+    "it": {
+      "about": "Il museo archeologico interpreta l'antico Dyrrachium attraverso oggetti piuttosto che rovine in posizione. La sua collezione di storia e la sua posizione sul mare la rendono un'utile controparte degli scavi sparsi nella città vecchia.",
+      "visit": "Passeggiate lungo la Rruga Taulantia e identificate l'ingresso al museo prima di pianificare il percorso. Fotografare l'esterno da un percorso pubblico; chiedere al personale le regole di apertura e galleria.",
+      "question": "Posso fare affidamento su vecchi orari di apertura pubblicati?",
+      "answer": "Prima di viaggiare, controlla il canale dei visitatori del museo o del comune per le attività attuali.",
+      "observe": "Utilizzare il museo per confrontare la scultura portatile e gli oggetti con l'architettura vista fuori nei siti archeologici della città. Il cortile di fronte al mare offre anche spazio per leggere la facciata dell'edificio.",
+      "planning": "Controlla le operazioni del museo prima di sistemarla come prima fermata. Se l'accesso all'interno è ristretto, cambia l'ordine e inizia al lungomare o all'anfiteatro.",
+      "steps": [
+        "Rruga Taulantia",
+        "Piazzale del museo",
+        "Sale aperte quel giorno"
+      ],
+      "title": "Museo archeologico di Durazzo"
+    },
+    "nl": {
+      "about": "Het archeologisch museum interpreteert het oude Dyrrachium door middel van objecten in plaats van ruïnes op hun plaats. De verzameling geschiedenis en de ligging aan zee maken het een nuttig tegenhanger van de verspreide opgravingen in de oude stad.",
+      "visit": "Loop langs de Rruga Taulantia en identificeer de ingang van het museum voordat je je route planneert. Fotografeer de buitenkant van een openbare weg; vraag aan het personeel over de openings- en galerijregels.",
+      "question": "Kan ik vertrouwen op de oude openingstijden?",
+      "answer": "Controleer het museum of het gemeentelijke bezoekerskanal voor de huidige activiteiten voordat u reist.",
+      "observe": "Gebruik het museum om draagbare beeldhouwwerken en objecten te vergelijken met de architectuur die buiten op de archeologische plaatsen van de stad wordt gezien. Het voorhof aan zee biedt ook ruimte om de gevel van het gebouw te lezen.",
+      "planning": "Controleer het museum voordat je het als eerste stop regelt. Als de toegang tot binnen is beperkt, verander dan de volgorde en begin bij het waterfront of het amfiteater.",
+      "steps": [
+        "Rruga Taulantia",
+        "Voorplein van het museum",
+        "Zalen die die dag open zijn"
+      ],
+      "title": "Archeologisch museum van Durrës"
+    }
   },
   "moisiu-house": {
     "address": "Shtëpia Muze Aleksandër Moisiu, Durrës",
@@ -819,7 +2154,77 @@
       ]
     },
     "kind": "house",
-    "access": "ticket"
+    "access": "ticket",
+    "sq": {
+      "about": "Agjencia Kombëtare e Turizmit përfshin këtë muze në rrugën kulturore të qytetit. Materiali i saj i përqendruar tek aktorët dhe etnografia rajonale ndodhen brenda një ndërtese tradicionale banimore, ku dhoma dhe shkallët e jashtme janë pjesë e vizitës.",
+      "visit": "Afrohet me këmbë nga rrugët e qytetit të vjetër. Shikoni jashtë përpara se të hyni, dhe fotografojeni shkallën nga një zonë e hapur publike pa penguar derën.",
+      "question": "Kjo është teatri i qytetit?",
+      "answer": "Muzeu i shtëpisë dhe teatri janë vende të ndara megjithëse ndajnë emrin Moisiu.",
+      "observe": "Trapa e jashtme dhe qendra tregojnë se si shtëpia menaxhon lëvizjen midis niveleve. Përdorni ato për të vendosur jetën e aktorit dhe koleksionin etnografik në kontekstin arkitektonik.",
+      "planning": "Kërko shenjën e shtëpisë dhe jo të teatrit. Kontrolloni qasjen para se të hyni në oborr dhe largohuni nga vendi i shfaqjes si një ndalesë e veçantë.",
+      "steps": [
+        "Qyteti i vjetër",
+        "Tabela e shtëpisë-muze",
+        "Oborri dhe shkallët e jashtme kur janë të hapura"
+      ],
+      "title": "Shtëpia-muze e Aleksandër Moisiut"
+    },
+    "de": {
+      "about": "Die Nationalen Tourismusagentur umfasst dieses Hausmuseum auf der kulturellen Route der Stadt. Sein auf die Akteure konzentriertes Material und seine regionale Ethnographie befinden sich in einem traditionellen Wohnhaus, in dem der Innenhof und die Außentreppe Teil des Besuchs sind.",
+      "visit": "Von den Straßen der Altstadt zu Fuß. Schauen Sie sich vor dem Eintritt das Äußere an und fotografieren Sie die Treppe aus einem offenen öffentlichen Bereich, ohne die Tür zu behindern.",
+      "question": "Ist das das Stadttheater?",
+      "answer": "Das Hausmuseum und das Theater sind trotz des gemeinsamen Namens Moisiu getrennt.",
+      "observe": "Die äußere Treppe und der Hof zeigen, wie das Haus die Bewegung zwischen den Ebenen verwaltet. Verwenden Sie sie, um das Leben des Schauspielers und die ethnographische Sammlung in einen architektonischen Kontext zu bringen.",
+      "planning": "Suchen Sie nach dem Hauszeichen und nicht nach dem Theatermark. Überprüfen Sie den Zugang, bevor Sie den Hof betreten und verlassen Sie den Aufführungsort als separate Haltestelle.",
+      "steps": [
+        "Altstadt",
+        "Schild des Wohnhausmuseums",
+        "Hof und Außentreppe, falls geöffnet"
+      ],
+      "title": "Wohnhausmuseum Aleksandër Moisiu"
+    },
+    "fr": {
+      "about": "L'Agence nationale du tourisme inclut ce musée de maison sur la route culturelle de la ville. Son matériel axé sur les acteurs et son ethnographie régionale se trouvent dans un bâtiment résidentiel traditionnel, où la cour et l'escalier extérieur font partie de la visite.",
+      "visit": "Approchez-vous à pied des rues de la vieille ville. Regardez l'extérieur avant d'entrer et photographiez l'escalier d'un espace public ouvert sans obstruer la porte.",
+      "question": "C'est le théâtre de la ville ?",
+      "answer": "Le musée de la maison et le théâtre sont des lieux séparés malgré le fait qu'ils partagent le nom de Moisiu.",
+      "observe": "L'escalier extérieur et la cour montrent comment la maison gère le mouvement entre les niveaux. Utilisez-les pour mettre la vie de l'acteur et la collection ethnographique dans un contexte architectural.",
+      "planning": "Recherchez le panneau de la maison plutôt que la marque du théâtre. Vérifiez l'accès avant d'entrer dans la cour et quittez le lieu de spectacle en tant qu'arrêt séparé.",
+      "steps": [
+        "Vieille ville",
+        "Panneau de la maison-musée",
+        "Cour et escalier extérieur si accessibles"
+      ],
+      "title": "Maison-musée d’Aleksandër Moisiu"
+    },
+    "it": {
+      "about": "L'Agenzia Nazionale del Turismo comprende questo museo di casa sul percorso culturale della città. Il suo materiale focalizzato sugli attori e l'etnografia regionale si trovano all'interno di un edificio residenziale tradizionale, dove il cortile e le scale esterne fanno parte della visita.",
+      "visit": "Si avvicina a piedi dalle vie della città vecchia. Guardate l'esterno prima di entrare e fotografate la scala da un'area pubblica aperta senza ostacolare la porta.",
+      "question": "Questo è il teatro della città?",
+      "answer": "Il museo della casa e il teatro sono luoghi separati nonostante condividano il nome Moisiu.",
+      "observe": "Le scale esterne e il cortile mostrano come la casa gestisce il movimento tra i livelli. Utilizzarli per mettere la vita dell'attore e la collezione etnografica nel contesto architettonico.",
+      "planning": "Cerca il cartello della casa, non il cartello del teatro. Controllare l'accesso prima di entrare nel cortile e lasciare il luogo dello spettacolo come fermata separata.",
+      "steps": [
+        "Centro storico",
+        "Insegna della casa museo",
+        "Cortile e scala esterna se aperti"
+      ],
+      "title": "Casa museo di Aleksandër Moisiu"
+    },
+    "nl": {
+      "about": "Het Nationaal Toerismebureau heeft dit museum op de culturele route van de stad. Het acteursgerichte materiaal en de regionale ethnografie bevinden zich in een traditioneel woongebouw, waar de binnenplaats en de buitenste trap deel uitmaken van het bezoek.",
+      "visit": "Op voet naderen van de straten van de oude stad. Kijk naar de buitenkant voordat u binnenkomt en fotografeer de trap vanuit een open openbare ruimte zonder de deur te belemmeren.",
+      "question": "Is dit het stadstheater?",
+      "answer": "Het huismuseum en het theater zijn afzonderlijke plaatsen ondanks het delen van de naam Moisiu.",
+      "observe": "De buitenste trap en binnenplaats laten zien hoe het huis beweging tussen de niveaus beheert. Gebruik ze om het leven van de acteur en de etnografische collectie in een architecturale context te plaatsen.",
+      "planning": "Zoek naar het huisbord in plaats van naar het theater. Controleer de toegang voordat u de binnenplaats binnengaat en verlaat de voorstellingsplaats als een aparte halte.",
+      "steps": [
+        "Oude stad",
+        "Bord van het huismuseum",
+        "Binnenplaats en buitentrap indien open"
+      ],
+      "title": "Huismuseum Aleksandër Moisiu"
+    }
   },
   "arapaj-basilica": {
     "address": "Bazilika e Shën Mëhillit, Arapaj, Durrës",
@@ -860,7 +2265,77 @@
       ]
     },
     "kind": "church",
-    "access": "outdoor"
+    "access": "outdoor",
+    "sq": {
+      "about": "Vendi i krishterë i hershëm në Arapaj është i njohur për mozaikën e tij të dysheme dhe gjurmët e një bazilike. Bazat e ulëta lexohen ndryshe nga një kishë e qëndrueshme. Përmbajtja e mozaikës mund të ndikojë në atë që është e dukshme.",
+      "visit": "Rriteni në Arapaj me rrugë dhe verifikoni qasjen e fundit me informacionet lokale. Shikoni themelet vetëm nga anët e hapura dhe fotografojeni gjurmët e ndërtesës në vend që të shkelni mbi të.",
+      "question": "A do të zbulohet mozaika?",
+      "answer": "Kontrolloni rregullat e ruajtjes dhe hyrjes në vend para se të prisni ta shihni atë.",
+      "observe": "Plani i tokës është gjëja më e besueshme për t'u lexuar nga krahët e arritshme. Krahasoni muret paralele dhe bazën e kolonës para se të kërkoni zonën e mozaikës.",
+      "planning": "Lëre kohë për shpinën e fundit të fshatit dhe ndiqni barrierat e ruajtjes së mjedisit. Nëse mozaika është e mbuluar, përqendrohuni vizitën tek gjurmët e ndërtesës.",
+      "steps": [
+        "Fshati Arapaj",
+        "Rruga e lejuar",
+        "Skaji i hapur i themeleve"
+      ],
+      "title": "Bazilika e Shën Mëhillit në Arapaj"
+    },
+    "de": {
+      "about": "Der frühe christliche Ort in Arapaj ist bekannt für sein Bodenmosaik und die Spuren einer Basilika. Die niedrigen Grundlagen sind anders als eine stehende Kirche. Die Erhaltung von Mosaiken kann sich auf das Sichtbare auswirken.",
+      "visit": "Erreichen Sie Arapaj auf der Straße und überprüfen Sie die letzte Annäherung mit lokalen Informationen. Beobachten Sie die Grundlagen nur von offenen Rändern und fotografieren Sie den Fußabdruck des Gebäudes, anstatt darauf zu treten.",
+      "question": "Wird das Mosaik aufgedeckt?",
+      "answer": "Überprüfen Sie die Umweltschutz- und Zugangsregelungen vor Ort, bevor Sie erwarten, sie zu sehen.",
+      "observe": "Der Grundplan ist das zuverlässigste, was man von den zugänglichen Rändern auslesen kann. Vergleichen Sie parallele Wände und Spaltenbasis, bevor Sie nach dem Mosaikbereich suchen.",
+      "planning": "Lassen Sie Zeit für die letzte Dorfstrecke und folgen Sie den Schutzbarrieren. Wenn das Mosaik bedeckt ist, konzentrieren Sie den Besuch auf den Fußabdruck.",
+      "steps": [
+        "Dorf Arapaj",
+        "Freigegebener Zugang",
+        "Offener Rand des Basilikagrundrisses"
+      ],
+      "title": "Basilika St. Michael in Arapaj"
+    },
+    "fr": {
+      "about": "Le site chrétien primitif d'Arapaj est connu pour sa mosaïque de sol et les traces d'une basilique. Les fondations basses se lisent différemment d'une église debout. La conservation des mosaïques peut affecter ce qui est visible.",
+      "visit": "Rendez-vous à Arapaj par la route et vérifiez la dernière approche avec des informations locales. Observez les fondations uniquement à partir des bords ouverts et photographiez l'empreinte du bâtiment plutôt que de marcher dessus.",
+      "question": "La mosaïque sera-t-elle dévoilée ?",
+      "answer": "Vérifiez les dispositions de conservation et d'accès localement avant de vous attendre à la voir.",
+      "observe": "Le plan de terrain est la chose la plus fiable à lire des bords accessibles. Comparer les murs parallèles et les bases des colonnes avant de rechercher la zone de mosaïque.",
+      "planning": "Laissez le temps pour la dernière voie du village et suivez les barrières de conservation. Si la mosaïque est couverte, concentrez votre visite sur l'empreinte du bâtiment.",
+      "steps": [
+        "Village d’Arapaj",
+        "Accès autorisé",
+        "Bord accessible des fondations"
+      ],
+      "title": "Basilique Saint-Michel d’Arapaj"
+    },
+    "it": {
+      "about": "Il primo sito cristiano di Arapaj è noto per il suo mosaico a pavimento e le tracce di una basilica. Le basi basse si leggono in modo diverso da una chiesa in piedi. La conservazione dei mosaici può influenzare ciò che è visibile.",
+      "visit": "Si raggiunga Arapaj per strada e verifica l'ultimo approccio con informazioni locali. Osservare le fondamenta solo dai bordi aperti e fotografare l'impronta dell'edificio invece di calpestarla.",
+      "question": "Il mosaico verrà esposto?",
+      "answer": "Controllate le modalità di conservazione e di accesso locali prima di aspettarvi di vederlo.",
+      "observe": "Il piano di terra è la cosa più affidabile da leggere dai bordi accessibili. Confronta le pareti parallele e le basi delle colonne prima di cercare l'area del mosaico.",
+      "planning": "Lasciate tempo per l'ultima corsia del villaggio e seguite le barriere di conservazione. Se il mosaico è coperto, concentrate la visita sull'impronta dell'edificio.",
+      "steps": [
+        "Villaggio di Arapaj",
+        "Accesso consentito",
+        "Margine aperto delle fondazioni"
+      ],
+      "title": "Basilica di San Michele ad Arapaj"
+    },
+    "nl": {
+      "about": "De vroege christelijke plaats in Arapaj is bekend om zijn vloermozaïek en de sporen van een basiliek. De lage fundamenten lezen anders dan een staande kerk. Het behoud van mozaïeken kan invloed hebben op wat zichtbaar is.",
+      "visit": "Bereik Arapaj via de weg en controleer de laatste benadering met lokale informatie. Bekijk de fundamenten alleen vanaf open randen en fotografeer de voetafdruk van het gebouw in plaats van erop te treden.",
+      "question": "Wordt het mozaïek blootgesteld?",
+      "answer": "Controleer de bewarings- en toegangsregelingen op het plaatselijk niveau voordat u verwacht het te zien.",
+      "observe": "Het grondplan is het meest betrouwbare om te lezen vanaf de bereikbare randen. Vergelijk de parallelle muren en de kolommen voordat je naar het mozaïekgebied kijkt.",
+      "planning": "Laat tijd voor de laatste dorpstraat en volg beschermingsbarrières. Als het mozaïek bedekt is, richt het bezoek dan op de voetafdruk van het gebouw.",
+      "steps": [
+        "Dorp Arapaj",
+        "Toegestane toegang",
+        "Open rand van de funderingen"
+      ],
+      "title": "Sint-Michaëlsbasiliek in Arapaj"
+    }
   },
   "kavaje-clock-tower": {
     "address": "Kulla e Sahatit, Sheshi i Qytetit, Kavajë",
@@ -901,7 +2376,77 @@
       ]
     },
     "kind": "tower",
-    "access": "townTower"
+    "access": "townTower",
+    "sq": {
+      "about": "Udhëzuesi i trashëgimisë komunal e rendit këtë kullë si një monument qendror të Kavajë. Forma e saj e ngushtë vertikale dhe fytyra e orës ndihmojnë vizitorët të orientohen rreth sheshive dhe xhamisë fqinje.",
+      "visit": "Shkoni në sheshin e qytetit dhe përdorni anën e këmbësorëve për të parë lartësinë e plotë. Fotografoni pranë ndërtesave më të ulëta qytetare për të treguar shkallën e saj.",
+      "question": "Mund ta ngjitem?",
+      "answer": "Planifikoni ta shihni atë nga sheshi, përveç nëse qasja është e hapur ekspliktivisht në vend.",
+      "observe": "Përdorni sheshin për të krahasuar shakun e ngushtë të kullës me xhaminë fqinje dhe ndërtesat qytetare. Shikoni me fytyrën e orës para se të kaloni sheshin.",
+      "planning": "Shihni si kullën dhe xhaminë në këmbë rreth të njëjtës sheshi, duke përdorur pinët e tyre të ndara për të arritur. Përcaktoni qasjen në kullë lokalisht.",
+      "steps": [
+        "Sheshi i qytetit",
+        "Ana e këmbësorëve pranë kullës",
+        "Pamje drejt xhamisë"
+      ],
+      "title": "Kulla e Sahatit në Kavajë"
+    },
+    "de": {
+      "about": "Der Stadt-Gebiet-Werbeführer listet diesen Turm als zentralen Wahrzeichen von Kavajë auf. Seine schmale vertikale Form und das Uhrengesicht helfen den Besuchern, sich um den Platz und die benachbarte Moschee zu orientieren.",
+      "visit": "Gehen Sie in den Stadtplatz und sehen Sie die ganze Höhe auf der Fußgängerseite. Fotografieren Sie es neben den niedrigeren Gebäuden, um sein Maßstab zu zeigen.",
+      "question": "Darf ich es klettern?",
+      "answer": "Planen Sie es vom Platz aus zu sehen, es sei denn, der Zugang ist explizit vor Ort geöffnet.",
+      "observe": "Verwenden Sie den Platz, um den schmalen Turmschacht mit den benachbarten Moscheen und Bürgergebäuden zu vergleichen. Suchen Sie nach der Uhr, bevor Sie den Platz überqueren.",
+      "planning": "Sehen Sie den Turm und die Moschee zu Fuß auf dem gleichen Platz und benutzen ihre getrennten Pins zur Ankunft. Bestätigen Sie den Zugang zum Turm vor Ort.",
+      "steps": [
+        "Stadtplatz",
+        "Fußgängerseite des Turms",
+        "Blick zur Moschee"
+      ],
+      "title": "Uhrturm von Kavajë"
+    },
+    "fr": {
+      "about": "Le guide du patrimoine municipal répertorie cette tour comme un monument du centre de Kavajë. Sa forme verticale étroite et sa façade de l'horloge aident les visiteurs à se diriger autour de la place et de la mosquée voisine.",
+      "visit": "Marchez sur la place de la ville et utilisez le côté piéton pour voir toute l'altitude. Prenez une photo à côté des bâtiments civiques inférieurs pour montrer son échelle.",
+      "question": "Je peux monter ?",
+      "answer": "Planifiez de le voir depuis la place à moins que l'accès ne soit explicitement ouvert sur place.",
+      "observe": "Utilisez la place pour comparer l'arbre étroit de la tour avec la mosquée voisine et les bâtiments civils. Cherchez la face de l'horloge avant de traverser la place.",
+      "planning": "Voir à pied la tour et la mosquée autour de la même place, en utilisant leurs broches séparées pour l'arrivée. Confirmez l'accès à la tour.",
+      "steps": [
+        "Place de la ville",
+        "Côté piéton de la tour",
+        "Vue vers la mosquée"
+      ],
+      "title": "Tour de l’horloge de Kavajë"
+    },
+    "it": {
+      "about": "La guida patrimoniale della zona municipale elenca questa torre come monumento centrale di Kavajë. La sua stretta forma verticale e la sua faccia dell'orologio aiutano i visitatori a orientarsi intorno alla piazza e alla moschea vicina.",
+      "visit": "Cammina nella piazza della città e usa il lato pedonale per vedere tutta l'altitudine. Fate una foto accanto agli edifici civili inferiori per mostrarne la scala.",
+      "question": "Posso salire?",
+      "answer": "Pianificare di vederlo dalla piazza a meno che l'accesso non sia esplicitamente aperto sul sito.",
+      "observe": "Utilizzare la piazza per confrontare lo scafo della torre stretta con la moschea vicina e gli edifici civili. Cerca la faccia dell'orologio prima di attraversare la piazza.",
+      "planning": "Vedere sia la torre che la moschea a piedi intorno alla stessa piazza, utilizzando i loro stivali separati per l'arrivo. Conferma l'accesso alla torre localmente.",
+      "steps": [
+        "Piazza cittadina",
+        "Lato pedonale della torre",
+        "Vista verso la moschea"
+      ],
+      "title": "Torre dell’orologio di Kavajë"
+    },
+    "nl": {
+      "about": "De gemeentelijke erfgoedgids vermeldt deze toren als een centraal monument van Kavajë. Zijn smalle verticale vorm en klokkenzijde helpen bezoekers te oriënteren rond het plein en de naburige moskee.",
+      "visit": "Ga naar het stadsplein en gebruik de voetgangerszijde om de volledige hoogte te zien. Fotografeer het naast de lagere stadsgebouwen om zijn schaal te laten zien.",
+      "question": "Mag ik erop klimmen?",
+      "answer": "Plan om het te zien vanaf het plein, tenzij de toegang expliciet op het terrein is geopend.",
+      "observe": "Gebruik het plein om de smalle torensacht te vergelijken met de naburige moskee en burgerlijke gebouwen. Kijk naar het horloge gezicht voordat je het plein overstapt.",
+      "planning": "Zie zowel de toren als de moskee te voet rond hetzelfde plein, met behulp van hun afzonderlijke pijnen voor aankomst. Bevestig de toegang tot de toren.",
+      "steps": [
+        "Stadsplein",
+        "Voetgangerskant van de toren",
+        "Zicht richting de moskee"
+      ],
+      "title": "Klokkentoren van Kavajë"
+    }
   },
   "kavaje-kubelie-mosque": {
     "address": "Xhamia Kubelie, Sheshi i Qytetit, Kavajë",
@@ -942,7 +2487,77 @@
       ]
     },
     "kind": "mosque",
-    "access": "worship"
+    "access": "worship",
+    "sq": {
+      "about": "Xhamia është një monument i qendrës së sheshin publik të Kavajë. Kupola, minaret dhe arkada e përparme japin pamje të ndryshme ndërsa kaloni plaza. Përdorni vendndodhjen e xhamisë së emëruar në vend të pinit të mbështjellë të kullës së orës.",
+      "visit": "Nga qendra, kaloni sheshin drejt xhamisë. Krahasoni arkaden nga një kënd i rrotullt dhe përfshini kupullin dhe minaretën në një fotografi të gjerë të marrë nga hapësira publike.",
+      "question": "Çfarë duhet të bëj gjatë shërbimeve?",
+      "answer": "Qëndroni në zonat publike dhe ndiqni udhëzimet lokale të xhamisë për hyrje dhe fotografi.",
+      "observe": "Krahasoni arkaden e përparme në një kënd me kupullin e xhamisë dhe minaretën vertikale. Grupi është më i lehtë për të lexuar nga e kundërta e sheshinit.",
+      "planning": "Vizitoni pjesën e jashtme si pjesë e lojës qendrore. Pyetni në xhami para se të planifikoni ndonjë vizitë të mbyllur.",
+      "steps": [
+        "Sheshi",
+        "Pamje anësore e arkadës",
+        "Ana publike e hyrjes"
+      ],
+      "title": "Xhamia Kubelie e Kavajës"
+    },
+    "de": {
+      "about": "Die Moschee ist ein Wahrzeichen des zentralen Kavajë public square. Die Kuppel, der Minarett und die Arcade im Vordergrund bieten verschiedene Ausblicke, wenn man den Platz überquert. Verwenden Sie den Namen der Moschee anstelle der überlappenden Uhr-Turm-Pine.",
+      "visit": "Vom Zentrum überqueren Sie den Platz in Richtung Moschee. Vergleichen Sie die Arcade aus einem schrägen Winkel und nehmen Sie die Kuppel und den Minarett in eine breite Fotografie aus dem öffentlichen Raum ein.",
+      "question": "Was soll ich während der Gottesdienste tun?",
+      "answer": "Bleiben Sie in öffentlichen Bereichen und folgen Sie den lokalen Anweisungen der Moschee zum Eintritt und zur Fotografie.",
+      "observe": "Vergleichen Sie die Vorderseite in einem Winkel mit der Kuppel der Moschee und dem vertikalen Minarett. Die Gruppe ist am einfachsten von über dem Platz zu lesen.",
+      "planning": "Besuchen Sie das Äußere als Teil der zentralen Quadratschleife. Fragen Sie in der Moschee, bevor Sie einen Besuch vor Ort planen.",
+      "steps": [
+        "Stadtplatz",
+        "Seitlicher Blick auf die Arkaden",
+        "Öffentliche Seite des Eingangs"
+      ],
+      "title": "Kubelie-Moschee in Kavajë"
+    },
+    "fr": {
+      "about": "La mosquée est un point de repère de la place publique centrale de Kavajë. Le dôme, le minaret et l'arcade donnent des vues différentes à travers la place. Utilisez l'emplacement de la mosquée nommée plutôt que la cordon de la tour de l'horloge.",
+      "visit": "Du centre, traversez la place vers la mosquée. Comparer l'arcade d'un angle oblique et inclure le dôme et le minaret dans une large photographie prise de l'espace public.",
+      "question": "Que dois-je faire pendant les services ?",
+      "answer": "Restez dans les espaces publics et suivez les directives locales de la mosquée sur l'entrée et la photographie.",
+      "observe": "Comparez l'arcade avant à un angle avec le dôme de la mosquée et le minaret vertical. Le groupe est le plus facile à lire de l'autre côté de la place.",
+      "planning": "Visitez l'extérieur dans le cadre de la boucle carrée centrale. Demandez à la mosquée avant de planifier une visite à l'intérieur.",
+      "steps": [
+        "Place",
+        "Vue oblique sur l’arcade",
+        "Côté public de l’entrée"
+      ],
+      "title": "Mosquée Kubelie de Kavajë"
+    },
+    "it": {
+      "about": "La moschea è un punto di riferimento della piazza pubblica centrale di Kavajë. La cupola, il minareto e l'arcade anteriore offrono diverse viste mentre attraversate la piazza. Utilizzare la posizione della moschea denominata piuttosto che il colpo che si sovrappone alla torre dell'orologio.",
+      "visit": "Dal centro, attraversate la piazza verso la moschea. Confrontare l'arcade da un angolo obliquo e includere la cupola e il minareto in una foto ampia presa dallo spazio pubblico.",
+      "question": "Cosa devo fare durante i servizi?",
+      "answer": "Rimani nelle aree pubbliche e segui le indicazioni locali della moschea sull'ingresso e sulla fotografia.",
+      "observe": "Confronta l'arcade anteriore in un angolo con la cupola della moschea e il minareto verticale. Il gruppo è più facile da leggere dall'altra parte della piazza.",
+      "planning": "Visita l'esterno come parte del circuito quadrato centrale. Chiedete alla moschea prima di pianificare una visita all'interno.",
+      "steps": [
+        "Piazza",
+        "Vista obliqua del portico",
+        "Lato pubblico dell’ingresso"
+      ],
+      "title": "Moschea Kubelie di Kavajë"
+    },
+    "nl": {
+      "about": "De moskee is een bezienswaardigheid van het centrale openbare plein van Kavajë. De koepel, de minaret en de arcade geven een ander uitzicht als je het plein overstapt. Gebruik de naamplaats van de moskee in plaats van de overlappende klokkentoren.",
+      "visit": "Van het centrum, over het plein naar de moskee. Vergelijk de arcade vanuit een oblique hoek en sluit de koepel en de minaret in een brede foto die uit de openbare ruimte is genomen.",
+      "question": "Wat moet ik doen tijdens de dienst?",
+      "answer": "Blijf in openbare ruimtes en volg de lokale richtlijnen van de moskee over toegang en fotografie.",
+      "observe": "Vergelijk de arcade in een hoek met de koepel van de moskee en de verticale minaret. De groep is het makkelijkste te lezen van over het plein.",
+      "planning": "Bezoek de buitenkant als onderdeel van de centrale vierkante lus. Vraag bij de moskee voordat u een bezoek aan de binnenkamer plannen.",
+      "steps": [
+        "Plein",
+        "Schuin zicht op de arcade",
+        "Openbare kant van de ingang"
+      ],
+      "title": "Kubelie-moskee van Kavajë"
+    }
   },
   "kavaje-ethnographic-museum": {
     "address": "Muzeu Etnografik, Kavajë",
@@ -983,7 +2598,77 @@
       ]
     },
     "kind": "museum",
-    "access": "ticket"
+    "access": "ticket",
+    "sq": {
+      "about": "Koleksioni etnografik i qytetit jep kontekst arkitekturës tradicionale të shtëpisë përmes moblimeve dhe objekteve. Detajet e drurit dhe shtresës bëjnë pjesën e jashtme të interpretimit.",
+      "visit": "Shkoni me këmbë nga qendra e Kavajë duke përdorur shkopin e vetë muzeut. Identifikoni hyrjen dhe pyesni për hyrje para se të kaloni shtrat. Përdorni qasjen për të rrahur fasaden dhe linjën e çatiut.",
+      "question": "A është kjo shtëpia Toptani në Krujë?",
+      "answer": "Është një koleksion i veçantë në Kavajë; kontrolloni emrin e qytetit kur lundroni.",
+      "observe": "Muret e bardha, elementet e drurit dhe shtresat e shtresës janë më të lehta të kuptohen nga qasja e qafës. Ata sigurojnë një kuadër për objektet e shtëpisë brenda.",
+      "planning": "Përqëndroni më së shumti muzeun në fillim të shëtitjes nëse është i hapur. Përdorni xhaminë dhe kullën e orës si ndalesa të afërta jashtë rreth saj.",
+      "steps": [
+        "Qendra e Kavajës",
+        "Porta e muzeut",
+        "Oborri dhe sallat e hapura"
+      ],
+      "title": "Muzeu Etnografik i Kavajës"
+    },
+    "de": {
+      "about": "Die ethnographische Sammlung der Stadt gibt den Kontext der traditionellen Hausarchitektur durch Möbel und Objekte. Holzdetails und der Innenhof machen den Außenseite Teil der Interpretation.",
+      "visit": "Geht von der Mitte Kavajë zu Fuß mit dem eigenen Stift des Museums. Identifizieren Sie den Eingang und fragen Sie nach Zugang, bevor Sie den Hof überqueren. Verwenden Sie den Ansatz, um die Fassade und die Dachlinie zu räumen.",
+      "question": "Ist das das Toptani Haus in Krujë?",
+      "answer": "Es handelt sich um eine separate Sammlung in Kavajë; überprüfen Sie den Namen der Stadt bei der Navigation.",
+      "observe": "Die weißen Wände, die Holzelemente und die Dachüberhangung sind am leichtesten vom Vorhof zu verstehen. Sie bieten einen Rahmen für die Haushaltsgegenstände im Inneren.",
+      "planning": "Priorisieren Sie das Museum zu Beginn des Spaziergangs, wenn es geöffnet ist. Verwenden Sie die Moschee und den Uhrturm als nahegelegene Außenstopps um sie herum.",
+      "steps": [
+        "Zentrum von Kavajë",
+        "Museumstor",
+        "Hof und offene Räume"
+      ],
+      "title": "Ethnografisches Museum Kavajë"
+    },
+    "fr": {
+      "about": "La collection ethnographique de la ville donne un contexte à l'architecture domestique traditionnelle à travers des meubles et des objets. Les détails en bois et la cour font partie de l'interprétation extérieure.",
+      "visit": "Partez à pied depuis le centre de Kavajë en utilisant la propre pin du musée. Identifiez l'entrée et demandez l'accès avant de traverser la cour. Utilisez l'approche pour encadrer la façade et la ligne de toit.",
+      "question": "C'est la maison Toptani à Krujë ?",
+      "answer": "Il s'agit d'une collection séparée à Kavajë; vérifiez le nom de la ville lors de la navigation.",
+      "observe": "Les murs blancs, les éléments en bois et le toit sont plus faciles à comprendre à partir de l'approche de la cour. Ils fournissent un cadre pour les objets ménagers à l'intérieur.",
+      "planning": "Préférer le musée plus tôt dans la promenade s'il est ouvert. Utilisez la mosquée et la tour de l'horloge comme arrêts extérieurs à proximité.",
+      "steps": [
+        "Centre de Kavajë",
+        "Porte du musée",
+        "Cour et salles ouvertes"
+      ],
+      "title": "Musée ethnographique de Kavajë"
+    },
+    "it": {
+      "about": "La collezione etnografica della città dà contesto all'architettura domestica tradizionale attraverso arredi e oggetti. I dettagli in legno e il cortile fanno parte dell'interpretare l'esterno.",
+      "visit": "Si può andare a piedi dal centro di Kavajë utilizzando la propria pinna del museo. Identifica l'ingresso e chiedi di entrare prima di attraversare il cortile. Utilizzare l'approccio per inquadrare la facciata e la linea del tetto.",
+      "question": "Questa è la casa Toptani a Krujë?",
+      "answer": "Si tratta di una collezione separata a Kavajë; controllare il nome della città durante la navigazione.",
+      "observe": "Le pareti bianche, gli elementi di legno e il tetto sopraleggiato sono più facili da capire dall'approccio cortile. Forniscono una cornice per gli oggetti domestici all'interno.",
+      "planning": "Proviamo a dare la priorità al museo all'inizio della passeggiata, se è aperto. Utilizzare la moschea e la torre dell'orologio come fermate esterne vicine intorno a essa.",
+      "steps": [
+        "Centro di Kavajë",
+        "Cancello del museo",
+        "Cortile e sale aperte"
+      ],
+      "title": "Museo etnografico di Kavajë"
+    },
+    "nl": {
+      "about": "De ethnografische collectie van de stad geeft context aan traditionele binnenlandse architectuur door middel van meubels en objecten. Houten details en de binnenplaats maken het externe deel van de interpretatie.",
+      "visit": "Ga te voet van het centrum van Kavajë met behulp van de eigen pin van het museum. Identificeer de ingang en vraag naar toegang voordat je de binnenplaats overstekt. Gebruik de benadering om de gevel en de daklijn te kaderen.",
+      "question": "Is dit het Toptani Huis in Krujë?",
+      "answer": "Het is een aparte collectie in Kavajë; controleer de naam van de stad bij het navigeren.",
+      "observe": "De witte muren, houten elementen en het dak bovenhangen zijn vanaf de binnenplaats het gemakkelijkst te begrijpen. Ze zorgen voor een kader voor de huishoudelijke voorwerpen binnenin.",
+      "planning": "Geef prioriteit aan het museum eerder in de wandeling als het open is. Gebruik de moskee en de kloktoring als nabijgelegen buitenstop.",
+      "steps": [
+        "Centrum van Kavajë",
+        "Museumpoort",
+        "Binnenplaats en open ruimtes"
+      ],
+      "title": "Etnografisch museum van Kavajë"
+    }
   },
   "cete-church": {
     "address": "Kisha e Shën Premtes, Çetë, Kavajë",
@@ -1026,7 +2711,82 @@
       ]
     },
     "kind": "church",
-    "access": "worship"
+    "access": "worship",
+    "sq": {
+      "about": "Ky kishë e fshatit mesjetar ruajt arkitekturën e gurit dhe sipërfaqet e pikturave të brendshme. Absida ndihmon në dallimin e kishës historike edhe nga jashtë. Med Kultura dokumenton monumentin.",
+      "visit": "Udhëtohu në fshatin Çetë dhe ndiqni shpinën e fundit deri në kishë. Fotografoni absiden dhe çatin nga një qasje e hapur; arrini leje para se të prisni të shihni ose të fotografojë pikturat.",
+      "question": "A është gjithmonë e hapur brendësia?",
+      "answer": "- Kthehuni në detyrë. Një vizitë e jashtme është e mundur kudo ku janë të hapura rrugët publike.",
+      "observe": "Lexoni kurbin e absidës së gurit dhe takimin e saj me muret e naveve të drejtpërdrejtë. Nëse është e disponueshme brenda, krahasoni sipërfaqet e piktura me murat më të thjeshta të jashtme.",
+      "planning": "Përdorni fshatin Çetë si ankër rrugore, pastaj ndiqni shenjat e kishës me këmbë. Kontrolloni hyrjen e para para para se të planifikoni një vizitë të përqendruar në fresko.",
+      "steps": [
+        "Fshati Çetë",
+        "Rrugica e kishës",
+        "Absida nga jashtë",
+        "Brenda vetëm me marrëveshje"
+      ],
+      "title": "Kisha e Shën Premtes në Çetë"
+    },
+    "de": {
+      "about": "Diese mittelalterliche Dorfkirche bewahrt Steinarchitektur und malte Innenflächen. Die Apse hilft, die historische Kirche selbst von außen zu unterscheiden. Med Kultura dokumentiert das Denkmal.",
+      "visit": "Reisen Sie zum Dorf Çetë und folgen Sie der letzten Spur zur Kirche. Fotografieren Sie die Abse und das Dach von einem offenen Ansatz; bereiten Sie sich die Erlaubnis vor, die Bilder zu sehen oder zu fotografieren.",
+      "question": "Ist das Innere immer offen?",
+      "answer": "Bestätigen Sie den Zugang im Voraus. Ein Außenbesuch ist überall möglich, wo öffentliche Wege geöffnet sind.",
+      "observe": "Lesen Sie die Kurve der Stein-Abside und ihre Begegnung mit den geraden Schiffsmuren. Wenn das Innere verfügbar ist, vergleichen Sie die gestrichenen Oberflächen mit der einfacheren Außenmauerung.",
+      "planning": "Verwenden Sie das Dorf Çetë als Straßenanker und folgen Sie dann zu Fuß dem Kirchenzeichen. Überprüfen Sie den Zugang im Voraus, bevor Sie einen Freskenbesuch planen.",
+      "steps": [
+        "Dorf Çetë",
+        "Weg zur Kirche",
+        "Apsis von außen",
+        "Innenbesuch nach Absprache"
+      ],
+      "title": "Kirche der heiligen Paraskevi in Çetë"
+    },
+    "fr": {
+      "about": "Cette église médiévale du village préserve l'architecture en pierre et les surfaces intérieures peintes. L'abside aide à distinguer l'église historique même de l'extérieur. Med Kultura a documenté le monument.",
+      "visit": "Voyagez jusqu'au village de Çetë et suivez la dernière voie jusqu'à l'église. Photographier l'abside et le toit d'une approche ouverte; prévoir la permission avant d'espérer voir ou photographier les peintures.",
+      "question": "L'intérieur est toujours ouvert ?",
+      "answer": "Confirmez l'accès à l'avance. Une visite extérieure est possible partout où les voies publiques sont ouvertes.",
+      "observe": "Lisez la courbe de l'abside en pierre et sa rencontre avec les murs de la nef droite. Si l'intérieur est disponible, comparez les surfaces peintes avec la maçonnerie extérieure plus simple.",
+      "planning": "Utilisez le village de Çetë comme ancre routière, puis suivez à pied le panneau de l'église. Vérifiez à l'avance l'accès avant de planifier une visite axée sur les fresques.",
+      "steps": [
+        "Village de Çetë",
+        "Chemin de l’église",
+        "Abside vue de l’extérieur",
+        "Intérieur sur arrangement"
+      ],
+      "title": "Église Sainte-Parascève de Çetë"
+    },
+    "it": {
+      "about": "Questa chiesa medievale del villaggio conserva l'architettura in pietra e le superfici interne dipinte. L'abside aiuta a distinguere la chiesa storica anche dall'esterno. Med Kultura documenta il monumento.",
+      "visit": "Viaggia fino al villaggio di Çetë e segui l'ultima corsia fino alla chiesa. Fotografare l'abside e il tetto da un punto aperto; prevedere il permesso prima di vedere o fotografare i dipinti.",
+      "question": "L'interno è sempre aperto?",
+      "answer": "Confirma l'accesso in anticipo. Una visita esterna è possibile ovunque siano aperte le vie pubbliche.",
+      "observe": "Leggi la curva dell'abside di pietra e il suo incontro con le pareti della navata dritta. Se l'interno è disponibile, confrontare le superfici dipinte con la muratura esterna più semplice.",
+      "planning": "Utilizzare il villaggio di Çetë come ancoraggio stradale, quindi seguire a piedi il cartello della chiesa. Controllare l'accesso anticipato prima di pianificare una visita focalizzata sugli affreschi.",
+      "steps": [
+        "Villaggio di Çetë",
+        "Vicolo della chiesa",
+        "Abside dall’esterno",
+        "Interno su accordo"
+      ],
+      "title": "Chiesa di Santa Parasceve a Çetë"
+    },
+    "nl": {
+      "about": "Deze middeleeuwse dorpskerk bewaart steenarchitectuur en geschilderde binnenplaatsen. De abside helpt de historische kerk te onderscheiden zelfs van buiten. Med Kultura documenteert het monument.",
+      "visit": "Reis naar het dorp Çetë en volg de laatste gang naar de kerk. Fotografeer de abside en het dak vanuit een open benadering; zorg voor toestemming voordat u verwacht de schilderijen te zien of te fotograferen.",
+      "question": "Is het interieur altijd open?",
+      "answer": "Bevestig de toegang van tevoren. Een buitenbezoek is mogelijk overal waar openbare wegen open zijn.",
+      "observe": "Lees de bocht van de steenabside en de ontmoeting met de rechtvaardige naafmuren. Als het interieur beschikbaar is, vergelijk dan de geverfde oppervlakken met het eenvoudiger buitenmuurwerk.",
+      "planning": "Gebruik het dorp Çetë als de anker op de weg, en volg dan het kerkelijke bord te voet. Controleer de toegang vooraf voordat u een bezoek aan de fresco's aanbiedt.",
+      "steps": [
+        "Dorp Çetë",
+        "Pad naar de kerk",
+        "Apsis van buiten",
+        "Binnen alleen op afspraak"
+      ],
+      "title": "Sint-Paraskevakerk in Çetë"
+    }
   },
   "bashtova-castle": {
     "address": "Kalaja e Bashtovës, Vilë-Bashtovë",
@@ -1067,7 +2827,77 @@
       ]
     },
     "kind": "fort",
-    "access": "ticket"
+    "access": "ticket",
+    "sq": {
+      "about": "Qendra e fortifikuar e shekullit të 15-të qëndron në tokë të sheshtë pranë Shkumbin. Vendndodhja e saj pasqyron tregtinë bregdetare, ndryshe nga një kështjellë në majë të një kodre. Programi EU4Culture rihapi vendin pas riparimeve të tërmetit.",
+      "visit": "Udhëtimi në rrugë drejt Vilë-Bashtovë dhe përdorni pistën e hyrjes së kështjellës. Shkoni rrethin e lejuar dhe fotografoni një kullë kuqe nga jashtë për të kapur planin e drejtpërdrejt.",
+      "question": "Mund të shkoj në ndonjë pjesë të mureve?",
+      "answer": "Përdorni vetëm seksione të hapura nga stafi i faqes dhe ndiqni rrugën e vizitorëve.",
+      "observe": "Fshati i afërt i sheshtë i bën muret e rrugave të rrugave dhe mbrojtjet e qosheve të lehtë për t'u krahasuar. Shikoni përtej rrethit për të parë shkallën e forcës tregtare.",
+      "planning": "Kontrolloni rrugën e hapur të vizitorëve në mbërritje. Lëvizni kohë për rrugën e veçantë të hyrjes nga fshati dhe përdorni udhëzimin e stafit për çdo pjesë të murit.",
+      "steps": [
+        "Rruga nga Vilë-Bashtova",
+        "Hyrja e vizitorëve",
+        "Perimetri ose pjesa e lejuar e mureve"
+      ],
+      "title": "Kalaja e Bashtovës"
+    },
+    "de": {
+      "about": "Das befestigte Gebäude aus dem 15. Jahrhundert befindet sich auf flachem Boden in der Nähe des Shkumbin. Seine Platzierung spiegelt den Küstenhandel wider, im Gegensatz zu einem Schloss auf dem Hügel. Das EU4Culture-Programm hat das Gelände nach Erdbebenreparaturen wieder eröffnet.",
+      "visit": "Fahren Sie mit der Straße nach Vilë-Bashtovë und benutzen Sie den Schloss-Eingangsstift. Gehen Sie den zulässigen Umkreis durch und fotografieren Sie einen Eckturm von außen, um den geraden Plan zu erfassen.",
+      "question": "Kann ich irgendwelche Teile der Mauern gehen?",
+      "answer": "Verwenden Sie nur die von den Mitarbeitern des Standorts geöffneten Abschnitte und folgen Sie der Besucherroute.",
+      "observe": "Der nahezu flache Boden macht die geraden Vorhänge und die Eckverteidigung leicht zu vergleichen. Schauen Sie sich über den Gehäuse hinweg, um das Handelsfort zu sehen.",
+      "planning": "Überprüfen Sie bei der Ankunft den offenen Besucherweg. Sie lassen Zeit für die getrennte Zugangsstraße vom Dorf und nutzen die Führung des Personals für alle Wände.",
+      "steps": [
+        "Zufahrt von Vilë-Bashtovë",
+        "Besuchereingang",
+        "Freigegebene Außen- oder Mauerabschnitte"
+      ],
+      "title": "Burg Bashtovë"
+    },
+    "fr": {
+      "about": "Le bâtiment fortifié du XVe siècle se dresse sur un terrain plat près du Shkumbin. Son emplacement reflète le commerce côtier, contrairement à un château sur une colline. Le programme EU4Culture a rouvert le site après les réparations effectuées par le séisme.",
+      "visit": "Voyagez par la route vers Vilë-Bashtovë et utilisez la serrure d'entrée du château. Parcourez le périmètre autorisé et photographiez une tour d'angle de l'extérieur pour capturer le plan rectilinéaire.",
+      "question": "Puis-je marcher dans n'importe quelle partie des remparts ?",
+      "answer": "Utilisez uniquement les sections ouvertes par le personnel du site et suivez le parcours des visiteurs.",
+      "observe": "Le terrain presque plat rend les murs de rideaux droits et les défenses angulaires faciles à comparer. Regardez à travers l'enceinte pour voir l'échelle du fort commercial.",
+      "planning": "Vérifiez le chemin ouvert pour les visiteurs à l'arrivée. Prenez le temps d'utiliser la route d'accès séparée du village et utilisez les conseils du personnel pour les sections de mur.",
+      "steps": [
+        "Accès depuis Vilë-Bashtovë",
+        "Entrée visiteurs",
+        "Périmètre ou remparts autorisés"
+      ],
+      "title": "Château de Bashtovë"
+    },
+    "it": {
+      "about": "Il recinto fortificato del XV secolo si erge su terreno piatto vicino allo Shkumbin. Il suo posizionamento riflette il commercio costiero, a differenza di un castello in cima alla collina. Il programma EU4Culture ha riaperto il sito dopo le riparazioni del terremoto.",
+      "visit": "Viaggia per strada verso Vilë-Bashtovë e usa la spina d'ingresso del castello. Passeggiate per il perimetro consentito e fotografate una torre angolare dall'esterno per catturare il piano rettilineare.",
+      "question": "Posso camminare in qualsiasi parte delle mura?",
+      "answer": "Utilizzare solo le sezioni aperte dal personale del sito e seguire il percorso dei visitatori.",
+      "observe": "Il terreno quasi piatto rende le pareti rette e le difese angolari facili da confrontare. Guardate attraverso il recinto per vedere la scala del forte commerciale.",
+      "planning": "Controlla il percorso aperto per i visitatori all'arrivo. Lascia tempo per la strada di accesso separata dal villaggio e usa le indicazioni del personale per qualsiasi sezione della parete.",
+      "steps": [
+        "Accesso da Vilë-Bashtovë",
+        "Ingresso visitatori",
+        "Perimetro o tratto di mura aperto"
+      ],
+      "title": "Castello di Bashtovë"
+    },
+    "nl": {
+      "about": "De vijftiende-eeuwse versterkte omgeving staat op vlak grond in de buurt van de Shkumbin. De plaatsing ervan weerspiegelt de kusthandel, in tegenstelling tot een kasteel op de heuvel. Het EU4Culture-programma heeft de locatie na een aardbeving heropend.",
+      "visit": "Reis op de weg naar Vilë-Bashtovë en gebruik de slotenpoort. Ga door het toegestane gebied en fotografeer een hoektoren van buiten om het rechtlijnige plan vast te leggen.",
+      "question": "Mag ik een deel van de muren lopen?",
+      "answer": "Gebruik alleen de secties die door het personeel op de site zijn geopend en volg de route van de bezoeker.",
+      "observe": "De bijna vlakke grond maakt de rechthoge gordijnmuren en hoekverdedigingen gemakkelijk te vergelijken. Kijk door de omgeving om de schaal van het handelsfort te zien.",
+      "planning": "Controleer bij aankomst het open bezoekerspad. Geef tijd voor de afzonderlijke toegangsweg van het dorp en gebruik de leiding van het personeel voor alle delen van de muur.",
+      "steps": [
+        "Toegang vanuit Vilë-Bashtovë",
+        "Bezoekersingang",
+        "Toegestane rand of muurdeel"
+      ],
+      "title": "Kasteel van Bashtovë"
+    }
   },
   "petrela-castle": {
     "address": "Kalaja e Petrelës, Petrelë, Tiranë",
@@ -1108,7 +2938,77 @@
       ]
     },
     "kind": "fort",
-    "access": "outdoor"
+    "access": "outdoor",
+    "sq": {
+      "about": "Agjencia Kombëtare e Turizmit lidh formën e sotme të kështjellës me shekullin e pesëmbëdhjetë. Pozicioni i saj në majë të kodrës mbi luginën e Erzenit e bëri të dobishëm për vëzhgimin e qasjeve në jug të Tiranës.",
+      "visit": "Të kalosh ose të udhëtosh në Petrelë, pastaj të kalosh në hyrje nga fshati. Kur është e lejueshme, mbani valinë në rrafshim përtej gurit për të treguar pse kodra ka rëndësi.",
+      "question": "A mund të shmanget shëtitja në majë?",
+      "answer": "Kontrolloni vendet e uljes në vend dhe lejojeni ngritjen dhe shkallët e fundit.",
+      "observe": "Lexoje dorën e gurit kundër kodrës së shtrirë dhe vijës së luginës. Qasja e ngushtë dhe pikëpamja më e gjerë shpjegojnë pse ky ishte një vend mbrojtës i dobishëm.",
+      "planning": "Lëre kohë shtesë për segmentin lart nga fshati. Kombinojeni atë me një ndalesë të veçantë të Tiranës në vend që të merrni një lidhje të drejtpërdrejtë me një kështjellë tjetër.",
+      "steps": [
+        "Fshati Petrelë",
+        "Shtegu përpjetë",
+        "Pikë e hapur me pamje të luginës së Erzenit"
+      ],
+      "title": "Kalaja e Petrelës"
+    },
+    "de": {
+      "about": "Die National Tourism Agency verbindet die heutige Schlossform mit dem 15. Jahrhundert. Die Höhe des Berges über dem Erzen-Tal machte ihn nützlich für die Beobachtung von Annäherungen südlich von Tirana.",
+      "visit": "Fahren Sie oder fahren Sie nach Petrelë, dann gehen Sie vom Dorf über den Berg. Wenn er erlaubt ist, umrahmen Sie das Tal über das Steinwerk hinaus, um zu zeigen, warum der Hügel wichtig ist.",
+      "question": "Ist der Aufstieg zu vermeiden?",
+      "answer": "Überprüfen Sie die Abfahrtspunkte vor Ort und lassen Sie den letzten Aufstieg und die Stufen.",
+      "observe": "Lesen Sie die Steinarbeiten gegen den steilen Hügel und die Linie des Tals. Der enge Ansatz und die breitere Sichtweise erklären, warum dies ein nützlicher Verteidigungsstandort war.",
+      "planning": "Geben Sie uns mehr Zeit für das Bergsegment aus dem Dorf. Kombinieren Sie es mit einer separaten Haltestelle in Tirana, anstatt eine direkte Fußverbindung zu einem anderen Schloss zu nehmen.",
+      "steps": [
+        "Dorf Petrelë",
+        "Aufstieg zur Burg",
+        "Freigegebener Aussichtspunkt über dem Erzen-Tal"
+      ],
+      "title": "Burg Petrelë"
+    },
+    "fr": {
+      "about": "L'Agence nationale du tourisme associe la forme actuelle du château au XVe siècle. Sa position sur une colline au-dessus de la vallée d'Erzen le rendait utile pour observer les approches au sud de Tirana.",
+      "visit": "On monte ou on conduit à Petrelë, puis on marche par l'accès monté depuis le village. Dans la mesure du possible, encadrez la vallée au-delà de la pierre pour montrer pourquoi la colline était importante.",
+      "question": "Est- il possible d'éviter la randonnée en montée?",
+      "answer": "Vérifiez les points de débarquement localement et prévoyez la montée finale et les marches.",
+      "observe": "Lisez la pierre contre la colline et la ligne de la vallée. L'approche étroite et le point de vue plus large expliquent pourquoi c'était un site de défense utile.",
+      "planning": "Prenez le temps supplémentaire pour la partie montée du village. Combinez-le avec un arrêt séparé de Tirana au lieu d'assumer un lien à pied direct vers un autre château.",
+      "steps": [
+        "Village de Petrelë",
+        "Chemin en montée",
+        "Point de vue autorisé sur la vallée de l’Erzen"
+      ],
+      "title": "Château de Petrelë"
+    },
+    "it": {
+      "about": "L'Agenzia Nazionale del Turismo associa l'attuale forma del castello al XV secolo. La sua posizione in cima alla collina sopra la valle di Erzen lo rendeva utile per osservare gli approcci a sud di Tirana.",
+      "visit": "Guidare o guidare fino a Petrelë, poi percorrere l'accesso in salita dal villaggio. Quando è permesso, incorniciate la valle oltre la roccia per mostrare perché la collina contava.",
+      "question": "È possibile evitare la salita?",
+      "answer": "Controlla i punti di scollo a livello locale e consente l'ultima salita e le scale.",
+      "observe": "Leggete le pietre contro la collina ripida e la linea della valle. L'approccio ristretto e il punto di vista più ampio spiegano perché questo era un utile sito di difesa.",
+      "planning": "Permettere tempo extra per il segmento in salita dal villaggio. Combinalo con una fermata separata di Tirana invece di assumere un collegamento a piedi diretto ad un altro castello.",
+      "steps": [
+        "Villaggio di Petrelë",
+        "Sentiero in salita",
+        "Punto panoramico aperto sulla valle dell’Erzen"
+      ],
+      "title": "Castello di Petrelë"
+    },
+    "nl": {
+      "about": "Het Nationaal Toerismebureau associeert de huidige kasteelvorm met de vijftiende eeuw. De ligging op de heuvel boven de vallei van Erzen maakte het nuttig voor het observeren van naderen ten zuiden van Tirana.",
+      "visit": "Rijd of rij naar Petrelë, loop dan de heuvelsluiting vanaf het dorp. Als dat toegestaan is, leg dan de vallei buiten het steenwerk in om te tonen waarom de heuvel belangrijk is.",
+      "question": "Is het op de heuvel te vermijden?",
+      "answer": "Controleer de plaatsen waar u afkomt en laat de laatste klim en stappen toe.",
+      "observe": "Lees het stenen werk tegen de steile heuvel en de lijn van de vallei. De smalle benadering en het bredere standpunt verklaren waarom dit een nuttig verdedigingsterrein was.",
+      "planning": "Geef extra tijd voor het bergsegment uit het dorp. Combineer het met een afzonderlijke halte in Tirana in plaats van een directe loopverbinding met een ander kasteel aan te nemen.",
+      "steps": [
+        "Dorp Petrelë",
+        "Pad omhoog",
+        "Toegestaan uitkijkpunt over de Erzenvallei"
+      ],
+      "title": "Kasteel van Petrelë"
+    }
   },
   "dajti-national-park": {
     "address": "Parku Kombëtar i Malit të Dajtit, Tiranë",
@@ -1149,6 +3049,76 @@
       ]
     },
     "kind": "park",
-    "access": "lift"
+    "access": "lift",
+    "sq": {
+      "about": "Shpinat e pyjeve të Dajti's ngrihen në lindje të Tiranës. Agjencia Kombëtare e Turizmit e përshkruan shëtitjen dhe kabllonin e mallit si mënyra të ndryshme për të përjetuar parkun. Kontrolloni rregullat e zonës së mbrojtur në mënyrë të veçantë nga orari i ngritjes.",
+      "visit": "Zgjidhni rrugën e shënuar ose teleferikun dhe kontrolloni kthimin para nisjes. Përdorni shtigjet e hapura dhe fotografoni Tiranën nga një pikë e lejuar vrojtimi. Mos kaloni pengesat.",
+      "question": "A mbulon biletat e kabllot gjithë parkun?",
+      "answer": "Lifti është një shërbim transporti. Kontrolloni parkimin dhe qasjen në rrugë veçmas.",
+      "observe": "Kontrasti midis shpinës së pyjeve të pyjeve dhe lojës së Tiranës është më i qartë nga një këndvështrim i hapur. Rrugët më të larta mund të ndryshojnë në mënyrë të konsiderueshme nga zona e mbërritjes së kabllot.",
+      "planning": "Zgjidhni një rrugë të hapur dhe të shënuar pranë vendit ku do të mbërrini dhe kontrolloni se si do të ktheheni. Nëse merrni teleferikun, kontrolloni zbritjen e tij të fundit veçmas.",
+      "steps": [
+        "Mbërritja me makinë ose teleferik",
+        "Shteg pyjor i hapur",
+        "Pika e planifikuar e kthimit"
+      ],
+      "title": "Parku Kombëtar i Malit të Dajtit"
+    },
+    "de": {
+      "about": "Die bewaldeten Hängen von Dajti erheben sich östlich von Tirana. Die National Tourism Agency beschreibt Wanderungen und die Bergbahn als verschiedene Möglichkeiten, den Park zu erleben. Überprüfen Sie die Vorschriften für den Schutzbereich getrennt vom Fahrplan des Aufzugs.",
+      "visit": "Wählen Sie eine unterschriebene Straße oder einen Kabelzug und überprüfen Sie die Rückfahrt, bevor Sie starten. Verwenden Sie offene Wege und umrahmen Sie Tirana von einem erlaubten Abgrund aus, anstatt über Barrieren zu klettern.",
+      "question": "Deckt die Kabelkartenkarte den ganzen Park ab?",
+      "answer": "Der Aufzug ist ein Transportdienst. Überprüfen Sie den Park- und Pfadzugriff getrennt.",
+      "observe": "Der Kontrast zwischen den bewaldeten Hängen und dem Tirana-Becken ist aus offenem Blickwinkel am deutlichsten. Höhere Wege können sich erheblich von der Ankunftszone des Kabelwagens unterscheiden.",
+      "planning": "Wählen Sie einen offenen, unterschriebenen Weg in der Nähe Ihres Ankunftsortes und prüfen Sie, wie Sie zurückkehren. Wenn Sie die Seilbahn nehmen, überprüfen Sie ihre letzte Abfahrt separat.",
+      "steps": [
+        "Ankunft per Straße oder Seilbahn",
+        "Offener Waldweg",
+        "Geplanter Rückkehrpunkt"
+      ],
+      "title": "Nationalpark Dajti"
+    },
+    "fr": {
+      "about": "Les pentes boisées de Dajti s'élèvent à l'est de Tirana. L'Agence nationale du tourisme décrit la randonnée et le téléphérique de montagne comme différentes façons d'expérimenter le parc. Vérifiez les règles relatives à la zone protégée séparément du calendrier de l'ascenseur.",
+      "visit": "Choisissez une route balisée ou un téléphérique et vérifiez le retour avant de partir. Utilisez des sentiers ouverts et encadrez Tirana d'un dégagement autorisé plutôt que de grimper sur des barrières.",
+      "question": "Le billet de téléphérique couvre-t-il tout le parc ?",
+      "answer": "L'ascenseur est un service de transport. Vérifiez séparément l'accès au parc et au sentier.",
+      "observe": "Le contraste entre les pentes boisées et le bassin de Tirana est le plus évident d'un point de vue ouvert. Les sentiers plus élevés peuvent différer considérablement de la zone d'arrivée du téléphérique.",
+      "planning": "Choisissez un sentier ouvert et signé près de votre point d'arrivée et vérifiez comment vous reviendrez. Si vous prenez le téléphérique, vérifiez sa dernière descente séparément.",
+      "steps": [
+        "Arrivée par la route ou en téléphérique",
+        "Sentier forestier ouvert",
+        "Point de retour prévu"
+      ],
+      "title": "Parc national du mont Dajti"
+    },
+    "it": {
+      "about": "I pendii boschivi di Dajti si alzano ad est di Tirana. L'Agenzia Nazionale del Turismo descrive l'escursione e la funivia di montagna come modi diversi per sperimentare il parco. Controllare le norme relative alle aree protette separatamente dal calendario dell'ascensore.",
+      "visit": "Scegli una strada o un'accesso via cavo e controlla il ritorno prima di partire. Utilizzare percorsi aperti e incorniciare Tirana da una chiarazione consentita piuttosto che salire su barriere.",
+      "question": "Il biglietto della funivia copre l'intero parco?",
+      "answer": "L'ascensore è un servizio di trasporto. Controllare l'accesso al parco e al sentiero separatamente.",
+      "observe": "Il contrasto tra le pendici boschive e il bacino di Tirana è più chiaro da un punto di vista aperto. I sentieri più alti possono differire notevolmente dall'area di arrivo del telecarro.",
+      "planning": "Scegli un sentiero aperto e segnalato vicino al punto di arrivo e controlla come ritorni. Se si prende il funivia, verificare l'ultima discesa separatamente.",
+      "steps": [
+        "Arrivo su strada o in funivia",
+        "Sentiero boschivo aperto",
+        "Punto di ritorno previsto"
+      ],
+      "title": "Parco nazionale del monte Dajti"
+    },
+    "nl": {
+      "about": "De beboste hellingen van Dajti stijgen ten oosten van Tirana. Het Nationaal Toerismebureau beschrijft wandelen en de bergkabelbaan als verschillende manieren om het park te ervaren. Controleer de regels voor beschermde gebieden apart van het lifttijdschema.",
+      "visit": "Kies een gemarkeerde weg of kabelbaan en controleer de terugkeer voordat u vertrekt. Gebruik open paden en frame Tirana vanuit een toegestane open plek in plaats van over barrières te klimmen.",
+      "question": "Dekt het kabelbaan ticket het hele park?",
+      "answer": "De lift is een transportdienst. Controleer de toegang tot het park en het pad apart.",
+      "observe": "Het verschil tussen de beboste hellingen en het Tirana-becken is het duidelijkst van een open zichtpunt. De hogere routes kunnen aanzienlijk verschillen van het aankomstgebied van de kabelbaan.",
+      "planning": "Kies een open, gemarkeerd pad in de buurt van je aankomst en kijk hoe je terugkomt. Als u de kabelbaan neemt, moet u de laatste afdaling apart controleren.",
+      "steps": [
+        "Aankomst over de weg of per kabelbaan",
+        "Open bospad",
+        "Gepland terugkeerpunt"
+      ],
+      "title": "Nationaal park Dajti"
+    }
   }
 }

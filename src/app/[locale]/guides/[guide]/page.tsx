@@ -1,10 +1,11 @@
+import { localVisit } from '@/i18n/local-visit';
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import Header from '@/components/Header';
 import { GuideAbout, GuideVisitDetails } from '@/components/GuideDetail';
-import GuideFacts, { guideMaps } from '@/components/GuideFacts';
+import GuideFacts, { guideMaps, guideStops } from '@/components/GuideFacts';
 import { museumCopy } from '@/i18n/museum-copy';
 import Footer from '@/components/Footer';
 import { Link, routing, type Locale } from '@/i18n/routing';
@@ -79,6 +80,14 @@ export default async function KrujeGuidePage({ params }: Props) {
           <header className="space-y-4">
             <h1 className="font-display text-4xl font-semibold sm:text-5xl">{title}</h1>
             <p className="text-lg">{description}</p>
+            {key !== 'half' && (
+              <p className="text-sm">
+                <a className="underline" href={guideStops[key].map}>{guideStops[key].score}/5 ({guideStops[key].count.toLocaleString(locale)})</a>
+                {' · '}
+                {key !== 'bazaar' && <span>09:00–19:00</span>}
+                {key === 'bazaar' && <span>{localVisit[locale][9]}</span>}
+              </p>
+            )}
             <a className="underline" href={map}>Google Maps</a>
           </header>
           <figure>
