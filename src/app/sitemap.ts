@@ -1,3 +1,4 @@
+import { oldBazaarPath, halfDayPath } from '@/i18n/guide-paths';
 import { MetadataRoute } from 'next';
 import { visitPath } from '@/i18n/visit-guide';
 import { routing } from '@/i18n/routing';
@@ -12,14 +13,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/privacy-policy',
     '/terms-of-service',
     '/cookie-settings',
-    visitPath
+    visitPath,
+    oldBazaarPath,
+    halfDayPath
   ];
 
   for (const locale of routing.locales) {
     for (const page of pages) {
       entries.push({
         url: `${baseUrl}/${locale}${page}`,
-        lastModified: new Date(),
         changeFrequency: 'weekly',
         priority: page === '' ? 1 : 0.5,
       });

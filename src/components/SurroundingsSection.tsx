@@ -1,6 +1,10 @@
-import { useTranslations } from 'next-intl';
+import { Link, type Locale } from '@/i18n/routing';
+import { oldBazaarPath, halfDayPath } from '@/i18n/guide-paths';
+import { krujeGuides } from '@/i18n/kruje-guides';
+import { useLocale, useTranslations } from 'next-intl';
 
 export default function SurroundingsSection() {
+  const { bazaar, half } = krujeGuides[useLocale() as Locale];
   const t = useTranslations('surroundings');
   const tSEO = useTranslations('seo');
 
@@ -37,6 +41,10 @@ export default function SurroundingsSection() {
             {t('content')}
           </p>
         </div>
+        <ul className="mt-4 flex flex-wrap gap-x-5 gap-y-2 underline" style={{ color: 'var(--accent)' }}>
+          <li><Link href={oldBazaarPath}>{bazaar[0]}</Link></li>
+          <li><Link href={halfDayPath}>{half[0]}</Link></li>
+        </ul>
       </div>
     </section>
   );

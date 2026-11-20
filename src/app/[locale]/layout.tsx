@@ -37,7 +37,7 @@ export async function generateMetadata({
         'fr': `${baseUrl}/fr`,
         'it': `${baseUrl}/it`,
         'nl': `${baseUrl}/nl`,
-        'x-default': `${baseUrl}/sq`,
+        'x-default': `${baseUrl}/${routing.defaultLocale}`,
       },
     },
     openGraph: {
@@ -120,46 +120,9 @@ export default async function LocaleLayout({
       postalCode: '1500',
       addressCountry: 'AL',
     },
-    openingHoursSpecification: [
-      {
-        '@type': 'OpeningHoursSpecification',
-        dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
-        opens: '09:00',
-        closes: '19:00',
-        validFrom: '2026-05-01',
-        validThrough: '2026-10-31',
-      },
-      {
-        '@type': 'OpeningHoursSpecification',
-        dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
-        opens: '09:00',
-        closes: '17:00',
-        validFrom: '2026-11-01',
-        validThrough: '2027-04-30',
-      },
-    ],
     containsPlace: {
       '@type': 'Museum',
       name: 'Skanderbeg Museum',
-      openingHoursSpecification: [
-        {
-          '@type': 'OpeningHoursSpecification',
-          dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
-          opens: '09:00',
-          closes: '19:00',
-          validFrom: '2026-05-01',
-          validThrough: '2026-10-31',
-        },
-        {
-          '@type': 'OpeningHoursSpecification',
-          dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
-          opens: '09:00',
-          closes: '17:00',
-          validFrom: '2026-11-01',
-          validThrough: '2027-04-30',
-        },
-      ],
-      priceRange: '500 ALL',
     },
   };
 

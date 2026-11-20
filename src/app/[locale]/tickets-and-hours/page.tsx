@@ -1,3 +1,5 @@
+import { oldBazaarPath, halfDayPath } from '@/i18n/guide-paths';
+import { krujeGuides } from '@/i18n/kruje-guides';
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import { setRequestLocale } from 'next-intl/server';
@@ -57,10 +59,16 @@ export default async function VisitGuidePage({ params }: Props) {
           <section className="space-y-3">
             <h2 className="font-display text-3xl font-semibold">{admissionHeading}</h2>
             <p>{admission}</p>
+            <p>{krujeGuides[locale].prices}</p>
+            <a className="underline" href="https://visitkruja.com/guides/kruja-castle-tickets-hours/">VisitKruja</a>
           </section>
           <section className="space-y-3">
             <h2 className="font-display text-3xl font-semibold">{hoursHeading}</h2>
+            <p>{krujeGuides[locale].museumHours}</p>
             <p>{hours}</p>
+            <a className="underline" href={`https://www.qendramuzeore-kruje.com/${locale === 'sq' ? 'sq' : 'en'}/visit`}>
+              Qendra Muzeore Krujë · 0511 22225
+            </a>
           </section>
           <section className="space-y-3">
             <h2 className="font-display text-3xl font-semibold">{routeHeading}</h2>
@@ -68,6 +76,10 @@ export default async function VisitGuidePage({ params }: Props) {
               {[bazaar, museum, returnWalk].map((step) => <li key={step}>{step}</li>)}
             </ol>
           </section>
+          <ul className="space-y-2 underline">
+            <li><Link href={oldBazaarPath}>{krujeGuides[locale].bazaar[0]}</Link></li>
+            <li><Link href={halfDayPath}>{krujeGuides[locale].half[0]}</Link></li>
+          </ul>
           <a className="underline" href="https://akt.gov.al/en/heritage/Kruja-Castle/">{source}</a>
         </article>
       </main>
