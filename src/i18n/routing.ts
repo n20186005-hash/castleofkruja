@@ -1,3 +1,6 @@
+import { heritagePaths } from './heritage';
+import { oldBazaarPath, halfDayPath, skanderbegPath, ethnographicPath } from '@/i18n/guide-paths';
+import { visitPath } from './visit-guide';
 import { defineRouting } from 'next-intl/routing';
 import { createNavigation } from 'next-intl/navigation';
 
@@ -8,7 +11,15 @@ export const routing = defineRouting({
     mode: 'always',
   },
   pathnames: {
+    ...heritagePaths,
     '/': '/',
+    '/day-trips': '/day-trips',
+    '/day-trips/[place]': '/day-trips/[place]',
+    [visitPath]: visitPath,
+    [oldBazaarPath]: oldBazaarPath,
+    [halfDayPath]: halfDayPath,
+    [skanderbegPath]: skanderbegPath,
+    [ethnographicPath]: ethnographicPath,
     '/privacy-policy': '/privacy-policy',
     '/terms-of-service': '/terms-of-service',
     '/cookie-settings': '/cookie-settings',

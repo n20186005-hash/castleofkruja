@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Kalaja e Krujës (Krujë) – Biletat, Orari & Udhëzues Vizitori",
-    "description": "Planifiko vizitën te Kalaja e Krujës (Castle of Kruja) në Krujë, Shqipëri. Gjej çmimet e biletave, orarin e hapjes, detaje për Muzeun e Skënderbeut, si të arrish nga Tirana dhe këshilla praktike udhëtimi."
+    "title": "Kalaja e Krujës – Muzeu i Skënderbeut dhe udhëzuesi i vizitës",
+    "description": "Zbuloni Kalanë e Krujës, Muzeun e Skënderbeut dhe Pazarin e Vjetër. Planifikoni shëtitjen në këmbë dhe kontrolloni biletat, oraret dhe rrugën nga Tirana."
   },
   "header": {
     "home": "Kreu",
@@ -536,5 +536,18 @@
       "Instituti Shqiptar i Arkeologjisë. Të dhëna historike mbi fortifikimin e Krujës.",
       "Ministria e Kulturës e Shqipërisë. Regjistri Kombëtar i Trashëgimisë Kulturore."
     ]
+  },
+  "interface": {
+    "switchLanguage": "Ndrysho gjuhën",
+    "toggleTheme": "Ndrysho temën",
+    "breadcrumb": "Shtegu i vendndodhjes",
+    "previousPhoto": "Fotoja e mëparshme",
+    "nextPhoto": "Fotoja tjetër",
+    "closePhotos": "Mbyll pamjen e fotove",
+    "literature": "Literatura dhe arkivat",
+    "question": "Pyetje",
+    "answer": "Përgjigje",
+    "heroAlt": "Pamja kryesore e Kalasë së Krujës",
+    "galleryAlt": "Fotografia {number} e Kalasë së Krujës"
   }
 }

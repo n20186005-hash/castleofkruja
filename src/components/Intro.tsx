@@ -2,6 +2,7 @@ import { useTranslations, useMessages } from 'next-intl';
 
 export default function Intro() {
   const t = useTranslations('intro');
+  const ui = useTranslations('interface');
   const tSEO = useTranslations('seo');
   const tOff = useTranslations('officialManagement');
   const messages = useMessages() as any;
@@ -33,7 +34,7 @@ export default function Intro() {
           >
             {tSEO('identityDeclaration')}
           </p>
-          <nav aria-label="Geo breadcrumb" className="text-sm">
+          <nav aria-label={ui('breadcrumb')} className="text-sm">
             <ol className="flex flex-wrap items-center gap-1.5" style={{ color: 'var(--text-muted)' }}>
               {tSEO('geoBreadcrumb').split(' → ').map((crumb, i, arr) => (
                 <li key={i} className="flex items-center gap-1.5">

@@ -589,5 +589,18 @@
       "Vakalo, Andrea. (1972). Restaurimi i murit të kalasë së Krujës [Restoration of the Castle Walls of Krujë]. Arkitektura 34, Tiranë.",
       "Visconti, A. (colonel, Austro-Hungarian General Staff). (1917). Militärgeographisches Beschreibungen von Albanien, Heft 3: Kruja und Umgebung. k.u.k. Militärgeographisches Institut, Wien, 1:25.000."
     ]
+  },
+  "interface": {
+    "switchLanguage": "Changer de langue",
+    "toggleTheme": "Changer de thème",
+    "breadcrumb": "Fil de localisation",
+    "previousPhoto": "Photo précédente",
+    "nextPhoto": "Photo suivante",
+    "closePhotos": "Fermer la visionneuse",
+    "literature": "Documentation et archives",
+    "question": "Question",
+    "answer": "Réponse",
+    "heroAlt": "Vue principale du château de Krujë",
+    "galleryAlt": "Photo {number} du château de Krujë"
   }
 }

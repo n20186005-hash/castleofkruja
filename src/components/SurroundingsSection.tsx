@@ -1,6 +1,27 @@
-import { useTranslations } from 'next-intl';
+import { isRegionalLocale } from '@/i18n/regional';
+import { heritagePaths, heritageText } from '@/i18n/heritage';
+import { guideLabels } from '@/i18n/guide-details';
+import { visitGuide, visitPath } from '@/i18n/visit-guide';
+import { museumCopy } from '@/i18n/museum-copy';
+import { Link, type Locale } from '@/i18n/routing';
+import { oldBazaarPath, halfDayPath, skanderbegPath, ethnographicPath } from '@/i18n/guide-paths';
+import { krujeGuides } from '@/i18n/kruje-guides';
+import { useLocale, useTranslations } from 'next-intl';
+
+const dayTripLabels: Record<Locale, string> = {
+  en: 'Day trips from Krujë',
+  zh: '从克鲁亚出发的一日游',
+  sq: 'Udhëtime ditore nga Kruja (anglisht)',
+  de: 'Tagesausflüge ab Krujë (Englisch)',
+  fr: 'Excursions depuis Krujë (anglais)',
+  it: 'Gite di un giorno da Krujë (inglese)',
+  nl: 'Dagtochten vanuit Krujë (Engels)',
+};
 
 export default function SurroundingsSection() {
+  const locale = useLocale() as Locale;
+  const heritage = heritageText[locale as keyof typeof heritageText];
+  const { bazaar, half } = krujeGuides[locale];
   const t = useTranslations('surroundings');
   const tSEO = useTranslations('seo');
 
@@ -37,6 +58,25 @@ export default function SurroundingsSection() {
             {t('content')}
           </p>
         </div>
+        <nav className="mt-6 rounded-2xl border p-5 sm:p-7" aria-labelledby="nearby-guides" style={{ background: 'var(--bg-tertiary)', borderColor: 'var(--border-color)' }}>
+          <h3 id="nearby-guides" className="font-display text-2xl font-semibold mb-3">{guideLabels[locale][3]}</h3>
+          <ul className="grid gap-3 sm:grid-cols-2 underline" style={{ color: 'var(--accent)' }}>
+          <li><Link href={oldBazaarPath}>{bazaar[0]}</Link></li>
+          <li><Link href={halfDayPath}>{half[0]}</Link></li>
+          <li><Link href={skanderbegPath}>{museumCopy[locale].skanderbeg[0]}</Link></li>
+          <li><Link href={ethnographicPath}>{museumCopy[locale].ethnographic[0]}</Link></li>
+          <li><Link href={visitPath}>{visitGuide[locale][0]}</Link></li>
+          {heritage && Object.entries(heritagePaths).map(([path, href]) => {
+            const place = path.split('/').at(-1) as keyof typeof heritage;
+            return <li key={path}><Link href={href}>{heritage[place][0]}</Link></li>;
+          })}
+            <li>
+              <Link href="/day-trips" locale={isRegionalLocale(locale) ? locale : 'en'}>
+                {dayTripLabels[locale]}
+              </Link>
+            </li>
+          </ul>
+        </nav>
       </div>
     </section>
   );

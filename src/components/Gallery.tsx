@@ -4,30 +4,31 @@ import { useTranslations, useMessages } from 'next-intl';
 import { useState, useCallback } from 'react';
 
 const photos = [
-  { src: '/gallery/castle-of-kruja (1).jpg', alt: 'Castle of Kruja - Main view with Skanderbeg Museum in Krujë, Albania' },
-  { src: '/gallery/castle-of-kruja (3).jpg', alt: 'Castle of Kruja - Defensive walls and towers in Krujë' },
-  { src: '/gallery/castle-of-kruja (6).jpg', alt: 'Skanderbeg Museum interior - Castle of Kruja' },
-  { src: '/gallery/castle-of-kruja (8).jpg', alt: 'Old Bazaar of Kruja near Castle of Kruja' },
-  { src: '/gallery/castle-of-kruja (9).jpg', alt: 'Castle of Kruja historic walls and gate' },
-  { src: '/gallery/castle-of-kruja (11).jpg', alt: 'Castle of Kruja panoramic view of Adriatic Sea' },
-  { src: '/gallery/castle-of-kruja (13).jpg', alt: 'National Ethnographic Museum inside Castle of Kruja' },
-  { src: '/gallery/castle-of-kruja (14).jpg', alt: 'Castle of Kruja cobblestone paths and courtyards' },
-  { src: '/gallery/castle-of-kruja (16).jpg', alt: 'Castle of Kruja ruins and archaeological remains' },
-  { src: '/gallery/castle-of-kruja (18).jpg', alt: 'Castle of Kruja mountain backdrop and landscape' },
-  { src: '/gallery/castle-of-kruja (21).jpg', alt: 'Old Bazaar Kruja traditional crafts near castle' },
-  { src: '/gallery/castle-of-kruja (22).jpg', alt: 'Castle of Kruja evening light and golden hour' },
-  { src: '/gallery/castle-of-kruja (24).jpg', alt: 'Castle of Kruja watchtower and architectural details' },
-  { src: '/gallery/castle-of-kruja (25).jpg', alt: 'Castle of Kruja scenic overlook and panorama' },
-  { src: '/gallery/castle-of-kruja (26).jpg', alt: 'Castle of Kruja - Skanderbeg Museum exterior facade' },
-  { src: '/gallery/castle-of-kruja (27).jpg', alt: 'Castle of Kruja courtyard inside fortress walls' },
-  { src: '/gallery/castle-of-kruja (29).jpg', alt: 'Fatih Sultan Mehmed Mosque ruins at Castle of Kruja' },
-  { src: '/gallery/castle-of-kruja (30).jpg', alt: 'Castle of Kruja medieval defensive architecture' },
-  { src: '/gallery/castle-of-kruja (31).jpg', alt: 'Castle of Kruja visitors exploring the grounds' },
-  { src: '/gallery/castle-of-kruja (32).jpg', alt: 'Castle of Kruja aerial view over Krujë town' },
-  { src: '/gallery/castle-of-kruja (35).jpg', alt: 'Castle of Kruja historical exhibits and artifacts' },
+  { src: '/gallery/castle-of-kruja (1).jpg' },
+  { src: '/gallery/castle-of-kruja (3).jpg' },
+  { src: '/gallery/castle-of-kruja (6).jpg' },
+  { src: '/gallery/castle-of-kruja (8).jpg' },
+  { src: '/gallery/castle-of-kruja (9).jpg' },
+  { src: '/gallery/castle-of-kruja (11).jpg' },
+  { src: '/gallery/castle-of-kruja (13).jpg' },
+  { src: '/gallery/castle-of-kruja (14).jpg' },
+  { src: '/gallery/castle-of-kruja (16).jpg' },
+  { src: '/gallery/castle-of-kruja (18).jpg' },
+  { src: '/gallery/castle-of-kruja (21).jpg' },
+  { src: '/gallery/castle-of-kruja (22).jpg' },
+  { src: '/gallery/castle-of-kruja (24).jpg' },
+  { src: '/gallery/castle-of-kruja (25).jpg' },
+  { src: '/gallery/castle-of-kruja (26).jpg' },
+  { src: '/gallery/castle-of-kruja (27).jpg' },
+  { src: '/gallery/castle-of-kruja (29).jpg' },
+  { src: '/gallery/castle-of-kruja (30).jpg' },
+  { src: '/gallery/castle-of-kruja (31).jpg' },
+  { src: '/gallery/castle-of-kruja (32).jpg' },
+  { src: '/gallery/castle-of-kruja (35).jpg' },
 ];
 
 export default function Gallery() {
+  const ui = useTranslations('interface');
   const t = useTranslations('gallery');
   const messages = useMessages() as any;
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -37,7 +38,7 @@ export default function Gallery() {
 
   const galleryPhotos = photos.map((photo, i) => ({
     ...photo,
-    alt: captions[i] || photo.alt,
+    alt: captions[i] ?? ui('galleryAlt', { number: i + 1 }),
   }));
 
   const goToPrevious = useCallback(() => {
@@ -98,7 +99,7 @@ export default function Gallery() {
                 <button
                   onClick={goToPrevious}
                   className="absolute left-2 top-1/2 -translate-y-1/2 w-10 h-10 bg-white/80 hover:bg-white rounded-full shadow-lg flex items-center justify-center transition-colors"
-                  aria-label="Previous photo"
+                  aria-label={ui('previousPhoto')}
                 >
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                     <polyline points="15 18 9 12 15 6" />
@@ -107,7 +108,7 @@ export default function Gallery() {
                 <button
                   onClick={goToNext}
                   className="absolute right-2 top-1/2 -translate-y-1/2 w-10 h-10 bg-white/80 hover:bg-white rounded-full shadow-lg flex items-center justify-center transition-colors"
-                  aria-label="Next photo"
+                  aria-label={ui('nextPhoto')}
                 >
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                     <polyline points="9 18 15 12 9 6" />
@@ -123,7 +124,7 @@ export default function Gallery() {
                   className="text-sm hover:underline font-medium"
                   style={{ color: 'var(--accent)' }}
                 >
-                  {t('showAll') || `View All ${galleryPhotos.length} Photos`}
+                  {t('showAll')}
                 </button>
               )}
               {showAll && (
@@ -132,7 +133,7 @@ export default function Gallery() {
                   className="text-sm hover:underline font-medium"
                   style={{ color: 'var(--accent)' }}
                 >
-                  {t('showLess') || 'Show Less'}
+                  {t('showLess')}
                 </button>
               )}
               <a
@@ -157,7 +158,7 @@ export default function Gallery() {
           <button
             onClick={closeLightbox}
             className="absolute top-4 right-4 w-10 h-10 bg-white/20 hover:bg-white/30 rounded-full flex items-center justify-center transition-colors"
-            aria-label="Close lightbox"
+            aria-label={ui('closePhotos')}
           >
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
               <line x1="18" y1="6" x2="6" y2="18" />
@@ -168,7 +169,7 @@ export default function Gallery() {
           <button
             onClick={(e) => { e.stopPropagation(); goToPrevious(); }}
             className="absolute left-4 w-12 h-12 bg-white/20 hover:bg-white/30 rounded-full flex items-center justify-center transition-colors"
-            aria-label="Previous photo"
+            aria-label={ui('previousPhoto')}
           >
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
               <polyline points="15 18 9 12 15 6" />
@@ -185,7 +186,7 @@ export default function Gallery() {
           <button
             onClick={(e) => { e.stopPropagation(); goToNext(); }}
             className="absolute right-4 w-12 h-12 bg-white/20 hover:bg-white/30 rounded-full flex items-center justify-center transition-colors"
-            aria-label="Next photo"
+            aria-label={ui('nextPhoto')}
           >
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
               <polyline points="9 18 15 12 9 6" />

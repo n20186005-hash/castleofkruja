@@ -1,6 +1,7 @@
 'use client';
 
-import { useLocale } from 'next-intl';
+import { useParams } from 'next/navigation';
+import { useLocale, useTranslations } from 'next-intl';
 import { usePathname, routing, type Locale, useRouter } from '@/i18n/routing';
 import { useState, useRef, useEffect } from 'react';
 
@@ -8,11 +9,17 @@ const labels: Record<string, string> = {
   en: 'English',
   zh: '中文',
   sq: 'Shqip',
+  de: 'Deutsch',
+  fr: 'Français',
+  it: 'Italiano',
+  nl: 'Nederlands',
 };
 
-export default function LanguageToggle() {
+export default function LanguageToggle({ languages = routing.locales }: { languages?: readonly Locale[] }) {
+  const ui = useTranslations('interface');
   const locale = useLocale();
   const pathname = usePathname();
+  const params = useParams<{ place?: string }>();
   const router = useRouter();
   const [open, setOpen] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
@@ -36,7 +43,7 @@ export default function LanguageToggle() {
           background: 'var(--tag-bg)',
           color: 'var(--tag-text)',
         }}
-        aria-label="Switch language"
+        aria-label={ui('switchLanguage')}
       >
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
           <circle cx="12" cy="12" r="10"/>
@@ -54,12 +61,16 @@ export default function LanguageToggle() {
           className="absolute right-0 mt-2 w-40 rounded-lg shadow-lg overflow-hidden z-50"
           style={{ background: 'var(--card-bg)', border: '1px solid var(--border-color)' }}
         >
-          {routing.locales.map((loc) => (
+          {languages.map((loc) => (
             <button
               key={loc}
               onClick={() => {
                 setOpen(false);
-                router.replace(pathname, { locale: loc as Locale });
+                if (pathname === '/day-trips/[place]' && params.place) {
+                  router.replace({ pathname, params: { place: params.place } }, { locale: loc });
+                } else if (pathname !== '/day-trips/[place]') {
+                  router.replace(pathname, { locale: loc });
+                }
               }}
               className="block w-full text-left px-4 py-2.5 text-sm transition-colors"
               style={{
