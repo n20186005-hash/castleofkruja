@@ -14,14 +14,18 @@
       "about": "The Ottoman-period bath on the western side of the fortress is described in the national tourism account as a fifteenth-century structure. It shows that the fortified hill supported daily life as well as defense.",
       "visit": "Start inside the castle gate and follow public lanes towards the western side. Observe the compact stone shell and roof from the lane, keeping off the masonry. Frame the low roof with the fortress terrain behind it.",
       "question": "Is this a working bath?",
-      "answer": "It is a historic monument. Plan an exterior stop and use posted access instructions."
+      "answer": "It is a historic monument. Plan an exterior stop and use posted access instructions.",
+      "observe": "Look at the low roof and the thickness of the wall around the entrance. Read the bath as a compact service building within a much larger fortified settlement.",
+      "planning": "Compare it with the Ethnographic Museum on the same visit. Leave the western lanes for the return leg if your museum ticket has a time limit."
     },
     "zh": {
       "title": "克鲁亚城堡浴室遗址",
       "about": "国家旅游资料将城堡西侧的奥斯曼浴室追溯至十五世纪。这座浴室说明城堡曾承担日常生活功能。",
       "visit": "穿过城门后沿公共巷道向西。站在巷内观察石砌外墙和矮屋顶，拍摄时可把屋顶与山丘地形同框。",
       "question": "现在还能泡澡吗？",
-      "answer": "这里是历史遗迹。以外观参观为主，开放范围看现场告示。"
+      "answer": "这里是历史遗迹。以外观参观为主，开放范围看现场告示。",
+      "observe": "留意低矮屋顶与入口周边的厚墙。从它与城墙、民居的位置关系理解浴室在设防聚落中的日常用途。",
+      "planning": "可与民族志博物馆排在同一趟。如果博物馆有最后入场限制，先看馆内展览，回程再绕到城堡西侧。"
     }
   },
   "bazaar-mosque": {
@@ -39,14 +43,18 @@
       "about": "Also known as the Murad Bey Mosque, this place of worship belongs to the market quarter below the castle. Its minaret rises above the tiled shops and serves as a useful landmark on the approach.",
       "visit": "Begin at the lower end of the Old Bazaar. Follow the stone lane to the mosque and look at the contrast between the slender minaret and the low market roofs. Photograph from the lane without blocking the entrance.",
       "question": "Is it the Fatih Mosque ruin?",
-      "answer": "The Bazaar Mosque is by the market. The Fatih ruins are inside the fortress."
+      "answer": "The Bazaar Mosque is by the market. The Fatih ruins are inside the fortress.",
+      "observe": "Look up from the market lane to see how the minaret rises above the shops. At the doorway, the transition from busy market to prayer space is easier to read.",
+      "planning": "Stop on the uphill walk to the castle or on the return. On a shop visit, allow enough space for worshippers and customers to pass."
     },
     "zh": {
       "title": "克鲁亚老巴扎清真寺",
       "about": "老巴扎清真寺也称穆拉德贝伊清真寺，位于城堡下方的市场街区。宣礼塔高出两侧商铺的瓦顶，是辨认街区位置的地标。",
       "visit": "从老巴扎较低的一端走入石板巷，循宣礼塔定位。在不堵住门口的位置取景，把细长塔身和低矮店铺屋顶同框。",
       "question": "它和法提赫遗址是同一处吗？",
-      "answer": "老巴扎清真寺在市场旁，法提赫清真寺遗址在城堡内。"
+      "answer": "老巴扎清真寺在市场旁，法提赫清真寺遗址在城堡内。",
+      "observe": "从石板巷抬头看宣礼塔如何越过商铺屋顶。走到入口附近，留意市场街道与礼拜空间之间的过渡。",
+      "planning": "上坡去城堡或下坡回程时都可顺路看。店铺营业时请给顾客和礼拜者留出通道。"
     }
   },
   "sari-salltik": {
@@ -64,14 +72,18 @@
       "about": "This Bektashi pilgrimage place is built into the rock above Krujë. The threshold, stair and little shrine make the rock itself part of the visit. The national tourism agency documents the pilgrimage tradition.",
       "visit": "Use the mountain road to the shrine approach and confirm the return ride. Descend only on open steps, keeping passage clear. Photograph the shrine against the cliff from an allowed landing.",
       "question": "Can I photograph inside?",
-      "answer": "Ask the attendants, especially during prayer. Follow any posted restrictions."
+      "answer": "Ask the attendants, especially during prayer. Follow any posted restrictions.",
+      "observe": "The green-and-white shrine fits into a steep limestone recess. Look for the change from daylight on the stair to the enclosed rock at the shrine threshold.",
+      "planning": "Plan this after the town sights as a separate road leg. If stairs or visibility make the approach difficult, stay at the upper stopping area."
     },
     "zh": {
       "title": "萨里萨尔蒂克洞穴圣所",
       "about": "这是克鲁亚山岩壁上的贝克塔什派朝圣地。洞口、台阶与小型圣所连成一体，岩壁本身也是空间的一部分。国家旅游局有朝圣传统资料。",
       "visit": "从山路到达圣所入口附近，先核对回程。沿开放台阶下行，在许可的平台拍下圣所与岩壁的关系。",
       "question": "可以拍摄室内吗？",
-      "answer": "先询问现场人员，尤其在有人礼拜时，并遵守告示。"
+      "answer": "先询问现场人员，尤其在有人礼拜时，并遵守告示。",
+      "observe": "绿白色圣所嵌在陡峭的石灰岩凹处。沿台阶观察日光如何在门槛附近转为岩洞内的遮蔽。",
+      "planning": "看完市区后单独安排一段车程。台阶难走或能见度较低时，从上方可停留处回望即可。"
     }
   },
   "zgerdhesh": {
@@ -89,14 +101,18 @@
       "about": "Low walls survive from an ancient fortified settlement near Krujë. It is often associated with Albanopolis; the association is an interpretation. Read the surviving masonry against the slope rather than expecting a reconstructed town.",
       "visit": "Set the map to the archaeological site, not the castle. Check the final approach locally, then view wall lines from open ground. Photograph the ruins at an angle to show their length and the terrain.",
       "question": "Is Albanopolis securely identified here?",
-      "answer": "The association appears in heritage literature. Use Zgërdhesh when searching for the site."
+      "answer": "The association appears in heritage literature. Use Zgërdhesh when searching for the site.",
+      "observe": "Read the blocks in context: continuous wall courses mark enclosure more clearly than isolated stones. The slope makes the original defensive siting intelligible.",
+      "planning": "Combine this lower-elevation site with the hilltop castle for a comparison. Confirm the village approach before leaving a main road."
     },
     "zh": {
       "title": "兹格尔德什考古遗址",
       "about": "克鲁亚附近的古代设防聚落保留了低矮石墙。研究和介绍资料常将它与阿尔巴诺波利斯联系起来，但这一认定仍属历史解释。",
       "visit": "导航至考古遗址，出发前核对最后一段道路。从可通行的地面观察墙线，斜向取景可拍出墙体延伸与坡度。",
       "question": "这里就是古代阿尔巴诺波利斯吗？",
-      "answer": "遗产资料常作此联系。实际导航请用兹格尔德什遗址名称。"
+      "answer": "遗产资料常作此联系。实际导航请用兹格尔德什遗址名称。",
+      "observe": "连续的石砌层比散落石块更容易辨认围墙走向。结合坡度观察古聚落为何在此防御。",
+      "planning": "可与上方的克鲁亚城堡对照游览。驶离主路前先核对村道入口。"
     }
   },
   "kurcaj-bridge": {
@@ -114,14 +130,18 @@
       "about": "The bridge crossed the Zeza on an old caravan route between Krujë and Tirana. EU4Culture dates it tentatively to the eighteenth century and documents repairs after the 2019 earthquake.",
       "visit": "Reach Kurçaj village by road and continue on foot. From an open bank-side path look across at the arch, then use only the marked approaches. Frame the arch side-on above the riverbed.",
       "question": "Can I drive over the bridge?",
-      "answer": "The restoration project describes a pedestrian visit. Leave the car before the walking approach."
+      "answer": "The restoration project describes a pedestrian visit. Leave the car before the walking approach.",
+      "observe": "View the arch from the side to see how the stone ring spans the river without a pier in the main channel. The bridge deck gives a different reading of the former caravan crossing.",
+      "planning": "Keep riverbank photography separate from the marked crossing. If the access path is closed, turn back at the village approach."
     },
     "zh": {
       "title": "库尔恰伊石拱桥",
       "about": "石桥跨过泽扎河，曾服务克鲁亚与地拉那之间的商队路线。EU4Culture 将其推定为十八世纪建筑，并记录了 2019 年地震后的修复。",
       "visit": "乘车到库尔恰伊村后步行前往。从可通行的岸边小道侧拍桥拱及河床，再沿标示的进出路线往返。",
       "question": "能开车过桥吗？",
-      "answer": "修复项目说明这里仅供步行参观，请在徒步路段前下车。"
+      "answer": "修复项目说明这里仅供步行参观，请在徒步路段前下车。",
+      "observe": "从侧面看石拱如何跨越主河道。换到允许通行的桥面后，可以从走线理解当年的商队如何过河。",
+      "planning": "河岸取景与过桥应走各自开放的路线。如果步道关闭，从村道入口折返。"
     }
   },
   "qafe-shtame": {
@@ -135,18 +155,22 @@
       "credit": "Wikimedia Commons"
     },
     "en": {
-      "title": "Qafë-Shtamë National Park",
+      "title": "Qafë-Shtamë Nature Park",
       "about": "This protected highland near Krujë combines conifer and broadleaf forest with open mountain slopes. The National Tourism Agency records black pine, beech and oak in the park. The protected-area office is the visitor contact for local rules.",
       "visit": "Take the mountain road from Krujë and begin at a signed open trail. Start with a short out-and-back walk and photograph the forest edge and ridges from a public clearing.",
       "question": "Does the castle walking route reach the park?",
-      "answer": "Allow separate road transport. The park is a highland excursion outside the fortress."
+      "answer": "Allow separate road transport. The park is a highland excursion outside the fortress.",
+      "observe": "Compare darker conifer stands with light entering forest edges and clearings. The transition from closed canopy to open ridge is more visible than it is from the road.",
+      "planning": "Choose a signed trail before parking and use the same trailhead for the return. Ask the regional protected-area office about seasonal road or trail restrictions."
     },
     "zh": {
-      "title": "卡费什塔梅国家公园",
+      "title": "卡费什塔梅自然公园",
       "about": "克鲁亚附近的高地保护区同时有针叶林、阔叶林与开阔山坡。国家旅游局记录了黑松、山毛榉和橡树。当地规定可向保护区管理机构核对。",
       "visit": "从克鲁亚走山路至有指示的开放步道，先安排短程往返，从开阔地拍摄林缘和远山层次。",
       "question": "能直接从城堡步行顺路到吗？",
-      "answer": "公园位于城堡外的高地，宜单独安排道路交通。"
+      "answer": "公园位于城堡外的高地，宜单独安排道路交通。",
+      "observe": "观察深色针叶林与林缘、开阔地之间的光线变化。步行比在车上更容易看清密林向山脊的过渡。",
+      "planning": "先选有指示的步道，再按同一入口往返。季节性道路和步道限制请向区域保护区管理机构查询。"
     }
   },
   "skanderbeg-monument-kruje": {
@@ -164,14 +188,18 @@
       "about": "Krujë’s municipal map identifies the equestrian monument separately from the museum. The mounted figure and pedestal commemorate Gjergj Kastrioti in the public space of the town itself.",
       "visit": "Begin in central Krujë and use the monument pin before heading down the market lane. From the pedestrian edge of the square photograph the horse and rider in profile with the pedestal visible.",
       "question": "Is this the statue in Tirana?",
-      "answer": "Krujë has its own monument. Use the map result with Krujë in its address."
+      "answer": "Krujë has its own monument. Use the map result with Krujë in its address.",
+      "observe": "From the side, the silhouette of the rearing horse and upright rider is clearly visible. The stone base separates the composition from the surrounding townscape.",
+      "planning": "See the monument before entering the market so it works as a town orientation point. Leave the museum’s separate pin for the castle stop."
     },
     "zh": {
       "title": "克鲁亚斯坎德培骑马纪念像",
       "about": "市政府旅游地图将这座骑马纪念像与博物馆分开标注。骑马人物和底座构成克鲁亚市区纪念乔治·卡斯特里奥蒂的公共地标。",
       "visit": "从克鲁亚市中心按纪念像图钉定位，再继续走向老巴扎。在广场人行边缘从侧面拍下人物、马匹与底座。",
       "question": "这是地拉那广场那一座吗？",
-      "answer": "这是克鲁亚市区的纪念像，地图结果应显示 Krujë。"
+      "answer": "这是克鲁亚市区的纪念像，地图结果应显示 Krujë。",
+      "observe": "从侧面能清楚看到腾起的马和挺立骑手的剪影。石底座把雕塑与周围市区景象分开。",
+      "planning": "先看纪念像再走进市场，可把它当作辨认市中心方向的地标。城堡内博物馆请使用另一个定位。"
     }
   },
   "preze-castle": {
@@ -189,14 +217,18 @@
       "about": "A hilltop fort across the plain from Krujë, Prezë is associated with the Topia family. The national tourism account places construction from the fourteenth century into the early fifteenth. Its tower and curtain walls outline the enclosure.",
       "visit": "Drive to Prezë village, then take the signed uphill access. Compare the tower with the courtyard wall and frame the plain from an open, permitted viewpoint.",
       "question": "Is this part of Krujë Castle?",
-      "answer": "It is a separate fortress in Prezë. Plan road transport between the two."
+      "answer": "It is a separate fortress in Prezë. Plan road transport between the two.",
+      "observe": "The square tower makes a strong vertical contrast with the long curtain wall. Compare the outer slope with the flatter interior courtyard to understand the defensive placement.",
+      "planning": "If approaching via Vorë or the airport side, set the village and castle as separate stops. Look for posted access to the courtyard before committing to a longer visit."
     },
     "zh": {
       "title": "普雷泽城堡",
       "about": "普雷泽城堡与克鲁亚隔平原相望，与托皮亚家族有关。国家旅游资料将其建设时期定在十四世纪至十五世纪初，塔楼与围墙围出堡内空间。",
       "visit": "乘车至普雷泽村后沿指示上坡。在开放区域比较塔楼、院墙和坡地，从允许停留的观景处拍平原。",
       "question": "这是克鲁亚城堡的一部分吗？",
-      "answer": "两者是不同村镇的城堡，需要单独安排车程。"
+      "answer": "两者是不同村镇的城堡，需要单独安排车程。",
+      "observe": "方形塔身与长围墙形成竖向和横向对照。从外侧坡地对照较平坦的堡内庭院，理解设防布局。",
+      "planning": "从沃雷或机场一侧来时，可把普雷泽村和城堡设为两个停靠点。到达后先看庭院的开放告示。"
     }
   },
   "ishem-castle": {
@@ -214,14 +246,18 @@
       "about": "The inland fortress at Ishëm is an Ottoman-period defensive enclosure. Its surviving stone perimeter and gateway help visitors read the line of the former stronghold against the settlement.",
       "visit": "Navigate to Ishëm village and follow the castle pin up from the settlement. Check openings at the gateway and photograph the wall run obliquely from outside.",
       "question": "Does this pin take me to the coast?",
-      "answer": "The fortress is inland; Cape Rodon and its castle have a separate road approach."
+      "answer": "The fortress is inland; Cape Rodon and its castle have a separate road approach.",
+      "observe": "Look for the thick masonry around the opening and the change from the village street to the enclosed perimeter. The gateway provides a clearer sense of scale than a distant view.",
+      "planning": "Visit the inland fort first if combining it with the cape. Use Ishëm village for the road approach and reset navigation before continuing to the coast."
     },
     "zh": {
       "title": "伊舍姆城堡",
       "about": "伊舍姆的奥斯曼时期防御遗址位于内陆。尚存的石墙和入口让访客能从村落一侧辨认原有堡垒轮廓。",
       "visit": "进伊舍姆村后按城堡图钉上坡，在门口核对开放范围。可在外侧斜拍连续墙体。",
       "question": "这个定位通往海岸吗？",
-      "answer": "这座城堡在内陆，罗登角及其城堡需走另一条进路。"
+      "answer": "这座城堡在内陆，罗登角及其城堡需走另一条进路。",
+      "observe": "留意拱门周围的厚砌体和从村道进入围合空间的变化。近看门洞更容易判断墙体尺度。",
+      "planning": "若同行还要去海岬，可先看内陆堡。先按伊舍姆村走进路，去海边时再切换导航。"
     }
   },
   "rodon-castle": {
@@ -239,14 +275,18 @@
       "about": "The coastal stronghold on Cape Rodon is associated with Skanderbeg’s fifteenth-century defense strategy. The remaining walls at the cape show how a projecting headland could control approaches from the sea.",
       "visit": "Reach the Cape Rodon visitor area by road. From the signed walking approach proceed to the castle only if the path is open, then photograph across the headland from a stable public path.",
       "question": "Is the castle next to the church?",
-      "answer": "Both are on the cape. Allow for a separate walk to the castle ruins."
+      "answer": "Both are on the cape. Allow for a separate walk to the castle ruins.",
+      "observe": "The remaining walls turn with the shoreline, where built masonry and the headland work together. A side view shows how little space the seaward fort occupies.",
+      "planning": "Plan the ruins as a separate walking stop after the church. Check the return path before committing to the coastal leg."
     },
     "zh": {
       "title": "罗登角斯坎德培城堡",
       "about": "罗登角海堡与斯坎德培十五世纪的防御布局有关。现存石墙伸入岬角，能看出突出海面的地形如何服务海上防御。",
       "visit": "先乘车至罗登角游览区。步道开放时再按指示步行至遗址，从平稳的公共步道取景拍下岬角和石墙。",
       "question": "城堡紧挨着教堂吗？",
-      "answer": "两处都在罗登角，去海堡遗址还要单独步行一段。"
+      "answer": "两处都在罗登角，去海堡遗址还要单独步行一段。",
+      "observe": "现存墙体沿岸线转折，砌墙与海岬地形相互配合。从侧面看，更容易理解海堡占据的狭窄空间。",
+      "planning": "把遗址排在教堂之后，单独留一段步行时间。进入海岸路段前先辨认回程。"
     }
   },
   "saint-anthony-rodon": {
@@ -264,14 +304,18 @@
       "about": "This small coastal church is associated with the Franciscan presence on the cape. UNOPS documents restoration through EU4Culture. The masonry and apse can be read from the surrounding ground.",
       "visit": "Follow the Cape Rodon access road and use the church pin at the visitor area. Walk around permitted exterior paths, then frame the apse or roof against the open coastal landscape.",
       "question": "Is there guaranteed indoor access?",
-      "answer": "Check opening arrangements before traveling; the exterior is a worthwhile stop when indoor access is unavailable."
+      "answer": "Check opening arrangements before traveling; the exterior is a worthwhile stop when indoor access is unavailable.",
+      "observe": "Compare the plain side wall with the curved end of the sanctuary. The small scale is most evident when the roof and surrounding grass are seen together.",
+      "planning": "Visit the church before deciding whether to continue to the ruins. If interior access is allowed, ask about the rules for the painted surfaces."
     },
     "zh": {
       "title": "罗登角圣安东尼教堂",
       "about": "岬角的小教堂与当地方济各会历史有关。联合国项目事务署记录了 EU4Culture 修缮。从室外就能观察石墙与后殿。",
       "visit": "走罗登角进路，到达后使用教堂的独立定位。沿允许通行的外侧道路绕看，可用海岸开阔地衬托后殿和屋顶。",
       "question": "一定能进室内吗？",
-      "answer": "出发前核对当天开放情况，室内未开放时可看外观。"
+      "answer": "出发前核对当天开放情况，室内未开放时可看外观。",
+      "observe": "对照平直侧墙与弧形后殿。把屋顶和周围草地同框，更能看出教堂的小巧尺度。",
+      "planning": "先看教堂，再决定是否继续去海堡。室内开放时，请先询问彩绘区域的参观规定。"
     }
   },
   "bovilla-lake": {
@@ -289,14 +333,18 @@
       "about": "Bovilla is a reservoir framed by steep rocky slopes. Tirana’s municipal visitor page identifies it as a landmark, while access around a water-supply site is subject to local restrictions.",
       "visit": "Arrange road transport to the signed reservoir approach and confirm the condition of the final road. For photos use an established overlook and frame the inlet between the ridges.",
       "question": "Can I assume the water is open for bathing?",
-      "answer": "Plan the visit for scenery and follow posted protection and access rules."
+      "answer": "Plan the visit for scenery and follow posted protection and access rules.",
+      "observe": "Look for the inlet between the cliffs and the difference between the broad water surface and its constricted arms. The water level can change the shape visible from an overlook.",
+      "planning": "Arrange the driver’s turnaround and return before setting out. Choose an authorized viewpoint and follow restrictions around water infrastructure."
     },
     "zh": {
       "title": "博维拉水库",
       "about": "博维拉是陡峭岩坡环抱的水库，地拉那市政府把它列为游览地点。作为供水水体，周边活动受现场管控。",
       "visit": "安排道路交通至有指示的入口，先核对末段路况。从开放观景点拍摄山脊夹出的水湾。",
       "question": "可以下水吗？",
-      "answer": "按观景行程安排，保护范围和允许的活动以现场规定为准。"
+      "answer": "按观景行程安排，保护范围和允许的活动以现场规定为准。",
+      "observe": "从观景点辨认岩崖之间的水湾，对比开阔水面和狭长支湾。水位变化会改变岸线轮廓。",
+      "planning": "出发前确认司机掉头和接回地点。只在开放观景点停留，遵守供水设施附近的限制。"
     }
   },
   "durres-amphitheatre": {
@@ -314,14 +362,18 @@
       "about": "The Roman arena was built in the second century. Its curved seating and passages sit below the level of the modern city; later reuse included a Christian chapel.",
       "visit": "Walk from central Durrës to the signed entrance. Follow the marked route and use a permitted high point for a wide photograph of the arena and modern rooftops.",
       "question": "Can I see the chapel on every visit?",
-      "answer": "Interior areas depend on the opening route. Ask at the site entrance."
+      "answer": "Interior areas depend on the opening route. Ask at the site entrance.",
+      "observe": "Read the curve of the seating against the houses above it. Approaching the permitted passages shows the difference between the arena floor and circulation through the structure.",
+      "planning": "Start here before walking toward the Venetian Tower. If passage access is limited, spend longer on the open overlook or arena route."
     },
     "zh": {
       "title": "都拉斯圆形剧场",
       "about": "罗马剧场建于二世纪，弧形看台及通道低于现代街面。遗址后来还曾改设基督教礼拜空间。",
       "visit": "从都拉斯市中心步行至标示入口，沿开放路线参观。从允许停留的较高位置拍摄竞技场和周边屋顶。",
       "question": "每次都能看到礼拜堂吗？",
-      "answer": "室内区域取决于当天开放路线，请在入口查询。"
+      "answer": "室内区域取决于当天开放路线，请在入口查询。",
+      "observe": "把弧形看台与高处民居对照。靠近开放通道时，可以看清竞技场地面与内部交通空间的层次。",
+      "planning": "可先参观剧场，再走去威尼斯塔。内部通道开放受限时，把时间留给开放观景点和竞技场路线。"
     }
   },
   "durres-venetian-tower": {
@@ -339,14 +391,18 @@
       "about": "The round tower belongs to the city's coastal defense story. Its cylindrical mass and crenellations are easy to distinguish from the straight wall sections. EU4Culture documents its conservation.",
       "visit": "From the waterfront walk to the tower on the landward side of the road. Look for the junction of tower and wall, then step back on the pedestrian side to frame the complete profile.",
       "question": "Is the tower the amphitheatre entrance?",
-      "answer": "No. It is a waterfront fortification with its own entrance and access rules."
+      "answer": "No. It is a waterfront fortification with its own entrance and access rules.",
+      "observe": "The cylindrical tower and the adjacent curtain wall present two different defensive profiles. Compare their silhouette from the waterfront side and their junction up close.",
+      "planning": "Pair the tower with the amphitheatre as two stops on the old-town walk. Check the entrance notice for indoor access before walking around the exterior."
     },
     "zh": {
       "title": "都拉斯威尼斯塔",
       "about": "圆塔属于都拉斯的海岸防御系统。圆柱形塔身和垛口与城墙的直线段形成对比，EU4Culture 有相关保护工程记录。",
       "visit": "从海滨沿人行道到达塔下。先观察塔与墙的交接，在不挡路的位置退后拍全塔。",
       "question": "从这里能进入圆形剧场吗？",
-      "answer": "威尼斯塔是海滨防御建筑，有独立参观安排。"
+      "answer": "威尼斯塔是海滨防御建筑，有独立参观安排。",
+      "observe": "圆塔和相邻的直线城墙形成两种截然不同的防御轮廓。从海滨侧看剪影，再近看交接处。",
+      "planning": "可把塔和圆形剧场安排为老城两站。绕外侧参观前先查看入口公告，确认能否入内。"
     }
   },
   "durres-fatih-mosque": {
@@ -364,14 +420,18 @@
       "about": "The National Tourism Agency dates this mosque to 1502 and describes it as built on the remains of a medieval basilica. It is a separate site from the larger mosque on the main square.",
       "visit": "Walk from the old town and check the local mosque name at the gate. Observe its modest scale, then photograph from outside without blocking worshippers.",
       "question": "Is this the Great Mosque?",
-      "answer": "Use the Fatih Mosque pin. The Great Mosque is on the main square and is a different building."
+      "answer": "Use the Fatih Mosque pin. The Great Mosque is on the main square and is a different building.",
+      "observe": "The smaller scale, tiled roof and arched windows distinguish this mosque from the domed landmark on Sheshi Liria. Use the entrance plaque to confirm the building.",
+      "planning": "Visit it separately from the Great Mosque, preferably between services if you want to ask about entry. Keep the gate and pavement clear."
     },
     "zh": {
       "title": "都拉斯法提赫清真寺",
       "about": "国家旅游局把这座清真寺的建设时间列为 1502 年，地点此前为中世纪巴西利卡。它与主广场的大清真寺是不同建筑。",
       "visit": "从旧城区步行前往，在门口核对名称。从外部观察尺度，在不妨碍礼拜者的地方拍摄。",
       "question": "这是大清真寺吗？",
-      "answer": "请选择法提赫清真寺定位，主广场的大清真寺另有入口。"
+      "answer": "请选择法提赫清真寺定位，主广场的大清真寺另有入口。",
+      "observe": "较小的体量、瓦顶与拱窗，可将它和自由广场的穹顶清真寺区分开。到门口再用铭牌确认。",
+      "planning": "与大清真寺分作两个停靠点。想询问能否入内时宜避开礼拜，拍摄时不要占用门口或人行道。"
     }
   },
   "durres-great-mosque": {
@@ -389,14 +449,18 @@
       "about": "The mosque dominates the city’s main square. Its dome, minaret and raised forecourt make a strong ensemble with the civic plaza. The national tourism route distinguishes it from the older Fatih Mosque.",
       "visit": "Approach across Sheshi Liria. Take in the dome and steps from the public square before approaching the doorway. Ask before photographing inside.",
       "question": "Can I visit during prayer?",
-      "answer": "Plan an exterior visit during services and follow the attendants’ instructions."
+      "answer": "Plan an exterior visit during services and follow the attendants’ instructions.",
+      "observe": "First read the dome and minaret as part of the square skyline. Closer to the steps, look at how the level change sets the forecourt apart from street traffic.",
+      "planning": "Use the public square for an exterior visit. If also visiting the Fatih Mosque, search for each name separately rather than following a generic mosque pin."
     },
     "zh": {
       "title": "都拉斯大清真寺",
       "about": "大清真寺位于都拉斯主要市政广场。穹顶、宣礼塔与抬高的前庭共同塑造广场轮廓。国家旅游路线将它与较早的法提赫清真寺分开介绍。",
       "visit": "从自由广场步行接近，先在公共广场看穹顶和台阶，再前往入口。室内拍照请事先询问。",
       "question": "礼拜时可以参观吗？",
-      "answer": "礼拜时以外观参观为主，并听从现场安排。"
+      "answer": "礼拜时以外观参观为主，并听从现场安排。",
+      "observe": "先从广场看穹顶和宣礼塔构成的天际线，再走近台阶，观察高差如何把前庭与街道分开。",
+      "planning": "可从公共广场完成外观参观。若还要去法提赫清真寺，请分别输入两处名称。"
     }
   },
   "durres-roman-baths": {
@@ -414,14 +478,18 @@
       "about": "The bath remains next to the modern Aleksandër Moisiu Theatre give a street-level view of how ancient and modern Durrës overlap. Brick and stone wall lines mark rooms of the former complex.",
       "visit": "Go to the theatre block and look for the marked archaeological area. Photograph the sunken layout from the public side of the railing; check municipal notices for closer access.",
       "question": "Are these the baths in Krujë Castle?",
-      "answer": "No. These are Roman-period remains at the theatre in Durrës."
+      "answer": "No. These are Roman-period remains at the theatre in Durrës.",
+      "observe": "Follow the brick courses at the edge of the excavation to read the division into rooms. The modern theatre makes the difference in ground level easy to compare.",
+      "planning": "Plan this as a short urban archaeology stop. Continue to the Forum to compare former public buildings whose layouts survive in different ways."
     },
     "zh": {
       "title": "都拉斯罗马浴场遗址",
       "about": "遗迹在现代亚历山大·莫伊休剧院附近，显示古城遗存和现代都拉斯的叠合。砖石墙线勾勒出浴场原有的房间。",
       "visit": "到剧院街区找考古区标识。从栏杆公共一侧拍摄低于街面的布局，近距离参观以当地公告为准。",
       "question": "这是克鲁亚城堡浴室吗？",
-      "answer": "不是。这是都拉斯剧院附近的罗马时期遗址。"
+      "answer": "不是。这是都拉斯剧院附近的罗马时期遗址。",
+      "observe": "沿开挖区边缘看砖砌层次和房间分隔。现代剧院可作参照，帮助判断古今地面的高差。",
+      "planning": "适合作为市区考古路线的短暂停靠。之后可去拜占庭广场，对比两类公共建筑留下的平面。"
     }
   },
   "durres-forum": {
@@ -439,14 +507,18 @@
       "about": "The surviving circle of columns traces a public complex of ancient Dyrrachium, often described as a market. The ring reads most clearly from outside rather than between individual columns.",
       "visit": "Walk to the marked forum site in central Durrës. Follow the public perimeter, stop where several columns overlap in the view and photograph the arc from street level.",
       "question": "Is this the same as the amphitheatre?",
-      "answer": "The forum and amphitheatre occupy different blocks and have separate map pins."
+      "answer": "The forum and amphitheatre occupy different blocks and have separate map pins.",
+      "observe": "The columns work as a group: find the curve before focusing on capitals or individual fragments. Street-level viewpoints make the outline easier to see.",
+      "planning": "Combine the site with the Roman baths rather than treating it as part of the amphitheatre entrance. Observe from the public perimeter if gated."
     },
     "zh": {
       "title": "都拉斯拜占庭广场遗址",
       "about": "尚存的环形列柱勾勒出古代都拉斯的公共建筑，常被解释为市场。站在外围比只看单根柱子更容易看清整体弧线。",
       "visit": "步行到市区标示的广场遗址，沿外缘走，选择能把多根柱子拍进同一画面的位置。",
       "question": "它和圆形剧场在同一处吗？",
-      "answer": "两处在不同街区，使用各自地图定位。"
+      "answer": "两处在不同街区，使用各自地图定位。",
+      "observe": "先辨认列柱的弧线，再看柱头或单块构件。从街面最容易看清围合轮廓。",
+      "planning": "可与罗马浴场串游，圆形剧场另有入口。若遗址设有围栏，请在公共外缘观察。"
     }
   },
   "durres-archaeological-museum": {
@@ -464,14 +536,18 @@
       "about": "The archaeological museum interprets ancient Dyrrachium through objects rather than ruins in place. Its collecting history and seafront location make it a useful counterpart to the scattered excavations in the old city.",
       "visit": "Walk along Rruga Taulantia and identify the museum entrance before planning your route. Photograph the exterior from a public path; ask staff about opening and gallery rules.",
       "question": "Can I rely on published old opening hours?",
-      "answer": "Check the museum or municipal visitor channel for current operations before traveling."
+      "answer": "Check the museum or municipal visitor channel for current operations before traveling.",
+      "observe": "Use the museum to compare portable sculpture and objects with the architecture seen outside at the city’s archaeological sites. The seafront forecourt also offers space to read the building façade.",
+      "planning": "Check museum operations before fixing it as your first stop. If indoor access is restricted, switch the order and start at the waterfront or the amphitheatre."
     },
     "zh": {
       "title": "都拉斯考古博物馆",
       "about": "考古博物馆通过可移动文物介绍古代都拉斯，与老城区分散的原址遗迹互为补充。馆舍坐落在海滨街一带。",
       "visit": "沿 Rruga Taulantia 步行，先确认馆舍入口和当天开放状态。从公共步道拍摄外观，室内规则请问馆方。",
       "question": "可以依照旧攻略上的开放时间吗？",
-      "answer": "出发前，请从馆方或市政游客渠道核对当前开放状态。"
+      "answer": "出发前，请从馆方或市政游客渠道核对当前开放状态。",
+      "observe": "可把馆内雕塑与器物和市区考古遗址的原址建筑对照。海滨前庭也便于看清馆舍立面。",
+      "planning": "确定行程顺序前先查馆方公告。室内开放受限时，可改从海滨或圆形剧场开始。"
     }
   },
   "moisiu-house": {
@@ -489,14 +565,18 @@
       "about": "The National Tourism Agency includes this house museum on the city's cultural route. Its actor-focused material and regional ethnography sit within a traditional residential building, where the courtyard and external stair are part of the visit.",
       "visit": "Approach on foot from the old-town streets. Look at the exterior before entering, and photograph the stair from an open public area without obstructing the doorway.",
       "question": "Is this the city theatre?",
-      "answer": "The house museum and the theatre are separate places despite sharing Moisiu’s name."
+      "answer": "The house museum and the theatre are separate places despite sharing Moisiu’s name.",
+      "observe": "The exterior stair and courtyard show how the house manages movement between levels. Use them to put the actor’s life and the ethnographic collection in architectural context.",
+      "planning": "Look for the house sign rather than the theatre marquee. Check access before entering the courtyard and leave the performance venue as a separate stop."
     },
     "zh": {
       "title": "亚历山大·莫伊休故居博物馆",
       "about": "国家旅游局把这座故居纳入城市文化路线，内容涉及演员生平和中部阿尔巴尼亚民族志。庭院和外楼梯也是认识民居的线索。",
       "visit": "从老城街道步行到达，进门前先看外部，从开放范围拍楼梯并留出门口通道。",
       "question": "这里是市剧院吗？",
-      "answer": "剧院和故居同以莫伊休命名，但实际地点不同。"
+      "answer": "剧院和故居同以莫伊休命名，但实际地点不同。",
+      "observe": "外楼梯和庭院反映这座民居如何组织上下层交通。结合房屋布局观察演员生平展示与民族志藏品。",
+      "planning": "认准故居博物馆铭牌，勿沿剧院招牌导航。进庭院前核对开放安排。"
     }
   },
   "arapaj-basilica": {
@@ -514,14 +594,18 @@
       "about": "The early Christian site at Arapaj is known for its floor mosaic and the traces of a basilica. The low foundations read differently from a standing church. Mosaic conservation can affect what is visible.",
       "visit": "Reach Arapaj by road and verify the last approach with local information. Observe the foundations only from open edges and photograph the building footprint rather than stepping onto it.",
       "question": "Will the mosaic be exposed?",
-      "answer": "Check conservation and access arrangements locally before expecting to see it."
+      "answer": "Check conservation and access arrangements locally before expecting to see it.",
+      "observe": "The ground plan is the most reliable thing to read from the accessible edges. Compare parallel walls and column bases before looking for the mosaic area.",
+      "planning": "Leave time for the last village lane and follow conservation barriers. If the mosaic is covered, focus the visit on the building footprint."
     },
     "zh": {
       "title": "阿拉帕伊圣米迦勒巴西利卡遗址",
       "about": "这处早期基督教遗址以地面马赛克和巴西利卡遗迹著称。低矮基础与完整教堂不同，马赛克是否可见取决于保护措施。",
       "visit": "乘车到阿拉帕伊后核对末段进路。从开放边缘观察基础并拍摄建筑平面，勿踩踏遗存。",
       "question": "现场一定能看到马赛克吗？",
-      "answer": "先在当地确认保护和展示安排，再决定是否专程前往。"
+      "answer": "先在当地确认保护和展示安排，再决定是否专程前往。",
+      "observe": "从允许到达的边缘先读平面，比较平行墙线和柱基，再辨认马赛克所在区域。",
+      "planning": "为最后一段村道留时间，并遵守遗址保护边界。马赛克遮盖时，可把重点放在建筑平面。"
     }
   },
   "kavaje-clock-tower": {
@@ -539,14 +623,18 @@
       "about": "The municipal-area heritage guide lists this tower as a central Kavajë landmark. Its narrow vertical form and clock face help orient visitors around the square and neighboring mosque.",
       "visit": "Walk into the town square and use the pedestrian side to view the full elevation. Photograph it next to the lower civic buildings to show its scale.",
       "question": "Can I climb it?",
-      "answer": "Plan to see it from the square unless access is explicitly open on site."
+      "answer": "Plan to see it from the square unless access is explicitly open on site.",
+      "observe": "Use the square to compare the narrow tower shaft with the neighboring mosque and civic buildings. Look for the clock face before crossing the plaza.",
+      "planning": "See both the tower and mosque on foot around the same square, using their separate pins for arrival. Confirm tower access locally."
     },
     "zh": {
       "title": "卡瓦亚钟楼",
       "about": "区域遗产指南把钟楼列为卡瓦亚市中心地标。狭长塔身和钟面帮助访客辨认广场及相邻清真寺的位置。",
       "visit": "步行到市中心广场，在人行侧看完整立面。可将钟楼和较低的周围建筑同框。",
       "question": "可以登楼吗？",
-      "answer": "通常按广场外观参观安排，只有现场明确开放才进入。"
+      "answer": "通常按广场外观参观安排，只有现场明确开放才进入。",
+      "observe": "从广场比较细长钟楼、旁边的清真寺和市政建筑。过广场前先找准钟面。",
+      "planning": "可沿同一广场步行看钟楼和清真寺，抵达时使用各自定位。能否上塔以现场安排为准。"
     }
   },
   "kavaje-kubelie-mosque": {
@@ -564,14 +652,18 @@
       "about": "The mosque is a landmark of central Kavajë’s public square. The dome, minaret and front arcade give different views as you cross the plaza. Use the named mosque location rather than the overlapping clock-tower pin.",
       "visit": "From the center, cross the square toward the mosque. Compare the arcade from an oblique angle and include the dome and minaret in a wide photograph taken from public space.",
       "question": "What should I do during services?",
-      "answer": "Stay in public areas and follow the mosque’s local guidance on entering and photography."
+      "answer": "Stay in public areas and follow the mosque’s local guidance on entering and photography.",
+      "observe": "Compare the front arcade at an angle with the mosque’s dome and vertical minaret. The group is easiest to read from across the square.",
+      "planning": "Visit the exterior as part of the central square loop. Ask at the mosque before planning any indoor visit."
     },
     "zh": {
       "title": "卡瓦亚库贝列清真寺",
       "about": "清真寺是卡瓦亚中心广场的地标。从广场不同位置可观察穹顶、宣礼塔和前立面的拱廊。请选清真寺专属定位。",
       "visit": "从市中心穿过广场前往，从斜侧看拱廊，在公共区域用较广视角把穹顶和宣礼塔同框。",
       "question": "礼拜时如何参观？",
-      "answer": "留在允许通行的公共区域，入内与拍摄以现场安排为准。"
+      "answer": "留在允许通行的公共区域，入内与拍摄以现场安排为准。",
+      "observe": "从斜侧看前拱廊，再对照穹顶与宣礼塔。从广场对面更容易看清它们的组合。",
+      "planning": "外观可放进中心广场环线。计划入内前，请先向清真寺人员询问。"
     }
   },
   "kavaje-ethnographic-museum": {
@@ -589,14 +681,18 @@
       "about": "The town’s ethnographic collection gives context to traditional domestic architecture through furnishings and objects. Timber details and the courtyard make the exterior part of the interpretation.",
       "visit": "Go on foot from central Kavajë using the museum’s own pin. Identify the entrance and ask about access before crossing the courtyard. Use the approach to frame the facade and roofline.",
       "question": "Is this the Toptani House in Krujë?",
-      "answer": "It is a separate collection in Kavajë; check the town name when navigating."
+      "answer": "It is a separate collection in Kavajë; check the town name when navigating.",
+      "observe": "The white walls, timber elements and roof overhang are easiest to understand from the courtyard approach. They provide a frame for the household objects inside.",
+      "planning": "Prioritize the museum earlier in the walk if it is open. Use the mosque and clock tower as nearby outdoor stops around it."
     },
     "zh": {
       "title": "卡瓦亚民族志博物馆",
       "about": "卡瓦亚的民族志馆通过家具和日常器物介绍本地生活。庭院与木制建筑细部也是理解传统住居的线索。",
       "visit": "从卡瓦亚中心步行并使用独立馆舍定位。先在入口核对开放，再从通道拍摄立面和屋顶。",
       "question": "这是克鲁亚的托普塔尼老宅吗？",
-      "answer": "这是卡瓦亚独立馆舍，请核对地图上的城镇名称。"
+      "answer": "这是卡瓦亚独立馆舍，请核对地图上的城镇名称。",
+      "observe": "从庭院进路观察白墙、木构件和出檐，比紧贴墙面更能看懂传统建筑。屋内日用器物可结合房屋一同理解。",
+      "planning": "馆舍开放时可先看室内，再步行去清真寺和钟楼。"
     }
   },
   "cete-church": {
@@ -614,14 +710,18 @@
       "about": "This medieval village church preserves stone architecture and painted interior surfaces. The apse helps distinguish the historic church even from outside. Med Kultura documents the monument.",
       "visit": "Travel to Çetë village and follow the final lane to the church. Photograph the apse and roof from an open approach; arrange permission before expecting to see or photograph the paintings.",
       "question": "Is the interior always open?",
-      "answer": "Confirm access in advance. An exterior visit is possible wherever public paths are open."
+      "answer": "Confirm access in advance. An exterior visit is possible wherever public paths are open.",
+      "observe": "Read the curve of the stone apse and its meeting with the straight nave walls. If the interior is available, compare the painted surfaces with the simpler exterior masonry.",
+      "planning": "Use Çetë village as the road anchor, then follow the church sign on foot. Check advance access before planning a fresco-focused visit."
     },
     "zh": {
       "title": "切特村圣帕拉斯凯维教堂",
       "about": "这座中世纪村落教堂保留石砌建筑和室内壁画。即使在外部，也可凭后殿辨认主要结构。Med Kultura 收录了这处遗产。",
       "visit": "乘车到切特村，沿末段村路到教堂。从开放处拍摄后殿与屋顶，入内看画或拍摄前先取得许可。",
       "question": "室内一直开放吗？",
-      "answer": "宜先确认当天进入安排，公共道路开放时仍可看外观。"
+      "answer": "宜先确认当天进入安排，公共道路开放时仍可看外观。",
+      "observe": "观察石砌后殿的弧线及其和直墙的交接。室内开放时，可将壁画和彩素墙面作对照。",
+      "planning": "先乘车到切特村，再按教堂指示步行。若主要想看壁画，出发前先确认能否入内。"
     }
   },
   "bashtova-castle": {
@@ -639,14 +739,18 @@
       "about": "The fifteenth-century fortified enclosure stands on flat ground near the Shkumbin. Its placement reflects coastal trade, unlike a hilltop castle. The EU4Culture programme reopened the site after earthquake repairs.",
       "visit": "Travel by road toward Vilë-Bashtovë and use the castle entrance pin. Walk the permitted perimeter and photograph a corner tower from outside to capture the rectilinear plan.",
       "question": "Can I walk any section of the ramparts?",
-      "answer": "Use only the sections opened by site staff and follow the visitor route."
+      "answer": "Use only the sections opened by site staff and follow the visitor route.",
+      "observe": "The near-flat ground makes the straight curtain walls and corner defenses easy to compare. Look across the enclosure to see the trade fort’s scale.",
+      "planning": "Check the open visitor path on arrival. Leave time for the separate access road from the village and use staff guidance for any wall sections."
     },
     "zh": {
       "title": "巴什托瓦城堡",
       "about": "十五世纪堡垒立于什昆宾河附近的平地，与山顶城堡不同，其选址与沿海贸易相关。EU4Culture 地震修复项目完成后重新开放。",
       "visit": "走公路至 Vilë-Bashtovë 一带，按城堡入口定位。沿开放区域步行，从外侧拍角塔与直线围墙。",
       "question": "能沿所有城墙步行吗？",
-      "answer": "按馆员和现场路线指示，只走已经开放的城墙段。"
+      "answer": "按馆员和现场路线指示，只走已经开放的城墙段。",
+      "observe": "近乎平整的地势使直墙和转角防御更易比较。透过围合空间观察这座贸易堡垒的尺度。",
+      "planning": "到达后先看游客路线，给村庄至入口的道路另留时间。墙顶开放范围以现场人员为准。"
     }
   },
   "petrela-castle": {
@@ -664,14 +768,18 @@
       "about": "The National Tourism Agency associates the current castle form with the fifteenth century. Its hilltop position above the Erzen valley made it useful for observing approaches south of Tirana.",
       "visit": "Ride or drive to Petrelë, then walk the uphill access from the village. Where permitted, frame the valley beyond the stonework to show why the hill mattered.",
       "question": "Is the uphill walk avoidable?",
-      "answer": "Check drop-off points locally and allow for the final climb and steps."
+      "answer": "Check drop-off points locally and allow for the final climb and steps.",
+      "observe": "Read the stonework against the steep hill and the line of the valley. The narrow approach and wider viewpoint explain why this was a useful defensive site.",
+      "planning": "Allow extra time for the uphill segment from the village. Combine it with a separate Tirana stop instead of assuming a direct walking link to another castle."
     },
     "zh": {
       "title": "佩特雷拉城堡",
       "about": "国家旅游局将现存城堡形态与十五世纪联系起来。城堡俯瞰埃尔岑河谷，便于观察地拉那以南的交通路线。",
       "visit": "乘车到佩特雷拉村后沿上坡入口步行。在允许停留处用石墙衬托河谷，呈现地形与设防的关系。",
       "question": "可以完全不走上坡吗？",
-      "answer": "请在当地核对下车点，仍应为末段上坡和台阶留出时间。"
+      "answer": "请在当地核对下车点，仍应为末段上坡和台阶留出时间。",
+      "observe": "把石墙与陡坡、河谷线条一同观察。狭窄进路与开阔观察面解释了这处防御选址的优势。",
+      "planning": "为从村庄上坡的一段留足时间。可与地拉那的其他停靠点串游，城堡间需要另行安排交通。"
     }
   },
   "dajti-national-park": {
@@ -689,14 +797,18 @@
       "about": "Dajti’s forested slopes rise east of Tirana. The National Tourism Agency describes hiking and the mountain cable car as different ways to experience the park. Check protected-area rules separately from the lift timetable.",
       "visit": "Choose a signed road or cable-car access and check the return before starting. Use open paths and frame Tirana from a permitted clearing rather than climbing over barriers.",
       "question": "Does the cable car ticket cover the entire park?",
-      "answer": "The lift is a transport service. Check park and trail access separately."
+      "answer": "The lift is a transport service. Check park and trail access separately.",
+      "observe": "The contrast between the forested slopes and the Tirana basin is clearest from an open viewpoint. Higher trails can differ substantially from the cable-car arrival area.",
+      "planning": "Choose an open, signed trail near your arrival point and check how you will return. If taking the cable car, verify its last descent separately."
     },
     "zh": {
       "title": "达伊蒂国家公园",
       "about": "达伊蒂的林地山坡位于地拉那以东。国家旅游局把徒步和山间缆车列为不同的游览方式。保护区规定与缆车班表需分别核对。",
       "visit": "选择有指示的公路或缆车入口，先确认回程。从开放林地或观景点拍摄地拉那，勿越过围栏。",
       "question": "缆车票包含整个公园的通行吗？",
-      "answer": "缆车票是交通服务，公园和具体步道的开放条件需另外核对。"
+      "answer": "缆车票是交通服务，公园和具体步道的开放条件需另外核对。",
+      "observe": "从开放观景处看林地坡面与地拉那盆地的对比。高处步道的条件与缆车上站周围不尽相同。",
+      "planning": "先选抵达点附近明确开放的步道，并核对回程。乘缆车时另查末班下山时间。"
     }
   }
 }

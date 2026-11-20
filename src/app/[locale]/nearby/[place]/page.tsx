@@ -5,9 +5,10 @@ import { setRequestLocale } from 'next-intl/server';
 import { Link } from '@/i18n/routing';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
-import { heritagePlaces, heritageText } from '@/i18n/heritage';
+import { heritageObservations, heritagePlaces, heritageText } from '@/i18n/heritage';
 import { museumCopy } from '@/i18n/museum-copy';
 import { guideLabels } from '@/i18n/guide-details';
+import { regionalLabels } from '@/i18n/regional';
 import { visitGuide } from '@/i18n/visit-guide';
 
 type Locale = keyof typeof heritageText;
@@ -47,6 +48,11 @@ export default async function HeritagePage({ params }: Props) {
   const { name, image, photo, credit, source } = heritagePlaces[place];
   const [basic, address, manager] = museumCopy[locale].labels;
   const [walking, photos, faq] = guideLabels[locale];
+  const observationIndex = { 'dollma-tekke': 0, 'clock-tower': 1, 'fatih-mosque-ruins': 2 } as const;
+  const observationHeading = {
+    en: regionalLabels.en.observe, zh: regionalLabels.zh.observe, sq: 'Arkitektura dhe detajet',
+    de: 'Architektur und Details', fr: 'Architecture et détails', it: 'Architettura e dettagli', nl: 'Architectuur en details',
+  }[locale];
   const map = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${name}, Krujë, Albania`)}`;
   return (
     <>
@@ -73,6 +79,10 @@ export default async function HeritagePage({ params }: Props) {
           <section className="space-y-3">
             <h2 className="font-display text-3xl font-semibold">{basic}</h2>
             <dl><dt className="font-semibold">{address}</dt><dd>{name} · Rruga Kala, Krujë</dd></dl>
+          </section>
+          <section className="space-y-3">
+            <h2 className="font-display text-3xl font-semibold">{observationHeading}</h2>
+            <p>{heritageObservations[locale][observationIndex[place]]}</p>
           </section>
           <section className="space-y-3">
             <h2 className="font-display text-3xl font-semibold">{walking} · {photos}</h2>

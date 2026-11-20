@@ -12,14 +12,16 @@ export function isRegionalLocale(locale: string): locale is RegionalLocale {
 export const regionalLabels = {
   en: {
     title: 'Day trips from Krujë', intro: 'Explore historic sites and natural landscapes in Krujë and on separate day trips across the region.',
-    manager: 'About the site and visitor information', region: 'Area', visit: 'Walking route and photo spots',
+    about: 'About', managedBy: 'Management', region: 'Area', visit: 'Walking route and photo spots',
+    observe: 'Architecture and what to look for', planning: 'Planning your visit',
     photo: 'Photo source', facts: 'Basic information', info: 'Heritage and visitor information',
     travel: 'Directions from Krujë', map: 'Find the site on Google Maps', sources: 'Sources',
     consult: 'For the current access arrangements, use the site contact or visitor guidance from',
   },
   zh: {
     title: '从克鲁亚出发的一日游', intro: '探索克鲁亚本地的古迹，以及适合单独安排一日游的周边历史景点和自然景观。',
-    manager: '景点介绍与管理咨询', region: '所在地区', visit: '步行路线与拍摄机位',
+    about: '关于', managedBy: '管理主体', region: '所在地区', visit: '步行路线与拍摄机位',
+    observe: '建筑、景观与观察重点', planning: '行程安排建议',
     photo: '照片来源', facts: '基础信息', info: '遗产与参观资料',
     travel: '从克鲁亚出发的路线', map: '在 Google Maps 中定位景点', sources: '资料来源',
     consult: '当前通行与开放安排可向现场管理人员或以下机构查询：',
@@ -40,4 +42,28 @@ export function visitorContact(area: string, slug: PlaceSlug) {
     case 'Rrogozhinë': return { name: 'EU4Culture', url: 'https://eu4culture.al/location/castle-of-bashtova/' };
     default: return { name: 'Bashkia Tiranë', url: 'https://tirana.al/' };
   }
+}
+
+const durresMuseumCentre = {
+  name: 'Qendra Muzeore Durrës',
+  url: 'https://qeverisjavendore.gov.al/wp-content/uploads/2024/08/Ligj-nr.-27-date-17.5.2018-Per-trashegimine-kulturore-dhe-muzete.pdf',
+};
+
+const verifiedManagers: Partial<Record<PlaceSlug, { name: string; url: string }>> = {
+  'durres-archaeological-museum': durresMuseumCentre,
+  'durres-amphitheatre': durresMuseumCentre,
+  'durres-venetian-tower': durresMuseumCentre,
+  'durres-forum': durresMuseumCentre,
+  'qafe-shtame': {
+    name: 'AdZM Durrës · AKZM',
+    url: 'https://akzm.gov.al/nis-puna-mbi-hartimin-e-planit-te-integruar-te-menaxhimit-per-parkun-natyror-qafeshtame/',
+  },
+  'dajti-national-park': {
+    name: 'AdZM Tiranë · AKZM',
+    url: 'https://akzm.gov.al/bashkepunim-dhe-angazhim-qytetar-per-pastrimin-dhe-mbrojtjen-e-maleve-te-shqiperise/',
+  },
+};
+
+export function verifiedManager(slug: PlaceSlug) {
+  return verifiedManagers[slug];
 }

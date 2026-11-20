@@ -7,7 +7,7 @@ import Footer from '@/components/Footer';
 import { Link } from '@/i18n/routing';
 import { guideLabels } from '@/i18n/guide-details';
 import { museumCopy } from '@/i18n/museum-copy';
-import { isRegionalLocale, regionalLabels, regionalLocales, regionalPlaces, visitorContact, type PlaceSlug } from '@/i18n/regional';
+import { isRegionalLocale, regionalLabels, regionalLocales, regionalPlaces, verifiedManager, visitorContact, type PlaceSlug } from '@/i18n/regional';
 
 type Props = { params: Promise<{ locale: string; place: string }> };
 
@@ -38,6 +38,7 @@ export default async function RegionalPlace({ params }: Props) {
   setRequestLocale(locale);
   const t = regionalLabels[locale];
   const addressLabel = museumCopy[locale].labels[1];
+  const manager = verifiedManager(slug);
   const contact = visitorContact(data.area, slug);
   const query = encodeURIComponent(`${data.address}, Albania`);
   const map = `https://www.google.com/maps/search/?api=1&query=${query}`;
@@ -58,9 +59,10 @@ export default async function RegionalPlace({ params }: Props) {
             <figcaption className="mt-2 text-sm"><a href={data.photo.source} className="underline">{t.photo} · {data.photo.credit}</a></figcaption>
           </figure>
           <section className="rounded-2xl border p-5 sm:p-7 space-y-3" style={{ borderColor: 'var(--border-color)', background: 'var(--bg-tertiary)' }}>
-            <h2 className="font-display text-3xl font-semibold">{t.manager}</h2>
+            <h2 className="font-display text-3xl font-semibold">{t.about} {copy.title}</h2>
+            {manager && <p><strong>{t.managedBy}</strong> · <a href={manager.url} className="underline">{manager.name}</a></p>}
             <p>{copy.about}</p>
-            <p>{t.consult} <a href={contact.url} className="underline">{contact.name}</a>.</p>
+            {!manager && <p>{t.consult} <a href={contact.url} className="underline">{contact.name}</a>.</p>}
           </section>
           <section className="space-y-3">
             <h2 className="font-display text-3xl font-semibold">{t.facts}</h2>
@@ -69,6 +71,14 @@ export default async function RegionalPlace({ params }: Props) {
               <div><dt className="font-semibold">{t.region}</dt><dd>{data.area}</dd></div>
             </dl>
             <a href={directions} className="underline">{t.travel}</a>
+          </section>
+          <section className="space-y-3">
+            <h2 className="font-display text-3xl font-semibold">{t.observe}</h2>
+            <p>{copy.observe}</p>
+          </section>
+          <section className="space-y-3">
+            <h2 className="font-display text-3xl font-semibold">{t.planning}</h2>
+            <p>{copy.planning}</p>
           </section>
           <section className="space-y-3">
             <h2 className="font-display text-3xl font-semibold">{t.visit}</h2>
