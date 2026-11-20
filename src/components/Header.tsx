@@ -1,11 +1,12 @@
 'use client';
 
 import { useTranslations, useLocale } from 'next-intl';
+import type { Locale } from '@/i18n/routing';
 import LanguageToggle from './LanguageToggle';
 import ThemeToggle from './ThemeToggle';
 import { useState, useEffect } from 'react';
 
-export default function Header({ interior = false }: { interior?: boolean }) {
+export default function Header({ interior = false, languages }: { interior?: boolean; languages?: readonly Locale[] }) {
   const t = useTranslations('header');
   const [scrolled, setScrolled] = useState(false);
 
@@ -48,7 +49,7 @@ export default function Header({ interior = false }: { interior?: boolean }) {
 
         <div className="flex items-center gap-2">
           <ThemeToggle />
-          <LanguageToggle />
+          <LanguageToggle languages={languages} />
         </div>
       </div>
     </header>

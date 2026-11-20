@@ -13,6 +13,8 @@ export const routing = defineRouting({
   pathnames: {
     ...heritagePaths,
     '/': '/',
+    '/day-trips': '/day-trips',
+    '/day-trips/[place]': '/day-trips/[place]',
     [visitPath]: visitPath,
     [oldBazaarPath]: oldBazaarPath,
     [halfDayPath]: halfDayPath,

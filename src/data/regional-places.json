@@ -1,0 +1,702 @@
+{
+  "castle-hammam": {
+    "address": "Hamami i Kalasë, Krujë",
+    "area": "Krujë",
+    "source": "https://visitdurres.al/wp-content/uploads/2023/09/per-web_monumentet_compressed.pdf#page=17",
+    "photo": {
+      "width": 562,
+      "height": 750,
+      "source": "https://www.tiranatimes.com/hammam-restoration-sparks-debates-over-originality/",
+      "credit": "www.tiranatimes.com"
+    },
+    "en": {
+      "title": "Krujë Castle Hammam",
+      "about": "The Ottoman-period bath on the western side of the fortress is described in the national tourism account as a fifteenth-century structure. It shows that the fortified hill supported daily life as well as defense.",
+      "visit": "Start inside the castle gate and follow public lanes towards the western side. Observe the compact stone shell and roof from the lane, keeping off the masonry. Frame the low roof with the fortress terrain behind it.",
+      "question": "Is this a working bath?",
+      "answer": "It is a historic monument. Plan an exterior stop and use posted access instructions."
+    },
+    "zh": {
+      "title": "克鲁亚城堡浴室遗址",
+      "about": "国家旅游资料将城堡西侧的奥斯曼浴室追溯至十五世纪。这座浴室说明城堡曾承担日常生活功能。",
+      "visit": "穿过城门后沿公共巷道向西。站在巷内观察石砌外墙和矮屋顶，拍摄时可把屋顶与山丘地形同框。",
+      "question": "现在还能泡澡吗？",
+      "answer": "这里是历史遗迹。以外观参观为主，开放范围看现场告示。"
+    }
+  },
+  "bazaar-mosque": {
+    "address": "Xhamia e Pazarit, Krujë",
+    "area": "Krujë",
+    "source": "https://visitdurres.al/wp-content/uploads/2023/09/per-web_monumentet_compressed.pdf#page=18",
+    "photo": {
+      "width": 960,
+      "height": 720,
+      "source": "https://duemarivirtualtours.com/-/murad-bey-mosque",
+      "credit": "Due Mari"
+    },
+    "en": {
+      "title": "Krujë Bazaar Mosque",
+      "about": "Also known as the Murad Bey Mosque, this place of worship belongs to the market quarter below the castle. Its minaret rises above the tiled shops and serves as a useful landmark on the approach.",
+      "visit": "Begin at the lower end of the Old Bazaar. Follow the stone lane to the mosque and look at the contrast between the slender minaret and the low market roofs. Photograph from the lane without blocking the entrance.",
+      "question": "Is it the Fatih Mosque ruin?",
+      "answer": "The Bazaar Mosque is by the market. The Fatih ruins are inside the fortress."
+    },
+    "zh": {
+      "title": "克鲁亚老巴扎清真寺",
+      "about": "老巴扎清真寺也称穆拉德贝伊清真寺，位于城堡下方的市场街区。宣礼塔高出两侧商铺的瓦顶，是辨认街区位置的地标。",
+      "visit": "从老巴扎较低的一端走入石板巷，循宣礼塔定位。在不堵住门口的位置取景，把细长塔身和低矮店铺屋顶同框。",
+      "question": "它和法提赫遗址是同一处吗？",
+      "answer": "老巴扎清真寺在市场旁，法提赫清真寺遗址在城堡内。"
+    }
+  },
+  "sari-salltik": {
+    "address": "Teqeja e Sari Salltikut, Krujë",
+    "area": "Krujë",
+    "source": "https://akt.gov.al/en/kulture/kulti-i-sarisalltikut-bektashizmi-ne-kruje/",
+    "photo": {
+      "width": 800,
+      "height": 530,
+      "source": "https://www.getyourguide.com/teqeja-e-sari-salltikut-l148938/",
+      "credit": "Book Tickets & Tours | GetYourGuide"
+    },
+    "en": {
+      "title": "Sari Salltik Cave Shrine",
+      "about": "This Bektashi pilgrimage place is built into the rock above Krujë. The threshold, stair and little shrine make the rock itself part of the visit. The national tourism agency documents the pilgrimage tradition.",
+      "visit": "Use the mountain road to the shrine approach and confirm the return ride. Descend only on open steps, keeping passage clear. Photograph the shrine against the cliff from an allowed landing.",
+      "question": "Can I photograph inside?",
+      "answer": "Ask the attendants, especially during prayer. Follow any posted restrictions."
+    },
+    "zh": {
+      "title": "萨里萨尔蒂克洞穴圣所",
+      "about": "这是克鲁亚山岩壁上的贝克塔什派朝圣地。洞口、台阶与小型圣所连成一体，岩壁本身也是空间的一部分。国家旅游局有朝圣传统资料。",
+      "visit": "从山路到达圣所入口附近，先核对回程。沿开放台阶下行，在许可的平台拍下圣所与岩壁的关系。",
+      "question": "可以拍摄室内吗？",
+      "answer": "先询问现场人员，尤其在有人礼拜时，并遵守告示。"
+    }
+  },
+  "zgerdhesh": {
+    "address": "Qyteti antik i Zgërdheshit, Krujë",
+    "area": "Krujë",
+    "source": "https://visitdurres.al/wp-content/uploads/2023/09/per-web_monumentet_compressed.pdf#page=27",
+    "photo": {
+      "width": 720,
+      "height": 479,
+      "source": "https://observerkult.com/harrohet-nga-institucionet-qyteti-antik-i-albanopolisit-afer-krujes-nuk-gjendet-ne-asnje-guide-turistike/",
+      "credit": "ObserverKult"
+    },
+    "en": {
+      "title": "Zgërdhesh Archaeological Site",
+      "about": "Low walls survive from an ancient fortified settlement near Krujë. It is often associated with Albanopolis; the association is an interpretation. Read the surviving masonry against the slope rather than expecting a reconstructed town.",
+      "visit": "Set the map to the archaeological site, not the castle. Check the final approach locally, then view wall lines from open ground. Photograph the ruins at an angle to show their length and the terrain.",
+      "question": "Is Albanopolis securely identified here?",
+      "answer": "The association appears in heritage literature. Use Zgërdhesh when searching for the site."
+    },
+    "zh": {
+      "title": "兹格尔德什考古遗址",
+      "about": "克鲁亚附近的古代设防聚落保留了低矮石墙。研究和介绍资料常将它与阿尔巴诺波利斯联系起来，但这一认定仍属历史解释。",
+      "visit": "导航至考古遗址，出发前核对最后一段道路。从可通行的地面观察墙线，斜向取景可拍出墙体延伸与坡度。",
+      "question": "这里就是古代阿尔巴诺波利斯吗？",
+      "answer": "遗产资料常作此联系。实际导航请用兹格尔德什遗址名称。"
+    }
+  },
+  "kurcaj-bridge": {
+    "address": "Ura e Kurçajt, Kurçaj, Krujë",
+    "area": "Krujë",
+    "source": "https://eu4culture.al/sq/location/kurcaj-bridge/",
+    "photo": {
+      "width": 960,
+      "height": 640,
+      "source": "https://www.tripadvisor.com/Attraction_Review-g469423-d25320199-Reviews-Kurcaj_Bridge-Kruje_Durres_County.html",
+      "credit": "www.tripadvisor.com"
+    },
+    "en": {
+      "title": "Kurçaj Bridge",
+      "about": "The bridge crossed the Zeza on an old caravan route between Krujë and Tirana. EU4Culture dates it tentatively to the eighteenth century and documents repairs after the 2019 earthquake.",
+      "visit": "Reach Kurçaj village by road and continue on foot. From an open bank-side path look across at the arch, then use only the marked approaches. Frame the arch side-on above the riverbed.",
+      "question": "Can I drive over the bridge?",
+      "answer": "The restoration project describes a pedestrian visit. Leave the car before the walking approach."
+    },
+    "zh": {
+      "title": "库尔恰伊石拱桥",
+      "about": "石桥跨过泽扎河，曾服务克鲁亚与地拉那之间的商队路线。EU4Culture 将其推定为十八世纪建筑，并记录了 2019 年地震后的修复。",
+      "visit": "乘车到库尔恰伊村后步行前往。从可通行的岸边小道侧拍桥拱及河床，再沿标示的进出路线往返。",
+      "question": "能开车过桥吗？",
+      "answer": "修复项目说明这里仅供步行参观，请在徒步路段前下车。"
+    }
+  },
+  "qafe-shtame": {
+    "address": "Parku Kombëtar i Qafë Shtamës, Krujë",
+    "area": "Krujë",
+    "source": "https://akt.gov.al/en/nature/Kafe-Shtame-National-Park/",
+    "photo": {
+      "width": 960,
+      "height": 576,
+      "source": "https://commons.wikimedia.org/wiki/File%3AQaf%C3%AB_Shtam%C3%AB_National_Park_2017_01.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "en": {
+      "title": "Qafë-Shtamë National Park",
+      "about": "This protected highland near Krujë combines conifer and broadleaf forest with open mountain slopes. The National Tourism Agency records black pine, beech and oak in the park. The protected-area office is the visitor contact for local rules.",
+      "visit": "Take the mountain road from Krujë and begin at a signed open trail. Start with a short out-and-back walk and photograph the forest edge and ridges from a public clearing.",
+      "question": "Does the castle walking route reach the park?",
+      "answer": "Allow separate road transport. The park is a highland excursion outside the fortress."
+    },
+    "zh": {
+      "title": "卡费什塔梅国家公园",
+      "about": "克鲁亚附近的高地保护区同时有针叶林、阔叶林与开阔山坡。国家旅游局记录了黑松、山毛榉和橡树。当地规定可向保护区管理机构核对。",
+      "visit": "从克鲁亚走山路至有指示的开放步道，先安排短程往返，从开阔地拍摄林缘和远山层次。",
+      "question": "能直接从城堡步行顺路到吗？",
+      "answer": "公园位于城堡外的高地，宜单独安排道路交通。"
+    }
+  },
+  "skanderbeg-monument-kruje": {
+    "address": "Monumenti i Skënderbeut, Krujë",
+    "area": "Krujë",
+    "source": "https://kruja.gov.al/wp-content/uploads/2017/02/infopoint.pdf",
+    "photo": {
+      "width": 960,
+      "height": 640,
+      "source": "https://commons.wikimedia.org/wiki/File%3AMonumenti_i_Sk%C3%ABnderbeut_n%C3%AB_Kruj%C3%AB.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "en": {
+      "title": "Skanderbeg Monument in Krujë",
+      "about": "Krujë’s municipal map identifies the equestrian monument separately from the museum. The mounted figure and pedestal commemorate Gjergj Kastrioti in the public space of the town itself.",
+      "visit": "Begin in central Krujë and use the monument pin before heading down the market lane. From the pedestrian edge of the square photograph the horse and rider in profile with the pedestal visible.",
+      "question": "Is this the statue in Tirana?",
+      "answer": "Krujë has its own monument. Use the map result with Krujë in its address."
+    },
+    "zh": {
+      "title": "克鲁亚斯坎德培骑马纪念像",
+      "about": "市政府旅游地图将这座骑马纪念像与博物馆分开标注。骑马人物和底座构成克鲁亚市区纪念乔治·卡斯特里奥蒂的公共地标。",
+      "visit": "从克鲁亚市中心按纪念像图钉定位，再继续走向老巴扎。在广场人行边缘从侧面拍下人物、马匹与底座。",
+      "question": "这是地拉那广场那一座吗？",
+      "answer": "这是克鲁亚市区的纪念像，地图结果应显示 Krujë。"
+    }
+  },
+  "preze-castle": {
+    "address": "Kalaja e Prezës, Prezë, Vorë",
+    "area": "Vorë",
+    "source": "https://akt.gov.al/en/castle-castle/",
+    "photo": {
+      "width": 960,
+      "height": 640,
+      "source": "https://www.spottinghistory.com/view/9321/preze-castle/",
+      "credit": "SpottingHistory"
+    },
+    "en": {
+      "title": "Prezë Castle",
+      "about": "A hilltop fort across the plain from Krujë, Prezë is associated with the Topia family. The national tourism account places construction from the fourteenth century into the early fifteenth. Its tower and curtain walls outline the enclosure.",
+      "visit": "Drive to Prezë village, then take the signed uphill access. Compare the tower with the courtyard wall and frame the plain from an open, permitted viewpoint.",
+      "question": "Is this part of Krujë Castle?",
+      "answer": "It is a separate fortress in Prezë. Plan road transport between the two."
+    },
+    "zh": {
+      "title": "普雷泽城堡",
+      "about": "普雷泽城堡与克鲁亚隔平原相望，与托皮亚家族有关。国家旅游资料将其建设时期定在十四世纪至十五世纪初，塔楼与围墙围出堡内空间。",
+      "visit": "乘车至普雷泽村后沿指示上坡。在开放区域比较塔楼、院墙和坡地，从允许停留的观景处拍平原。",
+      "question": "这是克鲁亚城堡的一部分吗？",
+      "answer": "两者是不同村镇的城堡，需要单独安排车程。"
+    }
+  },
+  "ishem-castle": {
+    "address": "Kalaja e Ishmit, Ishëm, Durrës",
+    "area": "Durrës County",
+    "source": "https://visitdurres.al/wp-content/uploads/2023/09/per-web_monumentet_compressed.pdf#page=57",
+    "photo": {
+      "width": 960,
+      "height": 636,
+      "source": "https://sq.wikipedia.org/wiki/Kalaja_e_Ishmit",
+      "credit": "Wikipedia"
+    },
+    "en": {
+      "title": "Ishëm Castle",
+      "about": "The inland fortress at Ishëm is an Ottoman-period defensive enclosure. Its surviving stone perimeter and gateway help visitors read the line of the former stronghold against the settlement.",
+      "visit": "Navigate to Ishëm village and follow the castle pin up from the settlement. Check openings at the gateway and photograph the wall run obliquely from outside.",
+      "question": "Does this pin take me to the coast?",
+      "answer": "The fortress is inland; Cape Rodon and its castle have a separate road approach."
+    },
+    "zh": {
+      "title": "伊舍姆城堡",
+      "about": "伊舍姆的奥斯曼时期防御遗址位于内陆。尚存的石墙和入口让访客能从村落一侧辨认原有堡垒轮廓。",
+      "visit": "进伊舍姆村后按城堡图钉上坡，在门口核对开放范围。可在外侧斜拍连续墙体。",
+      "question": "这个定位通往海岸吗？",
+      "answer": "这座城堡在内陆，罗登角及其城堡需走另一条进路。"
+    }
+  },
+  "rodon-castle": {
+    "address": "Kalaja e Skënderbeut në Kepin e Rodonit, Durrës",
+    "area": "Durrës County",
+    "source": "https://visitdurres.al/wp-content/uploads/2023/09/per-web_monumentet_compressed.pdf#page=62",
+    "photo": {
+      "width": 960,
+      "height": 636,
+      "source": "https://commons.wikimedia.org/wiki/File%3ARodoni_Castle_2016-07-15_03.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "en": {
+      "title": "Rodon Castle",
+      "about": "The coastal stronghold on Cape Rodon is associated with Skanderbeg’s fifteenth-century defense strategy. The remaining walls at the cape show how a projecting headland could control approaches from the sea.",
+      "visit": "Reach the Cape Rodon visitor area by road. From the signed walking approach proceed to the castle only if the path is open, then photograph across the headland from a stable public path.",
+      "question": "Is the castle next to the church?",
+      "answer": "Both are on the cape. Allow for a separate walk to the castle ruins."
+    },
+    "zh": {
+      "title": "罗登角斯坎德培城堡",
+      "about": "罗登角海堡与斯坎德培十五世纪的防御布局有关。现存石墙伸入岬角，能看出突出海面的地形如何服务海上防御。",
+      "visit": "先乘车至罗登角游览区。步道开放时再按指示步行至遗址，从平稳的公共步道取景拍下岬角和石墙。",
+      "question": "城堡紧挨着教堂吗？",
+      "answer": "两处都在罗登角，去海堡遗址还要单独步行一段。"
+    }
+  },
+  "saint-anthony-rodon": {
+    "address": "Kisha e Shën Ndout, Kepi i Rodonit, Durrës",
+    "area": "Durrës County",
+    "source": "https://albania.un.org/en/188507-unique-rodon-church-opens-doors-after-renovation-unops-under-eu4culture-project",
+    "photo": {
+      "width": 960,
+      "height": 641,
+      "source": "https://albania.un.org/en/188507-unique-rodon-church-opens-doors-after-renovation-unops-under-eu4culture-project",
+      "credit": "Unique Rodon church opens doors after renovation from UNOPS under EU4Culture project | United Nations in Albania"
+    },
+    "en": {
+      "title": "St Anthony’s Church at Cape Rodon",
+      "about": "This small coastal church is associated with the Franciscan presence on the cape. UNOPS documents restoration through EU4Culture. The masonry and apse can be read from the surrounding ground.",
+      "visit": "Follow the Cape Rodon access road and use the church pin at the visitor area. Walk around permitted exterior paths, then frame the apse or roof against the open coastal landscape.",
+      "question": "Is there guaranteed indoor access?",
+      "answer": "Check opening arrangements before traveling; the exterior is a worthwhile stop when indoor access is unavailable."
+    },
+    "zh": {
+      "title": "罗登角圣安东尼教堂",
+      "about": "岬角的小教堂与当地方济各会历史有关。联合国项目事务署记录了 EU4Culture 修缮。从室外就能观察石墙与后殿。",
+      "visit": "走罗登角进路，到达后使用教堂的独立定位。沿允许通行的外侧道路绕看，可用海岸开阔地衬托后殿和屋顶。",
+      "question": "一定能进室内吗？",
+      "answer": "出发前核对当天开放情况，室内未开放时可看外观。"
+    }
+  },
+  "bovilla-lake": {
+    "address": "Liqeni i Bovillës, Zall-Herr, Tiranë",
+    "area": "Tirana County",
+    "source": "https://tirana.al/pika-interesi/liqeni-i-bovilles",
+    "photo": {
+      "width": 960,
+      "height": 457,
+      "source": "https://tirana.al/pika-interesi/liqeni-i-bovilles",
+      "credit": " Liqeni i Bovillës"
+    },
+    "en": {
+      "title": "Lake Bovilla",
+      "about": "Bovilla is a reservoir framed by steep rocky slopes. Tirana’s municipal visitor page identifies it as a landmark, while access around a water-supply site is subject to local restrictions.",
+      "visit": "Arrange road transport to the signed reservoir approach and confirm the condition of the final road. For photos use an established overlook and frame the inlet between the ridges.",
+      "question": "Can I assume the water is open for bathing?",
+      "answer": "Plan the visit for scenery and follow posted protection and access rules."
+    },
+    "zh": {
+      "title": "博维拉水库",
+      "about": "博维拉是陡峭岩坡环抱的水库，地拉那市政府把它列为游览地点。作为供水水体，周边活动受现场管控。",
+      "visit": "安排道路交通至有指示的入口，先核对末段路况。从开放观景点拍摄山脊夹出的水湾。",
+      "question": "可以下水吗？",
+      "answer": "按观景行程安排，保护范围和允许的活动以现场规定为准。"
+    }
+  },
+  "durres-amphitheatre": {
+    "address": "Amfiteatri i Durrësit, Durrës",
+    "area": "Durrës",
+    "source": "https://visitdurres.al/wp-content/uploads/2023/09/per-web_monumentet_compressed.pdf#page=36",
+    "photo": {
+      "width": 960,
+      "height": 720,
+      "source": "https://commons.wikimedia.org/wiki/File%3AAmfiteatri_i_Durr%C3%ABsit_nga_droni_4.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "en": {
+      "title": "Durrës Amphitheatre",
+      "about": "The Roman arena was built in the second century. Its curved seating and passages sit below the level of the modern city; later reuse included a Christian chapel.",
+      "visit": "Walk from central Durrës to the signed entrance. Follow the marked route and use a permitted high point for a wide photograph of the arena and modern rooftops.",
+      "question": "Can I see the chapel on every visit?",
+      "answer": "Interior areas depend on the opening route. Ask at the site entrance."
+    },
+    "zh": {
+      "title": "都拉斯圆形剧场",
+      "about": "罗马剧场建于二世纪，弧形看台及通道低于现代街面。遗址后来还曾改设基督教礼拜空间。",
+      "visit": "从都拉斯市中心步行至标示入口，沿开放路线参观。从允许停留的较高位置拍摄竞技场和周边屋顶。",
+      "question": "每次都能看到礼拜堂吗？",
+      "answer": "室内区域取决于当天开放路线，请在入口查询。"
+    }
+  },
+  "durres-venetian-tower": {
+    "address": "Torra Veneciane, Durrës",
+    "area": "Durrës",
+    "source": "https://visitdurres.al/wp-content/uploads/2023/09/per-web_monumentet_compressed.pdf#page=42",
+    "photo": {
+      "width": 960,
+      "height": 638,
+      "source": "https://en.wikipedia.org/wiki/Albanian_nobility",
+      "credit": "Wikimedia Commons"
+    },
+    "en": {
+      "title": "Durrës Venetian Tower",
+      "about": "The round tower belongs to the city's coastal defense story. Its cylindrical mass and crenellations are easy to distinguish from the straight wall sections. EU4Culture documents its conservation.",
+      "visit": "From the waterfront walk to the tower on the landward side of the road. Look for the junction of tower and wall, then step back on the pedestrian side to frame the complete profile.",
+      "question": "Is the tower the amphitheatre entrance?",
+      "answer": "No. It is a waterfront fortification with its own entrance and access rules."
+    },
+    "zh": {
+      "title": "都拉斯威尼斯塔",
+      "about": "圆塔属于都拉斯的海岸防御系统。圆柱形塔身和垛口与城墙的直线段形成对比，EU4Culture 有相关保护工程记录。",
+      "visit": "从海滨沿人行道到达塔下。先观察塔与墙的交接，在不挡路的位置退后拍全塔。",
+      "question": "从这里能进入圆形剧场吗？",
+      "answer": "威尼斯塔是海滨防御建筑，有独立参观安排。"
+    }
+  },
+  "durres-fatih-mosque": {
+    "address": "Xhamia e Fatihut, Durrës",
+    "area": "Durrës",
+    "source": "https://akt.gov.al/en/itinerare/tur-2-ditor-tirane-kruje-durres/",
+    "photo": {
+      "width": 541,
+      "height": 750,
+      "source": "https://commons.wikimedia.org/wiki/File:Xhamia_e_Fatihut.jpg",
+      "credit": "commons.wikimedia.org"
+    },
+    "en": {
+      "title": "Fatih Mosque in Durrës",
+      "about": "The National Tourism Agency dates this mosque to 1502 and describes it as built on the remains of a medieval basilica. It is a separate site from the larger mosque on the main square.",
+      "visit": "Walk from the old town and check the local mosque name at the gate. Observe its modest scale, then photograph from outside without blocking worshippers.",
+      "question": "Is this the Great Mosque?",
+      "answer": "Use the Fatih Mosque pin. The Great Mosque is on the main square and is a different building."
+    },
+    "zh": {
+      "title": "都拉斯法提赫清真寺",
+      "about": "国家旅游局把这座清真寺的建设时间列为 1502 年，地点此前为中世纪巴西利卡。它与主广场的大清真寺是不同建筑。",
+      "visit": "从旧城区步行前往，在门口核对名称。从外部观察尺度，在不妨碍礼拜者的地方拍摄。",
+      "question": "这是大清真寺吗？",
+      "answer": "请选择法提赫清真寺定位，主广场的大清真寺另有入口。"
+    }
+  },
+  "durres-great-mosque": {
+    "address": "Xhamia e Madhe, Sheshi Liria, Durrës",
+    "area": "Durrës",
+    "source": "https://visitdurres.al/wp-content/uploads/2023/09/per-web_monumentet_compressed.pdf#page=46",
+    "photo": {
+      "width": 960,
+      "height": 640,
+      "source": "https://en.wikipedia.org/wiki/Religion_in_Albania",
+      "credit": "Wikimedia Commons"
+    },
+    "en": {
+      "title": "Great Mosque of Durrës",
+      "about": "The mosque dominates the city’s main square. Its dome, minaret and raised forecourt make a strong ensemble with the civic plaza. The national tourism route distinguishes it from the older Fatih Mosque.",
+      "visit": "Approach across Sheshi Liria. Take in the dome and steps from the public square before approaching the doorway. Ask before photographing inside.",
+      "question": "Can I visit during prayer?",
+      "answer": "Plan an exterior visit during services and follow the attendants’ instructions."
+    },
+    "zh": {
+      "title": "都拉斯大清真寺",
+      "about": "大清真寺位于都拉斯主要市政广场。穹顶、宣礼塔与抬高的前庭共同塑造广场轮廓。国家旅游路线将它与较早的法提赫清真寺分开介绍。",
+      "visit": "从自由广场步行接近，先在公共广场看穹顶和台阶，再前往入口。室内拍照请事先询问。",
+      "question": "礼拜时可以参观吗？",
+      "answer": "礼拜时以外观参观为主，并听从现场安排。"
+    }
+  },
+  "durres-roman-baths": {
+    "address": "Termat Romake, Aleksandër Moisiu Theatre, Durrës",
+    "area": "Durrës",
+    "source": "https://visitdurres.al/wp-content/uploads/2023/09/per-web_monumentet_compressed.pdf#page=50",
+    "photo": {
+      "width": 960,
+      "height": 720,
+      "source": "https://www.reporter.al/2024/12/09/restaurimi-i-teatrit-te-durresit-le-ne-hije-monumentin-ne-themelet-e-tij/",
+      "credit": "Restaurimi i teatrit të Durrësit lë në hije monumentin në themelet e tij – Reporter.al"
+    },
+    "en": {
+      "title": "Roman Baths of Durrës",
+      "about": "The bath remains next to the modern Aleksandër Moisiu Theatre give a street-level view of how ancient and modern Durrës overlap. Brick and stone wall lines mark rooms of the former complex.",
+      "visit": "Go to the theatre block and look for the marked archaeological area. Photograph the sunken layout from the public side of the railing; check municipal notices for closer access.",
+      "question": "Are these the baths in Krujë Castle?",
+      "answer": "No. These are Roman-period remains at the theatre in Durrës."
+    },
+    "zh": {
+      "title": "都拉斯罗马浴场遗址",
+      "about": "遗迹在现代亚历山大·莫伊休剧院附近，显示古城遗存和现代都拉斯的叠合。砖石墙线勾勒出浴场原有的房间。",
+      "visit": "到剧院街区找考古区标识。从栏杆公共一侧拍摄低于街面的布局，近距离参观以当地公告为准。",
+      "question": "这是克鲁亚城堡浴室吗？",
+      "answer": "不是。这是都拉斯剧院附近的罗马时期遗址。"
+    }
+  },
+  "durres-forum": {
+    "address": "Forumi Bizantin, Durrës",
+    "area": "Durrës",
+    "source": "https://visitdurres.al/wp-content/uploads/2023/09/per-web_monumentet_compressed.pdf#page=61",
+    "photo": {
+      "width": 960,
+      "height": 720,
+      "source": "https://www.fromtexastobeyond.com/durres-albania/",
+      "credit": "From Texas to Beyond"
+    },
+    "en": {
+      "title": "Byzantine Forum of Durrës",
+      "about": "The surviving circle of columns traces a public complex of ancient Dyrrachium, often described as a market. The ring reads most clearly from outside rather than between individual columns.",
+      "visit": "Walk to the marked forum site in central Durrës. Follow the public perimeter, stop where several columns overlap in the view and photograph the arc from street level.",
+      "question": "Is this the same as the amphitheatre?",
+      "answer": "The forum and amphitheatre occupy different blocks and have separate map pins."
+    },
+    "zh": {
+      "title": "都拉斯拜占庭广场遗址",
+      "about": "尚存的环形列柱勾勒出古代都拉斯的公共建筑，常被解释为市场。站在外围比只看单根柱子更容易看清整体弧线。",
+      "visit": "步行到市区标示的广场遗址，沿外缘走，选择能把多根柱子拍进同一画面的位置。",
+      "question": "它和圆形剧场在同一处吗？",
+      "answer": "两处在不同街区，使用各自地图定位。"
+    }
+  },
+  "durres-archaeological-museum": {
+    "address": "Muzeu Arkeologjik i Durrësit, Rruga Taulantia, Durrës",
+    "area": "Durrës",
+    "source": "https://visitdurres.al/wp-content/uploads/2023/09/per-web_monumentet_compressed.pdf#page=52",
+    "photo": {
+      "width": 960,
+      "height": 664,
+      "source": "https://generationvoyage.fr/musees-albanie/",
+      "credit": "9 musées pour tout comprendre du passé de l'Albanie"
+    },
+    "en": {
+      "title": "Durrës Archaeological Museum",
+      "about": "The archaeological museum interprets ancient Dyrrachium through objects rather than ruins in place. Its collecting history and seafront location make it a useful counterpart to the scattered excavations in the old city.",
+      "visit": "Walk along Rruga Taulantia and identify the museum entrance before planning your route. Photograph the exterior from a public path; ask staff about opening and gallery rules.",
+      "question": "Can I rely on published old opening hours?",
+      "answer": "Check the museum or municipal visitor channel for current operations before traveling."
+    },
+    "zh": {
+      "title": "都拉斯考古博物馆",
+      "about": "考古博物馆通过可移动文物介绍古代都拉斯，与老城区分散的原址遗迹互为补充。馆舍坐落在海滨街一带。",
+      "visit": "沿 Rruga Taulantia 步行，先确认馆舍入口和当天开放状态。从公共步道拍摄外观，室内规则请问馆方。",
+      "question": "可以依照旧攻略上的开放时间吗？",
+      "answer": "出发前，请从馆方或市政游客渠道核对当前开放状态。"
+    }
+  },
+  "moisiu-house": {
+    "address": "Shtëpia Muze Aleksandër Moisiu, Durrës",
+    "area": "Durrës",
+    "source": "https://akt.gov.al/en/itinerare/tur-2-ditor-tirane-kruje-durres/",
+    "photo": {
+      "width": 800,
+      "height": 534,
+      "source": "https://trek.zone/en/albania/places/197648/alexander-moissi-museum-house-durres",
+      "credit": "Alexander Moissi Museum House (Durrës) Essential Tips and Information"
+    },
+    "en": {
+      "title": "Aleksandër Moisiu House Museum",
+      "about": "The National Tourism Agency includes this house museum on the city's cultural route. Its actor-focused material and regional ethnography sit within a traditional residential building, where the courtyard and external stair are part of the visit.",
+      "visit": "Approach on foot from the old-town streets. Look at the exterior before entering, and photograph the stair from an open public area without obstructing the doorway.",
+      "question": "Is this the city theatre?",
+      "answer": "The house museum and the theatre are separate places despite sharing Moisiu’s name."
+    },
+    "zh": {
+      "title": "亚历山大·莫伊休故居博物馆",
+      "about": "国家旅游局把这座故居纳入城市文化路线，内容涉及演员生平和中部阿尔巴尼亚民族志。庭院和外楼梯也是认识民居的线索。",
+      "visit": "从老城街道步行到达，进门前先看外部，从开放范围拍楼梯并留出门口通道。",
+      "question": "这里是市剧院吗？",
+      "answer": "剧院和故居同以莫伊休命名，但实际地点不同。"
+    }
+  },
+  "arapaj-basilica": {
+    "address": "Bazilika e Shën Mëhillit, Arapaj, Durrës",
+    "area": "Durrës County",
+    "source": "https://visitdurres.al/wp-content/uploads/2023/09/per-web_monumentet_compressed.pdf#page=70",
+    "photo": {
+      "width": 960,
+      "height": 628,
+      "source": "https://sworld.co.uk/decouvrez-la-basilique-de-saint-michel-en-albanie-un-tresor-historique",
+      "credit": "Découvrez la Basilique de Saint Michel en Albanie : un trésor historique · Arapaj | Secret World Trip Planner"
+    },
+    "en": {
+      "title": "St Michael’s Basilica at Arapaj",
+      "about": "The early Christian site at Arapaj is known for its floor mosaic and the traces of a basilica. The low foundations read differently from a standing church. Mosaic conservation can affect what is visible.",
+      "visit": "Reach Arapaj by road and verify the last approach with local information. Observe the foundations only from open edges and photograph the building footprint rather than stepping onto it.",
+      "question": "Will the mosaic be exposed?",
+      "answer": "Check conservation and access arrangements locally before expecting to see it."
+    },
+    "zh": {
+      "title": "阿拉帕伊圣米迦勒巴西利卡遗址",
+      "about": "这处早期基督教遗址以地面马赛克和巴西利卡遗迹著称。低矮基础与完整教堂不同，马赛克是否可见取决于保护措施。",
+      "visit": "乘车到阿拉帕伊后核对末段进路。从开放边缘观察基础并拍摄建筑平面，勿踩踏遗存。",
+      "question": "现场一定能看到马赛克吗？",
+      "answer": "先在当地确认保护和展示安排，再决定是否专程前往。"
+    }
+  },
+  "kavaje-clock-tower": {
+    "address": "Kulla e Sahatit, Sheshi i Qytetit, Kavajë",
+    "area": "Kavajë",
+    "source": "https://visitdurres.al/wp-content/uploads/2023/09/per-web_monumentet_compressed.pdf#page=80",
+    "photo": {
+      "width": 960,
+      "height": 540,
+      "source": "https://en.wikivoyage.org/wiki/Kavaj%C3%AB",
+      "credit": "Kavajë – Travel guide at Wikivoyage"
+    },
+    "en": {
+      "title": "Kavajë Clock Tower",
+      "about": "The municipal-area heritage guide lists this tower as a central Kavajë landmark. Its narrow vertical form and clock face help orient visitors around the square and neighboring mosque.",
+      "visit": "Walk into the town square and use the pedestrian side to view the full elevation. Photograph it next to the lower civic buildings to show its scale.",
+      "question": "Can I climb it?",
+      "answer": "Plan to see it from the square unless access is explicitly open on site."
+    },
+    "zh": {
+      "title": "卡瓦亚钟楼",
+      "about": "区域遗产指南把钟楼列为卡瓦亚市中心地标。狭长塔身和钟面帮助访客辨认广场及相邻清真寺的位置。",
+      "visit": "步行到市中心广场，在人行侧看完整立面。可将钟楼和较低的周围建筑同框。",
+      "question": "可以登楼吗？",
+      "answer": "通常按广场外观参观安排，只有现场明确开放才进入。"
+    }
+  },
+  "kavaje-kubelie-mosque": {
+    "address": "Xhamia Kubelie, Sheshi i Qytetit, Kavajë",
+    "area": "Kavajë",
+    "source": "https://visitdurres.al/wp-content/uploads/2023/09/per-web_monumentet_compressed.pdf#page=83",
+    "photo": {
+      "width": 960,
+      "height": 636,
+      "source": "https://commons.wikimedia.org/wiki/File%3AKavaj%C3%AB%2C_Albania_%E2%80%93_Mosque_2017_01.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "en": {
+      "title": "Kubelie Mosque of Kavajë",
+      "about": "The mosque is a landmark of central Kavajë’s public square. The dome, minaret and front arcade give different views as you cross the plaza. Use the named mosque location rather than the overlapping clock-tower pin.",
+      "visit": "From the center, cross the square toward the mosque. Compare the arcade from an oblique angle and include the dome and minaret in a wide photograph taken from public space.",
+      "question": "What should I do during services?",
+      "answer": "Stay in public areas and follow the mosque’s local guidance on entering and photography."
+    },
+    "zh": {
+      "title": "卡瓦亚库贝列清真寺",
+      "about": "清真寺是卡瓦亚中心广场的地标。从广场不同位置可观察穹顶、宣礼塔和前立面的拱廊。请选清真寺专属定位。",
+      "visit": "从市中心穿过广场前往，从斜侧看拱廊，在公共区域用较广视角把穹顶和宣礼塔同框。",
+      "question": "礼拜时如何参观？",
+      "answer": "留在允许通行的公共区域，入内与拍摄以现场安排为准。"
+    }
+  },
+  "kavaje-ethnographic-museum": {
+    "address": "Muzeu Etnografik, Kavajë",
+    "area": "Kavajë",
+    "source": "https://visitdurres.al/wp-content/uploads/2023/09/per-web_monumentet_compressed.pdf#page=78",
+    "photo": {
+      "width": 960,
+      "height": 653,
+      "source": "https://en.wikipedia.org/wiki/Kavaj%C3%AB",
+      "credit": "Wikimedia Commons"
+    },
+    "en": {
+      "title": "Ethnographic Museum of Kavajë",
+      "about": "The town’s ethnographic collection gives context to traditional domestic architecture through furnishings and objects. Timber details and the courtyard make the exterior part of the interpretation.",
+      "visit": "Go on foot from central Kavajë using the museum’s own pin. Identify the entrance and ask about access before crossing the courtyard. Use the approach to frame the facade and roofline.",
+      "question": "Is this the Toptani House in Krujë?",
+      "answer": "It is a separate collection in Kavajë; check the town name when navigating."
+    },
+    "zh": {
+      "title": "卡瓦亚民族志博物馆",
+      "about": "卡瓦亚的民族志馆通过家具和日常器物介绍本地生活。庭院与木制建筑细部也是理解传统住居的线索。",
+      "visit": "从卡瓦亚中心步行并使用独立馆舍定位。先在入口核对开放，再从通道拍摄立面和屋顶。",
+      "question": "这是克鲁亚的托普塔尼老宅吗？",
+      "answer": "这是卡瓦亚独立馆舍，请核对地图上的城镇名称。"
+    }
+  },
+  "cete-church": {
+    "address": "Kisha e Shën Premtes, Çetë, Kavajë",
+    "area": "Kavajë",
+    "source": "https://med-kultura.al/cultural-site/kisha-e-shen-premtes/",
+    "photo": {
+      "width": 960,
+      "height": 720,
+      "source": "https://routes4culture.com/destinations/st-paraskevis-church/",
+      "credit": "routes4culture.com"
+    },
+    "en": {
+      "title": "St Paraskevi’s Church in Çetë",
+      "about": "This medieval village church preserves stone architecture and painted interior surfaces. The apse helps distinguish the historic church even from outside. Med Kultura documents the monument.",
+      "visit": "Travel to Çetë village and follow the final lane to the church. Photograph the apse and roof from an open approach; arrange permission before expecting to see or photograph the paintings.",
+      "question": "Is the interior always open?",
+      "answer": "Confirm access in advance. An exterior visit is possible wherever public paths are open."
+    },
+    "zh": {
+      "title": "切特村圣帕拉斯凯维教堂",
+      "about": "这座中世纪村落教堂保留石砌建筑和室内壁画。即使在外部，也可凭后殿辨认主要结构。Med Kultura 收录了这处遗产。",
+      "visit": "乘车到切特村，沿末段村路到教堂。从开放处拍摄后殿与屋顶，入内看画或拍摄前先取得许可。",
+      "question": "室内一直开放吗？",
+      "answer": "宜先确认当天进入安排，公共道路开放时仍可看外观。"
+    }
+  },
+  "bashtova-castle": {
+    "address": "Kalaja e Bashtovës, Vilë-Bashtovë",
+    "area": "Rrogozhinë",
+    "source": "https://eu4culture.al/the-castle-of-bashtova-reopens-as-a-vibrant-cultural-landmark-with-modern-visitor-facilities-and-innovative-elements/",
+    "photo": {
+      "width": 960,
+      "height": 636,
+      "source": "https://commons.wikimedia.org/wiki/File%3ABashtova_Castle%2C_Albania_%E2%80%93_2017-08_07.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "en": {
+      "title": "Bashtova Castle",
+      "about": "The fifteenth-century fortified enclosure stands on flat ground near the Shkumbin. Its placement reflects coastal trade, unlike a hilltop castle. The EU4Culture programme reopened the site after earthquake repairs.",
+      "visit": "Travel by road toward Vilë-Bashtovë and use the castle entrance pin. Walk the permitted perimeter and photograph a corner tower from outside to capture the rectilinear plan.",
+      "question": "Can I walk any section of the ramparts?",
+      "answer": "Use only the sections opened by site staff and follow the visitor route."
+    },
+    "zh": {
+      "title": "巴什托瓦城堡",
+      "about": "十五世纪堡垒立于什昆宾河附近的平地，与山顶城堡不同，其选址与沿海贸易相关。EU4Culture 地震修复项目完成后重新开放。",
+      "visit": "走公路至 Vilë-Bashtovë 一带，按城堡入口定位。沿开放区域步行，从外侧拍角塔与直线围墙。",
+      "question": "能沿所有城墙步行吗？",
+      "answer": "按馆员和现场路线指示，只走已经开放的城墙段。"
+    }
+  },
+  "petrela-castle": {
+    "address": "Kalaja e Petrelës, Petrelë, Tiranë",
+    "area": "Tirana County",
+    "source": "https://akt.gov.al/en/petrela-castle/",
+    "photo": {
+      "width": 800,
+      "height": 450,
+      "source": "https://invest-in-albania.org/explore-tirana-culture-heritage-tourism/",
+      "credit": "Explore Tirana Culture & Heritage Tourism • IIA"
+    },
+    "en": {
+      "title": "Petrelë Castle",
+      "about": "The National Tourism Agency associates the current castle form with the fifteenth century. Its hilltop position above the Erzen valley made it useful for observing approaches south of Tirana.",
+      "visit": "Ride or drive to Petrelë, then walk the uphill access from the village. Where permitted, frame the valley beyond the stonework to show why the hill mattered.",
+      "question": "Is the uphill walk avoidable?",
+      "answer": "Check drop-off points locally and allow for the final climb and steps."
+    },
+    "zh": {
+      "title": "佩特雷拉城堡",
+      "about": "国家旅游局将现存城堡形态与十五世纪联系起来。城堡俯瞰埃尔岑河谷，便于观察地拉那以南的交通路线。",
+      "visit": "乘车到佩特雷拉村后沿上坡入口步行。在允许停留处用石墙衬托河谷，呈现地形与设防的关系。",
+      "question": "可以完全不走上坡吗？",
+      "answer": "请在当地核对下车点，仍应为末段上坡和台阶留出时间。"
+    }
+  },
+  "dajti-national-park": {
+    "address": "Parku Kombëtar i Malit të Dajtit, Tiranë",
+    "area": "Tirana County",
+    "source": "https://akt.gov.al/en/attractions/Dajti-Mountain-National-Park/",
+    "photo": {
+      "width": 960,
+      "height": 720,
+      "source": "https://commons.wikimedia.org/wiki/File:Dajti_express_cable_car_2.jpg",
+      "credit": "commons.wikimedia.org"
+    },
+    "en": {
+      "title": "Dajti National Park",
+      "about": "Dajti’s forested slopes rise east of Tirana. The National Tourism Agency describes hiking and the mountain cable car as different ways to experience the park. Check protected-area rules separately from the lift timetable.",
+      "visit": "Choose a signed road or cable-car access and check the return before starting. Use open paths and frame Tirana from a permitted clearing rather than climbing over barriers.",
+      "question": "Does the cable car ticket cover the entire park?",
+      "answer": "The lift is a transport service. Check park and trail access separately."
+    },
+    "zh": {
+      "title": "达伊蒂国家公园",
+      "about": "达伊蒂的林地山坡位于地拉那以东。国家旅游局把徒步和山间缆车列为不同的游览方式。保护区规定与缆车班表需分别核对。",
+      "visit": "选择有指示的公路或缆车入口，先确认回程。从开放林地或观景点拍摄地拉那，勿越过围栏。",
+      "question": "缆车票包含整个公园的通行吗？",
+      "answer": "缆车票是交通服务，公园和具体步道的开放条件需另外核对。"
+    }
+  }
+}

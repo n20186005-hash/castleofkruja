@@ -1,5 +1,6 @@
 'use client';
 
+import { useParams } from 'next/navigation';
 import { useLocale } from 'next-intl';
 import { usePathname, routing, type Locale, useRouter } from '@/i18n/routing';
 import { useState, useRef, useEffect } from 'react';
@@ -14,9 +15,10 @@ const labels: Record<string, string> = {
   nl: 'Nederlands',
 };
 
-export default function LanguageToggle() {
+export default function LanguageToggle({ languages = routing.locales }: { languages?: readonly Locale[] }) {
   const locale = useLocale();
   const pathname = usePathname();
+  const params = useParams<{ place?: string }>();
   const router = useRouter();
   const [open, setOpen] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
@@ -58,12 +60,16 @@ export default function LanguageToggle() {
           className="absolute right-0 mt-2 w-40 rounded-lg shadow-lg overflow-hidden z-50"
           style={{ background: 'var(--card-bg)', border: '1px solid var(--border-color)' }}
         >
-          {routing.locales.map((loc) => (
+          {languages.map((loc) => (
             <button
               key={loc}
               onClick={() => {
                 setOpen(false);
-                router.replace(pathname, { locale: loc as Locale });
+                if (pathname === '/day-trips/[place]' && params.place) {
+                  router.replace({ pathname, params: { place: params.place } }, { locale: loc });
+                } else if (pathname !== '/day-trips/[place]') {
+                  router.replace(pathname, { locale: loc });
+                }
               }}
               className="block w-full text-left px-4 py-2.5 text-sm transition-colors"
               style={{

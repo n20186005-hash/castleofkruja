@@ -1,3 +1,4 @@
+import { isRegionalLocale } from '@/i18n/regional';
 import { heritagePaths, heritageText } from '@/i18n/heritage';
 import { guideLabels } from '@/i18n/guide-details';
 import { visitGuide, visitPath } from '@/i18n/visit-guide';
@@ -6,6 +7,16 @@ import { Link, type Locale } from '@/i18n/routing';
 import { oldBazaarPath, halfDayPath, skanderbegPath, ethnographicPath } from '@/i18n/guide-paths';
 import { krujeGuides } from '@/i18n/kruje-guides';
 import { useLocale, useTranslations } from 'next-intl';
+
+const dayTripLabels: Record<Locale, string> = {
+  en: 'Day trips from Krujë',
+  zh: '从克鲁亚出发的一日游',
+  sq: 'Udhëtime ditore nga Kruja (anglisht)',
+  de: 'Tagesausflüge ab Krujë (Englisch)',
+  fr: 'Excursions depuis Krujë (anglais)',
+  it: 'Gite di un giorno da Krujë (inglese)',
+  nl: 'Dagtochten vanuit Krujë (Engels)',
+};
 
 export default function SurroundingsSection() {
   const locale = useLocale() as Locale;
@@ -59,6 +70,11 @@ export default function SurroundingsSection() {
             const place = path.split('/').at(-1) as keyof typeof heritage;
             return <li key={path}><Link href={href}>{heritage[place][0]}</Link></li>;
           })}
+            <li>
+              <Link href="/day-trips" locale={isRegionalLocale(locale) ? locale : 'en'}>
+                {dayTripLabels[locale]}
+              </Link>
+            </li>
           </ul>
         </nav>
       </div>

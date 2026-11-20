@@ -1,3 +1,4 @@
+import { regionalLocales, regionalPlaces } from '@/i18n/regional';
 import { heritagePaths, heritageText } from '@/i18n/heritage';
 import { oldBazaarPath, halfDayPath, skanderbegPath, ethnographicPath } from '@/i18n/guide-paths';
 import { MetadataRoute } from 'next';
@@ -33,6 +34,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   for (const locale of Object.keys(heritageText)) {
     for (const path of Object.keys(heritagePaths)) entries.push({ url: `${baseUrl}/${locale}${path}` });
+  }
+  for (const locale of regionalLocales) {
+    entries.push({ url: `${baseUrl}/${locale}/day-trips` });
+    for (const slug of Object.keys(regionalPlaces)) {
+      entries.push({ url: `${baseUrl}/${locale}/day-trips/${slug}` });
+    }
   }
   return entries;
 }
