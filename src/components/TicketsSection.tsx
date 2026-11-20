@@ -1,10 +1,14 @@
 'use client';
 
-import { useTranslations, useMessages } from 'next-intl';
+import { useTranslations, useMessages, useLocale } from 'next-intl';
+
+import { Link, type Locale } from '@/i18n/routing';
+import { visitGuide, visitPath } from '@/i18n/visit-guide';
 
 type TicketItem = { name: string; price: string; desc: string };
 
 export default function TicketsSection() {
+  const locale = useLocale() as Locale;
   const t = useTranslations('tickets');
   const messages = useMessages() as any;
   const items = (messages?.tickets ?? {}) as Record<string, TicketItem>;
@@ -31,6 +35,10 @@ export default function TicketsSection() {
         >
           {t('intro')}
         </p>
+
+        <Link href={visitPath} className="mb-6 inline-block font-semibold underline" style={{ color: 'var(--accent)' }}>
+          {visitGuide[locale][0]}
+        </Link>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
           {cards.map((item) => (

@@ -1,3 +1,4 @@
+import { visitPath } from './visit-guide';
 import { defineRouting } from 'next-intl/routing';
 import { createNavigation } from 'next-intl/navigation';
 
@@ -9,6 +10,7 @@ export const routing = defineRouting({
   },
   pathnames: {
     '/': '/',
+    [visitPath]: visitPath,
     '/privacy-policy': '/privacy-policy',
     '/terms-of-service': '/terms-of-service',
     '/cookie-settings': '/cookie-settings',

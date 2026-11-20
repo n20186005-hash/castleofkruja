@@ -1,4 +1,5 @@
 import { MetadataRoute } from 'next';
+import { visitPath } from '@/i18n/visit-guide';
 import { routing } from '@/i18n/routing';
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -10,11 +11,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '',
     '/privacy-policy',
     '/terms-of-service',
-    '/cookie-settings'
+    '/cookie-settings',
+    visitPath
   ];
 
-  const locales = ['en', 'zh', 'sq', 'de', 'fr', 'it', 'nl'];
-  for (const locale of locales) {
+  for (const locale of routing.locales) {
     for (const page of pages) {
       entries.push({
         url: `${baseUrl}/${locale}${page}`,
